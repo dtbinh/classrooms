@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5502,
+    "timestamp":1420353866,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3964,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3467,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Pirie,Nathan Adam Martin"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3359,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Petrescu,Maria"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3360,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 003",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Penate,Rocky"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3981,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 113",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3448,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Kaminskaia,Svetlana"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3386,
+      "subject":"PORT",
+      "catalog_number":"102",
+      "title":"Introduction to Portuguese 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Mota,Fatima"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:19-05:00"
+    },
+    {
+      "class_number":4229,
+      "subject":"PSCI",
+      "catalog_number":"282",
+      "title":"Foreign Policy",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    },
+    {
+      "class_number":3396,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Lam,Ibis"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3459,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Rozotto,David"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3409,
+      "subject":"SPAN",
+      "catalog_number":"201B",
+      "title":"Intermediate Spanish 2",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3411,
+      "subject":"SPAN",
+      "catalog_number":"301B",
+      "title":"Composition and Conversation 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Nunez,Camelia Gianina"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:10-05:00"
+    },
+    {
+      "class_number":3817,
+      "subject":"SPAN",
+      "catalog_number":"301B",
+      "title":"Composition and Conversation 2",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:10-05:00"
+    },
+    {
+      "class_number":3818,
+      "subject":"SPAN",
+      "catalog_number":"301B",
+      "title":"Composition and Conversation 2",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:10-05:00"
+    },
+    {
+      "class_number":3760,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Zimmerman,Amber L."
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":7655,
+      "subject":"SPCOM",
+      "catalog_number":"491",
+      "title":"Selected Seminars in Speech Communication",
+      "section":"SEM 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Voorhees,Gerald"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:14-05:00"
+    }
+  ]
+}

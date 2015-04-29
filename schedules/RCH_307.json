@@ -1,0 +1,1354 @@
+{
+  "meta":{
+    "requests":5577,
+    "timestamp":1420353896,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5154,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":63,
+      "instructors":[
+        "Basir,Otman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5155,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5163,
+      "subject":"ECE",
+      "catalog_number":"300B",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:24-05:00"
+    },
+    {
+      "class_number":5164,
+      "subject":"ECE",
+      "catalog_number":"300B",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 002",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:24-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":60,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4833,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":63,
+      "instructors":[
+        "Mitran,Patrick"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4604,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4834,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5169,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":66,
+      "instructors":[
+        "Golab,Wojciech"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5170,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5177,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":71,
+      "instructors":[
+        "Shen,Sherman"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5178,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5179,
+      "subject":"ECE",
+      "catalog_number":"358",
+      "title":"Computer Networks",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":64,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5186,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5193,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":66,
+      "instructors":[
+        "Salama,Magdy"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"TWTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":69,
+      "instructors":[
+        "Canizares,Claudio"
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5195,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5196,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"307",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    }
+  ]
+}

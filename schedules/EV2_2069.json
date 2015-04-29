@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5432,
+    "timestamp":1420353842,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5486,
+      "subject":"INTEG",
+      "catalog_number":"121",
+      "title":"Introduction to the Academy: Design and Problem-Solving",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Schweizer,Vanessa"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:43-05:00"
+    },
+    {
+      "class_number":5491,
+      "subject":"INTEG",
+      "catalog_number":"221",
+      "title":"The Social Nature of Knowledge",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:43-05:00"
+    },
+    {
+      "class_number":5492,
+      "subject":"INTEG",
+      "catalog_number":"230",
+      "title":"The Museum Course: Preparation and Field Trip",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Gorbet,Robert B"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:44-05:00"
+    },
+    {
+      "class_number":8034,
+      "subject":"INTEG",
+      "catalog_number":"251",
+      "title":"Creative Thinking",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "McLevey,John"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:44-05:00"
+    },
+    {
+      "class_number":5510,
+      "subject":"INTEG",
+      "catalog_number":"321",
+      "title":"The Museum Course: Practicum and Presentation",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Gorbet,Robert B"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:44-05:00"
+    },
+    {
+      "class_number":5511,
+      "subject":"INTEG",
+      "catalog_number":"375",
+      "title":"Special Topics in Knowledge Integration",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "McLevey,John"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:44-05:00"
+    },
+    {
+      "class_number":5668,
+      "subject":"INTEG",
+      "catalog_number":"420",
+      "title":"Senior Research Project A",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:45-05:00"
+    },
+    {
+      "class_number":5535,
+      "subject":"INTEG",
+      "catalog_number":"421",
+      "title":"Senior Research Project B",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:45-05:00"
+    },
+    {
+      "class_number":8035,
+      "subject":"INTEG",
+      "catalog_number":"452B",
+      "title":"Real world Problem Solving B",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Schweizer,Vanessa"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:45-05:00"
+    },
+    {
+      "class_number":4153,
+      "subject":"SOC",
+      "catalog_number":"312",
+      "title":"Sociology of Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "McLevey,John"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:02-05:00"
+    }
+  ]
+}

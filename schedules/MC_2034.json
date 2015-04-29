@@ -1,0 +1,454 @@
+{
+  "meta":{
+    "requests":5471,
+    "timestamp":1420353855,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5732,
+      "subject":"AMATH",
+      "catalog_number":"231",
+      "title":"Calculus 4",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Vrscay,Edward R"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:22-05:00"
+    },
+    {
+      "class_number":6076,
+      "subject":"AMATH",
+      "catalog_number":"250",
+      "title":"Introduction to Differential Equations",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:23-05:00"
+    },
+    {
+      "class_number":6123,
+      "subject":"COMM",
+      "catalog_number":"432",
+      "title":"Electronic Business",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Liu,Zhiyong Michael"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:47-05:00"
+    },
+    {
+      "class_number":6010,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6045,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 112",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7717,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 114",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6031,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6190,
+      "subject":"CS",
+      "catalog_number":"146",
+      "title":"Elementary Algorithm Design and Data Abstraction (Advanced Level)",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5900,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Terry,Michael"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:58-05:00"
+    },
+    {
+      "class_number":6158,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Law,Edith Lok Man"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:58-05:00"
+    },
+    {
+      "class_number":6258,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Law,Edith Lok Man"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:58-05:00"
+    },
+    {
+      "class_number":7734,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Terry,Michael"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:58-05:00"
+    },
+    {
+      "class_number":6201,
+      "subject":"CS",
+      "catalog_number":"446",
+      "title":"Software Design and Architectures",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Holmes,Reid Thomas"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:00-05:00"
+    },
+    {
+      "class_number":5295,
+      "subject":"ECE",
+      "catalog_number":"405",
+      "title":"Introduction to Quantum Mechanics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Hill,Robert W."
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5162,
+      "subject":"ECE",
+      "catalog_number":"452",
+      "title":"Software Design and Architectures",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
+    },
+    {
+      "class_number":5835,
+      "subject":"MATH",
+      "catalog_number":"146",
+      "title":"Linear Algebra 1 (Advanced level)",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":4543,
+      "subject":"ME",
+      "catalog_number":"340",
+      "title":"Manufacturing Processes",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":7088,
+      "subject":"PHYS",
+      "catalog_number":"233",
+      "title":"Introduction to Quantum Mechanics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Hill,Robert W."
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:06-05:00"
+    },
+    {
+      "class_number":6041,
+      "subject":"STAT",
+      "catalog_number":"444",
+      "title":"Statistical Learning - Function Estimation",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Chenouri,Shojaeddin"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:17-05:00"
+    },
+    {
+      "class_number":6098,
+      "subject":"CM",
+      "catalog_number":"764",
+      "title":"Statistical Learning - Function Estimation",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Chenouri,Shojaeddin"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:57-05:00"
+    },
+    {
+      "class_number":6202,
+      "subject":"CS",
+      "catalog_number":"646",
+      "title":"Software Design and  Architectures",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Holmes,Reid Thomas"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:03-05:00"
+    },
+    {
+      "class_number":5948,
+      "subject":"STAT",
+      "catalog_number":"844",
+      "title":"Statistical Learning - Function Estimation",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Chenouri,Shojaeddin"
+      ],
+      "building":"MC",
+      "room":"2034",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:17-05:00"
+    }
+  ]
+}

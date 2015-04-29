@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5421,
+    "timestamp":1420353839,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5541,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5542,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5543,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5544,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5545,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "meta":{
+    "requests":5609,
+    "timestamp":1420353939,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3619,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":490,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:16-05:00"
+    },
+    {
+      "class_number":4257,
+      "subject":"ARBUS",
+      "catalog_number":"202",
+      "title":"Professional and Business Ethics",
+      "section":"LEC 004",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        "Van Bruwaene,David Andrew"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":6668,
+      "subject":"BIOL",
+      "catalog_number":"359",
+      "title":"Evolution",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":305,
+      "instructors":[
+        "Witt,Jonathan"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:44-05:00"
+    },
+    {
+      "class_number":6847,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":165,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:25-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"CHEM",
+      "catalog_number":"237",
+      "title":"Introductory Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":309,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
+    },
+    {
+      "class_number":8098,
+      "subject":"CLAS",
+      "catalog_number":"201",
+      "title":"Ancient Greek Society",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":357,
+      "instructors":[
+        "Faber,Riemer"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:41-05:00"
+    },
+    {
+      "class_number":6466,
+      "subject":"EARTH",
+      "catalog_number":"122",
+      "title":"Introductory Environmental Sciences",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":224,
+      "instructors":[
+        "Illman,Walter"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:09-05:00"
+    },
+    {
+      "class_number":5392,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":243,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5400,
+      "subject":"ERS",
+      "catalog_number":"215",
+      "title":"Environmental and Sustainability Assessment I",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":312,
+      "instructors":[
+        "Kirchhoff,Denis"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:59-05:00"
+    },
+    {
+      "class_number":3497,
+      "subject":"HRM",
+      "catalog_number":"200",
+      "title":"Basic Human Resources Management",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":323,
+      "instructors":[
+        "Bulloch,Dean Allan",
+        "Peckham,William Charles"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:40-05:00"
+    },
+    {
+      "class_number":5827,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        "Alaghmandan,Mahmood"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":6299,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Alaghmandan,Mahmood"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":4256,
+      "subject":"PHIL",
+      "catalog_number":"215",
+      "title":"Professional and Business Ethics",
+      "section":"LEC 005",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Van Bruwaene,David Andrew"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:58-05:00"
+    },
+    {
+      "class_number":3354,
+      "subject":"PSYCH",
+      "catalog_number":"207",
+      "title":"Cognitive Processes",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":231,
+      "instructors":[
+        "Fugelsang,Jonathan"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:27-05:00"
+    },
+    {
+      "class_number":3355,
+      "subject":"PSYCH",
+      "catalog_number":"211",
+      "title":"Developmental Psychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":308,
+      "instructors":[
+        "Henderson,Heather Anne"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:28-05:00"
+    },
+    {
+      "class_number":3356,
+      "subject":"PSYCH",
+      "catalog_number":"253",
+      "title":"Social Psychology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":306,
+      "instructors":[
+        "Bergsieker,Hilary"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:29-05:00"
+    },
+    {
+      "class_number":3358,
+      "subject":"PSYCH",
+      "catalog_number":"257",
+      "title":"Psychopathology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":314,
+      "instructors":[
+        "Seeds,Pamela"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:30-05:00"
+    },
+    {
+      "class_number":3362,
+      "subject":"PSYCH",
+      "catalog_number":"292",
+      "title":"Basic Data Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":247,
+      "instructors":[
+        "Koehler,Derek J"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:30-05:00"
+    },
+    {
+      "class_number":7647,
+      "subject":"SPCOM",
+      "catalog_number":"101",
+      "title":"Theories of Communication",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Danisch,Robert"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    }
+  ]
+}

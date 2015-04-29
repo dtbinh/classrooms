@@ -1,0 +1,534 @@
+{
+  "meta":{
+    "requests":5308,
+    "timestamp":1420353797,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6726,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":32,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6727,
+      "subject":"BIOL",
+      "catalog_number":"346",
+      "title":"Microbial Ecology and Diversity",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":17,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6699,
+      "subject":"BIOL",
+      "catalog_number":"348L",
+      "title":"Laboratory Methods in Microbiology",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6699,
+      "subject":"BIOL",
+      "catalog_number":"348L",
+      "title":"Laboratory Methods in Microbiology",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6722,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":6723,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    }
+  ]
+}

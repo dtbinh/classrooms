@@ -1,0 +1,75 @@
+{
+  "meta":{
+    "requests":5496,
+    "timestamp":1420353864,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8083,
+      "subject":"AMATH",
+      "catalog_number":"851",
+      "title":"Stability Theory and Applications",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Liu,Xinzhi"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    },
+    {
+      "class_number":8086,
+      "subject":"AMATH",
+      "catalog_number":"882",
+      "title":"Mathematical Cell Biology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Ingalls,Brian",
+        "Campbell,Sue Ann"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    },
+    {
+      "class_number":8224,
+      "subject":"AMATH",
+      "catalog_number":"900",
+      "title":"Topics in Applied Mathematics",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Poulin,Francis"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    }
+  ]
+}

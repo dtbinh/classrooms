@@ -1,0 +1,854 @@
+{
+  "meta":{
+    "requests":5377,
+    "timestamp":1420353820,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5156,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5157,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5158,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5159,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4775,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4863,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5127,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5167,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5168,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2364",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    }
+  ]
+}

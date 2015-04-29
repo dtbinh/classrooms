@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":5581,
+    "timestamp":1420353897,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7816,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":"01\/05",
+      "end_date":"04\/17",
+      "enrollment_total":0,
+      "instructors":[
+        "Ewing,Charlene Alice"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:38-05:00"
+    },
+    {
+      "class_number":7819,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":7822,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6440,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wardell,Margaret"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6440,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wardell,Margaret"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":7833,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 002",
+      "weekdays":"MWTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":7834,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":6356,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
+    },
+    {
+      "class_number":6425,
+      "subject":"KOREA",
+      "catalog_number":"272R",
+      "title":"Korean Culture and Society",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:04-05:00"
+    },
+    {
+      "class_number":4040,
+      "subject":"PSYCH",
+      "catalog_number":"253R",
+      "title":"Social Psychology",
+      "section":"LEC 003",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Marigold,Denise"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:29-05:00"
+    },
+    {
+      "class_number":6449,
+      "subject":"SDS",
+      "catalog_number":"312R",
+      "title":"Homelessness & Public Policy",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:52-05:00"
+    },
+    {
+      "class_number":6395,
+      "subject":"SI",
+      "catalog_number":"101R",
+      "title":"Introduction to Arabic 1",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Al Ali,Kanan"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":7901,
+      "subject":"SI",
+      "catalog_number":"101R",
+      "title":"Introduction to Arabic 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Al Ali,Kanan"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":6419,
+      "subject":"SI",
+      "catalog_number":"202R",
+      "title":"Intermediate Arabic 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Al Ali,Kanan"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":6420,
+      "subject":"SI",
+      "catalog_number":"202R",
+      "title":"Intermediate Arabic 2",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":7903,
+      "subject":"SI",
+      "catalog_number":"202R",
+      "title":"Intermediate Arabic 2",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":6450,
+      "subject":"SWREN",
+      "catalog_number":"312R",
+      "title":"Homelessness & Public Policy",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:21-05:00"
+    }
+  ]
+}

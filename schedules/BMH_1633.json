@@ -1,0 +1,155 @@
+{
+  "meta":{
+    "requests":5319,
+    "timestamp":1420353800,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3188,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3149,
+      "subject":"HLTH",
+      "catalog_number":"473",
+      "title":"Contemporary Issues in Health",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Arocha,Jose"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:40-05:00"
+    },
+    {
+      "class_number":3214,
+      "subject":"HLTH",
+      "catalog_number":"473",
+      "title":"Contemporary Issues in Health",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Satvat,Elham"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:40-05:00"
+    },
+    {
+      "class_number":3179,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":3203,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 004",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":3234,
+      "subject":"HSG",
+      "catalog_number":"620",
+      "title":"Selected Topics",
+      "section":"RDG 004",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Meyer,Samantha",
+        "Corbett,Kitty King"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    },
+    {
+      "class_number":8304,
+      "subject":"HSG",
+      "catalog_number":"620",
+      "title":"Selected Topics",
+      "section":"RDG 006",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Arocha,Jose"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    }
+  ]
+}

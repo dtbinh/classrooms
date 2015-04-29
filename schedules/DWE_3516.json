@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":5366,
+    "timestamp":1420353816,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6721,
+      "subject":"BIOL",
+      "catalog_number":"442",
+      "title":"Virology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
+    },
+    {
+      "class_number":7078,
+      "subject":"BIOL",
+      "catalog_number":"484",
+      "title":"Advanced Eukaryotic Genetics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Reed,Bruce"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:48-05:00"
+    },
+    {
+      "class_number":4885,
+      "subject":"CIVE",
+      "catalog_number":"440",
+      "title":"Transit Planning and Operations",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Casello,Jeffrey"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:38-05:00"
+    },
+    {
+      "class_number":4359,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 006",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":8044,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 011",
+      "weekdays":"TThF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Northcote,Graeme"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":4625,
+      "subject":"ME",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids 1",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":7474,
+      "subject":"MTE",
+      "catalog_number":"119",
+      "title":"Statics",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Inal,Kaan"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":4823,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4824,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":6765,
+      "subject":"PHYS",
+      "catalog_number":"335",
+      "title":"Condensed Matter Physics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Burkov,Anton A"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:08-05:00"
+    },
+    {
+      "class_number":6519,
+      "subject":"PHYS",
+      "catalog_number":"365",
+      "title":"Mathematical Physics 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Ha,Bae-Yeun"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:09-05:00"
+    },
+    {
+      "class_number":6974,
+      "subject":"PHYS",
+      "catalog_number":"435",
+      "title":"Current Topics in Condensed Matter Physics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Burkov,Anton A"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:11-05:00"
+    },
+    {
+      "class_number":5465,
+      "subject":"PLAN",
+      "catalog_number":"478",
+      "title":"Transit Planning and Operations",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Casello,Jeffrey"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:16-05:00"
+    }
+  ]
+}

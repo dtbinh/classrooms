@@ -1,0 +1,855 @@
+{
+  "meta":{
+    "requests":5481,
+    "timestamp":1420353858,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5792,
+      "subject":"CO",
+      "catalog_number":"250",
+      "title":"Introduction to Optimization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Sanita,Laura"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:43-05:00"
+    },
+    {
+      "class_number":6189,
+      "subject":"CO",
+      "catalog_number":"487",
+      "title":"Applied Cryptography",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:46-05:00"
+    },
+    {
+      "class_number":3316,
+      "subject":"ECON",
+      "catalog_number":"202",
+      "title":"Macroeconomic Theory 1",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Vaughan,Maryann"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5143,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5145,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"TUT 204",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":114,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5818,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 104",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6088,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"TUT 106",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5828,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5991,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5993,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Scott,Matthew"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":7431,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":118,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7431,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":118,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7431,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":118,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7431,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":118,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7431,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":118,
+      "instructors":[
+        "Trivett,Andrew",
+        "Hulls,Carol C"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"MT",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Khan,Mohammad Ibraheem"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4621,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":113,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":3185,
+      "subject":"REC",
+      "catalog_number":"205",
+      "title":"Social Psychology of Leisure",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Knutson,Shannon"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":6221,
+      "subject":"CO",
+      "catalog_number":"687",
+      "title":"Applied Cryptography",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:58-05:00"
+    }
+  ]
+}

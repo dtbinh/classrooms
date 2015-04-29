@@ -1,0 +1,136 @@
+{
+  "meta":{
+    "requests":5523,
+    "timestamp":1420353874,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4159,
+      "subject":"PSYCH",
+      "catalog_number":"718",
+      "title":"Psychological Assessment II",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Nilsen,Elizabeth Sidonie",
+        "Friesen-Eulette,Lynette Joyce"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4161,
+      "subject":"PSYCH",
+      "catalog_number":"720B",
+      "title":"Practicum in Interviewing & Cognitive Assessment II",
+      "section":"PRA 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Nilsen,Elizabeth Sidonie",
+        "Friesen-Eulette,Lynette Joyce"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4162,
+      "subject":"PSYCH",
+      "catalog_number":"721B",
+      "title":"Diagnostic Assessment Practicum II",
+      "section":"PRA 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4164,
+      "subject":"PSYCH",
+      "catalog_number":"725",
+      "title":"Cognitive Behaviour Therapy",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Purdon,Christine L"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4165,
+      "subject":"PSYCH",
+      "catalog_number":"726B",
+      "title":"Practicum in Integrated Assessment II",
+      "section":"PRA 001",
+      "weekdays":"Th",
+      "start_time":"12:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Seeds,Pamela"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4170,
+      "subject":"PSYCH",
+      "catalog_number":"734B",
+      "title":"Practicum in Supervision II",
+      "section":"PRA 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Oakman,Jonathan"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:11-05:00"
+    }
+  ]
+}

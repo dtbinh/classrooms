@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5494,
+    "timestamp":1420353863,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6116,
+      "subject":"AMATH",
+      "catalog_number":"741",
+      "title":"Numerical Solution of Partial Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Krivodonova,Lilia"
+      ],
+      "building":"MC",
+      "room":"5136B",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:41-05:00"
+    },
+    {
+      "class_number":6117,
+      "subject":"CM",
+      "catalog_number":"750",
+      "title":"Numerical Solution of Partial Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Krivodonova,Lilia"
+      ],
+      "building":"MC",
+      "room":"5136B",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:56-05:00"
+    },
+    {
+      "class_number":8215,
+      "subject":"CS",
+      "catalog_number":"778",
+      "title":"Numerical Solution of Partial Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Krivodonova,Lilia"
+      ],
+      "building":"MC",
+      "room":"5136B",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:06-05:00"
+    }
+  ]
+}

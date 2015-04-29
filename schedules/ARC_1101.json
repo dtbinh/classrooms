@@ -1,0 +1,194 @@
+{
+  "meta":{
+    "requests":5297,
+    "timestamp":1420353793,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4788,
+      "subject":"ARCH",
+      "catalog_number":"113",
+      "title":"Visual Communication 2",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4789,
+      "subject":"ARCH",
+      "catalog_number":"113",
+      "title":"Visual Communication 2",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4787,
+      "subject":"ARCH",
+      "catalog_number":"125",
+      "title":"Principles of Environmental Design",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Boake,Terri"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4794,
+      "subject":"ARCH",
+      "catalog_number":"362",
+      "title":"Steel and Concrete: Design, Structure and Construction",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:34-05:00"
+    },
+    {
+      "class_number":5211,
+      "subject":"ARCH",
+      "catalog_number":"362",
+      "title":"Steel and Concrete: Design, Structure and Construction",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:34-05:00"
+    },
+    {
+      "class_number":4895,
+      "subject":"ARCH",
+      "catalog_number":"364",
+      "title":"Building Science",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Straube,John F"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:34-05:00"
+    },
+    {
+      "class_number":8227,
+      "subject":"ARCH",
+      "catalog_number":"652",
+      "title":"Specifications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"01\/05",
+      "end_date":"02\/09",
+      "enrollment_total":45,
+      "instructors":[
+        "Hunt,Lloyd"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:43-05:00"
+    },
+    {
+      "class_number":8228,
+      "subject":"ARCH",
+      "catalog_number":"654",
+      "title":"Acts and Codes",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/05",
+      "end_date":"02\/09",
+      "enrollment_total":44,
+      "instructors":[
+        "Hunt,Lloyd"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
+    },
+    {
+      "class_number":8287,
+      "subject":"ARCH",
+      "catalog_number":"654",
+      "title":"Acts and Codes",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"19:50",
+      "start_date":"01\/05",
+      "end_date":"02\/09",
+      "enrollment_total":44,
+      "instructors":[
+        "Hunt,Lloyd"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
+    }
+  ]
+}

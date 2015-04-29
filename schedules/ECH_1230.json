@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5406,
+    "timestamp":1420353834,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3916,
+      "subject":"FINE",
+      "catalog_number":"301",
+      "title":"Advanced Studio Practice",
+      "section":"STU 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Morton,Janet"
+      ],
+      "building":"ECH",
+      "room":"1230",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":3916,
+      "subject":"FINE",
+      "catalog_number":"301",
+      "title":"Advanced Studio Practice",
+      "section":"STU 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Morton,Janet"
+      ],
+      "building":"ECH",
+      "room":"1230",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":3916,
+      "subject":"FINE",
+      "catalog_number":"301",
+      "title":"Advanced Studio Practice",
+      "section":"STU 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dignan,Paul"
+      ],
+      "building":"ECH",
+      "room":"1230",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":3916,
+      "subject":"FINE",
+      "catalog_number":"301",
+      "title":"Advanced Studio Practice",
+      "section":"STU 001",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dignan,Paul"
+      ],
+      "building":"ECH",
+      "room":"1230",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    }
+  ]
+}

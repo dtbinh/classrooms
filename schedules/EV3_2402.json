@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5434,
+    "timestamp":1420353843,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5520,
+      "subject":"PLAN",
+      "catalog_number":"110",
+      "title":"Visual Approaches to Design and Communication",
+      "section":"STU 101",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"EV3",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5521,
+      "subject":"PLAN",
+      "catalog_number":"110",
+      "title":"Visual Approaches to Design and Communication",
+      "section":"STU 102",
+      "weekdays":"M",
+      "start_time":"14:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"EV3",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":7999,
+      "subject":"PLAN",
+      "catalog_number":"405",
+      "title":"Integrated Planning Project",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Shipley,Robert J M"
+      ],
+      "building":"EV3",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    }
+  ]
+}

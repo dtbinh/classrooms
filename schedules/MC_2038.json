@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5473,
+    "timestamp":1420353856,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6617,
+      "subject":"CHEM",
+      "catalog_number":"357",
+      "title":"Physical Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Meiering,Elizabeth M"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":6618,
+      "subject":"CHEM",
+      "catalog_number":"357",
+      "title":"Physical Biochemistry",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Meiering,Elizabeth M"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":6044,
+      "subject":"COMM",
+      "catalog_number":"421",
+      "title":"Financial Statement Analysis",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Matheson,Brenton James"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:47-05:00"
+    },
+    {
+      "class_number":6009,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6022,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6042,
+      "subject":"CS",
+      "catalog_number":"138",
+      "title":"Introduction to Data Abstraction and Implementation",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6244,
+      "subject":"CS",
+      "catalog_number":"245",
+      "title":"Logic and Computation",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Lubiw,Anna"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":5773,
+      "subject":"CS",
+      "catalog_number":"341",
+      "title":"Algorithms",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Chan,Timothy"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:56-05:00"
+    },
+    {
+      "class_number":5780,
+      "subject":"CS",
+      "catalog_number":"445",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Zhang,Cheng"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:00-05:00"
+    },
+    {
+      "class_number":4921,
+      "subject":"ECE",
+      "catalog_number":"451",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Zhang,Cheng"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
+    },
+    {
+      "class_number":5838,
+      "subject":"MATH",
+      "catalog_number":"148",
+      "title":"Calculus 2 (Advanced Level)",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5849,
+      "subject":"MATH",
+      "catalog_number":"239",
+      "title":"Introduction to Combinatorics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":6129,
+      "subject":"MATH",
+      "catalog_number":"239",
+      "title":"Introduction to Combinatorics",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":4653,
+      "subject":"ME",
+      "catalog_number":"354",
+      "title":"Thermodynamics 2",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":6960,
+      "subject":"SCBUS",
+      "catalog_number":"225",
+      "title":"Organizational Behaviour and Human Decision Processes Workshop",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Memon,Muhammad Kashif"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:49-05:00"
+    },
+    {
+      "class_number":5706,
+      "subject":"CS",
+      "catalog_number":"645",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Zhang,Cheng"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:02-05:00"
+    }
+  ]
+}

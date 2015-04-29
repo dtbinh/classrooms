@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5536,
+    "timestamp":1420353879,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7564,
+      "subject":"PHARM",
+      "catalog_number":"320",
+      "title":"Integrated Patient Focused Care 5",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":"01\/05",
+      "end_date":"02\/13",
+      "enrollment_total":119,
+      "instructors":[
+        "McFarlane,Tom"
+      ],
+      "building":"PHR",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7566,
+      "subject":"PHARM",
+      "catalog_number":"321",
+      "title":"Integrated Patient Focused Care 6",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":"02\/23",
+      "end_date":"04\/06",
+      "enrollment_total":118,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":6918,
+      "subject":"PHARM",
+      "catalog_number":"466",
+      "title":"Advanced Geriatric Care",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"15:20",
+      "start_date":"01\/05",
+      "end_date":"02\/28",
+      "enrollment_total":29,
+      "instructors":[
+        "Viana,Luis"
+      ],
+      "building":"PHR",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:55-05:00"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "meta":{
+    "requests":5369,
+    "timestamp":1420353818,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5742,
+      "subject":"AMATH",
+      "catalog_number":"455",
+      "title":"Control Theory",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Morris,Kirsten A"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:26-05:00"
+    },
+    {
+      "class_number":7790,
+      "subject":"BASE",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Corwin,Jesse Eliot"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7556,
+      "subject":"BET",
+      "catalog_number":"310",
+      "title":"Entrprise Coop Entre Plan Exec",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Hurwitz,Marc"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:38-05:00"
+    },
+    {
+      "class_number":6700,
+      "subject":"BIOL",
+      "catalog_number":"348L",
+      "title":"Laboratory Methods in Microbiology",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Duxbury,Cheryl",
+        "Ma,Kesen"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":8046,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 013",
+      "weekdays":"TWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Torbica,Masa"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":8052,
+      "subject":"ENGL",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 009",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Lam,Mandy Bao-Phuong"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":3814,
+      "subject":"ENGL",
+      "catalog_number":"208A",
+      "title":"Forms of Fantasy",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Vist,Mari Elise"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:46-05:00"
+    },
+    {
+      "class_number":3749,
+      "subject":"ENGL",
+      "catalog_number":"247",
+      "title":"American Literature and Popular Culture",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Aardse,Kent"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:47-05:00"
+    },
+    {
+      "class_number":4561,
+      "subject":"ENVE",
+      "catalog_number":"375",
+      "title":"Water Quality Engineering",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":5141,
+      "subject":"ENVE",
+      "catalog_number":"375",
+      "title":"Water Quality Engineering",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":3350,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Tremblay,Cynthia Beth"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3651,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Mazoyer,Alexandre"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3501,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Defraeye,Julien"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":6050,
+      "subject":"PMATH",
+      "catalog_number":"352",
+      "title":"Complex Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Rubinstein,Michael"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:18-05:00"
+    },
+    {
+      "class_number":5702,
+      "subject":"AMATH",
+      "catalog_number":"655",
+      "title":"Control Theory",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Morris,Kirsten A"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:41-05:00"
+    }
+  ]
+}

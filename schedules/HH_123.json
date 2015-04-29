@@ -1,0 +1,1314 @@
+{
+  "meta":{
+    "requests":5446,
+    "timestamp":1420353847,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5557,
+      "subject":"ERS",
+      "catalog_number":"404",
+      "title":"Global Environmental Governance",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":5573,
+      "subject":"ERS",
+      "catalog_number":"404",
+      "title":"Global Environmental Governance",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":5409,
+      "subject":"ERS",
+      "catalog_number":"410",
+      "title":"Environmental Analysis and Solutions VI: Ecosocial Systems",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":5620,
+      "subject":"ERS",
+      "catalog_number":"411B",
+      "title":"Environmental Research Project III",
+      "section":"PRJ 005",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Rowlands,Ian H"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":5624,
+      "subject":"ERS",
+      "catalog_number":"412B",
+      "title":"Environmental Research Project III",
+      "section":"PRJ 005",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Rowlands,Ian H"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":3545,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3545,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3545,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/19",
+      "end_date":"02\/19",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3545,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3545,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3546,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3546,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3546,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3546,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3546,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":15,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3547,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3547,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3547,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/19",
+      "end_date":"02\/19",
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3547,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3547,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3548,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 104",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3548,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 104",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3548,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 104",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3548,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 104",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":3548,
+      "subject":"HIST",
+      "catalog_number":"258",
+      "title":"United States Since 1877",
+      "section":"DIS 104",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":8073,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":4,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8073,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":4,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8073,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/17",
+      "end_date":"02\/17",
+      "enrollment_total":4,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8073,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":4,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8073,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":4,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":7,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":7,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":7,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":7,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":7,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8066,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8066,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8066,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":15,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8066,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8066,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":15,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":9,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":9,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":9,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":9,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":9,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8068,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 103",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":3,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8068,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 103",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":3,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8068,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 103",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":3,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8068,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 103",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":3,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8068,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 103",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":3,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":3483,
+      "subject":"HIST",
+      "catalog_number":"401B",
+      "title":"European",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Taylor,Lynne"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:35-05:00"
+    },
+    {
+      "class_number":8063,
+      "subject":"HIST",
+      "catalog_number":"402B",
+      "title":"Medieval Europe",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Kroeker,Greta"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:35-05:00"
+    },
+    {
+      "class_number":8062,
+      "subject":"HIST",
+      "catalog_number":"403A",
+      "title":"Canadian",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "MacDougall,Heather A"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:35-05:00"
+    },
+    {
+      "class_number":3829,
+      "subject":"HIST",
+      "catalog_number":"403B",
+      "title":"Canadian",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:36-05:00"
+    },
+    {
+      "class_number":3455,
+      "subject":"HIST",
+      "catalog_number":"409B",
+      "title":"American",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:36-05:00"
+    },
+    {
+      "class_number":4364,
+      "subject":"PSCI",
+      "catalog_number":"432",
+      "title":"Global Environmental Governance",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:24-05:00"
+    },
+    {
+      "class_number":4365,
+      "subject":"PSCI",
+      "catalog_number":"432",
+      "title":"Global Environmental Governance",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:24-05:00"
+    },
+    {
+      "class_number":7509,
+      "subject":"SOC",
+      "catalog_number":"428",
+      "title":"Sentencing as a Social Process",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Carrington,Peter J"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:05-05:00"
+    },
+    {
+      "class_number":4055,
+      "subject":"ENGL",
+      "catalog_number":"730",
+      "title":"Studies in Victorian Literature",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Lawson,Kate"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:19-05:00"
+    },
+    {
+      "class_number":8092,
+      "subject":"ENGL",
+      "catalog_number":"730",
+      "title":"Studies in Victorian Literature",
+      "section":"SEM 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "North,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:19-05:00"
+    },
+    {
+      "class_number":4458,
+      "subject":"ENGL",
+      "catalog_number":"785",
+      "title":"Studies in Literary Criticism",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Hirschkop,Kenneth"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:20-05:00"
+    },
+    {
+      "class_number":7924,
+      "subject":"GGOV",
+      "catalog_number":"615",
+      "title":"Global Poverty",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Bird,Frederick"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:28-05:00"
+    },
+    {
+      "class_number":8081,
+      "subject":"HIST",
+      "catalog_number":"614",
+      "title":"Space, Identity and Culture: Reading in Canadian Social History",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Roberts,Julia"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:31-05:00"
+    },
+    {
+      "class_number":4336,
+      "subject":"HIST",
+      "catalog_number":"632",
+      "title":"History of the United States I",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Hunt,Andrew E"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:31-05:00"
+    },
+    {
+      "class_number":7923,
+      "subject":"PSCI",
+      "catalog_number":"615",
+      "title":"Global Poverty",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Bird,Frederick"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:06-05:00"
+    }
+  ]
+}

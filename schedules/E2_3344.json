@@ -1,0 +1,1094 @@
+{
+  "meta":{
+    "requests":5379,
+    "timestamp":1420353821,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":49,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5069,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":50,
+      "instructors":[
+        "Singh,Sanjay Ashween"
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5007,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5011,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5013,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3344",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    }
+  ]
+}

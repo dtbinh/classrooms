@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5422,
+    "timestamp":1420353839,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3615,
+      "subject":"DUTCH",
+      "catalog_number":"102",
+      "title":"Elementary Dutch II",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "de Rooij-Mohle,Geertruida (Mar"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:08-05:00"
+    },
+    {
+      "class_number":3615,
+      "subject":"DUTCH",
+      "catalog_number":"102",
+      "title":"Elementary Dutch II",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "de Rooij-Mohle,Geertruida (Mar"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:08-05:00"
+    },
+    {
+      "class_number":5493,
+      "subject":"ENBUS",
+      "catalog_number":"302",
+      "title":"Strategies for Environment and Business",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":3342,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Coakley,Laura Justine"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3343,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 003",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Des Enffans D' Avernas,Eric Ad"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3344,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 004",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Gauthier,Lauren"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":5507,
+      "subject":"GEOG",
+      "catalog_number":"340",
+      "title":"Settlements of Rural Canada",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Mitchell,Clare J A"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:24-05:00"
+    },
+    {
+      "class_number":5434,
+      "subject":"PLAN",
+      "catalog_number":"233",
+      "title":"People and Plans",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5435,
+      "subject":"PLAN",
+      "catalog_number":"233",
+      "title":"People and Plans",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":3553,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 005",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
+    },
+    {
+      "class_number":7652,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 009",
+      "weekdays":"MTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Moll,Sorouja"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
+    },
+    {
+      "class_number":5450,
+      "subject":"PLAN",
+      "catalog_number":"710",
+      "title":"Research Design",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Filion,Pierre"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
+    }
+  ]
+}

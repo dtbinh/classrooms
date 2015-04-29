@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":5395,
+    "timestamp":1420353830,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4527,
+      "subject":"SYDE",
+      "catalog_number":"201",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4528,
+      "subject":"SYDE",
+      "catalog_number":"211",
+      "title":"Advanced Engineering Math 1",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4528,
+      "subject":"SYDE",
+      "catalog_number":"211",
+      "title":"Advanced Engineering Math 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4529,
+      "subject":"SYDE",
+      "catalog_number":"211",
+      "title":"Advanced Engineering Math 1",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4724,
+      "subject":"SYDE",
+      "catalog_number":"223",
+      "title":"Data Structures and Algorithms",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4724,
+      "subject":"SYDE",
+      "catalog_number":"223",
+      "title":"Data Structures and Algorithms",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4725,
+      "subject":"SYDE",
+      "catalog_number":"223",
+      "title":"Data Structures and Algorithms",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4913,
+      "subject":"SYDE",
+      "catalog_number":"261",
+      "title":"Design, Systems, and Society",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Borland,Matthew James"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4914,
+      "subject":"SYDE",
+      "catalog_number":"261",
+      "title":"Design, Systems, and Society",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"14:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Borland,Matthew James"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4530,
+      "subject":"SYDE",
+      "catalog_number":"283",
+      "title":"Physics 3 (Electricity, Magnetism and Optics)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Savage,Gordon"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4531,
+      "subject":"SYDE",
+      "catalog_number":"283",
+      "title":"Physics 3 (Electricity, Magnetism and Optics)",
+      "section":"TUT 101",
+      "weekdays":"MF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Savage,Gordon"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4969,
+      "subject":"SYDE",
+      "catalog_number":"285",
+      "title":"Materials Chemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"SYDE",
+      "catalog_number":"285",
+      "title":"Materials Chemistry",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":5134,
+      "subject":"SYDE",
+      "catalog_number":"542",
+      "title":"Interface Design",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Burns,Catherine"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    }
+  ]
+}

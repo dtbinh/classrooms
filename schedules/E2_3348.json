@@ -1,0 +1,854 @@
+{
+  "meta":{
+    "requests":5382,
+    "timestamp":1420353824,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5087,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5088,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5165,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5356,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5357,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3348",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    }
+  ]
+}

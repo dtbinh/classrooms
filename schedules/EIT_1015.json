@@ -1,0 +1,834 @@
+{
+  "meta":{
+    "requests":5412,
+    "timestamp":1420353836,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"300A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":107,
+      "instructors":[
+        "Smith,Stephen Leslie"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4600,
+      "subject":"ECE",
+      "catalog_number":"316",
+      "title":"Probability Theory and Random Processes",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Mazumdar,Ravi"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:24-05:00"
+    },
+    {
+      "class_number":4601,
+      "subject":"ECE",
+      "catalog_number":"316",
+      "title":"Probability Theory and Random Processes",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:24-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":76,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4618,
+      "subject":"ECE",
+      "catalog_number":"327",
+      "title":"Digital Hardware Systems",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5092,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":53,
+      "instructors":[
+        "Sazonov,Andrei"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5093,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":64,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"351",
+      "title":"Compilers",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":56,
+      "instructors":[
+        "Mansour,Raafat"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5086,
+      "subject":"ECE",
+      "catalog_number":"375",
+      "title":"Electromagnetic Fields and Waves",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4615,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Smith,Stephen Leslie"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4616,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":3430,
+      "subject":"FINE",
+      "catalog_number":"112",
+      "title":"Modern Art, 1874-1945",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":112,
+      "instructors":[
+        "Coutu,Joan M"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":3085,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Mourtzakis,Marina"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":5935,
+      "subject":"STAT",
+      "catalog_number":"316",
+      "title":"Introduction to Statistical Problem Solving by Computer",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Robinson,Jack"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "meta":{
+    "requests":5362,
+    "timestamp":1420353815,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5248,
+      "subject":"ME",
+      "catalog_number":"200A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5248,
+      "subject":"ME",
+      "catalog_number":"200A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5249,
+      "subject":"ME",
+      "catalog_number":"201",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Schneider,Gerald"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5249,
+      "subject":"ME",
+      "catalog_number":"201",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Schneider,Gerald"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5251,
+      "subject":"ME",
+      "catalog_number":"201",
+      "title":"Advanced Calculus",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4572,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4572,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4573,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4623,
+      "subject":"ME",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Cronin,Duane"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4623,
+      "subject":"ME",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Cronin,Duane"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4626,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Gerlich,Adrian"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4626,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Gerlich,Adrian"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4628,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4628,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4816,
+      "subject":"ME",
+      "catalog_number":"351",
+      "title":"Fluid Mechanics 1",
+      "section":"LEC 002",
+      "weekdays":"MT",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Stubley,Gordon"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4816,
+      "subject":"ME",
+      "catalog_number":"351",
+      "title":"Fluid Mechanics 1",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Stubley,Gordon"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":5237,
+      "subject":"MSCI",
+      "catalog_number":"261",
+      "title":"Engineering Economics: Financial Management for Engineers",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Fuller,J. David"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5237,
+      "subject":"MSCI",
+      "catalog_number":"261",
+      "title":"Engineering Economics: Financial Management for Engineers",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Fuller,J. David"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5240,
+      "subject":"MSCI",
+      "catalog_number":"261",
+      "title":"Engineering Economics: Financial Management for Engineers",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Fuller,J. David"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":4820,
+      "subject":"MTE",
+      "catalog_number":"300B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":112,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4820,
+      "subject":"MTE",
+      "catalog_number":"300B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":112,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4821,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Jeon,Soo"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4821,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Jeon,Soo"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4825,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LEC 001",
+      "weekdays":"TW",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4825,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4827,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"TUT 201",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":5111,
+      "subject":"MTE",
+      "catalog_number":"380",
+      "title":"Mechatronics Engineering Design Workshop",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Owen,William S."
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:27-05:00"
+    },
+    {
+      "class_number":5112,
+      "subject":"MTE",
+      "catalog_number":"380",
+      "title":"Mechatronics Engineering Design Workshop",
+      "section":"PRJ 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Owen,William S."
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:27-05:00"
+    }
+  ]
+}

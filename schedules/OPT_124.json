@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5508,
+    "timestamp":1420353868,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3115,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3116,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 002",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3117,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 003",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3118,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 004",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3119,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3120,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 006",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3121,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3122,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3123,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 009",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3124,
+      "subject":"KIN",
+      "catalog_number":"100L",
+      "title":"Human Anatomy Lab",
+      "section":"LAB 010",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Roth,Jeremy"
+      ],
+      "building":"OPT",
+      "room":"124",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    }
+  ]
+}

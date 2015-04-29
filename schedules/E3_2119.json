@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":5385,
+    "timestamp":1420353825,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4622,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4727,
+      "subject":"ME",
+      "catalog_number":"115",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4627,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5210,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":7469,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Mayer,Michael"
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":7470,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Mayer,Michael"
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    }
+  ]
+}

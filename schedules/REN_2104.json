@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5591,
+    "timestamp":1420353901,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7802,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":6343,
+      "subject":"CHINA",
+      "catalog_number":"101R",
+      "title":"First-Year Chinese 1",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Li,Yan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":6433,
+      "subject":"CHINA",
+      "catalog_number":"101R",
+      "title":"First-Year Chinese 1",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Li,Yan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":6346,
+      "subject":"CHINA",
+      "catalog_number":"102R",
+      "title":"First-Year Chinese 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Yang,Jie"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":8322,
+      "subject":"EASIA",
+      "catalog_number":"375R",
+      "title":"Special Topics in East Asian Studies",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Bao,Huai"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:17-05:00"
+    },
+    {
+      "class_number":6444,
+      "subject":"EFAS",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Hood-Morris,Gregory J"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":3422,
+      "subject":"ENGL",
+      "catalog_number":"140R",
+      "title":"The Use of English 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Vardon,John F"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":7845,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 013",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Zehr,Roslyn"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":7848,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 002",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Skinner,Patricia Anne"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":6391,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Burns,Eri"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":6392,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 106",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Burns,Eri"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":6445,
+      "subject":"JAPAN",
+      "catalog_number":"102R",
+      "title":"First-Year Japanese 2",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":6453,
+      "subject":"SDS",
+      "catalog_number":"431R",
+      "title":"Radical Ideology and Social Policy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Blokhuis,Jason C."
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:53-05:00"
+    },
+    {
+      "class_number":7875,
+      "subject":"SDS",
+      "catalog_number":"440R",
+      "title":"Optimal Living",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Andreae,Dan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:54-05:00"
+    },
+    {
+      "class_number":6394,
+      "subject":"SI",
+      "catalog_number":"121R",
+      "title":"Islam in the World",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Pandit,Idrisa"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":8203,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 002",
+      "weekdays":"MWTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Rehm,Stefan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:23-05:00"
+    }
+  ]
+}

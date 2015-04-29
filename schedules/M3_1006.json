@@ -1,0 +1,434 @@
+{
+  "meta":{
+    "requests":5464,
+    "timestamp":1420353852,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4412,
+      "subject":"ARBUS",
+      "catalog_number":"300",
+      "title":"Practical Business Skills",
+      "section":"PRA 101",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":160,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":4067,
+      "subject":"ARBUS",
+      "catalog_number":"400",
+      "title":"Strategy and Program Integration",
+      "section":"PRA 101",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":111,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":6549,
+      "subject":"BIOL",
+      "catalog_number":"239",
+      "title":"Genetics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":305,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:41-05:00"
+    },
+    {
+      "class_number":6550,
+      "subject":"BIOL",
+      "catalog_number":"239",
+      "title":"Genetics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":364,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:41-05:00"
+    },
+    {
+      "class_number":6788,
+      "subject":"BIOL",
+      "catalog_number":"239",
+      "title":"Genetics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":309,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:41-05:00"
+    },
+    {
+      "class_number":6626,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":385,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":4949,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":155,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5262,
+      "subject":"ECE",
+      "catalog_number":"498B",
+      "title":"Engineering Design Project",
+      "section":"PRJ 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":293,
+      "instructors":[
+        "Davison,Daniel"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:31-05:00"
+    },
+    {
+      "class_number":3308,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":250,
+      "instructors":[
+        "Rajsic,Predrag"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":5382,
+      "subject":"GEOG",
+      "catalog_number":"101",
+      "title":"Geography and Human Habitat",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":297,
+      "instructors":[
+        "Hooykaas,Amanda Leigh"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:21-05:00"
+    },
+    {
+      "class_number":3159,
+      "subject":"HLTH",
+      "catalog_number":"260",
+      "title":"Social Determinants of Health",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Anthony,Kelly"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3114,
+      "subject":"KIN",
+      "catalog_number":"100",
+      "title":"Human Anatomy: Limbs and Trunk",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":327,
+      "instructors":[
+        "Prentice,Stephen D"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":6178,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 009",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":179,
+      "instructors":[
+        "Vest,Ambroise"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":6183,
+      "subject":"MTHEL",
+      "catalog_number":"131",
+      "title":"Introduction to Actuarial Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":277,
+      "instructors":[
+        "Kohler,David"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:27-05:00"
+    },
+    {
+      "class_number":7006,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":359,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":3353,
+      "subject":"PSYCH",
+      "catalog_number":"101",
+      "title":"Introductory Psychology",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":344,
+      "instructors":[
+        "Ennis,Richard"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:27-05:00"
+    },
+    {
+      "class_number":3361,
+      "subject":"PSYCH",
+      "catalog_number":"261",
+      "title":"Physiological Psychology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":235,
+      "instructors":[
+        "Smilek,Daniel"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:30-05:00"
+    },
+    {
+      "class_number":2970,
+      "subject":"REC",
+      "catalog_number":"280",
+      "title":"Introduction to Tourism",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":322,
+      "instructors":[
+        "Boluk,Karla"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:41-05:00"
+    },
+    {
+      "class_number":5901,
+      "subject":"STAT",
+      "catalog_number":"202",
+      "title":"Introductory Statistics for Scientists",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Dawoud,Dina"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":5750,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":303,
+      "instructors":[
+        
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6278,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":171,
+      "instructors":[
+        "Zhu,Yeying"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    }
+  ]
+}

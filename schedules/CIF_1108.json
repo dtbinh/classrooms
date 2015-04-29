@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5336,
+    "timestamp":1420353806,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7664,
+      "subject":"DRAMA",
+      "catalog_number":"363",
+      "title":"Stage Combat",
+      "section":"WSP 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Levinson,Daniel"
+      ],
+      "building":"CIF",
+      "room":"1108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    }
+  ]
+}

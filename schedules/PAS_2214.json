@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5528,
+    "timestamp":1420353876,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3807,
+      "subject":"ANTH",
+      "catalog_number":"455",
+      "title":"Skeletal Biology and Forensics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Liston,Maria"
+      ],
+      "building":"PAS",
+      "room":"2214",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:30-05:00"
+    },
+    {
+      "class_number":3830,
+      "subject":"ANTH",
+      "catalog_number":"655",
+      "title":"Skeletal Biology and Forensics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Liston,Maria"
+      ],
+      "building":"PAS",
+      "room":"2214",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:43-05:00"
+    }
+  ]
+}

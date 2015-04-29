@@ -1,0 +1,395 @@
+{
+  "meta":{
+    "requests":5558,
+    "timestamp":1420353889,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6535,
+      "subject":"BIOL",
+      "catalog_number":"431",
+      "title":"Bacterial Molecular Genetics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Charles,Trevor C"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:46-05:00"
+    },
+    {
+      "class_number":6586,
+      "subject":"BIOL",
+      "catalog_number":"432",
+      "title":"Molecular Biotechnology 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Glick,Bernard R"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:46-05:00"
+    },
+    {
+      "class_number":6756,
+      "subject":"BIOL",
+      "catalog_number":"441",
+      "title":"Immunology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Dixon,Brian",
+        "Katzenback,Barbara"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:46-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"360",
+      "title":"Organic Chemistry 3",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Fillion,Eric"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":5067,
+      "subject":"CIVE",
+      "catalog_number":"381",
+      "title":"Hydraulics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "MacVicar,Bruce Jonathan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:37-05:00"
+    },
+    {
+      "class_number":3319,
+      "subject":"ECON",
+      "catalog_number":"231",
+      "title":"Introduction to International Economics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Kumase,Wokia-azi"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:33-05:00"
+    },
+    {
+      "class_number":4550,
+      "subject":"ENVE",
+      "catalog_number":"221",
+      "title":"Advanced Calculus",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Potapenko,Stan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:54-05:00"
+    },
+    {
+      "class_number":3986,
+      "subject":"HIST",
+      "catalog_number":"105",
+      "title":"Rock 'n' Roll and US History",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Hunt,Andrew E"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:32-05:00"
+    },
+    {
+      "class_number":5815,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5987,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":8261,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Alwan,Mohamad S."
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5842,
+      "subject":"MATH",
+      "catalog_number":"235",
+      "title":"Linear Algebra 2 for Honours Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Purbhoo,Kevin"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":113,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":7185,
+      "subject":"SE",
+      "catalog_number":"301",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Berry,Daniel"
+      ],
+      "building":"RCH",
+      "room":"103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    }
+  ]
+}

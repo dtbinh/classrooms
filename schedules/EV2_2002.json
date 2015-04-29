@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5429,
+    "timestamp":1420353841,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3802,
+      "subject":"ARBUS",
+      "catalog_number":"302",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Rodenburg,Kathleen"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":3325,
+      "subject":"ECON",
+      "catalog_number":"344",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Rodenburg,Kathleen"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:36-05:00"
+    },
+    {
+      "class_number":5495,
+      "subject":"ENBUS",
+      "catalog_number":"302",
+      "title":"Strategies for Environment and Business",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":7837,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Wolczuk,Agnieszka"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":3289,
+      "subject":"PHIL",
+      "catalog_number":"110A",
+      "title":"Introduction to Philosophy: Knowledge and Reality",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Holukoff,Kurt Sheldon"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
+    },
+    {
+      "class_number":7447,
+      "subject":"PSYCH",
+      "catalog_number":"316",
+      "title":"Pragmatic Language Development",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "O'Neill,Daniela K"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:31-05:00"
+    },
+    {
+      "class_number":3799,
+      "subject":"SOC",
+      "catalog_number":"202",
+      "title":"Introduction to Classical Theory",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Helmes-Hayes,Richard C"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":5291,
+    "timestamp":1420353791,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7979,
+      "subject":"ANTH",
+      "catalog_number":"400",
+      "title":"Special Topics in Anthropology",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Watts,Christopher"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:29-05:00"
+    },
+    {
+      "class_number":8294,
+      "subject":"GRK",
+      "catalog_number":"331",
+      "title":"Advanced Studies in Greek: Prose",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Vester,Christina"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:31-05:00"
+    },
+    {
+      "class_number":4106,
+      "subject":"GRK",
+      "catalog_number":"490",
+      "title":"Senior Studies in Greek: Selected Topics",
+      "section":"RDG 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Vester,Christina"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:31-05:00"
+    },
+    {
+      "class_number":3291,
+      "subject":"LAT",
+      "catalog_number":"202",
+      "title":"Selections from Latin Authors",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:05-05:00"
+    },
+    {
+      "class_number":8150,
+      "subject":"PSCI",
+      "catalog_number":"405",
+      "title":"Chinese Political Economy",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Wang,Hongying"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:22-05:00"
+    },
+    {
+      "class_number":7909,
+      "subject":"PSCI",
+      "catalog_number":"428",
+      "title":"The State and Economic Life",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Carter,Angela V."
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:23-05:00"
+    },
+    {
+      "class_number":3662,
+      "subject":"ANTH",
+      "catalog_number":"614",
+      "title":"Research Methods",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Hoeppe,Goetz"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:43-05:00"
+    },
+    {
+      "class_number":3806,
+      "subject":"ECON",
+      "catalog_number":"622",
+      "title":"Applied Microeconometrics I",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Skuterud,Mikal"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:16-05:00"
+    },
+    {
+      "class_number":5578,
+      "subject":"GEOG",
+      "catalog_number":"603",
+      "title":"Remote Sensing and Earth System Science",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Kelly,Richard E.J."
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:25-05:00"
+    },
+    {
+      "class_number":7594,
+      "subject":"GER",
+      "catalog_number":"621",
+      "title":"Topics in Comparative Literature and Culture",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:27-05:00"
+    },
+    {
+      "class_number":7595,
+      "subject":"GER",
+      "catalog_number":"721",
+      "title":"Topics in Comparative Literature and Culture",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:27-05:00"
+    },
+    {
+      "class_number":4107,
+      "subject":"GRK",
+      "catalog_number":"600",
+      "title":"Topics in Greek Language",
+      "section":"SEM 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Vester,Christina"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:29-05:00"
+    },
+    {
+      "class_number":4056,
+      "subject":"PSCI",
+      "catalog_number":"631",
+      "title":"The State and Economic Life",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Carter,Angela V."
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:07-05:00"
+    },
+    {
+      "class_number":8151,
+      "subject":"PSCI",
+      "catalog_number":"652",
+      "title":"Advanced Topics in Third World Politics and Development II",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Wang,Hongying"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:07-05:00"
+    }
+  ]
+}

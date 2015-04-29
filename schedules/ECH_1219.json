@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5401,
+    "timestamp":1420353832,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4394,
+      "subject":"FINE",
+      "catalog_number":"204",
+      "title":"Topics in Studio Practice",
+      "section":"STU 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Carson,Linda Christine"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":7588,
+      "subject":"FINE",
+      "catalog_number":"282",
+      "title":"Canadian Art from the 17th Century to 1940",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:05-05:00"
+    },
+    {
+      "class_number":3919,
+      "subject":"FINE",
+      "catalog_number":"303",
+      "title":"Honours Art History Research",
+      "section":"SEM 101",
+      "weekdays":"WF",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Coutu,Joan M"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":3919,
+      "subject":"FINE",
+      "catalog_number":"303",
+      "title":"Honours Art History Research",
+      "section":"SEM 101",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Coutu,Joan M"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":3621,
+      "subject":"FINE",
+      "catalog_number":"319",
+      "title":"Contemporary Art",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Videkanic,Bojana"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:06-05:00"
+    },
+    {
+      "class_number":5644,
+      "subject":"INTEG",
+      "catalog_number":"275",
+      "title":"Special Topics in Knowledge Integration",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Carson,Linda Christine"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:44-05:00"
+    },
+    {
+      "class_number":4020,
+      "subject":"VCULT",
+      "catalog_number":"200",
+      "title":"Visual Studies Across the Discipline",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Riva,Lori"
+      ],
+      "building":"ECH",
+      "room":"1219",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:30-05:00"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5315,
+    "timestamp":1420353799,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3003,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3004,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3005,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3096,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3153,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3166,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":7995,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":7996,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    }
+  ]
+}

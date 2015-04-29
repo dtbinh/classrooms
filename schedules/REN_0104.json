@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5580,
+    "timestamp":1420353897,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7802,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":6345,
+      "subject":"CHINA",
+      "catalog_number":"120R",
+      "title":"Advanced First-Year Chinese",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Wang,Renee Rui"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":7811,
+      "subject":"CHINA",
+      "catalog_number":"120R",
+      "title":"Advanced First-Year Chinese",
+      "section":"LEC 002",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Tang,Renjie"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":7817,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"MTWTh",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:38-05:00"
+    },
+    {
+      "class_number":7820,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":3554,
+      "subject":"ENGL",
+      "catalog_number":"335",
+      "title":"Creative Writing 1",
+      "section":"WSP 001",
+      "weekdays":"MW",
+      "start_time":"12:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Al Ethari,Lamees"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:50-05:00"
+    },
+    {
+      "class_number":7843,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 011",
+      "weekdays":"MWTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":6408,
+      "subject":"SDS",
+      "catalog_number":"251R",
+      "title":"Social Research",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Plante,Courtney"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:52-05:00"
+    },
+    {
+      "class_number":6432,
+      "subject":"SDS",
+      "catalog_number":"450R",
+      "title":"Honours Seminar in Special Topics",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:54-05:00"
+    },
+    {
+      "class_number":6458,
+      "subject":"SOCWK",
+      "catalog_number":"222R",
+      "title":"Community Organization 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:07-05:00"
+    },
+    {
+      "class_number":6459,
+      "subject":"SWREN",
+      "catalog_number":"222R",
+      "title":"Community Organization 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:20-05:00"
+    },
+    {
+      "class_number":8315,
+      "subject":"SWREN",
+      "catalog_number":"251R",
+      "title":"Social Research",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Plante,Courtney"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:20-05:00"
+    }
+  ]
+}

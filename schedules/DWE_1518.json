@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":5361,
+    "timestamp":1420353815,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4737,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"01\/07",
+      "end_date":"02\/11",
+      "enrollment_total":42,
+      "instructors":[
+        "Zhang,Mingqian (John)"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4737,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/18",
+      "end_date":"03\/25",
+      "enrollment_total":42,
+      "instructors":[
+        "Zhang,Mingqian (John)"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4905,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"02\/11",
+      "enrollment_total":42,
+      "instructors":[
+        "Zhang,Mingqian (John)"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4905,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"02\/18",
+      "end_date":"03\/25",
+      "enrollment_total":42,
+      "instructors":[
+        "Zhang,Mingqian (John)"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4828,
+      "subject":"CHE",
+      "catalog_number":"290",
+      "title":"Chemical Engineering Lab 1",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:12-05:00"
+    },
+    {
+      "class_number":4829,
+      "subject":"CHE",
+      "catalog_number":"290",
+      "title":"Chemical Engineering Lab 1",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:12-05:00"
+    },
+    {
+      "class_number":4902,
+      "subject":"CHE",
+      "catalog_number":"391",
+      "title":"Chemical Engineering Lab 4",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:18-05:00"
+    },
+    {
+      "class_number":4903,
+      "subject":"CHE",
+      "catalog_number":"391",
+      "title":"Chemical Engineering Lab 4",
+      "section":"LAB 002",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:18-05:00"
+    }
+  ]
+}

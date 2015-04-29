@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":5391,
+    "timestamp":1420353829,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7073,
+      "subject":"BIOL",
+      "catalog_number":"487",
+      "title":"Computational Neuroscience",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:48-05:00"
+    },
+    {
+      "class_number":7074,
+      "subject":"BIOL",
+      "catalog_number":"487",
+      "title":"Computational Neuroscience",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:48-05:00"
+    },
+    {
+      "class_number":7226,
+      "subject":"STV",
+      "catalog_number":"203",
+      "title":"Biotechnology and Society",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Shelley,Cameron P"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:18-05:00"
+    },
+    {
+      "class_number":4620,
+      "subject":"SYDE",
+      "catalog_number":"522",
+      "title":"Machine Intelligence",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Khamis,Alaa"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":4754,
+      "subject":"SYDE",
+      "catalog_number":"544",
+      "title":"Biomedical Measurement and Signal Processing",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":4754,
+      "subject":"SYDE",
+      "catalog_number":"544",
+      "title":"Biomedical Measurement and Signal Processing",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":4755,
+      "subject":"SYDE",
+      "catalog_number":"544",
+      "title":"Biomedical Measurement and Signal Processing",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":5256,
+      "subject":"SYDE",
+      "catalog_number":"552",
+      "title":"Computational Neuroscience",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:29-05:00"
+    },
+    {
+      "class_number":5257,
+      "subject":"SYDE",
+      "catalog_number":"552",
+      "title":"Computational Neuroscience",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Tripp,Bryan Patrick"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:29-05:00"
+    },
+    {
+      "class_number":4838,
+      "subject":"SYDE",
+      "catalog_number":"556",
+      "title":"Simulating Neurobiological Systems",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Eliasmith,Christopher"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:29-05:00"
+    },
+    {
+      "class_number":5203,
+      "subject":"SYDE",
+      "catalog_number":"621",
+      "title":"Mathematics of Computation",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Ponnambalam,Kumaraswamy"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:21-05:00"
+    },
+    {
+      "class_number":8363,
+      "subject":"SYDE",
+      "catalog_number":"674",
+      "title":"3D Computer Vision",
+      "section":"LEC 001",
+      "weekdays":"TW",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Kofman,Jonathan"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:22-05:00"
+    },
+    {
+      "class_number":5062,
+      "subject":"SYDE",
+      "catalog_number":"750",
+      "title":"Topics in Systems Modelling",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Eliasmith,Christopher"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:23-05:00"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":5485,
+    "timestamp":1420353860,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6602,
+      "subject":"CHEM",
+      "catalog_number":"233",
+      "title":"Fundamentals of Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Dieckmann,Thorsten"
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
+    },
+    {
+      "class_number":6826,
+      "subject":"CHEM",
+      "catalog_number":"313",
+      "title":"Main Group and Solid State Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Lee,Sonny S.C."
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":7720,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 117",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7721,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 118",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6167,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 109",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6194,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":6247,
+      "subject":"CS",
+      "catalog_number":"245",
+      "title":"Logic and Computation",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":5769,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":5787,
+      "subject":"CS",
+      "catalog_number":"490",
+      "title":"Information Systems Management",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Liu,Zhiyong Michael"
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:04-05:00"
+    },
+    {
+      "class_number":6156,
+      "subject":"MATBUS",
+      "catalog_number":"472",
+      "title":"Risk Management",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Freeland,R Keith"
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:08-05:00"
+    },
+    {
+      "class_number":5905,
+      "subject":"MATH",
+      "catalog_number":"106",
+      "title":"Applied Linear Algebra 1",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4638,
+      "subject":"ME",
+      "catalog_number":"321",
+      "title":"Kinematics and Dynamics of Machines",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4542,
+      "subject":"ME",
+      "catalog_number":"340",
+      "title":"Manufacturing Processes",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4656,
+      "subject":"ME",
+      "catalog_number":"360",
+      "title":"Introduction to Control Systems",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4657,
+      "subject":"ME",
+      "catalog_number":"360",
+      "title":"Introduction to Control Systems",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":6095,
+      "subject":"STAT",
+      "catalog_number":"321",
+      "title":"Regression and Forecasting (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    },
+    {
+      "class_number":5227,
+      "subject":"ME",
+      "catalog_number":"653",
+      "title":"Radiation Heat Transfer",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Daun,Kyle James"
+      ],
+      "building":"MC",
+      "room":"4042",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:47-05:00"
+    }
+  ]
+}

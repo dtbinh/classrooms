@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5403,
+    "timestamp":1420353833,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7615,
+      "subject":"FINE",
+      "catalog_number":"204",
+      "title":"Topics in Studio Practice",
+      "section":"STU 002",
+      "weekdays":"TTh",
+      "start_time":"15:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Tingley,Jane"
+      ],
+      "building":"ECH",
+      "room":"1222",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":4405,
+      "subject":"FINE",
+      "catalog_number":"222",
+      "title":"Principles of Sculpture",
+      "section":"STU 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"1222",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":5381,
+    "timestamp":1420353823,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5094,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5095,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"331",
+      "title":"Electronic Devices",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    }
+  ]
+}

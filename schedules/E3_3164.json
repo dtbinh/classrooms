@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5386,
+    "timestamp":1420353825,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4759,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4760,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4826,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":5136,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":5137,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":5138,
+      "subject":"MTE",
+      "catalog_number":"360",
+      "title":"Automatic Control Systems",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    }
+  ]
+}

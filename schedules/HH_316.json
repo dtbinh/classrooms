@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5457,
+    "timestamp":1420353850,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3333,
+      "subject":"PSCI",
+      "catalog_number":"499B",
+      "title":"Special Honours Essay",
+      "section":"ESS 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Boychuk,Gerard"
+      ],
+      "building":"HH",
+      "room":"316",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:26-05:00"
+    }
+  ]
+}

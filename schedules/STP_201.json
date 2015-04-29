@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5606,
+    "timestamp":1420353906,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8258,
+      "subject":"ANTH",
+      "catalog_number":"370",
+      "title":"Issues in Contemporary Native Communities in Canada",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Freeman,Bonnie"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:29-05:00"
+    },
+    {
+      "class_number":5522,
+      "subject":"INDEV",
+      "catalog_number":"10",
+      "title":"International Development Seminar",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Ryder,Grainne"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:41-05:00"
+    },
+    {
+      "class_number":5628,
+      "subject":"INDEV",
+      "catalog_number":"101",
+      "title":"Issues in International Development",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5497,
+      "subject":"INDEV",
+      "catalog_number":"202",
+      "title":"Accounting for Development Organizations",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Stirbet,Hari"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5498,
+      "subject":"INDEV",
+      "catalog_number":"212",
+      "title":"Problem-solving for Development",
+      "section":"WSP 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Singh,Simron"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5523,
+      "subject":"INDEV",
+      "catalog_number":"303",
+      "title":"Marketing and Communication for Development Agents",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Ford,Victoria"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5567,
+      "subject":"INDEV",
+      "catalog_number":"308",
+      "title":"Introduction to Social Entrepreneurship",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Stirbet,Hari"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":8257,
+      "subject":"NATST",
+      "catalog_number":"370",
+      "title":"Issues in Contemporary Native Communities in Canada",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Freeman,Bonnie"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:33-05:00"
+    },
+    {
+      "class_number":7954,
+      "subject":"PHIL",
+      "catalog_number":"237",
+      "title":"Introduction to the Philosophy of Religion",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Brown,Graham"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:58-05:00"
+    },
+    {
+      "class_number":8269,
+      "subject":"RS",
+      "catalog_number":"261",
+      "title":"Introduction to the Philosophy of Religion",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Brown,Graham"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:46-05:00"
+    }
+  ]
+}

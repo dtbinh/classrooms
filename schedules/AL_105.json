@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":5607,
+    "timestamp":1420353938,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3804,
+      "subject":"ARBUS",
+      "catalog_number":"302",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 003",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":3496,
+      "subject":"ARTS",
+      "catalog_number":"101",
+      "title":"Foundations for Writing",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Shakespeare,Robert David"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:35-05:00"
+    },
+    {
+      "class_number":8099,
+      "subject":"CLAS",
+      "catalog_number":"205",
+      "title":"Medieval Society",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Hutter,Daniel E"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:41-05:00"
+    },
+    {
+      "class_number":8100,
+      "subject":"CLAS",
+      "catalog_number":"232",
+      "title":"Survey of Roman Literature",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Vester,Christina"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:42-05:00"
+    },
+    {
+      "class_number":3742,
+      "subject":"ECON",
+      "catalog_number":"211",
+      "title":"Introduction to Mathematical Economics",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Burbidge,John"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:33-05:00"
+    },
+    {
+      "class_number":3626,
+      "subject":"ECON",
+      "catalog_number":"344",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 003",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:36-05:00"
+    },
+    {
+      "class_number":5401,
+      "subject":"ERS",
+      "catalog_number":"415",
+      "title":"Environmental and Sustainability Assessment III",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Gibson,Robert B"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":3446,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Sabaryn,Therese"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3212,
+      "subject":"HLTH",
+      "catalog_number":"253",
+      "title":"Demographic Change in Canada",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Cooke,Martin"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3889,
+      "subject":"LS",
+      "catalog_number":"321",
+      "title":"Introduction to Research Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Schulenberg,Jennifer Lina"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:06-05:00"
+    },
+    {
+      "class_number":8103,
+      "subject":"MEDVL",
+      "catalog_number":"205",
+      "title":"Medieval Society",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Hutter,Daniel E"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:19-05:00"
+    },
+    {
+      "class_number":3928,
+      "subject":"PHIL",
+      "catalog_number":"110B",
+      "title":"Introduction to Philosophy: Ethics and Values",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Douglas,Heather"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
+    },
+    {
+      "class_number":4259,
+      "subject":"PHIL",
+      "catalog_number":"224",
+      "title":"Environmental Ethics",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Richards,Edward"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:58-05:00"
+    },
+    {
+      "class_number":7998,
+      "subject":"PLAN",
+      "catalog_number":"401",
+      "title":"Planners and Planning Tribunals",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Seasons,Mark"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    },
+    {
+      "class_number":4062,
+      "subject":"PSCI",
+      "catalog_number":"300",
+      "title":"Foundations of Political Economy",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Rosales Nieves,Antulio"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    },
+    {
+      "class_number":4247,
+      "subject":"SOC",
+      "catalog_number":"253",
+      "title":"Demographic Change in Canada",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Cooke,Martin"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:01-05:00"
+    },
+    {
+      "class_number":3890,
+      "subject":"SOC",
+      "catalog_number":"321",
+      "title":"Introduction to Research Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Schulenberg,Jennifer Lina"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:02-05:00"
+    },
+    {
+      "class_number":4044,
+      "subject":"ECON",
+      "catalog_number":"606",
+      "title":"Research Methodology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Rybczynski,Kathleen K"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:16-05:00"
+    },
+    {
+      "class_number":8017,
+      "subject":"PLAN",
+      "catalog_number":"601",
+      "title":"Planning Tribunals",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Seasons,Mark"
+      ],
+      "building":"AL",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:02-05:00"
+    }
+  ]
+}

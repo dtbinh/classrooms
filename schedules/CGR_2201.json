@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5334,
+    "timestamp":1420353805,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7228,
+      "subject":"TS",
+      "catalog_number":"611",
+      "title":"Reading and Teaching the New Testament",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Batten,Alicia"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:25-05:00"
+    },
+    {
+      "class_number":7229,
+      "subject":"TS",
+      "catalog_number":"621",
+      "title":"Special Topics: Pastor's Theology Seminar",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Frey,Miriam"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:26-05:00"
+    },
+    {
+      "class_number":7230,
+      "subject":"TS",
+      "catalog_number":"640",
+      "title":"The Mennonite Tradition in Historical Context",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Snyder,C.Arnold"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:26-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"TS",
+      "catalog_number":"738",
+      "title":"Systematic Theology",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Bergen,Jeremy"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:27-05:00"
+    }
+  ]
+}

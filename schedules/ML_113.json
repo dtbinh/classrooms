@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5498,
+    "timestamp":1420353865,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3900,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":7136,
+      "subject":"ITAL",
+      "catalog_number":"102",
+      "title":"Introduction to Italian Language 2",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:52-05:00"
+    },
+    {
+      "class_number":7144,
+      "subject":"ITAL",
+      "catalog_number":"102",
+      "title":"Introduction to Italian Language 2",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:52-05:00"
+    },
+    {
+      "class_number":3718,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3719,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 106",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3736,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 107",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3883,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3884,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 109",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3403,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3405,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"113",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    }
+  ]
+}

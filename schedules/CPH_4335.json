@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5345,
+    "timestamp":1420353810,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5041,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":23,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5041,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":23,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5041,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":23,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5041,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":23,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5042,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5042,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5042,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5042,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5123,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5123,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5123,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5123,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5124,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5124,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5124,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":5124,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":22,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    }
+  ]
+}

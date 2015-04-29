@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5458,
+    "timestamp":1420353850,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8037,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Easton,Fraser"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":8039,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Al Ethari,Lamees"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":8048,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 015",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Cronin,Keely Marie Lynn"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":4309,
+      "subject":"ENGL",
+      "catalog_number":"330A",
+      "title":"Sixteenth-Century Literature 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Graham,Kenneth"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:50-05:00"
+    },
+    {
+      "class_number":8061,
+      "subject":"ENGL",
+      "catalog_number":"451B",
+      "title":"Literature of the Victorian Age 2",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "North,John"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:53-05:00"
+    },
+    {
+      "class_number":4194,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4196,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4198,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 105",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4199,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 106",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4200,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 107",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4202,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 109",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4204,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 111",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4209,
+      "subject":"PSCI",
+      "catalog_number":"231",
+      "title":"Government and Business",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4211,
+      "subject":"PSCI",
+      "catalog_number":"231",
+      "title":"Government and Business",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4213,
+      "subject":"PSCI",
+      "catalog_number":"231",
+      "title":"Government and Business",
+      "section":"DIS 105",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":4231,
+      "subject":"PSCI",
+      "catalog_number":"282",
+      "title":"Foreign Policy",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    }
+  ]
+}

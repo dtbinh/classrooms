@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5383,
+    "timestamp":1420353824,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5285,
+      "subject":"CIVE",
+      "catalog_number":"614",
+      "title":"Structural Dynamics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Narasimhan,Sriram"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:53-05:00"
+    },
+    {
+      "class_number":5314,
+      "subject":"CIVE",
+      "catalog_number":"643",
+      "title":"Fundamentals of Traffic Flow Theory",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Hellinga,Bruce"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:53-05:00"
+    },
+    {
+      "class_number":5212,
+      "subject":"CIVE",
+      "catalog_number":"670",
+      "title":"Physico-Chemical Processes of Water and Wastewater Treatment",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Emelko,Monica B"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:53-05:00"
+    },
+    {
+      "class_number":5312,
+      "subject":"CIVE",
+      "catalog_number":"680",
+      "title":"Water Management",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Burn,Donald H"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:54-05:00"
+    },
+    {
+      "class_number":7416,
+      "subject":"CIVE",
+      "catalog_number":"701",
+      "title":"Topics in Mechanics",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Xie,Wei-Chau"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:54-05:00"
+    },
+    {
+      "class_number":8365,
+      "subject":"CIVE",
+      "catalog_number":"710",
+      "title":"Advanced Project Management",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Haas,Carl T"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:54-05:00"
+    },
+    {
+      "class_number":8381,
+      "subject":"CIVE",
+      "catalog_number":"750",
+      "title":"Topics in Geotechnical Engineering",
+      "section":"RDG 001",
+      "weekdays":"TF",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Cascante,Giovanni"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:55-05:00"
+    }
+  ]
+}

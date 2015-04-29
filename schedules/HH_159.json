@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5450,
+    "timestamp":1420353848,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6533,
+      "subject":"BIOL",
+      "catalog_number":"373",
+      "title":"Principles of Human Physiology 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":532,
+      "instructors":[
+        "Engelhardt,Heidi"
+      ],
+      "building":"HH",
+      "room":"159",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:45-05:00"
+    },
+    {
+      "class_number":4104,
+      "subject":"CLAS",
+      "catalog_number":"104",
+      "title":"Classical Mythology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":675,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"HH",
+      "room":"159",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:40-05:00"
+    },
+    {
+      "class_number":3352,
+      "subject":"PSYCH",
+      "catalog_number":"101",
+      "title":"Introductory Psychology",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":541,
+      "instructors":[
+        "Denison,Stephanie"
+      ],
+      "building":"HH",
+      "room":"159",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:27-05:00"
+    },
+    {
+      "class_number":3390,
+      "subject":"SOC",
+      "catalog_number":"101",
+      "title":"Introduction to Sociology",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":303,
+      "instructors":[
+        "McClinchey,C.Barry"
+      ],
+      "building":"HH",
+      "room":"159",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
+    }
+  ]
+}

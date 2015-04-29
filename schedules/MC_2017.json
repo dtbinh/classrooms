@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5470,
+    "timestamp":1420353855,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6091,
+      "subject":"AMATH",
+      "catalog_number":"342",
+      "title":"Computational Methods for Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "De Sterck,Hans"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:24-05:00"
+    },
+    {
+      "class_number":5889,
+      "subject":"CS",
+      "catalog_number":"343",
+      "title":"Concurrent and Parallel Programming",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Kierstead,Caroline"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:56-05:00"
+    },
+    {
+      "class_number":5784,
+      "subject":"CS",
+      "catalog_number":"348",
+      "title":"Introduction to Database Management",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Weddell,Grant"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:57-05:00"
+    },
+    {
+      "class_number":3314,
+      "subject":"ECON",
+      "catalog_number":"201",
+      "title":"Microeconomic Theory 1",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Rajsic,Predrag"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":6051,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "McKinnon,David"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6320,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 104",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4928,
+      "subject":"NE",
+      "catalog_number":"402",
+      "title":"Nanotechnology Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":97,
+      "instructors":[
+        "Maheshwari,Vivek"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:36-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":7010,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":7011,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":6072,
+      "subject":"STAT",
+      "catalog_number":"220",
+      "title":"Probability (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Roberts,Collin Donald"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":5754,
+      "subject":"STAT",
+      "catalog_number":"333",
+      "title":"Applied Probability",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Shen,Yi"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    }
+  ]
+}

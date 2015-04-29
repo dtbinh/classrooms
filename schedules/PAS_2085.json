@@ -1,0 +1,434 @@
+{
+  "meta":{
+    "requests":5526,
+    "timestamp":1420353875,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5397,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5593,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5516,
+      "subject":"ERS",
+      "catalog_number":"411B",
+      "title":"Environmental Research Project III",
+      "section":"PRJ 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Courtenay,Simon"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":5518,
+      "subject":"ERS",
+      "catalog_number":"412B",
+      "title":"Environmental Research Project III",
+      "section":"PRJ 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Courtenay,Simon"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":3471,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 101",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3523,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 105",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3653,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 107",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3894,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 110",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3475,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3477,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3479,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 105",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3482,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 108",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3490,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 109",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3898,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 110",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3979,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 111",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":7506,
+      "subject":"SOC",
+      "catalog_number":"408",
+      "title":"Contemporary Debates in Sociological Theory",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Dawson,Lorne"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:04-05:00"
+    },
+    {
+      "class_number":3520,
+      "subject":"SOC",
+      "catalog_number":"498",
+      "title":"Directed Studies",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Whitson,Jennifer"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:05-05:00"
+    },
+    {
+      "class_number":8199,
+      "subject":"ENGL",
+      "catalog_number":"760",
+      "title":"Studies in 20th-Century American Literature",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Slethaug,Gordon"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:20-05:00"
+    },
+    {
+      "class_number":7415,
+      "subject":"FR",
+      "catalog_number":"603",
+      "title":"Linguistics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Kaminskaia,Svetlana"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:24-05:00"
+    },
+    {
+      "class_number":7413,
+      "subject":"FR",
+      "catalog_number":"685",
+      "title":"Studies in Selected Topics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Pare,Francois"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:24-05:00"
+    },
+    {
+      "class_number":7414,
+      "subject":"FR",
+      "catalog_number":"685",
+      "title":"Studies in Selected Topics",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Penate,Rocky"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:24-05:00"
+    }
+  ]
+}

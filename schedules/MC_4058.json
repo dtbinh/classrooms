@@ -1,0 +1,514 @@
+{
+  "meta":{
+    "requests":5487,
+    "timestamp":1420353861,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7931,
+      "subject":"CO",
+      "catalog_number":"444",
+      "title":"Algebraic Graph Theory",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Godsil,Christopher D"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:45-05:00"
+    },
+    {
+      "class_number":8286,
+      "subject":"CO",
+      "catalog_number":"452",
+      "title":"Integer Programming",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Guenin,Bertrand"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:45-05:00"
+    },
+    {
+      "class_number":6015,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6028,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6029,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6078,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6192,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5767,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":6251,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":5777,
+      "subject":"CS",
+      "catalog_number":"436",
+      "title":"Networks and Distributed Computer Systems",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Limam,Noura"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:00-05:00"
+    },
+    {
+      "class_number":6782,
+      "subject":"EARTH",
+      "catalog_number":"435",
+      "title":"Advanced Structural Geology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Li,Changcheng"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:12-05:00"
+    },
+    {
+      "class_number":6782,
+      "subject":"EARTH",
+      "catalog_number":"435",
+      "title":"Advanced Structural Geology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Li,Changcheng"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:12-05:00"
+    },
+    {
+      "class_number":4939,
+      "subject":"ECE",
+      "catalog_number":"103",
+      "title":"Discrete Mathematics",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Pei,Martin"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4944,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Mansour,Firas K"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4950,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4952,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5037,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 106",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5801,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5964,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 106",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Sellaroli,Giuseppe"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6062,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 108",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Hamilton,Jordan"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":7429,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 110",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Andre,Robert"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5907,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Miskovic,Zoran"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5922,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 105",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Garbary,Robert"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":7947,
+      "subject":"CO",
+      "catalog_number":"644",
+      "title":"Algebraic Graph Theory",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Godsil,Christopher D"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:57-05:00"
+    },
+    {
+      "class_number":7948,
+      "subject":"CO",
+      "catalog_number":"652",
+      "title":"Integer Programming",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Guenin,Bertrand"
+      ],
+      "building":"MC",
+      "room":"4058",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:58-05:00"
+    }
+  ]
+}

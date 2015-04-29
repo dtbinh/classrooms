@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5514,
+    "timestamp":1420353870,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6778,
+      "subject":"OPTOM",
+      "catalog_number":"152L",
+      "title":"Clinical Techniques 1 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Hadley,Ken Douglas"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6779,
+      "subject":"OPTOM",
+      "catalog_number":"152L",
+      "title":"Clinical Techniques 1 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Hadley,Ken Douglas"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6858,
+      "subject":"OPTOM",
+      "catalog_number":"255L",
+      "title":"Diseases of the Eye 2 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Labreche,Tammy"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6859,
+      "subject":"OPTOM",
+      "catalog_number":"255L",
+      "title":"Diseases of the Eye 2 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Labreche,Tammy"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6705,
+      "subject":"OPTOM",
+      "catalog_number":"262",
+      "title":"Clinical Techniques 3",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Hrynchak,Patricia K"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6706,
+      "subject":"OPTOM",
+      "catalog_number":"262",
+      "title":"Clinical Techniques 3",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Hrynchak,Patricia K"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6653,
+      "subject":"OPTOM",
+      "catalog_number":"272",
+      "title":"Strabismus and Aniseikonia",
+      "section":"CLN 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6654,
+      "subject":"OPTOM",
+      "catalog_number":"272",
+      "title":"Strabismus and Aniseikonia",
+      "section":"CLN 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6658,
+      "subject":"OPTOM",
+      "catalog_number":"367",
+      "title":"Contact Lenses 2",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Sorbara,Luigina"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6659,
+      "subject":"OPTOM",
+      "catalog_number":"367",
+      "title":"Contact Lenses 2",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Sorbara,Luigina"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6681,
+      "subject":"OPTOM",
+      "catalog_number":"377",
+      "title":"Pediatric Optometry and Learning Disabilities",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Leat,Susan"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6682,
+      "subject":"OPTOM",
+      "catalog_number":"377",
+      "title":"Pediatric Optometry and Learning Disabilities",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Leat,Susan"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    }
+  ]
+}

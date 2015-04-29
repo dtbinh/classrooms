@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5320,
+    "timestamp":1420353800,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3147,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 106",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":2990,
+      "subject":"HLTH",
+      "catalog_number":"444",
+      "title":"Program Evaluation",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Myers,Anita M"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:39-05:00"
+    },
+    {
+      "class_number":7964,
+      "subject":"HLTH",
+      "catalog_number":"451",
+      "title":"Analysis and Management of Health Information in Aging Populations",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Hirdes,John"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:39-05:00"
+    },
+    {
+      "class_number":3131,
+      "subject":"HSG",
+      "catalog_number":"620",
+      "title":"Selected Topics",
+      "section":"RDG 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Hirdes,John"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"HSG",
+      "catalog_number":"720",
+      "title":"Advanced Topics",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Myers,Anita M"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    }
+  ]
+}

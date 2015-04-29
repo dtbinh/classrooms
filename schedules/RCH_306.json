@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5576,
+    "timestamp":1420353896,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7632,
+      "subject":"AFM",
+      "catalog_number":"424",
+      "title":"Equity Investments",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Ecclestone,Andrew Peter"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:19-05:00"
+    },
+    {
+      "class_number":7633,
+      "subject":"AFM",
+      "catalog_number":"424",
+      "title":"Equity Investments",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Ecclestone,Andrew Peter"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:19-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"BIOL",
+      "catalog_number":"403",
+      "title":"Advanced Topics in Developmental Biology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Marsden,Mungo"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:45-05:00"
+    },
+    {
+      "class_number":6608,
+      "subject":"CHEM",
+      "catalog_number":"265",
+      "title":"Organic Chemistry 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "Barra,Monica"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:29-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"265",
+      "title":"Organic Chemistry 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "Barra,Monica"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:29-05:00"
+    },
+    {
+      "class_number":6027,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6881,
+      "subject":"EARTH",
+      "catalog_number":"460",
+      "title":"Applied Geophysics 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Endres,Anthony L."
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:13-05:00"
+    },
+    {
+      "class_number":4728,
+      "subject":"ECE",
+      "catalog_number":"477",
+      "title":"Photonic Devices and Systems",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Majedi,Amir H"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5494,
+      "subject":"ENBUS",
+      "catalog_number":"302",
+      "title":"Strategies for Environment and Business",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":8142,
+      "subject":"HIST",
+      "catalog_number":"271",
+      "title":"The Histories of Indigenous Peoples in the Local and Global World",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Roy,Susan"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":7046,
+      "subject":"PHYS",
+      "catalog_number":"270",
+      "title":"Astronomical Observations, Instrumentation and Data Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Fich,Michel"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:08-05:00"
+    },
+    {
+      "class_number":6520,
+      "subject":"PHYS",
+      "catalog_number":"375",
+      "title":"Stars",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"19:00",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Broderick,Avery"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:10-05:00"
+    },
+    {
+      "class_number":8191,
+      "subject":"PLAN",
+      "catalog_number":"474",
+      "title":"Special Topics in Planning",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Qian,Zhu"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:15-05:00"
+    },
+    {
+      "class_number":7908,
+      "subject":"PSCI",
+      "catalog_number":"355",
+      "title":"Politics Among the Soviet Successor States",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:22-05:00"
+    },
+    {
+      "class_number":4808,
+      "subject":"ECE",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Majedi,Amir H"
+      ],
+      "building":"RCH",
+      "room":"306",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    }
+  ]
+}

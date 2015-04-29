@@ -1,0 +1,594 @@
+{
+  "meta":{
+    "requests":5483,
+    "timestamp":1420353859,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6558,
+      "subject":"BIOL",
+      "catalog_number":"239",
+      "title":"Genetics",
+      "section":"TUT 108",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:41-05:00"
+    },
+    {
+      "class_number":8170,
+      "subject":"COMM",
+      "catalog_number":"103",
+      "title":"Mathematical Introduction to Economics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Fahmy,Hany"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:46-05:00"
+    },
+    {
+      "class_number":6046,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6168,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 110",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7725,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 112",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7727,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 114",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5762,
+      "subject":"CS",
+      "catalog_number":"230",
+      "title":"Introduction to Computers and Computer Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":6193,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5766,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5961,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5879,
+      "subject":"CS",
+      "catalog_number":"245",
+      "title":"Logic and Computation",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":6198,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:54-05:00"
+    },
+    {
+      "class_number":6253,
+      "subject":"CS",
+      "catalog_number":"448",
+      "title":"Database Systems Implementation",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Ilyas,Ihab"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:01-05:00"
+    },
+    {
+      "class_number":4940,
+      "subject":"ECE",
+      "catalog_number":"103",
+      "title":"Discrete Mathematics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Pei,Martin"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4945,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Mansour,Firas K"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5035,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5036,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4957,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Zarnett,Jeffrey"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4958,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Zarnett,Jeffrey"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":6056,
+      "subject":"MATH",
+      "catalog_number":"104",
+      "title":"Introductory Calculus for Arts and Social Science",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Kowalik-Urbaniak,Ilona Anna"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5802,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":7430,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 111",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Andre,Robert"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5923,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 106",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Garbary,Robert"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4637,
+      "subject":"ME",
+      "catalog_number":"321",
+      "title":"Kinematics and Dynamics of Machines",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4661,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"TUT 202",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:14-05:00"
+    },
+    {
+      "class_number":4934,
+      "subject":"NE",
+      "catalog_number":"499",
+      "title":"Special Topics in Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Chen,Zhongwei"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:38-05:00"
+    },
+    {
+      "class_number":3160,
+      "subject":"REC",
+      "catalog_number":"351",
+      "title":"Therapeutic Recreation Facilitation Techniques",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Knutson,Shannon"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:41-05:00"
+    },
+    {
+      "class_number":6096,
+      "subject":"STAT",
+      "catalog_number":"321",
+      "title":"Regression and Forecasting (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    },
+    {
+      "class_number":6241,
+      "subject":"CS",
+      "catalog_number":"648",
+      "title":"Database Systems Implementation",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Ilyas,Ihab"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:03-05:00"
+    }
+  ]
+}

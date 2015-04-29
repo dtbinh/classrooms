@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5600,
+    "timestamp":1420353904,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3901,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Lappin-Fortin,Kerry"
+      ],
+      "building":"STJ",
+      "room":"3014",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":7141,
+      "subject":"HUMSC",
+      "catalog_number":"301",
+      "title":"Great Dialogues: The Sacred and the Profane",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Greenwood,John Philip Peter"
+      ],
+      "building":"STJ",
+      "room":"3014",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:41-05:00"
+    },
+    {
+      "class_number":5989,
+      "subject":"MATH",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Knoll,Carolyn Alexis"
+      ],
+      "building":"STJ",
+      "room":"3014",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5992,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 008",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Szestopalow,Michael"
+      ],
+      "building":"STJ",
+      "room":"3014",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":7888,
+      "subject":"RS",
+      "catalog_number":"291",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Perrin,David B"
+      ],
+      "building":"STJ",
+      "room":"3014",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    }
+  ]
+}

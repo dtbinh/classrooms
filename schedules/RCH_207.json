@@ -1,0 +1,356 @@
+{
+  "meta":{
+    "requests":5568,
+    "timestamp":1420353893,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4968,
+      "subject":"CIVE",
+      "catalog_number":"440",
+      "title":"Transit Planning and Operations",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Casello,Jeffrey"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:38-05:00"
+    },
+    {
+      "class_number":4979,
+      "subject":"CIVE",
+      "catalog_number":"542",
+      "title":"Pavement Structural Design",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "El-Hakim,Mohab",
+        "Ambaiowei,Doubra"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:39-05:00"
+    },
+    {
+      "class_number":6471,
+      "subject":"EARTH",
+      "catalog_number":"221",
+      "title":"Geochemistry 1",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        "Kendall,Brian",
+        "Schiff,Sherry L"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:09-05:00"
+    },
+    {
+      "class_number":4338,
+      "subject":"ECON",
+      "catalog_number":"451",
+      "title":"Law and Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Curry,Philip A"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:38-05:00"
+    },
+    {
+      "class_number":5559,
+      "subject":"ENBUS",
+      "catalog_number":"302",
+      "title":"Strategies for Environment and Business",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":7842,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 010",
+      "weekdays":"TThF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":7844,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 012",
+      "weekdays":"MWTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":8132,
+      "subject":"GEOG",
+      "catalog_number":"293",
+      "title":"Professional and Scholarly Practice in Geography",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Joakim,Erin Pauline"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5418,
+      "subject":"GEOG",
+      "catalog_number":"490A",
+      "title":"Honours Thesis Preparation",
+      "section":"PRJ 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Deadman,Peter J"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:27-05:00"
+    },
+    {
+      "class_number":5419,
+      "subject":"GEOG",
+      "catalog_number":"490B",
+      "title":"Honours Thesis Completion",
+      "section":"PRJ 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Deadman,Peter J"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:27-05:00"
+    },
+    {
+      "class_number":8065,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":3175,
+      "subject":"KIN",
+      "catalog_number":"471",
+      "title":"Contemporary Issues in Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Giangregorio,Lora Marie"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":4769,
+      "subject":"MTE",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":5109,
+      "subject":"MTE",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":6938,
+      "subject":"PHYS",
+      "catalog_number":"263",
+      "title":"Classical Mechanics and Special Relativity",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Matsen,Mark"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":5551,
+      "subject":"PLAN",
+      "catalog_number":"478",
+      "title":"Transit Planning and Operations",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Casello,Jeffrey"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:16-05:00"
+    },
+    {
+      "class_number":8362,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Astley,Joanne"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:23-05:00"
+    }
+  ]
+}

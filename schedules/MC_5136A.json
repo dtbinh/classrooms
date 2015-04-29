@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5493,
+    "timestamp":1420353863,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6037,
+      "subject":"AMATH",
+      "catalog_number":"777",
+      "title":"Stochastic Processes in the Physical Sciences",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Miskovic,Zoran"
+      ],
+      "building":"MC",
+      "room":"5136A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    },
+    {
+      "class_number":7551,
+      "subject":"PMATH",
+      "catalog_number":"763",
+      "title":"Introduction to Lie Groups and Lie Algebras",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Karigiannis,Spiro"
+      ],
+      "building":"MC",
+      "room":"5136A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:05-05:00"
+    },
+    {
+      "class_number":8334,
+      "subject":"PMATH",
+      "catalog_number":"810",
+      "title":"Banach Algebras and Operator Theory",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Spronk,Nicolaas"
+      ],
+      "building":"MC",
+      "room":"5136A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:05-05:00"
+    },
+    {
+      "class_number":7552,
+      "subject":"PMATH",
+      "catalog_number":"930",
+      "title":"Topics in Logic",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Csima,Barbara"
+      ],
+      "building":"MC",
+      "room":"5136A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:05-05:00"
+    },
+    {
+      "class_number":7554,
+      "subject":"PMATH",
+      "catalog_number":"965",
+      "title":"Topics in Geometry & Topology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Seyyedali,Reza"
+      ],
+      "building":"MC",
+      "room":"5136A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:05-05:00"
+    }
+  ]
+}

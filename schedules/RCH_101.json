@@ -1,0 +1,375 @@
+{
+  "meta":{
+    "requests":5557,
+    "timestamp":1420353889,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6543,
+      "subject":"BIOL",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":265,
+      "instructors":[
+        "Chuong,Simon S.D.X."
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"165",
+      "title":"Diversity of Life",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":314,
+      "instructors":[
+        "Witt,Jonathan",
+        "Muller,Kirsten"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":6564,
+      "subject":"BIOL",
+      "catalog_number":"241",
+      "title":"Introduction to Applied Microbiology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":319,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:41-05:00"
+    },
+    {
+      "class_number":6575,
+      "subject":"BIOL",
+      "catalog_number":"273",
+      "title":"Principles of Human Physiology 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":352,
+      "instructors":[
+        "Dayeh,Vivian Rashida"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"273",
+      "title":"Principles of Human Physiology 1",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":352,
+      "instructors":[
+        "Dayeh,Vivian Rashida"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
+    },
+    {
+      "class_number":6747,
+      "subject":"BIOL",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":352,
+      "instructors":[
+        "Dayeh,Vivian Rashida"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
+    },
+    {
+      "class_number":6627,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Duhamel,Jean"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6701,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":225,
+      "instructors":[
+        "Ingram,Laura Jane"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":350,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6677,
+      "subject":"CHEM",
+      "catalog_number":"237",
+      "title":"Introductory Biochemistry",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":309,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
+    },
+    {
+      "class_number":5259,
+      "subject":"ECE",
+      "catalog_number":"400B",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":297,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":4990,
+      "subject":"ECE",
+      "catalog_number":"459",
+      "title":"Programming for Performance",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":152,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5453,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":288,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":3006,
+      "subject":"KIN",
+      "catalog_number":"330",
+      "title":"Research Design",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":212,
+      "instructors":[
+        "Hall,Peter Anthony"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:59-05:00"
+    },
+    {
+      "class_number":5847,
+      "subject":"MATH",
+      "catalog_number":"237",
+      "title":"Calculus 3 for Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":241,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":4579,
+      "subject":"MSCI",
+      "catalog_number":"442",
+      "title":"Impact of Information Systems on Organizations and Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":182,
+      "instructors":[
+        "Carr,Peter"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:23-05:00"
+    },
+    {
+      "class_number":6150,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Zhu,Yeying"
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6172,
+      "subject":"STAT",
+      "catalog_number":"340",
+      "title":"Computer Simulation of Complex Systems",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":228,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    }
+  ]
+}

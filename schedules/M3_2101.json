@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5465,
+    "timestamp":1420353853,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6086,
+      "subject":"ACTSC",
+      "catalog_number":"621",
+      "title":"Financial Mathematics II",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wood,Peter J"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:38-05:00"
+    },
+    {
+      "class_number":6082,
+      "subject":"ACTSC",
+      "catalog_number":"622",
+      "title":"Life Insurance Mathematics II",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Li,Siu Hang"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:38-05:00"
+    },
+    {
+      "class_number":6083,
+      "subject":"ACTSC",
+      "catalog_number":"623",
+      "title":"Applied Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Balka,Peter"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
+    },
+    {
+      "class_number":6084,
+      "subject":"ACTSC",
+      "catalog_number":"624",
+      "title":"Stochastic Processes for Actuarial Science",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Landriault,David"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
+    },
+    {
+      "class_number":6085,
+      "subject":"ACTSC",
+      "catalog_number":"625",
+      "title":"Casualty and Health Insurance Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wang,Ruodu"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
+    }
+  ]
+}

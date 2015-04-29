@@ -1,0 +1,295 @@
+{
+  "meta":{
+    "requests":5505,
+    "timestamp":1420353867,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7666,
+      "subject":"DRAMA",
+      "catalog_number":"405",
+      "title":"Theatre and the New Media",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    },
+    {
+      "class_number":7847,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Skinner,Patricia Anne"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":3966,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 203",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3972,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 209",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3706,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 004",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Brousseau,Anna Justine"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3372,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Malone,Paul",
+        "Liebscher,Grit"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:27-05:00"
+    },
+    {
+      "class_number":3373,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LEC 002",
+      "weekdays":"MWTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Rocker,Maike"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:27-05:00"
+    },
+    {
+      "class_number":7597,
+      "subject":"GER",
+      "catalog_number":"298",
+      "title":"Topics in Cultural Studies",
+      "section":"SEM 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:29-05:00"
+    },
+    {
+      "class_number":3717,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 003",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Jaimes-Dominguez,Jose Luis"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3882,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Vera Quinn,Regina"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3401,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Vera Quinn,Regina"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3408,
+      "subject":"SPAN",
+      "catalog_number":"201B",
+      "title":"Intermediate Spanish 2",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":3607,
+      "subject":"SPAN",
+      "catalog_number":"228",
+      "title":"Introduction to Latin American Prose",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Boido,Mario"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:10-05:00"
+    },
+    {
+      "class_number":7645,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Doyle,Jennifer"
+      ],
+      "building":"ML",
+      "room":"349",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    }
+  ]
+}

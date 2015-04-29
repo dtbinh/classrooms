@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5316,
+    "timestamp":1420353799,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3142,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3143,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3144,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3145,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3146,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":7982,
+      "subject":"HLTH",
+      "catalog_number":"203",
+      "title":"Systems Thinking for Health",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Kirkpatrick,Sharon"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3148,
+      "subject":"HLTH",
+      "catalog_number":"473",
+      "title":"Contemporary Issues in Health",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Janes,Craig"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:40-05:00"
+    },
+    {
+      "class_number":7984,
+      "subject":"KIN",
+      "catalog_number":"342",
+      "title":"Nutrition and Aging",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Keller,Heather"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:59-05:00"
+    },
+    {
+      "class_number":3223,
+      "subject":"REC",
+      "catalog_number":"314",
+      "title":"Quality Assurance in Recreation and Sport Services",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Potwarka,Luke Richard"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:41-05:00"
+    },
+    {
+      "class_number":3125,
+      "subject":"REC",
+      "catalog_number":"413",
+      "title":"Advanced Seminar in Recreation and Sport Business",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Misener,Katie"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:41-05:00"
+    },
+    {
+      "class_number":7990,
+      "subject":"REC",
+      "catalog_number":"422",
+      "title":"Urban Recreation",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Glover,Troy D"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
+    },
+    {
+      "class_number":3184,
+      "subject":"REC",
+      "catalog_number":"455",
+      "title":"Advanced Seminar in Therapeutic Recreation",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Ferries,Leeann Helen"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
+    },
+    {
+      "class_number":3227,
+      "subject":"REC",
+      "catalog_number":"480",
+      "title":"Tourism Planning, Development and Marketing",
+      "section":"SEM 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Grimwood,Bryan"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:43-05:00"
+    },
+    {
+      "class_number":3099,
+      "subject":"HSG",
+      "catalog_number":"606",
+      "title":"Epidemiological Methods",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Oremus,Mark"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:36-05:00"
+    },
+    {
+      "class_number":3236,
+      "subject":"HSG",
+      "catalog_number":"620",
+      "title":"Selected Topics",
+      "section":"RDG 005",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Janes,Craig"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    }
+  ]
+}

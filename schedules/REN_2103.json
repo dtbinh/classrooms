@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":5590,
+    "timestamp":1420353900,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7790,
+      "subject":"BASE",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"TF",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Corwin,Jesse Eliot"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7804,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7807,
+      "subject":"BASE",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Gillies,Christine"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":6435,
+      "subject":"CHINA",
+      "catalog_number":"302R",
+      "title":"Third-Year Chinese 2",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Bao,Huai"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:34-05:00"
+    },
+    {
+      "class_number":7810,
+      "subject":"CHINA",
+      "catalog_number":"320R",
+      "title":"Chinese in Mass Media",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"12:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Bao,Huai"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:34-05:00"
+    },
+    {
+      "class_number":6438,
+      "subject":"EASIA",
+      "catalog_number":"301R",
+      "title":"The Political Economy of East Asia",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cai,Kevin"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:16-05:00"
+    },
+    {
+      "class_number":7819,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":7822,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6441,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":3552,
+      "subject":"ENGL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Oczkowski,Nancy"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":3424,
+      "subject":"ENGL",
+      "catalog_number":"140R",
+      "title":"The Use of English 1",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Vardon,John F"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":6424,
+      "subject":"JAPAN",
+      "catalog_number":"301R",
+      "title":"Third-Year Japanese 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Kunizane,Kumiko"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:54-05:00"
+    },
+    {
+      "class_number":7864,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Langdon,Sarah"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
+    },
+    {
+      "class_number":7865,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Elworthy,Brendan John"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
+    }
+  ]
+}

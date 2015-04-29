@@ -1,0 +1,594 @@
+{
+  "meta":{
+    "requests":5342,
+    "timestamp":1420353807,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4752,
+      "subject":"CIVE",
+      "catalog_number":"460",
+      "title":"Engineering Biomechanics",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Brodland,G. Wayne"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:39-05:00"
+    },
+    {
+      "class_number":4665,
+      "subject":"ME",
+      "catalog_number":"452",
+      "title":"Energy Transfer in Buildings",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Wright,John L"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4667,
+      "subject":"ME",
+      "catalog_number":"524",
+      "title":"Advanced Dynamics and Vibrations",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Salehian,Armaghan"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4667,
+      "subject":"ME",
+      "catalog_number":"524",
+      "title":"Advanced Dynamics and Vibrations",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Salehian,Armaghan"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4668,
+      "subject":"ME",
+      "catalog_number":"526",
+      "title":"Fatigue and Fracture Analysis",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Kwon,Hyock Ju"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4669,
+      "subject":"ME",
+      "catalog_number":"531",
+      "title":"Physical Metallurgy Applied to Manufacturing",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4669,
+      "subject":"ME",
+      "catalog_number":"531",
+      "title":"Physical Metallurgy Applied to Manufacturing",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"19:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":4670,
+      "subject":"ME",
+      "catalog_number":"533",
+      "title":"Non-metallic and Composite Materials",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Varin,Robert A"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4670,
+      "subject":"ME",
+      "catalog_number":"533",
+      "title":"Non-metallic and Composite Materials",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Varin,Robert A"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4878,
+      "subject":"ME",
+      "catalog_number":"535",
+      "title":"Welding Metallurgy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Zhou,Norman YunHong"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4815,
+      "subject":"ME",
+      "catalog_number":"538",
+      "title":"Welding Design, Fabrication and Quality Control",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Nguyen,Tam C."
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4671,
+      "subject":"ME",
+      "catalog_number":"547",
+      "title":"Robot Manipulators: Kinematics, Dynamics, Control",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Fidan,Baris"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4671,
+      "subject":"ME",
+      "catalog_number":"547",
+      "title":"Robot Manipulators: Kinematics, Dynamics, Control",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Fidan,Baris"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4671,
+      "subject":"ME",
+      "catalog_number":"547",
+      "title":"Robot Manipulators: Kinematics, Dynamics, Control",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Fidan,Baris"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":4673,
+      "subject":"ME",
+      "catalog_number":"555",
+      "title":"Computer-Aided Design",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Khamesee,Behrad"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
+    },
+    {
+      "class_number":8321,
+      "subject":"ME",
+      "catalog_number":"557",
+      "title":"Combustion 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Banister,Carsen"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":8321,
+      "subject":"ME",
+      "catalog_number":"557",
+      "title":"Combustion 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Banister,Carsen"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":4676,
+      "subject":"ME",
+      "catalog_number":"563",
+      "title":"Turbomachines",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Johnson,David A"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":4677,
+      "subject":"ME",
+      "catalog_number":"564",
+      "title":"Aerodynamics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Lien,Fue-Sang S"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":4677,
+      "subject":"ME",
+      "catalog_number":"564",
+      "title":"Aerodynamics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Lien,Fue-Sang S"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":4978,
+      "subject":"ME",
+      "catalog_number":"567",
+      "title":"Fire Safety Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Weckman,Elizabeth J"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":4978,
+      "subject":"ME",
+      "catalog_number":"567",
+      "title":"Fire Safety Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Weckman,Elizabeth J"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":5115,
+      "subject":"ME",
+      "catalog_number":"571",
+      "title":"Air Pollution",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Tan,Zhongchao"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":5115,
+      "subject":"ME",
+      "catalog_number":"571",
+      "title":"Air Pollution",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Tan,Zhongchao"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":7593,
+      "subject":"ME",
+      "catalog_number":"595",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Yarusevych,Serhiy"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":7593,
+      "subject":"ME",
+      "catalog_number":"595",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Yarusevych,Serhiy"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:17-05:00"
+    },
+    {
+      "class_number":8247,
+      "subject":"ME",
+      "catalog_number":"596",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:18-05:00"
+    },
+    {
+      "class_number":4894,
+      "subject":"ME",
+      "catalog_number":"598",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Brodland,G. Wayne"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:18-05:00"
+    },
+    {
+      "class_number":8251,
+      "subject":"ME",
+      "catalog_number":"627",
+      "title":"Fatigue Analysis and Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Kwon,Hyock Ju"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:46-05:00"
+    }
+  ]
+}

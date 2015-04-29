@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":5503,
+    "timestamp":1420353867,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3433,
+      "subject":"DRAMA",
+      "catalog_number":"307",
+      "title":"Spec Studies: Theatre Prod 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"17:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ross,Martha"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":3433,
+      "subject":"DRAMA",
+      "catalog_number":"307",
+      "title":"Spec Studies: Theatre Prod 2",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ross,Martha"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":3451,
+      "subject":"DRAMA",
+      "catalog_number":"307",
+      "title":"Spec Studies: Theatre Prod 2",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"11:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":3451,
+      "subject":"DRAMA",
+      "catalog_number":"307",
+      "title":"Spec Studies: Theatre Prod 2",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":3306,
+      "subject":"DRAMA",
+      "catalog_number":"407",
+      "title":"Theatre Workshop 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"17:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ross,Martha"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    },
+    {
+      "class_number":3306,
+      "subject":"DRAMA",
+      "catalog_number":"407",
+      "title":"Theatre Workshop 2",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ross,Martha"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    },
+    {
+      "class_number":3453,
+      "subject":"DRAMA",
+      "catalog_number":"407",
+      "title":"Theatre Workshop 2",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"11:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    },
+    {
+      "class_number":3453,
+      "subject":"DRAMA",
+      "catalog_number":"407",
+      "title":"Theatre Workshop 2",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    }
+  ]
+}

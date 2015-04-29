@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5400,
+    "timestamp":1420353832,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3910,
+      "subject":"FINE",
+      "catalog_number":"100",
+      "title":"Studio Fundamentals",
+      "section":"STU 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "McCauley,Eva Maria"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":3911,
+      "subject":"FINE",
+      "catalog_number":"150",
+      "title":"Appreciation and Expression",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Cooper,Tara"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":3912,
+      "subject":"FINE",
+      "catalog_number":"150",
+      "title":"Appreciation and Expression",
+      "section":"STU 002",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Cooper,Tara"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":3956,
+      "subject":"FINE",
+      "catalog_number":"225",
+      "title":"Observational Drawing",
+      "section":"STU 002",
+      "weekdays":"MW",
+      "start_time":"18:30",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "McCauley,Eva Maria"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
+    }
+  ]
+}

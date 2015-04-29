@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5387,
+    "timestamp":1420353825,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5328,
+      "subject":"ME",
+      "catalog_number":"729",
+      "title":"Special Topics in Advanced Machine Design Methods",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Nespoli,Oscar Gabriel"
+      ],
+      "building":"E5",
+      "room":"3052",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:48-05:00"
+    },
+    {
+      "class_number":5278,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Nieva,Patricia"
+      ],
+      "building":"E5",
+      "room":"3052",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:49-05:00"
+    },
+    {
+      "class_number":5332,
+      "subject":"NANO",
+      "catalog_number":"702",
+      "title":"Nanotechology Tools",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":"02\/23",
+      "end_date":"04\/01",
+      "enrollment_total":14,
+      "instructors":[
+        "Nieva,Patricia"
+      ],
+      "building":"E5",
+      "room":"3052",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:52-05:00"
+    }
+  ]
+}

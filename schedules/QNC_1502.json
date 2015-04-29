@@ -1,0 +1,1174 @@
+{
+  "meta":{
+    "requests":5551,
+    "timestamp":1420353886,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5783,
+      "subject":"CS",
+      "catalog_number":"447",
+      "title":"Software Testing, Quality Assurance and Maintenance",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:01-05:00"
+    },
+    {
+      "class_number":5242,
+      "subject":"ECE",
+      "catalog_number":"200A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":97,
+      "instructors":[
+        "Neale,Adam John"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5280,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":101,
+      "instructors":[
+        "Mateos Santillan,Edgar"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:22-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5004,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":101,
+      "instructors":[
+        "Wei,Lan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5005,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4588,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4924,
+      "subject":"ECE",
+      "catalog_number":"453",
+      "title":"Software Testing, Quality Assurance and Maintenance",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:29-05:00"
+    },
+    {
+      "class_number":3183,
+      "subject":"HLTH",
+      "catalog_number":"410",
+      "title":"Health Policy",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        "Perlman,Christopher Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:38-05:00"
+    },
+    {
+      "class_number":3219,
+      "subject":"HLTH",
+      "catalog_number":"435",
+      "title":"Knowledge Translation and the Application of Health Evidence",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Corbett,Kitty King"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:39-05:00"
+    },
+    {
+      "class_number":5921,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":8262,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":6107,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Rosen,Julian"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":7486,
+      "subject":"NE",
+      "catalog_number":"102",
+      "title":"Health Risk Assessment and Nanotechnology Engineering Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/06",
+      "end_date":"02\/24",
+      "enrollment_total":112,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7486,
+      "subject":"NE",
+      "catalog_number":"102",
+      "title":"Health Risk Assessment and Nanotechnology Engineering Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/03",
+      "end_date":"03\/31",
+      "enrollment_total":112,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":7487,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":120,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4798,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4799,
+      "subject":"NE",
+      "catalog_number":"122",
+      "title":"Organic Chemistry for Nanotechnology Engineers",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":124,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4871,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":121,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"409",
+      "title":"Nanosystems Design Project and Symposium",
+      "section":"PRJ 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Aziz,Hany"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:36-05:00"
+    },
+    {
+      "class_number":7971,
+      "subject":"SE",
+      "catalog_number":"465",
+      "title":"Software Testing and Quality Assurance",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        "Tan,Lin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":6099,
+      "subject":"STAT",
+      "catalog_number":"431",
+      "title":"Generalized Linear Models and their Applications",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Schonlau,Matthias"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    },
+    {
+      "class_number":5716,
+      "subject":"CS",
+      "catalog_number":"647",
+      "title":"Software Testing, Quality Assurance and Maintenance",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:03-05:00"
+    }
+  ]
+}

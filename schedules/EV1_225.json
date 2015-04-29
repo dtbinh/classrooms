@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5423,
+    "timestamp":1420353839,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5399,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"225",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"SOC",
+      "catalog_number":"783",
+      "title":"Security and Regulation",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "O'Connor,Daniel"
+      ],
+      "building":"EV1",
+      "room":"225",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:16-05:00"
+    }
+  ]
+}

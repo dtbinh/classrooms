@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":5329,
+    "timestamp":1420353804,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4510,
+      "subject":"MUSIC",
+      "catalog_number":"245",
+      "title":"World Music",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Sum,Maisie"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:29-05:00"
+    },
+    {
+      "class_number":4511,
+      "subject":"MUSIC",
+      "catalog_number":"253",
+      "title":"Cathedral and Court: Music to 1600",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Lacoste,Debra"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:29-05:00"
+    },
+    {
+      "class_number":7772,
+      "subject":"MUSIC",
+      "catalog_number":"254",
+      "title":"Monteverdi to Mozart: Music from 1600-1800",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Gray,Laura"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:30-05:00"
+    },
+    {
+      "class_number":4505,
+      "subject":"MUSIC",
+      "catalog_number":"270",
+      "title":"Music Theory 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Paynter,Terry"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:30-05:00"
+    },
+    {
+      "class_number":4505,
+      "subject":"MUSIC",
+      "catalog_number":"270",
+      "title":"Music Theory 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Paynter,Terry"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:30-05:00"
+    },
+    {
+      "class_number":7773,
+      "subject":"MUSIC",
+      "catalog_number":"290",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Vuorinen,Mark"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:30-05:00"
+    }
+  ]
+}

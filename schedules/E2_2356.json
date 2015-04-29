@@ -1,0 +1,1454 @@
+{
+  "meta":{
+    "requests":5375,
+    "timestamp":1420353819,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 202",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":53,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5038,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 204",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":45,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5039,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":49,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5040,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":51,
+      "instructors":[
+        "Jlassi,Bahaedinne"
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5171,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5173,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5174,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5175,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5176,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    }
+  ]
+}

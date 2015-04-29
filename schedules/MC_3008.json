@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5479,
+    "timestamp":1420353858,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6228,
+      "subject":"STAT",
+      "catalog_number":"316",
+      "title":"Introduction to Statistical Problem Solving by Computer",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Robinson,Jack"
+      ],
+      "building":"MC",
+      "room":"3008",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    }
+  ]
+}

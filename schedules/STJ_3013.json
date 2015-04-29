@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5599,
+    "timestamp":1420353904,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3512,
+      "subject":"ENGL",
+      "catalog_number":"336",
+      "title":"Creative Writing 2",
+      "section":"WSP 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Tacon,Claire"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:50-05:00"
+    },
+    {
+      "class_number":7872,
+      "subject":"PHIL",
+      "catalog_number":"405",
+      "title":"Studies in Modern Philosophy",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Zunic,Nikolaj"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:00-05:00"
+    },
+    {
+      "class_number":7888,
+      "subject":"RS",
+      "catalog_number":"291",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Perrin,David B"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    },
+    {
+      "class_number":7140,
+      "subject":"SMF",
+      "catalog_number":"461",
+      "title":"Practicum and Applied Theory",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "De Santis,Carmela"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:58-05:00"
+    },
+    {
+      "class_number":7150,
+      "subject":"SMF",
+      "catalog_number":"496",
+      "title":"Seminar in Family Studies",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Serafini,Toni"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:58-05:00"
+    },
+    {
+      "class_number":8207,
+      "subject":"HIST",
+      "catalog_number":"611",
+      "title":"War and Society in the Twentieth Century II",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Lackenbauer,Paul Whitney"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:30-05:00"
+    },
+    {
+      "class_number":8222,
+      "subject":"HIST",
+      "catalog_number":"691B",
+      "title":"Directed Studies",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Bednarski,Steven"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:31-05:00"
+    }
+  ]
+}

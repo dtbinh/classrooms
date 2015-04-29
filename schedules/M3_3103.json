@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5466,
+    "timestamp":1420353853,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6231,
+      "subject":"ACTSC",
+      "catalog_number":"991",
+      "title":"Topics in Actuarial Science",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Li,Siu Hang"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:40-05:00"
+    },
+    {
+      "class_number":5720,
+      "subject":"STAT",
+      "catalog_number":"908",
+      "title":"Statistical Inference",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Li,Pengfei"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:18-05:00"
+    },
+    {
+      "class_number":5721,
+      "subject":"STAT",
+      "catalog_number":"935",
+      "title":"Analysis of Survival Data",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Boudreau,Christian"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:19-05:00"
+    },
+    {
+      "class_number":5721,
+      "subject":"STAT",
+      "catalog_number":"935",
+      "title":"Analysis of Survival Data",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Boudreau,Christian"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:19-05:00"
+    },
+    {
+      "class_number":6257,
+      "subject":"STAT",
+      "catalog_number":"946",
+      "title":"Topics in Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Drekic,Steve"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:19-05:00"
+    }
+  ]
+}

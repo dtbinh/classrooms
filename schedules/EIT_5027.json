@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5416,
+    "timestamp":1420353837,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8168,
+      "subject":"EARTH",
+      "catalog_number":"642",
+      "title":"Geoliminology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Schiff,Sherry L"
+      ],
+      "building":"EIT",
+      "room":"5027",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:09-05:00"
+    },
+    {
+      "class_number":8387,
+      "subject":"EARTH",
+      "catalog_number":"691",
+      "title":"Special Studies for MSc Students",
+      "section":"RDG 002",
+      "weekdays":"MW",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Kendall,Brian"
+      ],
+      "building":"EIT",
+      "room":"5027",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:10-05:00"
+    }
+  ]
+}

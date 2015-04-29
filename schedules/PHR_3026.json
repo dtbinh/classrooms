@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5537,
+    "timestamp":1420353880,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7568,
+      "subject":"PHARM",
+      "catalog_number":"329",
+      "title":"Professional Practice 3 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Houle,Sherilyn"
+      ],
+      "building":"PHR",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7569,
+      "subject":"PHARM",
+      "catalog_number":"329",
+      "title":"Professional Practice 3 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"11:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Houle,Sherilyn"
+      ],
+      "building":"PHR",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7570,
+      "subject":"PHARM",
+      "catalog_number":"329",
+      "title":"Professional Practice 3 Laboratory",
+      "section":"LAB 003",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Houle,Sherilyn"
+      ],
+      "building":"PHR",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":8155,
+      "subject":"PHARM",
+      "catalog_number":"496",
+      "title":"Advanced Professional Practice",
+      "section":"LAB 181",
+      "weekdays":"S",
+      "start_time":"08:30",
+      "end_time":"16:00",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:55-05:00"
+    },
+    {
+      "class_number":8249,
+      "subject":"PHARM",
+      "catalog_number":"496",
+      "title":"Advanced Professional Practice",
+      "section":"LAB 182",
+      "weekdays":"U",
+      "start_time":"08:30",
+      "end_time":"16:00",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:55-05:00"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5325,
+    "timestamp":1420353802,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7055,
+      "subject":"CHEM",
+      "catalog_number":"220L",
+      "title":"Analytical Chemistry Lab 1",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Flatt,Heide"
+      ],
+      "building":"C2",
+      "room":"273",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
+    },
+    {
+      "class_number":6599,
+      "subject":"CHEM",
+      "catalog_number":"224L",
+      "title":"Analytical Chemistry Laboratory 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Flatt,Heide"
+      ],
+      "building":"C2",
+      "room":"273",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5524,
+    "timestamp":1420353874,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5481,
+      "subject":"ENBUS",
+      "catalog_number":"402B",
+      "title":"Environment and Business Project",
+      "section":"PRJ 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        "Dias,Goretty"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":3334,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Kliashchuk,Mikalai"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3335,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Kliashchuk,Mikalai"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":5460,
+      "subject":"GEOG",
+      "catalog_number":"271",
+      "title":"Earth from Space Using Remote Sensing",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Gunn,Grant Edward Louis"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":8080,
+      "subject":"HIST",
+      "catalog_number":"109",
+      "title":"Ten Days That Shook the World",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Roberts,Julia"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:32-05:00"
+    },
+    {
+      "class_number":4313,
+      "subject":"PSYCH",
+      "catalog_number":"317",
+      "title":"Child Psychopathology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Seeds,Pamela"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:31-05:00"
+    },
+    {
+      "class_number":3367,
+      "subject":"PSYCH",
+      "catalog_number":"339",
+      "title":"Personnel Psychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Shen,Winny"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:32-05:00"
+    },
+    {
+      "class_number":3732,
+      "subject":"PSYCH",
+      "catalog_number":"354",
+      "title":"Interpersonal Relations",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Wood,Joanne"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:33-05:00"
+    },
+    {
+      "class_number":4320,
+      "subject":"PSYCH",
+      "catalog_number":"356",
+      "title":"Personality",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Eibach,Richard"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:33-05:00"
+    },
+    {
+      "class_number":4243,
+      "subject":"SOC",
+      "catalog_number":"222",
+      "title":"Juvenile Delinquency",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Gallupe,Owen"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:00-05:00"
+    },
+    {
+      "class_number":3800,
+      "subject":"SOC",
+      "catalog_number":"227",
+      "title":"Criminology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Nelson,Adie"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:00-05:00"
+    },
+    {
+      "class_number":3657,
+      "subject":"SOC",
+      "catalog_number":"325",
+      "title":"Sexuality and the Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Schulenberg,Jennifer Lina"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:02-05:00"
+    }
+  ]
+}

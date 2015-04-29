@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":5527,
+    "timestamp":1420353875,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5307,
+      "subject":"BET",
+      "catalog_number":"400",
+      "title":"Growing Early-stage Ventures",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Bansal,Havir S"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:38-05:00"
+    },
+    {
+      "class_number":7835,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Wolczuk,Agnieszka"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":7836,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Wolczuk,Agnieszka"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":3968,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 205",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3969,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 206",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":3331,
+      "subject":"GRK",
+      "catalog_number":"102",
+      "title":"Introductory Ancient Greek 2",
+      "section":"LEC 001",
+      "weekdays":"MTW",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Faulkner,Andrew"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:31-05:00"
+    },
+    {
+      "class_number":8152,
+      "subject":"GRK",
+      "catalog_number":"102",
+      "title":"Introductory Ancient Greek 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:31-05:00"
+    },
+    {
+      "class_number":7508,
+      "subject":"LS",
+      "catalog_number":"425",
+      "title":"Crossing Borders: Law Glob Dev",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Mainwaring,Cetta"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:07-05:00"
+    },
+    {
+      "class_number":3388,
+      "subject":"RUSS",
+      "catalog_number":"102",
+      "title":"Elementary Russian II",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:48-05:00"
+    },
+    {
+      "class_number":7507,
+      "subject":"SOC",
+      "catalog_number":"425",
+      "title":"Crossing Borders: Law Glob Dev",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Mainwaring,Cetta"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:04-05:00"
+    },
+    {
+      "class_number":7646,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 005",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":4386,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3942,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 014",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":4387,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 015",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    }
+  ]
+}

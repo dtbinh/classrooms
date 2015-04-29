@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5603,
+    "timestamp":1420353905,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3872,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Burrows,Kevin"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:06-05:00"
+    },
+    {
+      "class_number":3873,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Brophy,Susan"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:06-05:00"
+    },
+    {
+      "class_number":3575,
+      "subject":"LS",
+      "catalog_number":"402",
+      "title":"Senior Honours Seminar in Legal Studies II",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Broll,Ryan"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:07-05:00"
+    },
+    {
+      "class_number":3656,
+      "subject":"LS",
+      "catalog_number":"402",
+      "title":"Senior Honours Seminar in Legal Studies II",
+      "section":"SEM 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Broll,Ryan"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:07-05:00"
+    },
+    {
+      "class_number":3730,
+      "subject":"LS",
+      "catalog_number":"402",
+      "title":"Senior Honours Seminar in Legal Studies II",
+      "section":"SEM 003",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Boyle,Philip"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:07-05:00"
+    },
+    {
+      "class_number":7872,
+      "subject":"PHIL",
+      "catalog_number":"405",
+      "title":"Studies in Modern Philosophy",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Zunic,Nikolaj"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:00-05:00"
+    },
+    {
+      "class_number":7876,
+      "subject":"PSYCH",
+      "catalog_number":"455",
+      "title":"Honours Seminar in Social Psychology",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Rempel,John"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:36-05:00"
+    },
+    {
+      "class_number":3576,
+      "subject":"RS",
+      "catalog_number":"383",
+      "title":"Justice, Peace, and Development",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Tataryn,Myroslaw"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"01\/17",
+      "end_date":"01\/17",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"01\/31",
+      "end_date":"01\/31",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"02\/21",
+      "end_date":"02\/21",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"03\/07",
+      "end_date":"03\/07",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"03\/21",
+      "end_date":"03\/21",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":7896,
+      "subject":"CT",
+      "catalog_number":"603",
+      "title":"Foundations of Theology",
+      "section":"SEM 001",
+      "weekdays":"S",
+      "start_time":"09:30",
+      "end_time":"15:20",
+      "start_date":"04\/04",
+      "end_date":"04\/04",
+      "enrollment_total":4,
+      "instructors":[
+        "Vanin,Cristina"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:07-05:00"
+    },
+    {
+      "class_number":4054,
+      "subject":"ENGL",
+      "catalog_number":"705",
+      "title":"Studies in Old and Middle English Literature",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Klassen,Norman John"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:19-05:00"
+    }
+  ]
+}

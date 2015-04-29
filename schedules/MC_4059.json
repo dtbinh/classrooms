@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5488,
+    "timestamp":1420353861,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6003,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Kaplan,Craig Steven"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6024,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Holtby,Daniel James"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6025,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Sakhnini,Victoria"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6077,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Sakhnini,Victoria"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7722,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 007",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Sakhnini,Victoria"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5761,
+      "subject":"CS",
+      "catalog_number":"230",
+      "title":"Introduction to Computers and Computer Systems",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Graham,Sandra Lynn"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":3805,
+      "subject":"ECON",
+      "catalog_number":"221",
+      "title":"Statistics for Economists",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Chakraborty,Liton"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:33-05:00"
+    },
+    {
+      "class_number":5812,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6126,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Woody,Owen Zeno"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":7642,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 107",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5819,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        "Loo,Clinton"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5930,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Akash,Mukto"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5845,
+      "subject":"MATH",
+      "catalog_number":"237",
+      "title":"Calculus 3 for Honours Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "West,Joseph John"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":5846,
+      "subject":"MATH",
+      "catalog_number":"237",
+      "title":"Calculus 3 for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Katz,Eric"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":3222,
+      "subject":"REC",
+      "catalog_number":"151",
+      "title":"Foundations of Therapeutic Recreation Practice",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Berbary,Lisbeth"
+      ],
+      "building":"MC",
+      "room":"4059",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    }
+  ]
+}

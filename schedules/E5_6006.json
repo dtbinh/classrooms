@@ -1,0 +1,437 @@
+{
+  "meta":{
+    "requests":5394,
+    "timestamp":1420353830,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4532,
+      "subject":"SYDE",
+      "catalog_number":"302",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Kofman,Jonathan",
+        "Bristow,Michele Mei-Ting"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4533,
+      "subject":"SYDE",
+      "catalog_number":"312",
+      "title":"Applied Linear Algebra",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "Birkett,Stephen"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4533,
+      "subject":"SYDE",
+      "catalog_number":"312",
+      "title":"Applied Linear Algebra",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "Birkett,Stephen"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4534,
+      "subject":"SYDE",
+      "catalog_number":"312",
+      "title":"Applied Linear Algebra",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "Birkett,Stephen"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:25-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"SYDE",
+      "catalog_number":"332",
+      "title":"Societal and Environmental Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"SYDE",
+      "catalog_number":"332",
+      "title":"Societal and Environmental Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4972,
+      "subject":"SYDE",
+      "catalog_number":"332",
+      "title":"Societal and Environmental Systems",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4536,
+      "subject":"SYDE",
+      "catalog_number":"348",
+      "title":"User Centred Design Methods",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4537,
+      "subject":"SYDE",
+      "catalog_number":"352",
+      "title":"Introduction to Control Systems",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4538,
+      "subject":"SYDE",
+      "catalog_number":"352",
+      "title":"Introduction to Control Systems",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4539,
+      "subject":"SYDE",
+      "catalog_number":"362",
+      "title":"Systems Design Workshop 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Kofman,Jonathan",
+        "Bristow,Michele Mei-Ting"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4741,
+      "subject":"SYDE",
+      "catalog_number":"362",
+      "title":"Systems Design Workshop 1",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Kofman,Jonathan",
+        "Bristow,Michele Mei-Ting"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":4544,
+      "subject":"SYDE",
+      "catalog_number":"372",
+      "title":"Introduction to Pattern Recognition",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Wong,Alexander"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4544,
+      "subject":"SYDE",
+      "catalog_number":"372",
+      "title":"Introduction to Pattern Recognition",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Wong,Alexander"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4545,
+      "subject":"SYDE",
+      "catalog_number":"372",
+      "title":"Introduction to Pattern Recognition",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Wong,Alexander"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4963,
+      "subject":"SYDE",
+      "catalog_number":"384",
+      "title":"Biological and Human Systems",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4963,
+      "subject":"SYDE",
+      "catalog_number":"384",
+      "title":"Biological and Human Systems",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4964,
+      "subject":"SYDE",
+      "catalog_number":"384",
+      "title":"Biological and Human Systems",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:27-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"SYDE",
+      "catalog_number":"522",
+      "title":"Machine Intelligence",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"18:00",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Khamis,Alaa"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":5132,
+      "subject":"SYDE",
+      "catalog_number":"531",
+      "title":"Design Optimization Under Probabilistic Uncertainty",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Ponnambalam,Kumaraswamy"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    },
+    {
+      "class_number":5133,
+      "subject":"SYDE",
+      "catalog_number":"531",
+      "title":"Design Optimization Under Probabilistic Uncertainty",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Ponnambalam,Kumaraswamy"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:28-05:00"
+    }
+  ]
+}

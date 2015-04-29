@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":5477,
+    "timestamp":1420353857,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5998,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5999,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6000,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6047,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6049,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6007,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3003",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    }
+  ]
+}

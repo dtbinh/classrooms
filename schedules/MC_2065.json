@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5475,
+    "timestamp":1420353857,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7036,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":128,
+      "instructors":[
+        "Holyoak,Todd"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":5795,
+      "subject":"CO",
+      "catalog_number":"370",
+      "title":"Deterministic OR Models",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Sanita,Laura"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:45-05:00"
+    },
+    {
+      "class_number":5997,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":107,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":4989,
+      "subject":"ECE",
+      "catalog_number":"459",
+      "title":"Programming for Performance",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":152,
+      "instructors":[
+        "Lam,Patrick"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":5816,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5986,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":138,
+      "instructors":[
+        "Cheriyan,Joseph"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":6266,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Wires,Alexander"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5824,
+      "subject":"MATH",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":191,
+      "instructors":[
+        "Knoll,Carolyn Alexis"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5833,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":190,
+      "instructors":[
+        "Scott,Matthew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":4664,
+      "subject":"ME",
+      "catalog_number":"400B",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":159,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:15-05:00"
+    },
+    {
+      "class_number":7199,
+      "subject":"SE",
+      "catalog_number":"350",
+      "title":"Operating Systems",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Reidemeister,Thomas"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":5865,
+      "subject":"STAT",
+      "catalog_number":"202",
+      "title":"Introductory Statistics for Scientists",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":155,
+      "instructors":[
+        "Dawoud,Dina"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6122,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":161,
+      "instructors":[
+        "Zhang,Chong"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6182,
+      "subject":"STAT",
+      "catalog_number":"340",
+      "title":"Computer Simulation of Complex Systems",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":77,
+      "instructors":[
+        "Hofert,Marius"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    },
+    {
+      "class_number":5760,
+      "subject":"STAT",
+      "catalog_number":"454",
+      "title":"Sampling Theory and Practice",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Wu,Changbao"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:18-05:00"
+    },
+    {
+      "class_number":5718,
+      "subject":"STAT",
+      "catalog_number":"854",
+      "title":"Sampling Theory and Practice",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Wu,Changbao"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:18-05:00"
+    }
+  ]
+}

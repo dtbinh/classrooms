@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5571,
+    "timestamp":1420353894,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6587,
+      "subject":"BIOL",
+      "catalog_number":"351",
+      "title":"Aquatic Ecology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":107,
+      "instructors":[
+        "Harrison,Joel"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
+    },
+    {
+      "class_number":6607,
+      "subject":"CHEM",
+      "catalog_number":"254",
+      "title":"Introductory Chemical Thermodynamics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":106,
+      "instructors":[
+        "Power,William Patrick"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
+    },
+    {
+      "class_number":6678,
+      "subject":"CHEM",
+      "catalog_number":"254",
+      "title":"Introductory Chemical Thermodynamics",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":106,
+      "instructors":[
+        "Power,William Patrick"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
+    },
+    {
+      "class_number":6560,
+      "subject":"CHEM",
+      "catalog_number":"262",
+      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:29-05:00"
+    },
+    {
+      "class_number":6475,
+      "subject":"EARTH",
+      "catalog_number":"333",
+      "title":"Introductory Sedimentology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Ross,Martin"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:11-05:00"
+    },
+    {
+      "class_number":5291,
+      "subject":"ECE",
+      "catalog_number":"423",
+      "title":"Embedded Computer Systems",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
+    },
+    {
+      "class_number":4987,
+      "subject":"ECE",
+      "catalog_number":"457B",
+      "title":"Fundamentals of Computational Intelligence",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Karray,Fakhreddine"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:29-05:00"
+    },
+    {
+      "class_number":3876,
+      "subject":"ECON",
+      "catalog_number":"201",
+      "title":"Microeconomic Theory 1",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Van de Waal,Cornelis Howard"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":4549,
+      "subject":"ENVE",
+      "catalog_number":"221",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Potapenko,Stan"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:54-05:00"
+    },
+    {
+      "class_number":4551,
+      "subject":"ENVE",
+      "catalog_number":"224",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":7428,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Andre,Robert"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5810,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4762,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4763,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4766,
+      "subject":"MTE",
+      "catalog_number":"202",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4767,
+      "subject":"MTE",
+      "catalog_number":"202",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    }
+  ]
+}

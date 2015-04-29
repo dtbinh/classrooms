@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5374,
+    "timestamp":1420353819,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5047,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5048,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 002",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5049,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 003",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5050,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 004",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5051,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 005",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5052,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 006",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5053,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 007",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5054,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 008",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4683,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4684,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":127,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4846,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5144,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":7434,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7435,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7531,
+      "subject":"MTE",
+      "catalog_number":"120",
+      "title":"Circuits",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7532,
+      "subject":"MTE",
+      "catalog_number":"120",
+      "title":"Circuits",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    }
+  ]
+}

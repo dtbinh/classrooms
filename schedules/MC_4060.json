@@ -1,0 +1,434 @@
+{
+  "meta":{
+    "requests":5489,
+    "timestamp":1420353862,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5734,
+      "subject":"AMATH",
+      "catalog_number":"331",
+      "title":"Applied Real Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Liu,Xinzhi"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:23-05:00"
+    },
+    {
+      "class_number":6746,
+      "subject":"CHEM",
+      "catalog_number":"221",
+      "title":"Multi-Component Analysis",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Gorecki,Tadeusz"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
+    },
+    {
+      "class_number":6263,
+      "subject":"CO",
+      "catalog_number":"353",
+      "title":"Computational Discrete Optimization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Swamy,Chaitanya"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:44-05:00"
+    },
+    {
+      "class_number":6011,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6013,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 107",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7719,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 116",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6026,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6030,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":7726,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 113",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6191,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":7639,
+      "subject":"EARTH",
+      "catalog_number":"439",
+      "title":"Flow and Transport Fract Rocks",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Illman,Walter"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:13-05:00"
+    },
+    {
+      "class_number":5029,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":4951,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":3317,
+      "subject":"ECON",
+      "catalog_number":"211",
+      "title":"Introduction to Mathematical Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "George,Ryan"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:33-05:00"
+    },
+    {
+      "class_number":5805,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Miskovic,Zoran"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5735,
+      "subject":"PMATH",
+      "catalog_number":"331",
+      "title":"Applied Real Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Liu,Xinzhi"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:17-05:00"
+    },
+    {
+      "class_number":6059,
+      "subject":"STAT",
+      "catalog_number":"241",
+      "title":"Statistics (Advanced Level)",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Akhundov,Ilham"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6239,
+      "subject":"STAT",
+      "catalog_number":"437",
+      "title":"Analysis of Longitudinal Data in Health Research",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Zeng,Leilei"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:17-05:00"
+    },
+    {
+      "class_number":8082,
+      "subject":"AMATH",
+      "catalog_number":"753",
+      "title":"Advanced Partial Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Siegel,David"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    },
+    {
+      "class_number":7109,
+      "subject":"EARTH",
+      "catalog_number":"658",
+      "title":"Flow and Transport in Fractured Rock",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Illman,Walter"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:09-05:00"
+    },
+    {
+      "class_number":6240,
+      "subject":"STAT",
+      "catalog_number":"837",
+      "title":"Analysis of Longitudinal Data in Health Research",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Zeng,Leilei"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:17-05:00"
+    }
+  ]
+}

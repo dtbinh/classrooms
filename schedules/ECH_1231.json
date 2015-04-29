@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5407,
+    "timestamp":1420353834,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3915,
+      "subject":"FINE",
+      "catalog_number":"231",
+      "title":"Mixed Multiples",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Cooper,Tara"
+      ],
+      "building":"ECH",
+      "room":"1231",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
+    }
+  ]
+}

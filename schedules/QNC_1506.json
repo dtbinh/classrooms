@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":5552,
+    "timestamp":1420353887,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6863,
+      "subject":"CHEM",
+      "catalog_number":"420",
+      "title":"Special Topics in Analytical Chem",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Mikkelsen,Susan R"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:32-05:00"
+    },
+    {
+      "class_number":6942,
+      "subject":"CHEM",
+      "catalog_number":"450",
+      "title":"Special Topics in Physical Chemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Leung,Kam Tong"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:32-05:00"
+    },
+    {
+      "class_number":8040,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 007",
+      "weekdays":"TThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Haider,Amna"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":3654,
+      "subject":"FR",
+      "catalog_number":"251",
+      "title":"French Language 2: Module 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Kliashchuk,Mikalai"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:11-05:00"
+    },
+    {
+      "class_number":6063,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6111,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 108",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6112,
+      "subject":"MATH",
+      "catalog_number":"119",
+      "title":"Calculus 2 for Engineering",
+      "section":"TUT 109",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6975,
+      "subject":"MNS",
+      "catalog_number":"102",
+      "title":"Techniques for Materials and Nanosciences",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Leung,Kam Tong"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:19-05:00"
+    },
+    {
+      "class_number":7488,
+      "subject":"NE",
+      "catalog_number":"113",
+      "title":"Engineering Computation",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:34-05:00"
+    },
+    {
+      "class_number":4805,
+      "subject":"NE",
+      "catalog_number":"125",
+      "title":"Introduction to Materials Science and Engineering",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Li,Yuning"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":4872,
+      "subject":"NE",
+      "catalog_number":"131",
+      "title":"Physics for Nanotechnology Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:35-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"NE",
+      "catalog_number":"469",
+      "title":"Special Topics in Micro and Nanoinstruments",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:37-05:00"
+    },
+    {
+      "class_number":6237,
+      "subject":"STAT",
+      "catalog_number":"436",
+      "title":"Introduction to the Analysis of Spatial Data in Health Research",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Cotton,Cecilia Anne"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:17-05:00"
+    },
+    {
+      "class_number":6238,
+      "subject":"STAT",
+      "catalog_number":"836",
+      "title":"Introduction to the Analysis of Spatial Data in Health Research",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Cotton,Cecilia Anne"
+      ],
+      "building":"QNC",
+      "room":"1506",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:17-05:00"
+    }
+  ]
+}

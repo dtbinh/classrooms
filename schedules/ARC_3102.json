@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5300,
+    "timestamp":1420353794,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4792,
+      "subject":"ARCH",
+      "catalog_number":"193",
+      "title":"Design Studio",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"3102",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4792,
+      "subject":"ARCH",
+      "catalog_number":"193",
+      "title":"Design Studio",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"3102",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    }
+  ]
+}

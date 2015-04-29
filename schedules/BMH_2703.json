@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":5323,
+    "timestamp":1420353802,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3150,
+      "subject":"HLTH",
+      "catalog_number":"471",
+      "title":"Psychopharmacology",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Mielke,John G."
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:40-05:00"
+    },
+    {
+      "class_number":3187,
+      "subject":"KIN",
+      "catalog_number":"457",
+      "title":"Cognitive, Perceptual and Motor Assessment",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Roy,Eric A"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":3209,
+      "subject":"KIN",
+      "catalog_number":"457",
+      "title":"Cognitive, Perceptual and Motor Assessment",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Roy,Eric A"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":3193,
+      "subject":"REC",
+      "catalog_number":"230",
+      "title":"Outdoor Recreation Resources Management",
+      "section":"SEM 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":3194,
+      "subject":"REC",
+      "catalog_number":"230",
+      "title":"Outdoor Recreation Resources Management",
+      "section":"SEM 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":3195,
+      "subject":"REC",
+      "catalog_number":"230",
+      "title":"Outdoor Recreation Resources Management",
+      "section":"SEM 103",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":3196,
+      "subject":"REC",
+      "catalog_number":"230",
+      "title":"Outdoor Recreation Resources Management",
+      "section":"SEM 104",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":3197,
+      "subject":"REC",
+      "catalog_number":"230",
+      "title":"Outdoor Recreation Resources Management",
+      "section":"SEM 105",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:40-05:00"
+    },
+    {
+      "class_number":3191,
+      "subject":"REC",
+      "catalog_number":"455",
+      "title":"Advanced Seminar in Therapeutic Recreation",
+      "section":"SEM 101",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Ferries,Leeann Helen"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
+    },
+    {
+      "class_number":3192,
+      "subject":"REC",
+      "catalog_number":"455",
+      "title":"Advanced Seminar in Therapeutic Recreation",
+      "section":"SEM 102",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Ferries,Leeann Helen"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
+    },
+    {
+      "class_number":3161,
+      "subject":"HSG",
+      "catalog_number":"671",
+      "title":"Psychopharmacology",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Mielke,John G."
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:37-05:00"
+    },
+    {
+      "class_number":3133,
+      "subject":"HSG",
+      "catalog_number":"751",
+      "title":"Aging, Health and Well-being Research Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Myers,Anita M"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:38-05:00"
+    },
+    {
+      "class_number":3134,
+      "subject":"KIN",
+      "catalog_number":"751",
+      "title":"Aging, Health and Well-being Research Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Myers,Anita M"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:42-05:00"
+    },
+    {
+      "class_number":7962,
+      "subject":"REC",
+      "catalog_number":"610",
+      "title":"Administrative Practice in Recreational Service",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Misener,Katie"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:14-05:00"
+    },
+    {
+      "class_number":2962,
+      "subject":"REC",
+      "catalog_number":"672",
+      "title":"Quantitative Research Data Analysis and Interpretation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Mock,Steven"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:14-05:00"
+    },
+    {
+      "class_number":2963,
+      "subject":"REC",
+      "catalog_number":"673",
+      "title":"Qualitative Research Data Analysis and Interpretation",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Berbary,Lisbeth"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:14-05:00"
+    },
+    {
+      "class_number":3135,
+      "subject":"REC",
+      "catalog_number":"751",
+      "title":"Aging, Health and Well-being Research Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Myers,Anita M"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:15-05:00"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5353,
+    "timestamp":1420353812,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7728,
+      "subject":"CS",
+      "catalog_number":"330",
+      "title":"Management Information Systems",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Harrigan,Kevin"
+      ],
+      "building":"DMS",
+      "room":"2129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:55-05:00"
+    },
+    {
+      "class_number":8021,
+      "subject":"GBDA",
+      "catalog_number":"302",
+      "title":"Global Digital Project 2",
+      "section":"PRJ 001",
+      "weekdays":"ThF",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"DMS",
+      "room":"2129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:15-05:00"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "meta":{
+    "requests":5594,
+    "timestamp":1420353902,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4016,
+      "subject":"ARBUS",
+      "catalog_number":"400",
+      "title":"Strategy and Program Integration",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":3623,
+      "subject":"LS",
+      "catalog_number":"102",
+      "title":"Introduction to Criminal Law",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":78,
+      "instructors":[
+        "Brophy,Susan"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:06-05:00"
+    },
+    {
+      "class_number":4429,
+      "subject":"LS",
+      "catalog_number":"102",
+      "title":"Introduction to Criminal Law",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":191,
+      "instructors":[
+        "Broll,Ryan"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:06-05:00"
+    },
+    {
+      "class_number":4500,
+      "subject":"PACS",
+      "catalog_number":"202",
+      "title":"Conflict Resolution",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":133,
+      "instructors":[
+        "Regehr,Keith Allen"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:44-05:00"
+    },
+    {
+      "class_number":3824,
+      "subject":"PSYCH",
+      "catalog_number":"232",
+      "title":"Psychology of Evil",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":140,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:29-05:00"
+    },
+    {
+      "class_number":3874,
+      "subject":"PSYCH",
+      "catalog_number":"330",
+      "title":"Criminal Profiling",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:31-05:00"
+    },
+    {
+      "class_number":4009,
+      "subject":"RS",
+      "catalog_number":"100",
+      "title":"Religions of the East",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Seljak,David A"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:45-05:00"
+    },
+    {
+      "class_number":7139,
+      "subject":"SMF",
+      "catalog_number":"204",
+      "title":"Introduction to Human Sexuality",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":169,
+      "instructors":[
+        "Rye,BJ"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":7892,
+      "subject":"SMF",
+      "catalog_number":"205",
+      "title":"The Dark Side of Sexuality",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Rempel,John",
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":7891,
+      "subject":"SMF",
+      "catalog_number":"206",
+      "title":"Couples, Marriages, and Families",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Whitehead,Denise"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:57-05:00"
+    }
+  ]
+}

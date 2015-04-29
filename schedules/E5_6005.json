@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5393,
+    "timestamp":1420353830,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4911,
+      "subject":"SYDE",
+      "catalog_number":"352L",
+      "title":"Control Systems Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":5101,
+      "subject":"SYDE",
+      "catalog_number":"352L",
+      "title":"Control Systems Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":5102,
+      "subject":"SYDE",
+      "catalog_number":"352L",
+      "title":"Control Systems Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    },
+    {
+      "class_number":5103,
+      "subject":"SYDE",
+      "catalog_number":"352L",
+      "title":"Control Systems Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6005",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:26-05:00"
+    }
+  ]
+}

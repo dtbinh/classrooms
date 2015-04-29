@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5425,
+    "timestamp":1420353840,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3357,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Miraglia,Anne Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":4118,
+      "subject":"FR",
+      "catalog_number":"473",
+      "title":"Aspects of French Canada",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Lepage,Elise"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
+    },
+    {
+      "class_number":7528,
+      "subject":"FR",
+      "catalog_number":"487",
+      "title":"African and Caribbean French Literature",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Miraglia,Anne Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
+    },
+    {
+      "class_number":5432,
+      "subject":"PLAN",
+      "catalog_number":"409",
+      "title":"Urban Design Studio",
+      "section":"STU 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Hammond,Karen"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    },
+    {
+      "class_number":3953,
+      "subject":"PSCI",
+      "catalog_number":"421",
+      "title":"Justice and Gender",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:23-05:00"
+    },
+    {
+      "class_number":4036,
+      "subject":"REES",
+      "catalog_number":"272",
+      "title":"Russian Thought and Culture",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:44-05:00"
+    },
+    {
+      "class_number":3931,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Zimmerman,Amber L."
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3939,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 011",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Zimmerman,Amber L."
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":4007,
+      "subject":"PACS",
+      "catalog_number":"660",
+      "title":"Justice and Gender",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:54-05:00"
+    },
+    {
+      "class_number":5639,
+      "subject":"PLAN",
+      "catalog_number":"703",
+      "title":"Planning Professional Practice",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Seasons,Mark"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
+    },
+    {
+      "class_number":8015,
+      "subject":"PLAN",
+      "catalog_number":"720",
+      "title":"Introductory Planning Poject Studio",
+      "section":"STU 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:04-05:00"
+    },
+    {
+      "class_number":3952,
+      "subject":"PSCI",
+      "catalog_number":"624",
+      "title":"Justice and Gender",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:07-05:00"
+    }
+  ]
+}

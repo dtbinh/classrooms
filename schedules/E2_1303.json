@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5372,
+    "timestamp":1420353819,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5258,
+      "subject":"CHE",
+      "catalog_number":"543",
+      "title":"Polymer Production: Polymer Reaction Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Riahinezhad,Marzieh"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":5258,
+      "subject":"CHE",
+      "catalog_number":"543",
+      "title":"Polymer Production: Polymer Reaction Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4558,
+      "subject":"ENVE",
+      "catalog_number":"298",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "McKillop,Robert"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":4563,
+      "subject":"ENVE",
+      "catalog_number":"399",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Tolson,Bryan"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:56-05:00"
+    },
+    {
+      "class_number":4559,
+      "subject":"GEOE",
+      "catalog_number":"298",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "McKillop,Robert"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:19-05:00"
+    },
+    {
+      "class_number":4564,
+      "subject":"GEOE",
+      "catalog_number":"399",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Tolson,Bryan"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:19-05:00"
+    },
+    {
+      "class_number":4586,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 106",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 107",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":4574,
+      "subject":"MSCI",
+      "catalog_number":"331",
+      "title":"Introduction to Optimization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":5045,
+      "subject":"MSCI",
+      "catalog_number":"433",
+      "title":"Applications of Management Engineering",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:23-05:00"
+    },
+    {
+      "class_number":5046,
+      "subject":"MSCI",
+      "catalog_number":"433",
+      "title":"Applications of Management Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:23-05:00"
+    },
+    {
+      "class_number":5229,
+      "subject":"MSCI",
+      "catalog_number":"435",
+      "title":"Advanced Optimization Techniques",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Bayley,Tiffany Amber"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:23-05:00"
+    }
+  ]
+}

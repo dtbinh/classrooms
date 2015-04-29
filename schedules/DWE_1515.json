@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5360,
+    "timestamp":1420353815,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7803,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7803,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7803,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7804,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7557,
+      "subject":"BET",
+      "catalog_number":"320",
+      "title":"Intro to Commercialization Mgt",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Rose,David George"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:38-05:00"
+    },
+    {
+      "class_number":6265,
+      "subject":"CO",
+      "catalog_number":"466",
+      "title":"Continuous Optimization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Coleman,Thomas Frederick"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:46-05:00"
+    },
+    {
+      "class_number":7665,
+      "subject":"DRAMA",
+      "catalog_number":"371",
+      "title":"Theatre History 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Malone,Toby"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:07-05:00"
+    },
+    {
+      "class_number":6443,
+      "subject":"EFAS",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Karanassiou,Jane"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":8047,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 014",
+      "weekdays":"TThF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Sabzian,Saeed"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":4329,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":3180,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 003",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
+    },
+    {
+      "class_number":6270,
+      "subject":"CO",
+      "catalog_number":"666",
+      "title":"Continuous Optimization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Coleman,Thomas Frederick"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:58-05:00"
+    }
+  ]
+}

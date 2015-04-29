@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5486,
+    "timestamp":1420353860,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7707,
+      "subject":"BIOL",
+      "catalog_number":"101",
+      "title":"Biology in the Modern World",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Pinheiro,Marcel Diniz Oliveira"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":8149,
+      "subject":"CHEM",
+      "catalog_number":"212",
+      "title":"Structure and Bonding",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Lee,Sonny S.C."
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":5796,
+      "subject":"CO",
+      "catalog_number":"331",
+      "title":"Coding Theory",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Gauthier-Shalom,Gabriel"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:44-05:00"
+    },
+    {
+      "class_number":6020,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Vasiga,Troy Michael John"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6032,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5995,
+      "subject":"CS",
+      "catalog_number":"138",
+      "title":"Introduction to Data Abstraction and Implementation",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5807,
+      "subject":"MATH",
+      "catalog_number":"106",
+      "title":"Applied Linear Algebra 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Gindi,Steven"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5809,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Baratin,Aristide"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6179,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Chow,Amenda"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5888,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6523,
+      "subject":"PHYS",
+      "catalog_number":"441B",
+      "title":"Electromagnetic Theory",
+      "section":"LEC 001",
+      "weekdays":"MTF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "O'Donovan,Chris"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
+    },
+    {
+      "class_number":5744,
+      "subject":"PMATH",
+      "catalog_number":"336",
+      "title":"Introduction to Group Theory with Applications",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "New,Stephen"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:17-05:00"
+    }
+  ]
+}

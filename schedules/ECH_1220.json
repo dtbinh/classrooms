@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":5402,
+    "timestamp":1420353833,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7587,
+      "subject":"FINE",
+      "catalog_number":"206",
+      "title":"Topics in Film Studies",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:03-05:00"
+    },
+    {
+      "class_number":8221,
+      "subject":"FINE",
+      "catalog_number":"359",
+      "title":"Topics in German Film",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:07-05:00"
+    },
+    {
+      "class_number":8221,
+      "subject":"FINE",
+      "catalog_number":"359",
+      "title":"Topics in German Film",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"15:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:07-05:00"
+    },
+    {
+      "class_number":8220,
+      "subject":"GER",
+      "catalog_number":"359",
+      "title":"Topics in German Film",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:29-05:00"
+    },
+    {
+      "class_number":8220,
+      "subject":"GER",
+      "catalog_number":"359",
+      "title":"Topics in German Film",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"15:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:29-05:00"
+    },
+    {
+      "class_number":8391,
+      "subject":"GER",
+      "catalog_number":"695",
+      "title":"Reading Courses in Approved Topics",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:27-05:00"
+    },
+    {
+      "class_number":8391,
+      "subject":"GER",
+      "catalog_number":"695",
+      "title":"Reading Courses in Approved Topics",
+      "section":"RDG 001",
+      "weekdays":"W",
+      "start_time":"15:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:27-05:00"
+    }
+  ]
+}

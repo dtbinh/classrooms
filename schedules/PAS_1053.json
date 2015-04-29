@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5518,
+    "timestamp":1420353872,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4425,
+      "subject":"RS",
+      "catalog_number":"705",
+      "title":"History of Religion in North America",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wilson,Jeff"
+      ],
+      "building":"PAS",
+      "room":"1053",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:15-05:00"
+    }
+  ]
+}

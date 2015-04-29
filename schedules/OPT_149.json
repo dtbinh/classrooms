@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5509,
+    "timestamp":1420353869,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6862,
+      "subject":"OPTOM",
+      "catalog_number":"348B",
+      "title":"Optometry Clinics",
+      "section":"CLN 002",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Hadley,Ken Douglas"
+      ],
+      "building":"OPT",
+      "room":"149",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6685,
+      "subject":"OPTOM",
+      "catalog_number":"478",
+      "title":"Optometry Clinics",
+      "section":"CLN 001",
+      "weekdays":"MTWThF",
+      "start_time":"08:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Irving,Elizabeth"
+      ],
+      "building":"OPT",
+      "room":"149",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:43-05:00"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":5463,
+    "timestamp":1420353852,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6800,
+      "subject":"PHARM",
+      "catalog_number":"120",
+      "title":"Intro to the Prof of Pharmacy",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Edwards,David"
+      ],
+      "building":"IHB",
+      "room":"2018",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":7572,
+      "subject":"PHARM",
+      "catalog_number":"350",
+      "title":"Fundamentals of Business Administration and Management",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Slavcev,Roderick Adrian Ernest"
+      ],
+      "building":"IHB",
+      "room":"2018",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    }
+  ]
+}

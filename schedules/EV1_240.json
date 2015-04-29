@@ -1,0 +1,554 @@
+{
+  "meta":{
+    "requests":5424,
+    "timestamp":1420353840,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5428,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5429,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5438,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5439,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5445,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 105",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5473,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 106",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5474,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5475,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 108",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5526,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 109",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5648,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
+    },
+    {
+      "class_number":5649,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
+    },
+    {
+      "class_number":5553,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5554,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5575,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5576,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":7994,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5388,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5389,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5440,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5441,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5446,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 105",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5476,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 106",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5477,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5478,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 108",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5527,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LAB 109",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5650,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5651,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"240",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    }
+  ]
+}

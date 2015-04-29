@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5292,
+    "timestamp":1420353792,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3466,
+      "subject":"CLAS",
+      "catalog_number":"486",
+      "title":"Senior Seminar",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Faber,Riemer"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:43-05:00"
+    },
+    {
+      "class_number":5396,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5398,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5532,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5512,
+      "subject":"ERS",
+      "catalog_number":"410",
+      "title":"Environmental Analysis and Solutions VI: Ecosocial Systems",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":7526,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 214",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":5534,
+      "subject":"GEOG",
+      "catalog_number":"409",
+      "title":"Energy Balance Climatology",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "LeDrew,Ellsworth F"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
+    },
+    {
+      "class_number":5658,
+      "subject":"GEOG",
+      "catalog_number":"409",
+      "title":"Energy Balance Climatology",
+      "section":"SEM 002",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "LeDrew,Ellsworth F"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
+    },
+    {
+      "class_number":3738,
+      "subject":"LAT",
+      "catalog_number":"490",
+      "title":"Senior Studies in Latin: Selected Topics",
+      "section":"RDG 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Coskun,Altay"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:05-05:00"
+    },
+    {
+      "class_number":7911,
+      "subject":"PSCI",
+      "catalog_number":"486",
+      "title":"Special Topics in International Diplomacy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Cooper,Andrew F."
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:25-05:00"
+    },
+    {
+      "class_number":8097,
+      "subject":"CLAS",
+      "catalog_number":"632",
+      "title":"Studies in Latin Literature",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Faber,Riemer"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:55-05:00"
+    },
+    {
+      "class_number":4295,
+      "subject":"ENGL",
+      "catalog_number":"755",
+      "title":"Studies in 19th Century American Literature",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Lamont,Victoria"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:19-05:00"
+    },
+    {
+      "class_number":8093,
+      "subject":"ENGL",
+      "catalog_number":"775",
+      "title":"Studies in Commonwealth Literature",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Siemerling,Winfried"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:20-05:00"
+    },
+    {
+      "class_number":4108,
+      "subject":"LAT",
+      "catalog_number":"600",
+      "title":"Topics in Latin Language",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Coskun,Altay"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:43-05:00"
+    },
+    {
+      "class_number":7913,
+      "subject":"PSCI",
+      "catalog_number":"684",
+      "title":"Special Topics in International Diplomacy",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Cooper,Andrew F."
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:08-05:00"
+    }
+  ]
+}

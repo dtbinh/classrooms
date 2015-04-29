@@ -1,0 +1,255 @@
+{
+  "meta":{
+    "requests":5567,
+    "timestamp":1420353893,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5269,
+      "subject":"ECE",
+      "catalog_number":"433",
+      "title":"Semiconductor Device Technology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Sivoththaman,Siva"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
+    },
+    {
+      "class_number":4994,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
+    },
+    {
+      "class_number":3419,
+      "subject":"ENGL",
+      "catalog_number":"190",
+      "title":"Shakespeare",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Graham,Kenneth"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":8055,
+      "subject":"ENGL",
+      "catalog_number":"200B",
+      "title":"Survey of British Literature 2",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Love,Donald Craig"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:45-05:00"
+    },
+    {
+      "class_number":4562,
+      "subject":"ENVE",
+      "catalog_number":"375",
+      "title":"Water Quality Engineering",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Huck,Peter M"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":5588,
+      "subject":"ERS",
+      "catalog_number":"365",
+      "title":"Water Governance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "De Loe,Robert Christiaan"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":7841,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 009",
+      "weekdays":"TThF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "So,Margaret Ming Ching"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":4077,
+      "subject":"PHIL",
+      "catalog_number":"371",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Thagard,Paul"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:00-05:00"
+    },
+    {
+      "class_number":6812,
+      "subject":"PHYS",
+      "catalog_number":"280",
+      "title":"Introduction to Biophysics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Drolle,Elizabeth",
+        "Lee,Brenda Yasie"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:08-05:00"
+    },
+    {
+      "class_number":3586,
+      "subject":"SPCOM",
+      "catalog_number":"325",
+      "title":"Organizational Communication",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
+    },
+    {
+      "class_number":5305,
+      "subject":"BE",
+      "catalog_number":"600",
+      "title":"Management and Leadership",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Love,James"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
+    },
+    {
+      "class_number":4841,
+      "subject":"ECE",
+      "catalog_number":"730",
+      "title":"Special Topics in Solid State Devices",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Sivoththaman,Siva"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    }
+  ]
+}

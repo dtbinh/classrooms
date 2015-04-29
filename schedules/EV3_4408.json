@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":5438,
+    "timestamp":1420353844,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8176,
+      "subject":"AVIA",
+      "catalog_number":"101",
+      "title":"Professional Pilot Program Course I",
+      "section":"FLT 001",
+      "weekdays":"MW",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
+    },
+    {
+      "class_number":8177,
+      "subject":"AVIA",
+      "catalog_number":"204",
+      "title":"Professional Pilot Program Course IV",
+      "section":"FLT 001",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
+    },
+    {
+      "class_number":8177,
+      "subject":"AVIA",
+      "catalog_number":"204",
+      "title":"Professional Pilot Program Course IV",
+      "section":"FLT 001",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
+    },
+    {
+      "class_number":5568,
+      "subject":"ENBUS",
+      "catalog_number":"410",
+      "title":"Engaging Stakeholders",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Thistlethwaite,Jason"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":5393,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5394,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5423,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5424,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5455,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5457,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 109",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5524,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 111",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":8134,
+      "subject":"GEOG",
+      "catalog_number":"293",
+      "title":"Professional and Scholarly Practice in Geography",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":7989,
+      "subject":"REC",
+      "catalog_number":"420",
+      "title":"Program Evaluation in Leisure Services",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Glover,Troy D"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
+    },
+    {
+      "class_number":3940,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 012",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Ross,George"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":4291,
+      "subject":"SPCOM",
+      "catalog_number":"228",
+      "title":"Public Communication",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Voorhees,Gerald"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
+    },
+    {
+      "class_number":7437,
+      "subject":"TOUR",
+      "catalog_number":"604",
+      "title":"Social Planning for Tourism",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Cukier,Judith"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:25-05:00"
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "meta":{
+    "requests":5347,
+    "timestamp":1420353810,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5920,
+      "subject":"ACTSC",
+      "catalog_number":"371",
+      "title":"Corporate Finance 1",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":201,
+      "instructors":[
+        "Matheson,Brenton James"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
+    },
+    {
+      "class_number":3611,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":245,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:16-05:00"
+    },
+    {
+      "class_number":3602,
+      "subject":"AFM",
+      "catalog_number":"102",
+      "title":"Introduction to Managerial Accounting",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":140,
+      "instructors":[
+        "Manning,Thomas"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:17-05:00"
+    },
+    {
+      "class_number":8104,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":165,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:25-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":149,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6610,
+      "subject":"CHEM",
+      "catalog_number":"267",
+      "title":"Basic Organic Chemistry 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":166,
+      "instructors":[
+        "Chong,Michael J."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:30-05:00"
+    },
+    {
+      "class_number":6794,
+      "subject":"CHEM",
+      "catalog_number":"267",
+      "title":"Basic Organic Chemistry 2",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":250,
+      "instructors":[
+        "Barra,Monica"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:30-05:00"
+    },
+    {
+      "class_number":6148,
+      "subject":"COMM",
+      "catalog_number":"231",
+      "title":"Commercial and Business Law for Mathematics Students",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Radocchia,Joseph Anthony"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:47-05:00"
+    },
+    {
+      "class_number":6006,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":160,
+      "instructors":[
+        "Zorin,Olga"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":5027,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":139,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5027,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":139,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5027,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":139,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5027,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":139,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5027,
+      "subject":"ECE",
+      "catalog_number":"106",
+      "title":"Physics of Electrical Engineering 2",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":139,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5034,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":145,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5034,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":145,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5034,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":145,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5034,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":145,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":5034,
+      "subject":"ECE",
+      "catalog_number":"124",
+      "title":"Digital Circuits and Systems",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":145,
+      "instructors":[
+        "Kennings,Andrew"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":3307,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Van de Waal,Cornelis Howard"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3745,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":129,
+      "instructors":[
+        "Chakraborty,Liton"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3310,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Vaughan,Maryann"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3312,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":248,
+      "instructors":[
+        "Vaughan,Maryann"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":5826,
+      "subject":"MATH",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Rubinstein,Michael"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":5844,
+      "subject":"MATH",
+      "catalog_number":"235",
+      "title":"Linear Algebra 2 for Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":240,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":6716,
+      "subject":"PHYS",
+      "catalog_number":"112",
+      "title":"Physics 2",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":221,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":5749,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":166,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6226,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    }
+  ]
+}

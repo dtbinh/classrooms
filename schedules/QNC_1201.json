@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5550,
+    "timestamp":1420353886,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7052,
+      "subject":"PHYS",
+      "catalog_number":"468",
+      "title":"Introduction to the Implementation of Quantum Information Processing",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
+    },
+    {
+      "class_number":8085,
+      "subject":"AMATH",
+      "catalog_number":"876",
+      "title":"Open Quantum Systems",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Emerson,Joseph"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:42-05:00"
+    },
+    {
+      "class_number":8157,
+      "subject":"CO",
+      "catalog_number":"781",
+      "title":"Topics in Quantum Information",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Nayak,Ashwin"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:00-05:00"
+    },
+    {
+      "class_number":8299,
+      "subject":"ECE",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    },
+    {
+      "class_number":8127,
+      "subject":"PHYS",
+      "catalog_number":"768",
+      "title":"Special Topics in Quantum Information Processing",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Jennewein,Thomas"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:01-05:00"
+    },
+    {
+      "class_number":8300,
+      "subject":"PHYS",
+      "catalog_number":"768",
+      "title":"Special Topics in Quantum Information Processing",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:01-05:00"
+    },
+    {
+      "class_number":8298,
+      "subject":"QIC",
+      "catalog_number":"750",
+      "title":"Implementation of Quantum Information Processing",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
+    },
+    {
+      "class_number":8284,
+      "subject":"QIC",
+      "catalog_number":"823",
+      "title":"Quantum Algorithms",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Nayak,Ashwin"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:13-05:00"
+    },
+    {
+      "class_number":8090,
+      "subject":"QIC",
+      "catalog_number":"845",
+      "title":"Open Quantum Systems",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Emerson,Joseph"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:13-05:00"
+    },
+    {
+      "class_number":8126,
+      "subject":"QIC",
+      "catalog_number":"890",
+      "title":"Topics in Quantum Information",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Jennewein,Thomas"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:13-05:00"
+    }
+  ]
+}

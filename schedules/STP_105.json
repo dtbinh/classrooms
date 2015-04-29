@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":5605,
+    "timestamp":1420353905,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3449,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":194,
+      "instructors":[
+        "Viola,Maria"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3699,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":172,
+      "instructors":[
+        "Kumase,Wokia-azi"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3714,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":172,
+      "instructors":[
+        "Viola,Maria"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":5496,
+      "subject":"ENVS",
+      "catalog_number":"195",
+      "title":"Introduction to Environmental Studies",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":205,
+      "instructors":[
+        "Joakim,Erin Pauline"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5383,
+      "subject":"GEOG",
+      "catalog_number":"102",
+      "title":"Geography and Our Planetary Environment",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":230,
+      "instructors":[
+        "LeDrew,Ellsworth F"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:21-05:00"
+    },
+    {
+      "class_number":5427,
+      "subject":"GEOG",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
+    },
+    {
+      "class_number":5384,
+      "subject":"GEOG",
+      "catalog_number":"308",
+      "title":"Human Dimensions of Global Climate Change",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:24-05:00"
+    },
+    {
+      "class_number":2988,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":185,
+      "instructors":[
+        "Anthony,Kelly"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3141,
+      "subject":"HLTH",
+      "catalog_number":"102",
+      "title":"Introduction to Health 2",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Anthony,Kelly"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":5387,
+      "subject":"PLAN",
+      "catalog_number":"281",
+      "title":"Introduction to Geographic Information Systems (GIS)",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5751,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Struthers,Cyntha"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":6114,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
+    },
+    {
+      "class_number":8169,
+      "subject":"ACC",
+      "catalog_number":"611",
+      "title":"External Reporting",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":213,
+      "instructors":[
+        
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:35-05:00"
+    }
+  ]
+}

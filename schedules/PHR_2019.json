@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":5535,
+    "timestamp":1420353879,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6802,
+      "subject":"PHARM",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6809,
+      "subject":"PHARM",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6810,
+      "subject":"PHARM",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":8305,
+      "subject":"PHARM",
+      "catalog_number":"361",
+      "title":"Advanced Compounding",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    }
+  ]
+}

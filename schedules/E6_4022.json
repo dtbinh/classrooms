@@ -1,0 +1,474 @@
+{
+  "meta":{
+    "requests":5398,
+    "timestamp":1420353831,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4595,
+      "subject":"CHE",
+      "catalog_number":"311",
+      "title":"Chemical Reaction Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Tzoganakis,Costas"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4595,
+      "subject":"CHE",
+      "catalog_number":"311",
+      "title":"Chemical Reaction Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Tzoganakis,Costas"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4733,
+      "subject":"CHE",
+      "catalog_number":"311",
+      "title":"Chemical Reaction Engineering",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Tzoganakis,Costas"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4918,
+      "subject":"CHE",
+      "catalog_number":"325",
+      "title":"Strategies for Process Improvement and Product Development",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Penlidis,Alexander"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4918,
+      "subject":"CHE",
+      "catalog_number":"325",
+      "title":"Strategies for Process Improvement and Product Development",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Penlidis,Alexander"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4919,
+      "subject":"CHE",
+      "catalog_number":"325",
+      "title":"Strategies for Process Improvement and Product Development",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Penlidis,Alexander"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4596,
+      "subject":"CHE",
+      "catalog_number":"331",
+      "title":"Electrochemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Pope,Michael"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":8125,
+      "subject":"CHE",
+      "catalog_number":"516",
+      "title":"Energy Systems Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Douglas,Peter"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":8125,
+      "subject":"CHE",
+      "catalog_number":"516",
+      "title":"Energy Systems Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Douglas,Peter"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":4607,
+      "subject":"CHE",
+      "catalog_number":"522",
+      "title":"Advanced Process Dynamics and Control",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":4607,
+      "subject":"CHE",
+      "catalog_number":"522",
+      "title":"Advanced Process Dynamics and Control",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":4610,
+      "subject":"CHE",
+      "catalog_number":"524",
+      "title":"Process Control Laboratory",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":4611,
+      "subject":"CHE",
+      "catalog_number":"562",
+      "title":"Advanced Bioprocess Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Chou,C.H. Perry"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4611,
+      "subject":"CHE",
+      "catalog_number":"562",
+      "title":"Advanced Bioprocess Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Chou,C.H. Perry"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4612,
+      "subject":"CHE",
+      "catalog_number":"564",
+      "title":"Food Process Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Robinson,Mary"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4612,
+      "subject":"CHE",
+      "catalog_number":"564",
+      "title":"Food Process Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Robinson,Mary"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4901,
+      "subject":"CHE",
+      "catalog_number":"571",
+      "title":"Industrial Ecology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Fowler,Michael"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":4901,
+      "subject":"CHE",
+      "catalog_number":"571",
+      "title":"Industrial Ecology",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Fowler,Michael"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:23-05:00"
+    },
+    {
+      "class_number":8373,
+      "subject":"CHE",
+      "catalog_number":"612",
+      "title":"Interfacial Phenomena",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:48-05:00"
+    },
+    {
+      "class_number":4925,
+      "subject":"CHE",
+      "catalog_number":"622",
+      "title":"Statistics in Engineering",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Penlidis,Alexander"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:48-05:00"
+    },
+    {
+      "class_number":5274,
+      "subject":"CHE",
+      "catalog_number":"624",
+      "title":"Advanced Process Dynamics and Control",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
+    },
+    {
+      "class_number":5274,
+      "subject":"CHE",
+      "catalog_number":"624",
+      "title":"Advanced Process Dynamics and Control",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
+    },
+    {
+      "class_number":4904,
+      "subject":"CHE",
+      "catalog_number":"640",
+      "title":"Principles of Polymer Science",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Simon,Leonardo"
+      ],
+      "building":"E6",
+      "room":"4022",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
+    }
+  ]
+}

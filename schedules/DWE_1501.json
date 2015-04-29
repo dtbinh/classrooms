@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":5357,
+    "timestamp":1420353814,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6619,
+      "subject":"CHEM",
+      "catalog_number":"360",
+      "title":"Organic Chemistry 3",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Fillion,Eric"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":4571,
+      "subject":"CIVE",
+      "catalog_number":"499",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Thomson,Neil R"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:39-05:00"
+    },
+    {
+      "class_number":5902,
+      "subject":"CO",
+      "catalog_number":"372",
+      "title":"Portfolio Optimization Models",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Georgiou,Konstantinos"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:45-05:00"
+    },
+    {
+      "class_number":7729,
+      "subject":"CS",
+      "catalog_number":"335",
+      "title":"Computational Methods in Business and Finance",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Labahn,George"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:55-05:00"
+    },
+    {
+      "class_number":6781,
+      "subject":"EARTH",
+      "catalog_number":"358",
+      "title":"Earth System Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Wu,Lingling"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:11-05:00"
+    },
+    {
+      "class_number":4326,
+      "subject":"HIST",
+      "catalog_number":"223",
+      "title":"The Holocaust in History",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        "Bruce,Gary"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":7641,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Winlaw,Manda"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":6052,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Cheriyan,Joseph"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":6087,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Madill,Blake"
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
+    },
+    {
+      "class_number":4870,
+      "subject":"MTE",
+      "catalog_number":"400B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1501",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:27-05:00"
+    }
+  ]
+}

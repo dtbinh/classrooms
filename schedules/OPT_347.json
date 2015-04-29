@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":5512,
+    "timestamp":1420353870,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":2982,
+      "subject":"GERON",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:30-05:00"
+    },
+    {
+      "class_number":2983,
+      "subject":"HLTH",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3169,
+      "subject":"HLTH",
+      "catalog_number":"330",
+      "title":"Health Informatics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":129,
+      "instructors":[
+        "Lee,JoonWu"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":2989,
+      "subject":"HLTH",
+      "catalog_number":"340",
+      "title":"Environmental Toxicology and Public Health",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        "Laird,Brian"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3170,
+      "subject":"HLTH",
+      "catalog_number":"360",
+      "title":"Psychological Determinants of Health",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":134,
+      "instructors":[
+        "Jessup,Linda Louise"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:38-05:00"
+    },
+    {
+      "class_number":2984,
+      "subject":"KIN",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2995,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        "Acker,Stacey"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":146,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3140,
+      "subject":"KIN",
+      "catalog_number":"250",
+      "title":"Sociology of Physical Activity",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":222,
+      "instructors":[
+        "Wilson,Austin Wade"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3173,
+      "subject":"KIN",
+      "catalog_number":"404",
+      "title":"Physiological Basis of Obesity and Type 2 Diabetes",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":170,
+      "instructors":[
+        "Tupling,Allan R"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:00-05:00"
+    },
+    {
+      "class_number":3221,
+      "subject":"KIN",
+      "catalog_number":"422",
+      "title":"Human Gait, Posture, and Balance: Pathological and Aging Considerations",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":124,
+      "instructors":[
+        "Prentice,Stephen D"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:01-05:00"
+    },
+    {
+      "class_number":3156,
+      "subject":"KIN",
+      "catalog_number":"427",
+      "title":"Low Back Disorders",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":201,
+      "instructors":[
+        "McGill,Stuart M"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:01-05:00"
+    },
+    {
+      "class_number":3155,
+      "subject":"KIN",
+      "catalog_number":"727",
+      "title":"Low Back Disorders: Optimizing Prevention, Rehabilitation and Performance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "McGill,Stuart M"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:42-05:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5399,
+    "timestamp":1420353832,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3815,
+      "subject":"ENGL",
+      "catalog_number":"293",
+      "title":"Introduction to Digital Media Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "O'Gorman,Marcel"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:48-05:00"
+    },
+    {
+      "class_number":4021,
+      "subject":"FINE",
+      "catalog_number":"228",
+      "title":"Digital Imaging",
+      "section":"STU 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Andison,Lois"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
+    },
+    {
+      "class_number":8242,
+      "subject":"FINE",
+      "catalog_number":"232",
+      "title":"Video and Sound",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Cooper,Tara"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
+    }
+  ]
+}

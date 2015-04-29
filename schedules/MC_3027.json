@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":5480,
+    "timestamp":1420353858,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6008,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"3027",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    }
+  ]
+}

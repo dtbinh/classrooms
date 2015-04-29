@@ -1,0 +1,3074 @@
+{
+  "meta":{
+    "requests":5317,
+    "timestamp":1420353799,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/16",
+      "end_date":"02\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"04\/06",
+      "end_date":"04\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/16",
+      "end_date":"02\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 003",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"04\/06",
+      "end_date":"04\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/17",
+      "end_date":"02\/17",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3107,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 006",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"04\/06",
+      "end_date":"04\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/16",
+      "end_date":"02\/16",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 007",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":12,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":9,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"02\/17",
+      "end_date":"02\/17",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 009",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 010",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/18",
+      "end_date":"02\/18",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3113,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 011",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3128,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 012",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":11,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/18",
+      "end_date":"02\/18",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3157,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 013",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":15,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":16,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/18",
+      "end_date":"02\/18",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"KIN",
+      "catalog_number":"101",
+      "title":"Biophysical Evaluation Lab",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":18,
+      "instructors":[
+        "Russell,Caryl A"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:57-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/19",
+      "end_date":"02\/19",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2998,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3013,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    }
+  ]
+}

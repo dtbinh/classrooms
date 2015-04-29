@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":5294,
+    "timestamp":1420353792,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4068,
+      "subject":"DRAMA",
+      "catalog_number":"244",
+      "title":"Introduction to Technical Production 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":4068,
+      "subject":"DRAMA",
+      "catalog_number":"244",
+      "title":"Introduction to Technical Production 2",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    },
+    {
+      "class_number":4068,
+      "subject":"DRAMA",
+      "catalog_number":"244",
+      "title":"Introduction to Technical Production 2",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
+    }
+  ]
+}

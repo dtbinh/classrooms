@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5559,
+    "timestamp":1420353890,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4716,
+      "subject":"CIVE",
+      "catalog_number":"507",
+      "title":"Building Science and Technology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Straube,John F"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:39-05:00"
+    },
+    {
+      "class_number":4722,
+      "subject":"CIVE",
+      "catalog_number":"596",
+      "title":"Construction Engineering",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Hegazi,Tarek"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:40-05:00"
+    },
+    {
+      "class_number":4723,
+      "subject":"CIVE",
+      "catalog_number":"596",
+      "title":"Construction Engineering",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Hegazi,Tarek"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:40-05:00"
+    },
+    {
+      "class_number":4982,
+      "subject":"ECE",
+      "catalog_number":"406",
+      "title":"Algorithm Design and Analysis",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5800,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        "Sellaroli,Giuseppe"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4965,
+      "subject":"MSCI",
+      "catalog_number":"100B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        "McKay,Kenneth"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:20-05:00"
+    },
+    {
+      "class_number":7421,
+      "subject":"PHIL",
+      "catalog_number":"256",
+      "title":"Introduction to Cognitive Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Thagard,Paul"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:59-05:00"
+    },
+    {
+      "class_number":5430,
+      "subject":"PLAN",
+      "catalog_number":"103",
+      "title":"Planning, Administration, and Finance",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":128,
+      "instructors":[
+        "Moos,Markus"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":4227,
+      "subject":"PSCI",
+      "catalog_number":"282",
+      "title":"Foreign Policy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Cooper,Andrew F."
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    },
+    {
+      "class_number":7446,
+      "subject":"PSYCH",
+      "catalog_number":"256",
+      "title":"Introduction to Cognitive Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Thagard,Paul"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:30-05:00"
+    },
+    {
+      "class_number":7448,
+      "subject":"PSYCH",
+      "catalog_number":"335",
+      "title":"Developmental Neuropsychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "McAuley,Tara"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:32-05:00"
+    },
+    {
+      "class_number":7188,
+      "subject":"SE",
+      "catalog_number":"402",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Atlee,Joanne"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":7198,
+      "subject":"SE",
+      "catalog_number":"491",
+      "title":"Design Project 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Morton,Andrew"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":6181,
+      "subject":"STAT",
+      "catalog_number":"333",
+      "title":"Applied Probability",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Lysy,Martin"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
+    },
+    {
+      "class_number":7155,
+      "subject":"STV",
+      "catalog_number":"100",
+      "title":"Society, Technology and Values: Introduction",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Campbell,Scott Martin"
+      ],
+      "building":"RCH",
+      "room":"105",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:18-05:00"
+    }
+  ]
+}

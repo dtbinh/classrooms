@@ -1,0 +1,1094 @@
+{
+  "meta":{
+    "requests":5337,
+    "timestamp":1420353806,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5187,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5189,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5191,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":5192,
+      "subject":"ECE",
+      "catalog_number":"361",
+      "title":"Power Systems and Components",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"1333",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    }
+  ]
+}

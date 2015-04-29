@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":5295,
+    "timestamp":1420353793,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4790,
+      "subject":"ARCH",
+      "catalog_number":"143",
+      "title":"Cultural History 2: The Ancient World",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "van Pelt,Robert J"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4790,
+      "subject":"ARCH",
+      "catalog_number":"143",
+      "title":"Cultural History 2: The Ancient World",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "van Pelt,Robert J"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4791,
+      "subject":"ARCH",
+      "catalog_number":"173",
+      "title":"Building Construction 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Boake,Terri"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:33-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"ARCH",
+      "catalog_number":"343",
+      "title":"Enlightenment, Romanticism and the 19th Century",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Rynnimeri,Valerio"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:34-05:00"
+    },
+    {
+      "class_number":4912,
+      "subject":"ARCH",
+      "catalog_number":"655",
+      "title":"Architectural Practice: Ethics, Professional Liability and Business",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Ross,Barbara Marion"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
+    }
+  ]
+}

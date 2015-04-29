@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":5532,
+    "timestamp":1420353877,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6827,
+      "subject":"PHARM",
+      "catalog_number":"110",
+      "title":"Systems Approach to the Study of the Human Body 1",
+      "section":"LEC 001",
+      "weekdays":"TW",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Joseph,Jamie"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:50-05:00"
+    },
+    {
+      "class_number":6801,
+      "subject":"PHARM",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Wettig,Shawn"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6902,
+      "subject":"PHARM",
+      "catalog_number":"126",
+      "title":"Pharmaceutical Calculations",
+      "section":"TUT 001",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Foldvari,Marianna"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6803,
+      "subject":"PHARM",
+      "catalog_number":"127",
+      "title":"Professional Communication Skills in Pharmacy Practice 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Lillie,Elaine"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6804,
+      "subject":"PHARM",
+      "catalog_number":"129",
+      "title":"Professional Practice 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Nakhla,Nardine"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":7563,
+      "subject":"PHARM",
+      "catalog_number":"320",
+      "title":"Integrated Patient Focused Care 5",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/05",
+      "end_date":"02\/13",
+      "enrollment_total":119,
+      "instructors":[
+        "McFarlane,Tom"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7563,
+      "subject":"PHARM",
+      "catalog_number":"320",
+      "title":"Integrated Patient Focused Care 5",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":"01\/05",
+      "end_date":"02\/13",
+      "enrollment_total":119,
+      "instructors":[
+        "McFarlane,Tom"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7563,
+      "subject":"PHARM",
+      "catalog_number":"320",
+      "title":"Integrated Patient Focused Care 5",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":"01\/05",
+      "end_date":"02\/13",
+      "enrollment_total":119,
+      "instructors":[
+        "McFarlane,Tom"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7564,
+      "subject":"PHARM",
+      "catalog_number":"320",
+      "title":"Integrated Patient Focused Care 5",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":"01\/05",
+      "end_date":"02\/13",
+      "enrollment_total":119,
+      "instructors":[
+        "McFarlane,Tom"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7565,
+      "subject":"PHARM",
+      "catalog_number":"321",
+      "title":"Integrated Patient Focused Care 6",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/23",
+      "end_date":"04\/06",
+      "enrollment_total":118,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7565,
+      "subject":"PHARM",
+      "catalog_number":"321",
+      "title":"Integrated Patient Focused Care 6",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":"02\/23",
+      "end_date":"04\/06",
+      "enrollment_total":118,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7565,
+      "subject":"PHARM",
+      "catalog_number":"321",
+      "title":"Integrated Patient Focused Care 6",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":"02\/23",
+      "end_date":"04\/06",
+      "enrollment_total":118,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7566,
+      "subject":"PHARM",
+      "catalog_number":"321",
+      "title":"Integrated Patient Focused Care 6",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":"02\/23",
+      "end_date":"04\/06",
+      "enrollment_total":118,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7567,
+      "subject":"PHARM",
+      "catalog_number":"322",
+      "title":"Clinical Application of Pharmaceutical Sciences",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Blay,Jonathan"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    },
+    {
+      "class_number":7571,
+      "subject":"PHARM",
+      "catalog_number":"350",
+      "title":"Fundamentals of Business Administration and Management",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Slavcev,Roderick Adrian Ernest"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":5445,
+    "timestamp":1420353846,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4374,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":3,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4374,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":3,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4374,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/18",
+      "end_date":"02\/18",
+      "enrollment_total":3,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4374,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":3,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4374,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":3,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4375,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":2,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4375,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":2,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4375,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":2,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4375,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":2,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4375,
+      "subject":"HIST",
+      "catalog_number":"303",
+      "title":"Digital History",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":2,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4228,
+      "subject":"PSCI",
+      "catalog_number":"282",
+      "title":"Foreign Policy",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    },
+    {
+      "class_number":7439,
+      "subject":"ECON",
+      "catalog_number":"631",
+      "title":"International Trade",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Rus,Horatiu"
+      ],
+      "building":"HH",
+      "room":"119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:16-05:00"
+    }
+  ]
+}
