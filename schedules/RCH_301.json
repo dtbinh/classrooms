@@ -1,915 +1,780 @@
 {
-  "meta":{
-    "requests":5573,
-    "timestamp":1420353895,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4255,
-      "subject":"ARBUS",
-      "catalog_number":"202",
-      "title":"Professional and Business Ethics",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":129,
-      "instructors":[
-        "McChesney,Dylon"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/20",
-      "end_date":"01\/20",
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"02\/03",
-      "end_date":"02\/03",
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/03",
-      "end_date":"03\/03",
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/17",
-      "end_date":"03\/17",
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/31",
-      "end_date":"03\/31",
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CIVE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:34-05:00"
-    },
-    {
-      "class_number":4697,
-      "subject":"CIVE",
-      "catalog_number":"127",
-      "title":"Statics & Solid Mechanics 1",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":130,
-      "instructors":[
-        "Xie,Wei-Chau"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4941,
-      "subject":"ECE",
-      "catalog_number":"100B",
-      "title":"Electrical and Computer Engineering Practice",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":145,
-      "instructors":[
-        "Neale,Adam John"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4937,
-      "subject":"ECE",
-      "catalog_number":"103",
-      "title":"Discrete Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":155,
-      "instructors":[
-        "Pei,Martin"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4949,
-      "subject":"ECE",
-      "catalog_number":"124",
-      "title":"Digital Circuits and Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":155,
-      "instructors":[
-        "Kennings,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"13:30",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/19",
-      "end_date":"01\/19",
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"02\/02",
-      "end_date":"02\/02",
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/02",
-      "end_date":"03\/02",
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/16",
-      "end_date":"03\/16",
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4956,
-      "subject":"ECE",
-      "catalog_number":"155",
-      "title":"Engineering Design with Embedded Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/30",
-      "end_date":"03\/30",
-      "enrollment_total":149,
-      "instructors":[
-        "Zarnett,Jeffrey"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":5480,
-      "subject":"ENBUS",
-      "catalog_number":"302",
-      "title":"Strategies for Environment and Business",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":110,
-      "instructors":[
-        "Lin,Haiying",
-        "Clarke,Amelia"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:40-05:00"
-    },
-    {
-      "class_number":4686,
-      "subject":"GENE",
-      "catalog_number":"123",
-      "title":"Electrical Engineering",
-      "section":"TUT 202",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":127,
-      "instructors":[
-        "Sazonov,Andrei"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:16-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/13",
-      "end_date":"01\/13",
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/27",
-      "end_date":"01\/27",
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"02\/10",
-      "end_date":"02\/10",
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/10",
-      "end_date":"03\/10",
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5799,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/24",
-      "end_date":"03\/24",
-      "enrollment_total":125,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/12",
-      "end_date":"01\/12",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"01\/26",
-      "end_date":"01\/26",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"02\/09",
-      "end_date":"02\/09",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/09",
-      "end_date":"03\/09",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"03\/23",
-      "end_date":"03\/23",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5804,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":"04\/06",
-      "end_date":"04\/06",
-      "enrollment_total":154,
-      "instructors":[
-        "Miskovic,Zoran"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":7418,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"LEC 001",
-      "weekdays":"TWTh",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":112,
-      "instructors":[
-        "Hurst,Ada"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4758,
-      "subject":"MTE",
-      "catalog_number":"201",
-      "title":"Experimental Measurement & Statistical Analysis",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":136,
-      "instructors":[
-        "Teertstra,Peter Michael"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:25-05:00"
-    },
-    {
-      "class_number":4765,
-      "subject":"MTE",
-      "catalog_number":"202",
-      "title":"Ordinary Differential Equations",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":135,
-      "instructors":[
-        "Teertstra,Peter Michael"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:25-05:00"
-    },
-    {
-      "class_number":4768,
-      "subject":"MTE",
-      "catalog_number":"219",
-      "title":"Mechanics of Deformable Solids",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":135,
-      "instructors":[
-        "Jahedmotlagh,Hamidreza"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:26-05:00"
-    },
-    {
-      "class_number":4254,
-      "subject":"PHIL",
-      "catalog_number":"215",
-      "title":"Professional and Business Ethics",
-      "section":"LEC 004",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "McChesney,Dylon"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:58-05:00"
-    },
-    {
-      "class_number":5431,
-      "subject":"PLAN",
-      "catalog_number":"233",
-      "title":"People and Plans",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":114,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":5433,
-      "subject":"PLAN",
-      "catalog_number":"261",
-      "title":"Urban and Metropolitan Planning and Development",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":127,
-      "instructors":[
-        "Qian,Zhu"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":7196,
-      "subject":"SE",
-      "catalog_number":"465",
-      "title":"Software Testing and Quality Assurance",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":133,
-      "instructors":[
-        "Lam,Patrick"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":5868,
-      "subject":"STAT",
-      "catalog_number":"331",
-      "title":"Applied Linear Models",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":135,
-      "instructors":[
-        "Lysy,Martin"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":5924,
-      "subject":"STAT",
-      "catalog_number":"372",
-      "title":"Statistics for Business 2",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":65,
-      "instructors":[
-        "Balka,Peter"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":4974,
-      "subject":"SYDE",
-      "catalog_number":"182",
-      "title":"Physics 2 (Dynamics)",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":135,
-      "instructors":[
-        "Abdel-Rahman,Eihab"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:25-05:00"
-    },
-    {
-      "class_number":4774,
-      "subject":"SYDE",
-      "catalog_number":"334",
-      "title":"Applied Statistics",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Lysy,Martin"
-      ],
-      "building":"RCH",
-      "room":"301",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:26-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "222",
+            "class_number": 2779,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Xie,Wei-Chau"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Differential Equations",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "222",
+            "class_number": 3398,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 72,
+            "instructors": [
+                "Xie,Wei-Chau"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Differential Equations",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "240",
+            "class_number": 2904,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Basu,Nandita"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Engineering and Sustainable Development",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "240",
+            "class_number": 3399,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 73,
+            "instructors": [
+                "Basu,Nandita"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Engineering and Sustainable Development",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "280",
+            "class_number": 2780,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 146,
+            "instructors": [
+                "Pagsuyoin,Sheree"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Fluid Mechanics and Thermal Sciences",
+            "weekdays": "MW"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "280",
+            "class_number": 2780,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 146,
+            "instructors": [
+                "Pagsuyoin,Sheree"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Fluid Mechanics and Thermal Sciences",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "280",
+            "class_number": 2884,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 73,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Fluid Mechanics and Thermal Sciences",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "280",
+            "class_number": 3400,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 73,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Fluid Mechanics and Thermal Sciences",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "299",
+            "class_number": 2783,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 146,
+            "instructors": [
+                "Haas,Carl T"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "301",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "100B",
+            "class_number": 3111,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "SEM 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "05/11",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "05/11",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "06/01",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/01",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "06/15",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/15",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "06/22",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/22",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "07/06",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/06",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "103",
+            "class_number": 3112,
+            "end_date": "07/20",
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Georgiou,Konstantinos"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/20",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "106",
+            "class_number": 3117,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 121,
+            "instructors": [
+                "Mansour,Firas K"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": "05/25",
+            "end_time": "17:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "05/25",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": "06/29",
+            "end_time": "17:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/29",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": "07/13",
+            "end_time": "17:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/13",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": "07/27",
+            "end_time": "17:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/27",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3131,
+            "end_date": "06/08",
+            "end_time": "17:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/08",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "05/19",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "05/19",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "06/02",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/02",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "06/16",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/16",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "06/23",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "06/23",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "07/07",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/07",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3145,
+            "end_date": "07/21",
+            "end_time": "11:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": "07/21",
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "TThF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": "05/26",
+            "end_time": "16:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": "05/26",
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": "06/30",
+            "end_time": "16:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": "06/30",
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": "07/14",
+            "end_time": "16:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": "07/14",
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": "07/28",
+            "end_time": "16:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": "07/28",
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3644,
+            "end_date": "06/09",
+            "end_time": "16:20",
+            "enrollment_total": 116,
+            "instructors": [
+                "Seyyedali,Reza"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 001",
+            "start_date": "06/09",
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 3729,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Chow,Amenda"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "301",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "W"
+        }
+    ]
 }

@@ -1,114 +1,24 @@
 {
-  "meta":{
-    "requests":5405,
-    "timestamp":1420353834,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3913,
-      "subject":"FINE",
-      "catalog_number":"202",
-      "title":"Painting",
-      "section":"STU 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Blatherwick,David"
-      ],
-      "building":"ECH",
-      "room":"1224A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:03-05:00"
-    },
-    {
-      "class_number":4409,
-      "subject":"FINE",
-      "catalog_number":"202",
-      "title":"Painting",
-      "section":"STU 002",
-      "weekdays":"MW",
-      "start_time":"15:30",
-      "end_time":"17:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Everingham,Scott"
-      ],
-      "building":"ECH",
-      "room":"1224A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:03-05:00"
-    },
-    {
-      "class_number":7589,
-      "subject":"FINE",
-      "catalog_number":"220",
-      "title":"Oil Painting",
-      "section":"STU 001",
-      "weekdays":"MW",
-      "start_time":"09:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Blatherwick,David"
-      ],
-      "building":"ECH",
-      "room":"1224A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:04-05:00"
-    },
-    {
-      "class_number":7590,
-      "subject":"FINE",
-      "catalog_number":"224",
-      "title":"Expressive Drawing",
-      "section":"STU 001",
-      "weekdays":"TTh",
-      "start_time":"09:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Kirton,Douglas"
-      ],
-      "building":"ECH",
-      "room":"1224A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:04-05:00"
-    },
-    {
-      "class_number":3722,
-      "subject":"FINE",
-      "catalog_number":"225",
-      "title":"Observational Drawing",
-      "section":"STU 001",
-      "weekdays":"TTh",
-      "start_time":"15:30",
-      "end_time":"17:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Cooper,Tara"
-      ],
-      "building":"ECH",
-      "room":"1224A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:04-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ECH",
+            "catalog_number": "226",
+            "class_number": 2597,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Birke,Lisa"
+            ],
+            "last_updated": "2015-05-04T16:01:16-04:00",
+            "room": "1224A",
+            "section": "STU 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "FINE",
+            "term": 1155,
+            "title": "Experimental Drawing",
+            "weekdays": "TTh"
+        }
+    ]
 }

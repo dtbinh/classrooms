@@ -1,474 +1,304 @@
 {
-  "meta":{
-    "requests":5469,
-    "timestamp":1420353854,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6040,
-      "subject":"ACTSC",
-      "catalog_number":"462",
-      "title":"Introduction to Property and Casualty Pricing",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Lennox,William Scott"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:16-05:00"
-    },
-    {
-      "class_number":4253,
-      "subject":"ARBUS",
-      "catalog_number":"202",
-      "title":"Professional and Business Ethics",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":129,
-      "instructors":[
-        "Jordan,William James"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":7711,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":121,
-      "instructors":[
-        "Dupont,Edward"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":6166,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 006",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":107,
-      "instructors":[
-        "Petrick,Mark"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":5782,
-      "subject":"CS",
-      "catalog_number":"447",
-      "title":"Software Testing, Quality Assurance and Maintenance",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":65,
-      "instructors":[
-        "Tan,Lin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:01-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"124",
-      "title":"Digital Circuits and Systems",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":145,
-      "instructors":[
-        "Kennings,Andrew"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4923,
-      "subject":"ECE",
-      "catalog_number":"453",
-      "title":"Software Testing, Quality Assurance and Maintenance",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Tan,Lin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:29-05:00"
-    },
-    {
-      "class_number":5426,
-      "subject":"GEOG",
-      "catalog_number":"333",
-      "title":"Recreation Geography",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":54,
-      "instructors":[
-        "Cukier,Judith"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:24-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5817,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"TUT 103",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":4252,
-      "subject":"PHIL",
-      "catalog_number":"215",
-      "title":"Professional and Business Ethics",
-      "section":"LEC 003",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Jordan,William James"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:58-05:00"
-    },
-    {
-      "class_number":6968,
-      "subject":"PHYS",
-      "catalog_number":"234",
-      "title":"Quantum Physics 1",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Lutkenhaus,Norbert N"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:06-05:00"
-    },
-    {
-      "class_number":3091,
-      "subject":"REC",
-      "catalog_number":"333",
-      "title":"Recreation Geography",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Cukier,Judith"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:41-05:00"
-    },
-    {
-      "class_number":7970,
-      "subject":"SE",
-      "catalog_number":"465",
-      "title":"Software Testing and Quality Assurance",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":90,
-      "instructors":[
-        "Tan,Lin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":6260,
-      "subject":"STAT",
-      "catalog_number":"202",
-      "title":"Introductory Statistics for Scientists",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Stevens,Nathaniel Tyler"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":5753,
-      "subject":"STAT",
-      "catalog_number":"331",
-      "title":"Applied Linear Models",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":135,
-      "instructors":[
-        "Lysy,Martin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":6100,
-      "subject":"STAT",
-      "catalog_number":"340",
-      "title":"Computer Simulation of Complex Systems",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":151,
-      "instructors":[
-        "Metzger,Riley Adam"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":5758,
-      "subject":"STAT",
-      "catalog_number":"450",
-      "title":"Estimation and Hypothesis Testing",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Wu,Changbao"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:18-05:00"
-    },
-    {
-      "class_number":4535,
-      "subject":"SYDE",
-      "catalog_number":"334",
-      "title":"Applied Statistics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Lysy,Martin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:26-05:00"
-    },
-    {
-      "class_number":6048,
-      "subject":"ACTSC",
-      "catalog_number":"862",
-      "title":"Introduction to Property and Casualty Pricing",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Lennox,William Scott"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:40-05:00"
-    },
-    {
-      "class_number":5715,
-      "subject":"CS",
-      "catalog_number":"647",
-      "title":"Software Testing, Quality Assurance and Maintenance",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Tan,Lin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:03-05:00"
-    },
-    {
-      "class_number":5149,
-      "subject":"ECE",
-      "catalog_number":"653",
-      "title":"Software Testing, Quality Assurance and Maintenance",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Tan,Lin"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:12-05:00"
-    },
-    {
-      "class_number":5722,
-      "subject":"STAT",
-      "catalog_number":"850",
-      "title":"Estimation and Hypothesis Testing",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Wu,Changbao"
-      ],
-      "building":"MC",
-      "room":"1085",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:17-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "232",
+            "class_number": 3595,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Adcock,James"
+            ],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Introduction to Actuarial Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "232",
+            "class_number": 3689,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Adcock,James"
+            ],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "1085",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Introduction to Actuarial Mathematics",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "123",
+            "class_number": 4201,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 128,
+            "instructors": [
+                "Barra,Monica"
+            ],
+            "last_updated": "2015-05-04T16:00:40-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Chemical Reactions, Equilibria and Kinetics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "123",
+            "class_number": 4268,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 128,
+            "instructors": [
+                "Barra,Monica"
+            ],
+            "last_updated": "2015-05-04T16:00:40-04:00",
+            "room": "1085",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Chemical Reactions, Equilibria and Kinetics",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "212",
+            "class_number": 4185,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 130,
+            "instructors": [
+                "Lee,Sonny S.C."
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "1085",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Structure and Bonding",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "205",
+            "class_number": 2777,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Hegazi,Tarek"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "1085",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Mechanics of Solids 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "205",
+            "class_number": 3397,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Hegazi,Tarek"
+            ],
+            "last_updated": "2015-05-04T16:00:43-04:00",
+            "room": "1085",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Mechanics of Solids 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "338",
+            "class_number": 3623,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 137,
+            "instructors": [
+                "Al-Masri,Eyhab"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Computer Applications in Business: Databases",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "138",
+            "class_number": 3655,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 115,
+            "instructors": [
+                "Dunbar,Fiona Emer Siobhan"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 For Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3820,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Geelen,James F"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "1085",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "320",
+            "class_number": 3235,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 114,
+            "instructors": [
+                "El-Sadaany,Ehab Fahmy"
+            ],
+            "last_updated": "2015-05-04T16:01:46-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Actuators & Power Electronics",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "202",
+            "class_number": 4381,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 149,
+            "instructors": [
+                "Rayside,Derek"
+            ],
+            "last_updated": "2015-05-04T16:02:15-04:00",
+            "room": "1085",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "SE",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "334",
+            "class_number": 3783,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 43,
+            "instructors": [
+                "Skrzydlo,Diana Katherine"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "1085",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Probability Models for Business and Accounting",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "371",
+            "class_number": 3779,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 109,
+            "instructors": [
+                "Fahmy,Hany"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "1085",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Statistics for Business 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "351",
+            "class_number": 2962,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 114,
+            "instructors": [
+                "Savage,Gordon"
+            ],
+            "last_updated": "2015-05-04T16:02:27-04:00",
+            "room": "1085",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "SYDE",
+            "term": 1155,
+            "title": "Systems Models 1",
+            "weekdays": "TWF"
+        }
+    ]
 }

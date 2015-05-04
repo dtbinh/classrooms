@@ -1,334 +1,104 @@
 {
-  "meta":{
-    "requests":5499,
-    "timestamp":1420353865,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4402,
-      "subject":"DAC",
-      "catalog_number":"201",
-      "title":"Designing Digital Images and Hypertext",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Goodwin,David"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:05-05:00"
-    },
-    {
-      "class_number":4010,
-      "subject":"DAC",
-      "catalog_number":"302",
-      "title":"Machinima as Digital Storytelling",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Goodwin,David"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:05-05:00"
-    },
-    {
-      "class_number":7669,
-      "subject":"DAC",
-      "catalog_number":"309",
-      "title":"User Experience Design",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"17:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Tomasson Goodwin,Jill P"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:05-05:00"
-    },
-    {
-      "class_number":3739,
-      "subject":"DAC",
-      "catalog_number":"329",
-      "title":"Digital Presentations",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Tomasson Goodwin,Jill P"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:05-05:00"
-    },
-    {
-      "class_number":4403,
-      "subject":"ENGL",
-      "catalog_number":"203",
-      "title":"Designing Digital Images and Hypertext",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Goodwin,David"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:45-05:00"
-    },
-    {
-      "class_number":7668,
-      "subject":"ENGL",
-      "catalog_number":"303",
-      "title":"Special Topics in Digital Design",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"17:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Tomasson Goodwin,Jill P"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:49-05:00"
-    },
-    {
-      "class_number":3571,
-      "subject":"GER",
-      "catalog_number":"212",
-      "title":"Integrative Language Seminar II",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Boehringer,Michael"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:28-05:00"
-    },
-    {
-      "class_number":7598,
-      "subject":"GER",
-      "catalog_number":"307",
-      "title":"German for Professional Purposes",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Betz,Emma"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:29-05:00"
-    },
-    {
-      "class_number":7649,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 006",
-      "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Moll,Sorouja"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":7650,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 007",
-      "weekdays":"TTh",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Young,Vershawn"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":7651,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 008",
-      "weekdays":"MTh",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Doyle,Jennifer"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":3303,
-      "subject":"SPCOM",
-      "catalog_number":"225",
-      "title":"Interviewing",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Doyle,Jennifer"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":3929,
-      "subject":"SPCOM",
-      "catalog_number":"323",
-      "title":"Speech Writing",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Nguyen,Kim"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":3835,
-      "subject":"SPCOM",
-      "catalog_number":"329",
-      "title":"Digital Presentations",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Tomasson Goodwin,Jill P"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:14-05:00"
-    },
-    {
-      "class_number":7654,
-      "subject":"SPCOM",
-      "catalog_number":"475",
-      "title":"Communication Ethics",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Danisch,Robert"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:14-05:00"
-    },
-    {
-      "class_number":3544,
-      "subject":"SPCOM",
-      "catalog_number":"491",
-      "title":"Selected Seminars in Speech Communication",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "MacDonald,Shana"
-      ],
-      "building":"ML",
-      "room":"117",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:14-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ML",
+            "catalog_number": "223",
+            "class_number": 2303,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Moll,Sorouja"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "117",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "SPCOM",
+            "term": 1155,
+            "title": "Public Speaking",
+            "weekdays": "MW"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "223",
+            "class_number": 2315,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Moll,Sorouja"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "117",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "SPCOM",
+            "term": 1155,
+            "title": "Public Speaking",
+            "weekdays": "MW"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "223",
+            "class_number": 2316,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 19,
+            "instructors": [
+                "Doyle,Jennifer"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "117",
+            "section": "LEC 005",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "SPCOM",
+            "term": 1155,
+            "title": "Public Speaking",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "225",
+            "class_number": 2305,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Doyle,Jennifer"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "117",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "SPCOM",
+            "term": 1155,
+            "title": "Interviewing",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "431",
+            "class_number": 2403,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 27,
+            "instructors": [
+                "Paci,Timothy P"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "117",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "SPCOM",
+            "term": 1155,
+            "title": "Crisis Communication",
+            "weekdays": "T"
+        }
+    ]
 }

@@ -1,34 +1,22 @@
 {
-  "meta":{
-    "requests":5298,
-    "timestamp":1420353794,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8235,
-      "subject":"ARCH",
-      "catalog_number":"684",
-      "title":"Special Topics in Architecture",
-      "section":"LEC 006",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        
-      ],
-      "building":"ARC",
-      "room":"2008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:44-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ARC",
+            "catalog_number": "684",
+            "class_number": 3426,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 3,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "2008",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Special Topics in Architecture",
+            "weekdays": "T"
+        }
+    ]
 }

@@ -1,194 +1,76 @@
 {
-  "meta":{
-    "requests":5427,
-    "timestamp":1420353841,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5404,
-      "subject":"ERS",
-      "catalog_number":"375",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 002",
-      "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":5592,
-      "subject":"ERS",
-      "catalog_number":"475",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 002",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Fedy,Bradley Craig"
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:02-05:00"
-    },
-    {
-      "class_number":5461,
-      "subject":"GEOG",
-      "catalog_number":"271",
-      "title":"Earth from Space Using Remote Sensing",
-      "section":"LAB 101",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5462,
-      "subject":"GEOG",
-      "catalog_number":"271",
-      "title":"Earth from Space Using Remote Sensing",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5463,
-      "subject":"GEOG",
-      "catalog_number":"271",
-      "title":"Earth from Space Using Remote Sensing",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5464,
-      "subject":"GEOG",
-      "catalog_number":"271",
-      "title":"Earth from Space Using Remote Sensing",
-      "section":"LAB 104",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5479,
-      "subject":"GEOG",
-      "catalog_number":"271",
-      "title":"Earth from Space Using Remote Sensing",
-      "section":"LAB 105",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5415,
-      "subject":"GEOG",
-      "catalog_number":"471",
-      "title":"Remote Sensing Project",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":5416,
-      "subject":"GEOG",
-      "catalog_number":"471",
-      "title":"Remote Sensing Project",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        
-      ],
-      "building":"EV2",
-      "room":"1002A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV2",
+            "catalog_number": "481",
+            "class_number": 4795,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 23,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:22-04:00",
+            "room": "1002A",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EV2",
+            "catalog_number": "481",
+            "class_number": 4796,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 6,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:22-04:00",
+            "room": "1002A",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "F"
+        },
+        {
+            "building": "EV2",
+            "catalog_number": "481",
+            "class_number": 4797,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 1,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "1002A",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EV2",
+            "catalog_number": "481",
+            "class_number": 4798,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "1002A",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "F"
+        }
+    ]
 }

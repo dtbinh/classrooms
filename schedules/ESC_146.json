@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "ESC",
+            "catalog_number": "123L",
+            "class_number": 4093,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 92,
+            "instructors": [
+                "Stathopulos,Suzanne Coreen"
+            ],
+            "last_updated": "2015-05-04T16:00:40-04:00",
+            "room": "146",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Chemical Reaction Laboratory 2",
+            "weekdays": "T"
+        }
+    ]
+}

@@ -1,294 +1,319 @@
 {
-  "meta":{
-    "requests":5443,
-    "timestamp":1420353846,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3860,
-      "subject":"AFM",
-      "catalog_number":"121",
-      "title":"Introduction to Global Financial Markets",
-      "section":"LEC 004",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":75,
-      "instructors":[
-        "Geoffrey,Craig"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3861,
-      "subject":"AFM",
-      "catalog_number":"121",
-      "title":"Introduction to Global Financial Markets",
-      "section":"LEC 005",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":75,
-      "instructors":[
-        "Geoffrey,Craig"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":7606,
-      "subject":"AFM",
-      "catalog_number":"323",
-      "title":"Quantitative Foundations for Finance",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Mortazavi,Houman"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":7608,
-      "subject":"AFM",
-      "catalog_number":"333",
-      "title":"International Business",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Arnason,Mark"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:18-05:00"
-    },
-    {
-      "class_number":7609,
-      "subject":"AFM",
-      "catalog_number":"333",
-      "title":"International Business",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"15:30",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Arnason,Mark"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:18-05:00"
-    },
-    {
-      "class_number":7630,
-      "subject":"AFM",
-      "catalog_number":"433",
-      "title":"Business Strategy",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"17:00",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Arnason,Mark"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":3510,
-      "subject":"AFM",
-      "catalog_number":"504",
-      "title":"Issues and Problems in External Reporting",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Mann,Shari"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:21-05:00"
-    },
-    {
-      "class_number":7612,
-      "subject":"ARBUS",
-      "catalog_number":"301",
-      "title":"International Business",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Arnason,Mark"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":7613,
-      "subject":"ARBUS",
-      "catalog_number":"301",
-      "title":"International Business",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"15:30",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Arnason,Mark"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":8041,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 008",
-      "weekdays":"TThF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Kolahjooei Alvar,Farzad"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":4260,
-      "subject":"PHIL",
-      "catalog_number":"250B",
-      "title":"Great Works: Modern",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "MacDonald,Ian"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:59-05:00"
-    },
-    {
-      "class_number":3365,
-      "subject":"PSYCH",
-      "catalog_number":"292",
-      "title":"Basic Data Analysis",
-      "section":"TUT 103",
-      "weekdays":"W",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":7449,
-      "subject":"PSYCH",
-      "catalog_number":"380",
-      "title":"History of Psychology",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Anderson,Britt"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:34-05:00"
-    },
-    {
-      "class_number":3762,
-      "subject":"RUSS",
-      "catalog_number":"101",
-      "title":"Elementary Russian I",
-      "section":"LEC 001",
-      "weekdays":"MWTh",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Reichert,Tetyana"
-      ],
-      "building":"HH",
-      "room":"1106",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:48-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 2317,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 35,
+            "instructors": [
+                "Gunz,Sarah P"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 2318,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Timberg,Robert"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 2328,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 63,
+            "instructors": [
+                "Timberg,Robert"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 2354,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 72,
+            "instructors": [
+                "Gunz,Sarah P"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 2412,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 72,
+            "instructors": [
+                "Timberg,Robert"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 005",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "231",
+            "class_number": 4605,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 63,
+            "instructors": [
+                "Timberg,Robert"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1106",
+            "section": "LEC 006",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Law",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "241",
+            "class_number": 4616,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 49,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1106",
+            "section": "SEM 105",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "241",
+            "class_number": 4617,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 48,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1106",
+            "section": "SEM 106",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "280",
+            "class_number": 2491,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 60,
+            "instructors": [
+                "Delamere,D'Arcy"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1106",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Organizational Behaviour",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "280",
+            "class_number": 2492,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 60,
+            "instructors": [
+                "Delamere,D'Arcy"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1106",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Organizational Behaviour",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "280",
+            "class_number": 2493,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 60,
+            "instructors": [
+                "Delamere,D'Arcy"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1106",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Organizational Behaviour",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "322",
+            "class_number": 4888,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 39,
+            "instructors": [
+                "Phillips,Blake"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1106",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Derivative Securities",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "416",
+            "class_number": 4934,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 51,
+            "instructors": [
+                "Balaban,Steven J."
+            ],
+            "last_updated": "2015-05-04T16:00:11-04:00",
+            "room": "1106",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Special Topics in Finance",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "417",
+            "class_number": 2648,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 25,
+            "instructors": [
+                "Iv,Kieng",
+                "Leung,May Shuk Kwan"
+            ],
+            "last_updated": "2015-05-04T16:00:11-04:00",
+            "room": "1106",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Special Topics in Accounting",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 4945,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 31,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "1106",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "F"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "626",
+            "class_number": 2322,
+            "end_date": null,
+            "end_time": "18:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Iv,Kieng"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "1106",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "IT Assurance and Computer-Assisted Audit Techniques",
+            "weekdays": "M"
+        }
+    ]
 }

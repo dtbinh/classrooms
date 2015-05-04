@@ -1,214 +1,122 @@
 {
-  "meta":{
-    "requests":5410,
-    "timestamp":1420353835,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4743,
-      "subject":"CIVE",
-      "catalog_number":"153",
-      "title":"Earth Engineering",
-      "section":"LAB 101",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Allen,Anne"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4744,
-      "subject":"CIVE",
-      "catalog_number":"153",
-      "title":"Earth Engineering",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":41,
-      "instructors":[
-        "Allen,Anne"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":6467,
-      "subject":"EARTH",
-      "catalog_number":"122L",
-      "title":"Introductory Environmental Sciences Laboratory",
-      "section":"LAB 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Illman,Walter"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":6468,
-      "subject":"EARTH",
-      "catalog_number":"122L",
-      "title":"Introductory Environmental Sciences Laboratory",
-      "section":"LAB 002",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Illman,Walter"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":6469,
-      "subject":"EARTH",
-      "catalog_number":"122L",
-      "title":"Introductory Environmental Sciences Laboratory",
-      "section":"LAB 003",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Illman,Walter"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":7041,
-      "subject":"EARTH",
-      "catalog_number":"122L",
-      "title":"Introductory Environmental Sciences Laboratory",
-      "section":"LAB 004",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Illman,Walter"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":6472,
-      "subject":"EARTH",
-      "catalog_number":"232",
-      "title":"Petrography",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Frape,Shaun"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":6476,
-      "subject":"EARTH",
-      "catalog_number":"333",
-      "title":"Introductory Sedimentology",
-      "section":"LAB 101",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Ross,Martin"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:11-05:00"
-    },
-    {
-      "class_number":6477,
-      "subject":"EARTH",
-      "catalog_number":"333",
-      "title":"Introductory Sedimentology",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Ross,Martin"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:11-05:00"
-    },
-    {
-      "class_number":7042,
-      "subject":"EARTH",
-      "catalog_number":"333",
-      "title":"Introductory Sedimentology",
-      "section":"LAB 103",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Ross,Martin"
-      ],
-      "building":"EIT",
-      "room":"1013",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:11-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 4227,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "instructors": [
+                "Parks,Jennifer Eleanor"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "1013",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "W"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 4228,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Allen,Anne"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "1013",
+            "section": "LAB 202",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 2896,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Allen,Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:13-04:00",
+            "room": "1013",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "W"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 2992,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Allen,Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:13-04:00",
+            "room": "1013",
+            "section": "LAB 202",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 2899,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:20-04:00",
+            "room": "1013",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "GEOE",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "W"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "153",
+            "class_number": 2994,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Allen,Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:20-04:00",
+            "room": "1013",
+            "section": "LAB 202",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "GEOE",
+            "term": 1155,
+            "title": "Earth Engineering",
+            "weekdays": "F"
+        }
+    ]
 }

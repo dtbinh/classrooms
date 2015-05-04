@@ -1,414 +1,461 @@
 {
-  "meta":{
-    "requests":5579,
-    "timestamp":1420353897,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5741,
-      "subject":"AMATH",
-      "catalog_number":"451",
-      "title":"Introduction to Dynamical Systems",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Siegel,David"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:25-05:00"
-    },
-    {
-      "class_number":6897,
-      "subject":"BIOL",
-      "catalog_number":"450",
-      "title":"Marine Biology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":83,
-      "instructors":[
-        "Muller,Kirsten"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:47-05:00"
-    },
-    {
-      "class_number":6560,
-      "subject":"CHEM",
-      "catalog_number":"262",
-      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Forsey,Steven Philip"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:29-05:00"
-    },
-    {
-      "class_number":6561,
-      "subject":"CHEM",
-      "catalog_number":"262",
-      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Forsey,Steven Philip"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:29-05:00"
-    },
-    {
-      "class_number":4884,
-      "subject":"CIVE",
-      "catalog_number":"422",
-      "title":"Finite Element Analysis",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Gracie,Robert R"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    },
-    {
-      "class_number":5774,
-      "subject":"CS",
-      "catalog_number":"341",
-      "title":"Algorithms",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":71,
-      "instructors":[
-        "Chan,Timothy"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:56-05:00"
-    },
-    {
-      "class_number":5293,
-      "subject":"ECE",
-      "catalog_number":"404",
-      "title":"Geometrical and Physical Optics",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Choi,Kyung Soo"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:27-05:00"
-    },
-    {
-      "class_number":5296,
-      "subject":"ECE",
-      "catalog_number":"405",
-      "title":"Introduction to Quantum Mechanics",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:27-05:00"
-    },
-    {
-      "class_number":4867,
-      "subject":"ECE",
-      "catalog_number":"467",
-      "title":"Power System Operation and Markets",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        "Bhattacharya,Kankar"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4868,
-      "subject":"ECE",
-      "catalog_number":"467",
-      "title":"Power System Operation and Markets",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4898,
-      "subject":"ECE",
-      "catalog_number":"488",
-      "title":"Multivariable Control Systems",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4560,
-      "subject":"ENVE",
-      "catalog_number":"375",
-      "title":"Water Quality Engineering",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Huck,Peter M"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:55-05:00"
-    },
-    {
-      "class_number":4178,
-      "subject":"LS",
-      "catalog_number":"201",
-      "title":"Women and the Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Singh,Rashmee"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:06-05:00"
-    },
-    {
-      "class_number":4770,
-      "subject":"MTE",
-      "catalog_number":"219",
-      "title":"Mechanics of Deformable Solids",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:26-05:00"
-    },
-    {
-      "class_number":5110,
-      "subject":"MTE",
-      "catalog_number":"262",
-      "title":"Introduction to Microprocessors and Digital Logic",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:26-05:00"
-    },
-    {
-      "class_number":7108,
-      "subject":"PHYS",
-      "catalog_number":"233",
-      "title":"Introduction to Quantum Mechanics",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Hill,Robert W."
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:06-05:00"
-    },
-    {
-      "class_number":7045,
-      "subject":"PHYS",
-      "catalog_number":"256",
-      "title":"Geometrical and Physical Optics",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Choi,Kyung Soo"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":7534,
-      "subject":"PHYS",
-      "catalog_number":"396",
-      "title":"Biophysics of Imaging",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Bizheva,Kostadinka"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:11-05:00"
-    },
-    {
-      "class_number":4177,
-      "subject":"WS",
-      "catalog_number":"206",
-      "title":"Women and the Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Singh,Rashmee"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:33-05:00"
-    },
-    {
-      "class_number":5344,
-      "subject":"ME",
-      "catalog_number":"621",
-      "title":"Advanced Finite Element Methods",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Ghavam,Kamyar"
-      ],
-      "building":"RCH",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:46-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "512",
+            "class_number": 3010,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 61,
+            "instructors": [
+                "Abdel Wahab,Noran Mohamed Magd"
+            ],
+            "last_updated": "2015-05-04T16:00:45-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Rehabilitation of Structures",
+            "weekdays": "MW"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "321",
+            "class_number": 3903,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 73,
+            "instructors": [
+                "Blake,William Peter Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:46-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "COMM",
+            "term": 1155,
+            "title": "Intermediate Accounting for Finance",
+            "weekdays": "TThF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "221",
+            "class_number": 4083,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 73,
+            "instructors": [
+                "Schiff,Sherry L",
+                "Kendall,Brian"
+            ],
+            "last_updated": "2015-05-04T16:00:55-04:00",
+            "room": "309",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Geochemistry 1",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:00",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "MF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "05/04",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "05/04",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "06/01",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "06/01",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "06/15",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "06/15",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "06/29",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "06/29",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "07/13",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "07/13",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3274,
+            "end_date": "07/27",
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "07/27",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "MF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "05/11",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "05/11",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "05/25",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "05/25",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "06/08",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "06/08",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "06/22",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "06/22",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "07/06",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "07/06",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3285,
+            "end_date": "07/20",
+            "end_time": "13:20",
+            "enrollment_total": 74,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": "07/20",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "375",
+            "class_number": 3287,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 74,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "309",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Fields and Waves",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "455",
+            "class_number": 3179,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 49,
+            "instructors": [
+                "Moreno,Carlos"
+            ],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Embedded Software",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "455",
+            "class_number": 3180,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 49,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "309",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Embedded Software",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "398",
+            "class_number": 2825,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 31,
+            "instructors": [
+                "MacVicar,Bruce Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "309",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "398",
+            "class_number": 2758,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "MacVicar,Bruce Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:01:20-04:00",
+            "room": "309",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "GEOE",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 2933,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 49,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "309",
+            "section": "TUT 201",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "W"
+        }
+    ]
 }

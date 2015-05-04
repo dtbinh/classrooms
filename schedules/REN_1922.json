@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "129R",
+            "class_number": 4068,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 0,
+            "instructors": [
+                "Schuller,Christa"
+            ],
+            "last_updated": "2015-05-04T16:01:16-04:00",
+            "room": "1922",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Written Academic English",
+            "weekdays": "MTTh"
+        }
+    ]
+}

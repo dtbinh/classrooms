@@ -1,94 +1,44 @@
 {
-  "meta":{
-    "requests":5334,
-    "timestamp":1420353805,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7228,
-      "subject":"TS",
-      "catalog_number":"611",
-      "title":"Reading and Teaching the New Testament",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"13:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Batten,Alicia"
-      ],
-      "building":"CGR",
-      "room":"2201",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:25-05:00"
-    },
-    {
-      "class_number":7229,
-      "subject":"TS",
-      "catalog_number":"621",
-      "title":"Special Topics: Pastor's Theology Seminar",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Frey,Miriam"
-      ],
-      "building":"CGR",
-      "room":"2201",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:26-05:00"
-    },
-    {
-      "class_number":7230,
-      "subject":"TS",
-      "catalog_number":"640",
-      "title":"The Mennonite Tradition in Historical Context",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"09:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Snyder,C.Arnold"
-      ],
-      "building":"CGR",
-      "room":"2201",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:26-05:00"
-    },
-    {
-      "class_number":7756,
-      "subject":"TS",
-      "catalog_number":"738",
-      "title":"Systematic Theology",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"13:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Bergen,Jeremy"
-      ],
-      "building":"CGR",
-      "room":"2201",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:27-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "CGR",
+            "catalog_number": "690",
+            "class_number": 4856,
+            "end_date": "06/13",
+            "end_time": "15:50",
+            "enrollment_total": 11,
+            "instructors": [
+                "Froese,Allan Rudy"
+            ],
+            "last_updated": "2015-05-04T16:03:03-04:00",
+            "room": "2201",
+            "section": "SEM 001",
+            "start_date": "06/08",
+            "start_time": "09:00",
+            "subject": "TS",
+            "term": 1155,
+            "title": "Seminars in Theological Studies",
+            "weekdays": "MTWFS"
+        },
+        {
+            "building": "CGR",
+            "catalog_number": "690",
+            "class_number": 4857,
+            "end_date": "05/29",
+            "end_time": "11:50",
+            "enrollment_total": 4,
+            "instructors": [
+                "Rempel,John"
+            ],
+            "last_updated": "2015-05-04T16:03:03-04:00",
+            "room": "2201",
+            "section": "SEM 002",
+            "start_date": "05/19",
+            "start_time": "08:30",
+            "subject": "TS",
+            "term": 1155,
+            "title": "Seminars in Theological Studies",
+            "weekdays": "MTWThF"
+        }
+    ]
 }

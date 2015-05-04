@@ -1,574 +1,144 @@
 {
-  "meta":{
-    "requests":5304,
-    "timestamp":1420353795,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6578,
-      "subject":"BIOL",
-      "catalog_number":"331",
-      "title":"Advanced Cell Biology",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":160,
-      "instructors":[
-        "Glerum,Moira"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":5994,
-      "subject":"CS",
-      "catalog_number":"138",
-      "title":"Introduction to Data Abstraction and Implementation",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":141,
-      "instructors":[
-        "Godfrey,Michael"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":5027,
-      "subject":"ECE",
-      "catalog_number":"106",
-      "title":"Physics of Electrical Engineering 2",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":139,
-      "instructors":[
-        "Saini,Simarjeet S."
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:21-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/08",
-      "end_date":"01\/08",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/22",
-      "end_date":"01\/22",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/05",
-      "end_date":"02\/05",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/26",
-      "end_date":"02\/26",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/12",
-      "end_date":"03\/12",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4600,
-      "subject":"ECE",
-      "catalog_number":"316",
-      "title":"Probability Theory and Random Processes",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/26",
-      "end_date":"03\/26",
-      "enrollment_total":113,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:24-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/15",
-      "end_date":"01\/15",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/29",
-      "end_date":"01\/29",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/12",
-      "end_date":"02\/12",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/05",
-      "end_date":"03\/05",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/19",
-      "end_date":"03\/19",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":4615,
-      "subject":"ECE",
-      "catalog_number":"380",
-      "title":"Analog Control Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"04\/02",
-      "end_date":"04\/02",
-      "enrollment_total":116,
-      "instructors":[
-        "Smith,Stephen Leslie"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:26-05:00"
-    },
-    {
-      "class_number":3838,
-      "subject":"ECON",
-      "catalog_number":"202",
-      "title":"Macroeconomic Theory 1",
-      "section":"LEC 004",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Rahman,Fiona Tasnim"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:32-05:00"
-    },
-    {
-      "class_number":3326,
-      "subject":"ECON",
-      "catalog_number":"371",
-      "title":"Business Finance 1",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":119,
-      "instructors":[
-        "Tharmalingam,Pirapagaran"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:36-05:00"
-    },
-    {
-      "class_number":3327,
-      "subject":"ECON",
-      "catalog_number":"372",
-      "title":"Business Finance 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Tharmalingam,Pirapagaran"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:36-05:00"
-    },
-    {
-      "class_number":3434,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":170,
-      "instructors":[
-        "Deveau,Danielle"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":5506,
-      "subject":"GEOG",
-      "catalog_number":"306",
-      "title":"Human Dimensions of Natural Hazards",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":69,
-      "instructors":[
-        "Doberstein,Brent"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":5822,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":200,
-      "instructors":[
-        "Andre,Robert"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5825,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 005",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":199,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5830,
-      "subject":"MATH",
-      "catalog_number":"138",
-      "title":"Calculus 2 For Honours Mathematics",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":159,
-      "instructors":[
-        "Chang,Dong Eui"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5876,
-      "subject":"MATH",
-      "catalog_number":"138",
-      "title":"Calculus 2 For Honours Mathematics",
-      "section":"LEC 006",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":191,
-      "instructors":[
-        "Hamilton,Jordan"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":7087,
-      "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":122,
-      "instructors":[
-        "Bohlouli Zanjani,Parisa"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":6929,
-      "subject":"PHYS",
-      "catalog_number":"122",
-      "title":"Waves, Electricity and Magnetism",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":180,
-      "instructors":[
-        "Scholz,Guenter A"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:04-05:00"
-    },
-    {
-      "class_number":7014,
-      "subject":"PHYS",
-      "catalog_number":"191",
-      "title":"Electricity and Magnetism",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Scholz,Guenter A"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:06-05:00"
-    },
-    {
-      "class_number":6959,
-      "subject":"SCI",
-      "catalog_number":"201",
-      "title":"Global Warming and Climate Change",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":107,
-      "instructors":[
-        "Leonenko,Iouri (Yuri)"
-      ],
-      "building":"B1",
-      "room":"271",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:49-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4157,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 191,
+            "instructors": [
+                "Butler,Barbara J"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "MW"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "303",
+            "class_number": 4229,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introductory Developmental Biology and Embryology",
+            "weekdays": "WF"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "308",
+            "class_number": 4181,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 193,
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Principles of Molecular Biology",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "373",
+            "class_number": 4266,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 133,
+            "instructors": [
+                "Engelhardt,Heidi"
+            ],
+            "last_updated": "2015-05-04T16:00:30-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Principles of Human Physiology 2",
+            "weekdays": "WF"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "135",
+            "class_number": 3650,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 129,
+            "instructors": [
+                "Akash,Mukto"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Algebra for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "231",
+            "class_number": 2447,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 144,
+            "instructors": [
+                "Whiteside,Heather"
+            ],
+            "last_updated": "2015-05-04T16:02:04-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PSCI",
+            "term": 1155,
+            "title": "Government and Business",
+            "weekdays": "M"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "371",
+            "class_number": 3778,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 109,
+            "instructors": [
+                "Fahmy,Hany"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "271",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Statistics for Business 1",
+            "weekdays": "TTh"
+        }
+    ]
 }

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "140R",
+            "class_number": 2667,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 21,
+            "instructors": [
+                "Vardon,John F"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "1920",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "The Use of English 1",
+            "weekdays": "MTh"
+        }
+    ]
+}

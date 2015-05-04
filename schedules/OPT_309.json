@@ -1,114 +1,65 @@
 {
-  "meta":{
-    "requests":5511,
-    "timestamp":1420353869,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3080,
-      "subject":"KIN",
-      "catalog_number":"470",
-      "title":"Seminar in Kinesiology",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        
-      ],
-      "building":"OPT",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:02-05:00"
-    },
-    {
-      "class_number":7094,
-      "subject":"OPTOM",
-      "catalog_number":"342B",
-      "title":"Case Analysis and Optometric Therapies 2",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":41,
-      "instructors":[
-        
-      ],
-      "building":"OPT",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:42-05:00"
-    },
-    {
-      "class_number":6660,
-      "subject":"OPTOM",
-      "catalog_number":"412",
-      "title":"Case Analysis 3",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Maciver,Sarah"
-      ],
-      "building":"OPT",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:43-05:00"
-    },
-    {
-      "class_number":7031,
-      "subject":"OPTOM",
-      "catalog_number":"412",
-      "title":"Case Analysis 3",
-      "section":"TUT 101",
-      "weekdays":"TTh",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Maciver,Sarah"
-      ],
-      "building":"OPT",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:43-05:00"
-    },
-    {
-      "class_number":6662,
-      "subject":"OPTOM",
-      "catalog_number":"477",
-      "title":"Clinical Techniques 4",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"09:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Furtado,Nadine"
-      ],
-      "building":"OPT",
-      "room":"309",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:43-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "OPT",
+            "catalog_number": "412",
+            "class_number": 4100,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Randhawa,Sandip",
+                "Maciver,Sarah"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "OPTOM",
+            "term": 1155,
+            "title": "Case Analysis 3",
+            "weekdays": "Th"
+        },
+        {
+            "building": "OPT",
+            "catalog_number": "460",
+            "class_number": 4129,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Choh,Vivian"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "309",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "OPTOM",
+            "term": 1155,
+            "title": "Advanced Study Topics",
+            "weekdays": "F"
+        },
+        {
+            "building": "OPT",
+            "catalog_number": "477",
+            "class_number": 4127,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 30,
+            "instructors": [
+                "Furtado,Nadine"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "309",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "OPTOM",
+            "term": 1155,
+            "title": "Clinical Techniques 4",
+            "weekdays": "T"
+        }
+    ]
 }

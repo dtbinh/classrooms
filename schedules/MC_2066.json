@@ -1,834 +1,524 @@
 {
-  "meta":{
-    "requests":5476,
-    "timestamp":1420353857,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5726,
-      "subject":"ACTSC",
-      "catalog_number":"231",
-      "title":"Mathematics of Finance",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"18:30",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":156,
-      "instructors":[
-        "Yang,Fan"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:14-05:00"
-    },
-    {
-      "class_number":5727,
-      "subject":"ACTSC",
-      "catalog_number":"231",
-      "title":"Mathematics of Finance",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":156,
-      "instructors":[
-        "Yang,Fan"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:14-05:00"
-    },
-    {
-      "class_number":5883,
-      "subject":"ACTSC",
-      "catalog_number":"232",
-      "title":"Introduction to Actuarial Mathematics",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":126,
-      "instructors":[
-        "Adcock,James"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:14-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"01\/05",
-      "end_date":"01\/05",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"01\/19",
-      "end_date":"01\/19",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"02\/02",
-      "end_date":"02\/02",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"02\/23",
-      "end_date":"02\/23",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"03\/09",
-      "end_date":"03\/09",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6669,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"03\/23",
-      "end_date":"03\/23",
-      "enrollment_total":138,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"01\/12",
-      "end_date":"01\/12",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"01\/26",
-      "end_date":"01\/26",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"02\/09",
-      "end_date":"02\/09",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"03\/02",
-      "end_date":"03\/02",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"03\/16",
-      "end_date":"03\/16",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6670,
-      "subject":"CHEM",
-      "catalog_number":"123",
-      "title":"Chemical Reactions, Equilibria and Kinetics",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":"03\/30",
-      "end_date":"03\/30",
-      "enrollment_total":81,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":5771,
-      "subject":"CS",
-      "catalog_number":"330",
-      "title":"Management Information Systems",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":131,
-      "instructors":[
-        "Lanctot,Kevin"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:55-05:00"
-    },
-    {
-      "class_number":5482,
-      "subject":"ENVS",
-      "catalog_number":"131",
-      "title":"Communications for Environmental Professions",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":183,
-      "instructors":[
-        "Carson,Linda Christine"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":4682,
-      "subject":"GENE",
-      "catalog_number":"123",
-      "title":"Electrical Engineering",
-      "section":"LEC 002",
-      "weekdays":"MT",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":127,
-      "instructors":[
-        "Sazonov,Andrei"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:16-05:00"
-    },
-    {
-      "class_number":5452,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        "McRoberts,Daniel"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":5447,
-      "subject":"GEOG",
-      "catalog_number":"368",
-      "title":"Conservation\/Resource Management of the Built Environment",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        "Stone,Micheal"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:25-05:00"
-    },
-    {
-      "class_number":3216,
-      "subject":"GERON",
-      "catalog_number":"352",
-      "title":"Sociology of Aging",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Crizzle,Alexander Michael"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:30-05:00"
-    },
-    {
-      "class_number":3215,
-      "subject":"HLTH",
-      "catalog_number":"352",
-      "title":"Sociology of Aging",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":36,
-      "instructors":[
-        "Crizzle,Alexander Michael"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:37-05:00"
-    },
-    {
-      "class_number":3217,
-      "subject":"KIN",
-      "catalog_number":"352",
-      "title":"Sociology of Aging",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Crizzle,Alexander Michael"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:59-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":"01\/15",
-      "end_date":"01\/15",
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":"01\/29",
-      "end_date":"01\/29",
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":"02\/12",
-      "end_date":"02\/12",
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":"03\/12",
-      "end_date":"03\/12",
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5906,
-      "subject":"MATH",
-      "catalog_number":"119",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":"03\/26",
-      "end_date":"03\/26",
-      "enrollment_total":136,
-      "instructors":[
-        "Garbary,Robert"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":6053,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"TUT 105",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5821,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":192,
-      "instructors":[
-        "Wolczuk,Dan Sean Terry"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5823,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":191,
-      "instructors":[
-        "Ingalls,Brian"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5829,
-      "subject":"MATH",
-      "catalog_number":"138",
-      "title":"Calculus 2 For Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":191,
-      "instructors":[
-        "Vinette,Francine"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5831,
-      "subject":"MATH",
-      "catalog_number":"138",
-      "title":"Calculus 2 For Honours Mathematics",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":191,
-      "instructors":[
-        "Kempf,Achim"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5448,
-      "subject":"PLAN",
-      "catalog_number":"341",
-      "title":"Conservation\/Resource Management of the Built Environment",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":94,
-      "instructors":[
-        "Stone,Micheal"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":3218,
-      "subject":"REC",
-      "catalog_number":"362",
-      "title":"Sociology of Aging",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Crizzle,Alexander Michael"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:41-05:00"
-    },
-    {
-      "class_number":7178,
-      "subject":"SE",
-      "catalog_number":"102",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":139,
-      "instructors":[
-        "Holmes,Reid Thomas"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":4284,
-      "subject":"SOC",
-      "catalog_number":"352",
-      "title":"Sociology of Aging",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Crizzle,Alexander Michael"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:03-05:00"
-    },
-    {
-      "class_number":6277,
-      "subject":"STAT",
-      "catalog_number":"231",
-      "title":"Statistics",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":190,
-      "instructors":[
-        "Zhang,Chong"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":5925,
-      "subject":"STAT",
-      "catalog_number":"372",
-      "title":"Statistics for Business 2",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":65,
-      "instructors":[
-        "Balka,Peter"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":6289,
-      "subject":"STAT",
-      "catalog_number":"443",
-      "title":"Forecasting",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":138,
-      "instructors":[
-        "Skrzydlo,Diana Katherine"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:17-05:00"
-    },
-    {
-      "class_number":3670,
-      "subject":"WS",
-      "catalog_number":"201",
-      "title":"Images of Women in Popular Culture",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":89,
-      "instructors":[
-        "Gewurtz,Michelle"
-      ],
-      "building":"MC",
-      "room":"2066",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:33-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "231",
+            "class_number": 3736,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 109,
+            "instructors": [
+                "Freeland,R Keith"
+            ],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "2066",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Mathematics of Finance",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "432",
+            "class_number": 3599,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 135,
+            "instructors": [
+                "Freeland,R Keith"
+            ],
+            "last_updated": "2015-05-04T16:00:03-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "240",
+            "class_number": 3617,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 77,
+            "instructors": [
+                "Kamali,Shahin"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Data Structures and Data Management",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "103",
+            "class_number": 2995,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 121,
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "WF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "103",
+            "class_number": 2995,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 121,
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "MF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": "05/07",
+            "end_time": "17:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "05/07",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": "05/21",
+            "end_time": "17:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "05/21",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": "06/04",
+            "end_time": "17:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "06/04",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": "06/25",
+            "end_time": "17:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "06/25",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": "07/09",
+            "end_time": "17:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "07/09",
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "05/20",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "05/20",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "06/03",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "06/03",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "06/17",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "06/17",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "06/24",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "06/24",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "07/08",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "07/08",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": "07/22",
+            "end_time": "13:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": "07/22",
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "119",
+            "class_number": 3729,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Chow,Amenda"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2066",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "128",
+            "class_number": 3648,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 135,
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for the Sciences",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "128",
+            "class_number": 3649,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 135,
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2066",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for the Sciences",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "135",
+            "class_number": 3710,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 129,
+            "instructors": [
+                "Akash,Mukto"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2066",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Algebra for Honours Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3845,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 151,
+            "instructors": [
+                "Nelson,Peter"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "2066",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "333",
+            "class_number": 3609,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 164,
+            "instructors": [
+                "Li,Pengfei"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Applied Probability",
+            "weekdays": "TF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "372",
+            "class_number": 3906,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 146,
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "2066",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Statistics for Business 2",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "832",
+            "class_number": 3670,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 1,
+            "instructors": [
+                "Freeland,R Keith"
+            ],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "2066",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 2",
+            "weekdays": "TTh"
+        }
+    ]
 }

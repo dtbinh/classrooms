@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "32",
+            "class_number": 4985,
+            "end_date": "07/17",
+            "end_time": "14:50",
+            "enrollment_total": 0,
+            "instructors": [
+                "Wardell,Margaret"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1926",
+            "section": "LEC 001",
+            "start_date": "04/20",
+            "start_time": "13:00",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Academic Skills",
+            "weekdays": "MTWTh"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "34",
+            "class_number": 4988,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Redmond,Denise"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1926",
+            "section": "LEC 002",
+            "start_date": "04/20",
+            "start_time": "09:00",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Writing Skills",
+            "weekdays": "MF"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "34",
+            "class_number": 4988,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Redmond,Denise"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1926",
+            "section": "LEC 002",
+            "start_date": "04/20",
+            "start_time": "09:30",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Writing Skills",
+            "weekdays": "W"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "36",
+            "class_number": 4991,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Corwin,Jesse Eliot"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1926",
+            "section": "LEC 002",
+            "start_date": "04/20",
+            "start_time": "09:00",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Oral Skills",
+            "weekdays": "TTh"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "PHR",
+            "catalog_number": "608A",
+            "class_number": 4295,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 0,
+            "instructors": [
+                "Beazely,Michael"
+            ],
+            "last_updated": "2015-05-04T16:02:54-04:00",
+            "room": "3007",
+            "section": "RDG 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Selected Topics in Pharmaceutical Sciences 1",
+            "weekdays": "W"
+        }
+    ]
+}

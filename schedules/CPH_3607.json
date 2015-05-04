@@ -1,234 +1,267 @@
 {
-  "meta":{
-    "requests":5340,
-    "timestamp":1420353807,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4699,
-      "subject":"CIVE",
-      "catalog_number":"303",
-      "title":"Structural Analysis 1",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":123,
-      "instructors":[
-        "Goorts,Kevin Joseph"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4700,
-      "subject":"CIVE",
-      "catalog_number":"303",
-      "title":"Structural Analysis 1",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":123,
-      "instructors":[
-        "Goorts,Kevin Joseph"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4771,
-      "subject":"CIVE",
-      "catalog_number":"331",
-      "title":"Advanced Mathematics for Civil Engineers",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":123,
-      "instructors":[
-        "Rothenburg,Leo"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:36-05:00"
-    },
-    {
-      "class_number":4772,
-      "subject":"CIVE",
-      "catalog_number":"331",
-      "title":"Advanced Mathematics for Civil Engineers",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":123,
-      "instructors":[
-        "Rothenburg,Leo"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:36-05:00"
-    },
-    {
-      "class_number":4701,
-      "subject":"CIVE",
-      "catalog_number":"342",
-      "title":"Transport Principles and Applications",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":126,
-      "instructors":[
-        "Baaj,Hassan"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:36-05:00"
-    },
-    {
-      "class_number":4702,
-      "subject":"CIVE",
-      "catalog_number":"342",
-      "title":"Transport Principles and Applications",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":126,
-      "instructors":[
-        "Baaj,Hassan"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:36-05:00"
-    },
-    {
-      "class_number":4703,
-      "subject":"CIVE",
-      "catalog_number":"353",
-      "title":"Geotechnical Engineering 1",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Knight,Mark A"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:37-05:00"
-    },
-    {
-      "class_number":4707,
-      "subject":"CIVE",
-      "catalog_number":"353",
-      "title":"Geotechnical Engineering 1",
-      "section":"TUT 201",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Knight,Mark A"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:37-05:00"
-    },
-    {
-      "class_number":4708,
-      "subject":"CIVE",
-      "catalog_number":"375",
-      "title":"Water Quality Engineering",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":127,
-      "instructors":[
-        "Brush,David J"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:37-05:00"
-    },
-    {
-      "class_number":4713,
-      "subject":"CIVE",
-      "catalog_number":"375",
-      "title":"Water Quality Engineering",
-      "section":"TUT 201",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":127,
-      "instructors":[
-        "Brush,David J"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:37-05:00"
-    },
-    {
-      "class_number":4714,
-      "subject":"CIVE",
-      "catalog_number":"398",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":121,
-      "instructors":[
-        "Xu,Lei"
-      ],
-      "building":"CPH",
-      "room":"3607",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "CPH",
+            "catalog_number": "277",
+            "class_number": 3328,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 51,
+            "instructors": [
+                "Zurell,Cory Adam"
+            ],
+            "last_updated": "2015-05-04T16:00:22-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Timber: Design, Structure and Construction for Engineers",
+            "weekdays": "W"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "400",
+            "class_number": 2854,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 111,
+            "instructors": [
+                "Walbridge,Scott",
+                "Thomson,Neil R"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Civil Engineering Project 1",
+            "weekdays": "T"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "400",
+            "class_number": 2886,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 65,
+            "instructors": [
+                "Thomson,Neil R",
+                "Walbridge,Scott"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "PRJ 101",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Civil Engineering Project 1",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "400",
+            "class_number": 2887,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 46,
+            "instructors": [
+                "Thomson,Neil R",
+                "Walbridge,Scott"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "PRJ 102",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Civil Engineering Project 1",
+            "weekdays": "TF"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "403",
+            "class_number": 2788,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 18,
+            "instructors": [
+                "Sadhu,Ayan"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Analysis 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "403",
+            "class_number": 2789,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Sadhu,Ayan"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Analysis 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "413",
+            "class_number": 2790,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 101,
+            "instructors": [
+                "Xu,Lei"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Steel Design",
+            "weekdays": "M"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "413",
+            "class_number": 2790,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 101,
+            "instructors": [
+                "Xu,Lei"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Steel Design",
+            "weekdays": "W"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "413",
+            "class_number": 2791,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 101,
+            "instructors": [
+                "Xu,Lei"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Steel Design",
+            "weekdays": "W"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "414",
+            "class_number": 2792,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 67,
+            "instructors": [
+                "Walbridge,Scott"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Concrete Design 2",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "414",
+            "class_number": 2793,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 67,
+            "instructors": [
+                "Walbridge,Scott"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Structural Concrete Design 2",
+            "weekdays": "T"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "491",
+            "class_number": 2967,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 114,
+            "instructors": [
+                "Schnurr,Daryl"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3607",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Engineering Law and Ethics",
+            "weekdays": "T"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "512",
+            "class_number": 3011,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 61,
+            "instructors": [
+                "Abdel Wahab,Noran Mohamed Magd"
+            ],
+            "last_updated": "2015-05-04T16:00:45-04:00",
+            "room": "3607",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Rehabilitation of Structures",
+            "weekdays": "Th"
+        }
+    ]
 }

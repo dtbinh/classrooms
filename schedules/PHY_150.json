@@ -1,174 +1,24 @@
 {
-  "meta":{
-    "requests":5539,
-    "timestamp":1420353881,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5776,
-      "subject":"CS",
-      "catalog_number":"370",
-      "title":"Numerical Computation",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Labahn,George"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:59-05:00"
-    },
-    {
-      "class_number":7735,
-      "subject":"CS",
-      "catalog_number":"370",
-      "title":"Numerical Computation",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Labahn,George"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:59-05:00"
-    },
-    {
-      "class_number":3637,
-      "subject":"PHIL",
-      "catalog_number":"110B",
-      "title":"Introduction to Philosophy: Ethics and Values",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Lowry,Christopher"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:56-05:00"
-    },
-    {
-      "class_number":6967,
-      "subject":"PHYS",
-      "catalog_number":"175",
-      "title":"Introduction to the Universe",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":74,
-      "instructors":[
-        "Epp,Richard J"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":5746,
-      "subject":"PMATH",
-      "catalog_number":"450",
-      "title":"Lebesgue Integration and Fourier Analysis",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:19-05:00"
-    },
-    {
-      "class_number":6176,
-      "subject":"PMATH",
-      "catalog_number":"467",
-      "title":"Topology",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Park,Doug"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:19-05:00"
-    },
-    {
-      "class_number":6092,
-      "subject":"PMATH",
-      "catalog_number":"650",
-      "title":"Lebesgue Integration and Fourier Analysis",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:04-05:00"
-    },
-    {
-      "class_number":6208,
-      "subject":"PMATH",
-      "catalog_number":"667",
-      "title":"Topology",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Park,Doug"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:04-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHY",
+            "catalog_number": "10",
+            "class_number": 4109,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 66,
+            "instructors": [
+                "Yevick,David O."
+            ],
+            "last_updated": "2015-05-04T16:01:59-04:00",
+            "room": "150",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Physics Seminar",
+            "weekdays": "M"
+        }
+    ]
 }

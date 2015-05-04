@@ -1,994 +1,984 @@
 {
-  "meta":{
-    "requests":5321,
-    "timestamp":1420353801,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/05",
-      "end_date":"01\/05",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/19",
-      "end_date":"01\/19",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/02",
-      "end_date":"02\/02",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/16",
-      "end_date":"02\/16",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/02",
-      "end_date":"03\/02",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/16",
-      "end_date":"03\/16",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3086,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/30",
-      "end_date":"03\/30",
-      "enrollment_total":16,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/14",
-      "end_date":"01\/14",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/28",
-      "end_date":"01\/28",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/11",
-      "end_date":"02\/11",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/25",
-      "end_date":"02\/25",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/11",
-      "end_date":"03\/11",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3087,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/25",
-      "end_date":"03\/25",
-      "enrollment_total":12,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"01\/16",
-      "end_date":"01\/16",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"01\/30",
-      "end_date":"01\/30",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"02\/13",
-      "end_date":"02\/13",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"02\/27",
-      "end_date":"02\/27",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"03\/13",
-      "end_date":"03\/13",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3088,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"03\/27",
-      "end_date":"03\/27",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"01\/05",
-      "end_date":"01\/05",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"01\/19",
-      "end_date":"01\/19",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"02\/02",
-      "end_date":"02\/02",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"02\/16",
-      "end_date":"02\/16",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"03\/02",
-      "end_date":"03\/02",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"03\/16",
-      "end_date":"03\/16",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3089,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"03\/30",
-      "end_date":"03\/30",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/07",
-      "end_date":"01\/07",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/21",
-      "end_date":"01\/21",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/04",
-      "end_date":"02\/04",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/18",
-      "end_date":"02\/18",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/04",
-      "end_date":"03\/04",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/18",
-      "end_date":"03\/18",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3090,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"04\/01",
-      "end_date":"04\/01",
-      "enrollment_total":14,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/12",
-      "end_date":"01\/12",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/26",
-      "end_date":"01\/26",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/09",
-      "end_date":"02\/09",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/23",
-      "end_date":"02\/23",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/09",
-      "end_date":"03\/09",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/23",
-      "end_date":"03\/23",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3097,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 106",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"04\/06",
-      "end_date":"04\/06",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"01\/09",
-      "end_date":"01\/09",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"01\/23",
-      "end_date":"01\/23",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"02\/06",
-      "end_date":"02\/06",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"02\/20",
-      "end_date":"02\/20",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"03\/06",
-      "end_date":"03\/06",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"03\/20",
-      "end_date":"03\/20",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3172,
-      "subject":"KIN",
-      "catalog_number":"205",
-      "title":"Muscle Physiology in Exercise and Work",
-      "section":"LAB 107",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"04\/03",
-      "end_date":"04\/03",
-      "enrollment_total":15,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:58-05:00"
-    },
-    {
-      "class_number":3009,
-      "subject":"KIN",
-      "catalog_number":"307",
-      "title":"Methods in Physiological Research",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Jones,Laurie L"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:59-05:00"
-    },
-    {
-      "class_number":3083,
-      "subject":"KIN",
-      "catalog_number":"492B",
-      "title":"Clinical Kinesiology -- Cardiac Rehabilitation Practicum",
-      "section":"PRA 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Russell,Caryl A"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:03-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "05/05",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "05/05",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "05/19",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "05/19",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "06/02",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "06/02",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "06/16",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "06/16",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "06/30",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "06/30",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "07/14",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "07/14",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2131,
+            "end_date": "07/28",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 101",
+            "start_date": "07/28",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "05/14",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "05/14",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "05/28",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "05/28",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "06/11",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "06/11",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "06/25",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "06/25",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "07/09",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "07/09",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2132,
+            "end_date": "07/23",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 102",
+            "start_date": "07/23",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2133,
+            "end_date": "05/06",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 103",
+            "start_date": "05/06",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2133,
+            "end_date": "05/20",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 103",
+            "start_date": "05/20",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2133,
+            "end_date": "06/03",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 103",
+            "start_date": "06/03",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2133,
+            "end_date": "06/17",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 103",
+            "start_date": "06/17",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2133,
+            "end_date": "07/15",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 103",
+            "start_date": "07/15",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "05/12",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "05/12",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "05/26",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "05/26",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "06/09",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "06/09",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "06/23",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "06/23",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "07/07",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "07/07",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2134,
+            "end_date": "07/21",
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 104",
+            "start_date": "07/21",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "05/05",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "05/05",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "05/19",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "05/19",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "06/02",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "06/02",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "06/16",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "06/16",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "06/30",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "06/30",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "07/14",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "07/14",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2142,
+            "end_date": "07/28",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 105",
+            "start_date": "07/28",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "05/13",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "05/13",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "05/27",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "05/27",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "06/10",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "06/10",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "06/24",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "06/24",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "07/08",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "07/08",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2143,
+            "end_date": "07/22",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 106",
+            "start_date": "07/22",
+            "start_time": "14:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "W"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "05/07",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "05/07",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "05/21",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "05/21",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "06/04",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "06/04",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "06/18",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "06/18",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "07/02",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "07/02",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2165,
+            "end_date": "07/16",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 107",
+            "start_date": "07/16",
+            "start_time": "08:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "05/12",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "05/12",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "05/26",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "05/26",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "06/09",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "06/09",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "06/23",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "06/23",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "07/07",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "07/07",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        },
+        {
+            "building": "BMH",
+            "catalog_number": "205",
+            "class_number": 2166,
+            "end_date": "07/21",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Jones,Laurie L"
+            ],
+            "last_updated": "2015-05-04T16:01:34-04:00",
+            "room": "2402",
+            "section": "LAB 108",
+            "start_date": "07/21",
+            "start_time": "11:30",
+            "subject": "KIN",
+            "term": 1155,
+            "title": "Muscle Physiology in Exercise and Work",
+            "weekdays": "T"
+        }
+    ]
 }

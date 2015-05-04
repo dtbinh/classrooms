@@ -1,475 +1,254 @@
 {
-  "meta":{
-    "requests":5565,
-    "timestamp":1420353892,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6745,
-      "subject":"CHEM",
-      "catalog_number":"221",
-      "title":"Multi-Component Analysis",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Gorecki,Tadeusz"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:27-05:00"
-    },
-    {
-      "class_number":6981,
-      "subject":"CHEM",
-      "catalog_number":"233",
-      "title":"Fundamentals of Biochemistry",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Dieckmann,Thorsten"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:27-05:00"
-    },
-    {
-      "class_number":4746,
-      "subject":"CIVE",
-      "catalog_number":"153",
-      "title":"Earth Engineering",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Unger,Andre John Alfons"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4843,
-      "subject":"CIVE",
-      "catalog_number":"153",
-      "title":"Earth Engineering",
-      "section":"TUT 203",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Unger,Andre John Alfons"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":4893,
-      "subject":"CIVE",
-      "catalog_number":"405",
-      "title":"Structural Dynamics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Narasimhan,Sriram"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    },
-    {
-      "class_number":4719,
-      "subject":"CIVE",
-      "catalog_number":"415",
-      "title":"Structural Systems",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        "Al-Mayah,Adil Obaid"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    },
-    {
-      "class_number":4720,
-      "subject":"CIVE",
-      "catalog_number":"583",
-      "title":"Design of Urban Water Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:40-05:00"
-    },
-    {
-      "class_number":7038,
-      "subject":"EARTH",
-      "catalog_number":"332",
-      "title":"Metamorphic Petrology",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Parks,Jennifer Eleanor"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:10-05:00"
-    },
-    {
-      "class_number":6479,
-      "subject":"EARTH",
-      "catalog_number":"437",
-      "title":"Rock Mechanics",
-      "section":"LEC 001",
-      "weekdays":"MT",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Dusseault,Maurice B"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":6481,
-      "subject":"EARTH",
-      "catalog_number":"459",
-      "title":"Chemical Hydrogeology",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Blowes,David W"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":6482,
-      "subject":"EARTH",
-      "catalog_number":"459",
-      "title":"Chemical Hydrogeology",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Blowes,David W"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":4985,
-      "subject":"ECE",
-      "catalog_number":"444",
-      "title":"Integrated Analog Electronics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Leung,Bosco"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:28-05:00"
-    },
-    {
-      "class_number":4986,
-      "subject":"ECE",
-      "catalog_number":"444",
-      "title":"Integrated Analog Electronics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:28-05:00"
-    },
-    {
-      "class_number":4991,
-      "subject":"ECE",
-      "catalog_number":"464",
-      "title":"High Voltage Engineering and Power System Protection",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Gad,Ahmed"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4992,
-      "subject":"ECE",
-      "catalog_number":"464",
-      "title":"High Voltage Engineering and Power System Protection",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Gad,Ahmed"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4555,
-      "subject":"ENVE",
-      "catalog_number":"275",
-      "title":"Environmental Chemistry",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":57,
-      "instructors":[
-        "Lee,Hyung-Sool"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:55-05:00"
-    },
-    {
-      "class_number":4797,
-      "subject":"GENE",
-      "catalog_number":"411",
-      "title":"Engineering Law and Ethics",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Schnurr,Daryl"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:18-05:00"
-    },
-    {
-      "class_number":6188,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"TUT 109",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":56,
-      "instructors":[
-        "Hamilton,Jordan"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":7433,
-      "subject":"ME",
-      "catalog_number":"101",
-      "title":"Introduction to Mechanical Engineering Practice 2",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Hulls,Carol C",
-        "Trivett,Andrew"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:12-05:00"
-    },
-    {
-      "class_number":4776,
-      "subject":"ME",
-      "catalog_number":"115",
-      "title":"Structure and Properties of Materials",
-      "section":"TUT 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":57,
-      "instructors":[
-        "Yavuz,Mustafa"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:13-05:00"
-    },
-    {
-      "class_number":4777,
-      "subject":"ME",
-      "catalog_number":"115",
-      "title":"Structure and Properties of Materials",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":56,
-      "instructors":[
-        "Yavuz,Mustafa"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:13-05:00"
-    },
-    {
-      "class_number":4524,
-      "subject":"ECE",
-      "catalog_number":"628",
-      "title":"Computer Network Security",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Gong,Guang"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:12-05:00"
-    },
-    {
-      "class_number":5150,
-      "subject":"ECE",
-      "catalog_number":"656",
-      "title":"Database Systems",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Ivkovic,Igor"
-      ],
-      "building":"RCH",
-      "room":"204",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:12-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "445",
+            "class_number": 3176,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 45,
+            "instructors": [
+                "Gaudet,Vincent"
+            ],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "204",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Integrated Digital Electronics",
+            "weekdays": "MF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "445",
+            "class_number": 3177,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 45,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "204",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Integrated Digital Electronics",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "462",
+            "class_number": 3257,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 49,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "204",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical Distribution Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "463",
+            "class_number": 2847,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 58,
+            "instructors": [
+                "Kazerani,Mehrdad"
+            ],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "204",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Design & Applications of Power Electronic Converters",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "463",
+            "class_number": 2848,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 58,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "204",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Design & Applications of Power Electronic Converters",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "473",
+            "class_number": 3183,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 42,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "204",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Radio Frequency and Microwave Circuits",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "475",
+            "class_number": 4663,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 5,
+            "instructors": [
+                "Ramahi,Omar"
+            ],
+            "last_updated": "2015-05-04T16:01:04-04:00",
+            "room": "204",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Radiation and Propagation",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "211",
+            "class_number": 2831,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 31,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:43-04:00",
+            "room": "204",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Organizational Behaviour",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2935,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 44,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "204",
+            "section": "TUT 201",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2936,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 43,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "204",
+            "section": "TUT 202",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2960,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 44,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "204",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "382",
+            "class_number": 4837,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 36,
+            "instructors": [
+                "Edwards,Lucie"
+            ],
+            "last_updated": "2015-05-04T16:02:05-04:00",
+            "room": "204",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PSCI",
+            "term": 1155,
+            "title": "Politics of Canadian Foreign Policy",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "770",
+            "class_number": 4668,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Ramahi,Omar"
+            ],
+            "last_updated": "2015-05-04T16:02:41-04:00",
+            "room": "204",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Special Topics in Antenna and Microwave Theory",
+            "weekdays": "TWTh"
+        }
+    ]
 }

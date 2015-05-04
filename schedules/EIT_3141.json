@@ -1,154 +1,84 @@
 {
-  "meta":{
-    "requests":5414,
-    "timestamp":1420353836,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8130,
-      "subject":"ECE",
-      "catalog_number":"605",
-      "title":"Queueing Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Mazumdar,Ravi"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:11-05:00"
-    },
-    {
-      "class_number":5263,
-      "subject":"ECE",
-      "catalog_number":"614",
-      "title":"Communications Over Fading Dispersive Channels",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Zhuang,Weihua"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:11-05:00"
-    },
-    {
-      "class_number":8256,
-      "subject":"ECE",
-      "catalog_number":"658",
-      "title":"Component Based Software",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:12-05:00"
-    },
-    {
-      "class_number":5265,
-      "subject":"ECE",
-      "catalog_number":"672",
-      "title":"Optoelectronic Devices",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Ban,Dayan"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:13-05:00"
-    },
-    {
-      "class_number":5151,
-      "subject":"ECE",
-      "catalog_number":"686",
-      "title":"Filtering and Control of Stochastic Linear Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:13-05:00"
-    },
-    {
-      "class_number":5266,
-      "subject":"ECE",
-      "catalog_number":"710",
-      "title":"Special Topics in Communications and Information Theory",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Shen,Sherman"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:13-05:00"
-    },
-    {
-      "class_number":5308,
-      "subject":"ECE",
-      "catalog_number":"750",
-      "title":"Special Topics in Computer Software",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Ganesh,Vijay"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:14-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EIT",
+            "catalog_number": "631",
+            "class_number": 3039,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Selvakumar,Chettypalayam R"
+            ],
+            "last_updated": "2015-05-04T16:02:40-04:00",
+            "room": "3141",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Microelectronic Processing Technology",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "710",
+            "class_number": 3322,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "instructors": [
+                "Michailovich,Oleg"
+            ],
+            "last_updated": "2015-05-04T16:02:41-04:00",
+            "room": "3141",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Special Topics in Communications and Information Theory",
+            "weekdays": "F"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "730",
+            "class_number": 5119,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Reimer,Michael Ernest"
+            ],
+            "last_updated": "2015-05-04T16:02:41-04:00",
+            "room": "3141",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Special Topics in Solid State Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "780",
+            "class_number": 4670,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Smith,Stephen Leslie"
+            ],
+            "last_updated": "2015-05-04T16:02:41-04:00",
+            "room": "3141",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Special Topics in Control",
+            "weekdays": "W"
+        }
+    ]
 }

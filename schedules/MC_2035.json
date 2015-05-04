@@ -1,514 +1,198 @@
 {
-  "meta":{
-    "requests":5472,
-    "timestamp":1420353855,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6019,
-      "subject":"CS",
-      "catalog_number":"135",
-      "title":"Designing Functional Programs",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":72,
-      "instructors":[
-        "Vasiga,Troy Michael John"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":6291,
-      "subject":"CS",
-      "catalog_number":"146",
-      "title":"Elementary Algorithm Design and Data Abstraction (Advanced Level)",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":6243,
-      "subject":"CS",
-      "catalog_number":"241",
-      "title":"Foundations of Sequential Programs",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":70,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":5890,
-      "subject":"CS",
-      "catalog_number":"350",
-      "title":"Operating Systems",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        "Brecht,Timothy"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:58-05:00"
-    },
-    {
-      "class_number":5891,
-      "subject":"CS",
-      "catalog_number":"350",
-      "title":"Operating Systems",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        "Brecht,Timothy"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:58-05:00"
-    },
-    {
-      "class_number":5781,
-      "subject":"CS",
-      "catalog_number":"445",
-      "title":"Software Requirements Specification and Analysis",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:00-05:00"
-    },
-    {
-      "class_number":6043,
-      "subject":"CS",
-      "catalog_number":"458",
-      "title":"Computer Security and Privacy",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Hengartner,Urs"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:02-05:00"
-    },
-    {
-      "class_number":6079,
-      "subject":"CS",
-      "catalog_number":"458",
-      "title":"Computer Security and Privacy",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        "Hengartner,Urs"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:02-05:00"
-    },
-    {
-      "class_number":6132,
-      "subject":"CS",
-      "catalog_number":"485",
-      "title":"Machine Learning: Statistical and Computational Foundations",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Ben-David,Shai"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:03-05:00"
-    },
-    {
-      "class_number":4922,
-      "subject":"ECE",
-      "catalog_number":"451",
-      "title":"Software Requirements Specification and Analysis",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:28-05:00"
-    },
-    {
-      "class_number":5608,
-      "subject":"GEOG",
-      "catalog_number":"432",
-      "title":"Health, Environment, and Planning",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":3213,
-      "subject":"HLTH",
-      "catalog_number":"420",
-      "title":"Health, Environment, and Planning",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:38-05:00"
-    },
-    {
-      "class_number":6184,
-      "subject":"MATBUS",
-      "catalog_number":"471",
-      "title":"Fixed Income Securities",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        "Wood,Peter J"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:07-05:00"
-    },
-    {
-      "class_number":5803,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"TUT 103",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5607,
-      "subject":"PLAN",
-      "catalog_number":"432",
-      "title":"Health, Environment, and Planning",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:15-05:00"
-    },
-    {
-      "class_number":8008,
-      "subject":"PLAN",
-      "catalog_number":"483",
-      "title":"Land Development Planning",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:16-05:00"
-    },
-    {
-      "class_number":7549,
-      "subject":"PMATH",
-      "catalog_number":"433",
-      "title":"Model Theory and Set Theory",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Moosa,Rahim"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:18-05:00"
-    },
-    {
-      "class_number":5707,
-      "subject":"CS",
-      "catalog_number":"645",
-      "title":"Software Requirements Specification and Analysis",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:02-05:00"
-    },
-    {
-      "class_number":6080,
-      "subject":"CS",
-      "catalog_number":"658",
-      "title":"Computer Security and Privacy",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Hengartner,Urs"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:04-05:00"
-    },
-    {
-      "class_number":6081,
-      "subject":"CS",
-      "catalog_number":"658",
-      "title":"Computer Security and Privacy",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Hengartner,Urs"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:04-05:00"
-    },
-    {
-      "class_number":6131,
-      "subject":"CS",
-      "catalog_number":"685",
-      "title":"Machine Learning: Statistical and Computational Foundations",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Ben-David,Shai"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:05-05:00"
-    },
-    {
-      "class_number":8314,
-      "subject":"LED",
-      "catalog_number":"612",
-      "title":"Land Development Planning",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:43-05:00"
-    },
-    {
-      "class_number":8018,
-      "subject":"PLAN",
-      "catalog_number":"602",
-      "title":"Land Development Planning",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:02-05:00"
-    },
-    {
-      "class_number":5616,
-      "subject":"PLAN",
-      "catalog_number":"639",
-      "title":"Health, Environment and Planning",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:02-05:00"
-    },
-    {
-      "class_number":7550,
-      "subject":"PMATH",
-      "catalog_number":"733",
-      "title":"Model Theory and Set Theory",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Moosa,Rahim"
-      ],
-      "building":"MC",
-      "room":"2035",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:05-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3831,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 55,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2035",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Elementary Algorithm Design and Data Abstraction",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "240",
+            "class_number": 3890,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 75,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2035",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Data Structures and Data Management",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "241",
+            "class_number": 3834,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 49,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2035",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Foundations of Sequential Programs",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "245",
+            "class_number": 3702,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 68,
+            "instructors": [
+                "Buss,Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2035",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Logic and Computation",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "245",
+            "class_number": 3806,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 69,
+            "instructors": [
+                "Buss,Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2035",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Logic and Computation",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "245",
+            "class_number": 4642,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 75,
+            "instructors": [
+                "Roberts,Collin Donald"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2035",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Logic and Computation",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "246",
+            "class_number": 4645,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 75,
+            "instructors": [
+                "Kierstead,Caroline"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2035",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Object-Oriented Software Development",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "349",
+            "class_number": 3722,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 64,
+            "instructors": [
+                "Avery,Jeffery"
+            ],
+            "last_updated": "2015-05-04T16:00:51-04:00",
+            "room": "2035",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "User Interfaces",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "370",
+            "class_number": 3625,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 61,
+            "instructors": [
+                "Li,Yu Ying"
+            ],
+            "last_updated": "2015-05-04T16:00:51-04:00",
+            "room": "2035",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Numerical Computation",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "432",
+            "class_number": 3626,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 68,
+            "instructors": [
+                "Ibrahim,Ahmed Fakhri"
+            ],
+            "last_updated": "2015-05-04T16:00:51-04:00",
+            "room": "2035",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Business Systems Analysis",
+            "weekdays": "MW"
+        }
+    ]
 }

@@ -1,114 +1,84 @@
 {
-  "meta":{
-    "requests":5419,
-    "timestamp":1420353838,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6604,
-      "subject":"CHEM",
-      "catalog_number":"237L",
-      "title":"Introductory Biochemistry Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Marrone,Laura"
-      ],
-      "building":"ESC",
-      "room":"319",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:28-05:00"
-    },
-    {
-      "class_number":6605,
-      "subject":"CHEM",
-      "catalog_number":"237L",
-      "title":"Introductory Biochemistry Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Marrone,Laura"
-      ],
-      "building":"ESC",
-      "room":"319",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:28-05:00"
-    },
-    {
-      "class_number":6606,
-      "subject":"CHEM",
-      "catalog_number":"237L",
-      "title":"Introductory Biochemistry Laboratory",
-      "section":"LAB 003",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Marrone,Laura"
-      ],
-      "building":"ESC",
-      "room":"319",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:28-05:00"
-    },
-    {
-      "class_number":6728,
-      "subject":"CHEM",
-      "catalog_number":"237L",
-      "title":"Introductory Biochemistry Laboratory",
-      "section":"LAB 004",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Marrone,Laura"
-      ],
-      "building":"ESC",
-      "room":"319",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:28-05:00"
-    },
-    {
-      "class_number":7059,
-      "subject":"CHEM",
-      "catalog_number":"335L",
-      "title":"Advanced Biochemistry Laboratory",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Marrone,Laura"
-      ],
-      "building":"ESC",
-      "room":"319",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:31-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ESC",
+            "catalog_number": "237L",
+            "class_number": 4182,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "319",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Biochemistry Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "ESC",
+            "catalog_number": "237L",
+            "class_number": 4249,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 46,
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "319",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Biochemistry Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "ESC",
+            "catalog_number": "237L",
+            "class_number": 4298,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 34,
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "319",
+            "section": "LAB 003",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Biochemistry Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "ESC",
+            "catalog_number": "237L",
+            "class_number": 4738,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 46,
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "319",
+            "section": "LAB 004",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Biochemistry Laboratory",
+            "weekdays": "Th"
+        }
+    ]
 }

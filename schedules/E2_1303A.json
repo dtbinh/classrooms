@@ -1,514 +1,422 @@
 {
-  "meta":{
-    "requests":5373,
-    "timestamp":1420353819,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4926,
-      "subject":"MSCI",
-      "catalog_number":"300A",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "McKay,Kenneth"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:21-05:00"
-    },
-    {
-      "class_number":4927,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Duimering,P.Robert"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4927,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Duimering,P.Robert"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4585,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"TUT 105",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5058,
-      "subject":"MSCI",
-      "catalog_number":"334",
-      "title":"Operations Planning and Inventory Control",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Bookbinder,James H"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5058,
-      "subject":"MSCI",
-      "catalog_number":"334",
-      "title":"Operations Planning and Inventory Control",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Bookbinder,James H"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5059,
-      "subject":"MSCI",
-      "catalog_number":"334",
-      "title":"Operations Planning and Inventory Control",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5060,
-      "subject":"MSCI",
-      "catalog_number":"334",
-      "title":"Operations Planning and Inventory Control",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Bookbinder,James H"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5070,
-      "subject":"MSCI",
-      "catalog_number":"400B",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":53,
-      "instructors":[
-        "McKay,Kenneth"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5072,
-      "subject":"MSCI",
-      "catalog_number":"423",
-      "title":"Managing New Product and Process Innovation",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Rahim,Amir"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":5073,
-      "subject":"MSCI",
-      "catalog_number":"423",
-      "title":"Managing New Product and Process Innovation",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"18:00",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4576,
-      "subject":"MSCI",
-      "catalog_number":"431",
-      "title":"Stochastic Models and Methods",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Erenay,Fatih"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5142,
-      "subject":"MSCI",
-      "catalog_number":"431",
-      "title":"Stochastic Models and Methods",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Erenay,Fatih"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":4577,
-      "subject":"MSCI",
-      "catalog_number":"431",
-      "title":"Stochastic Models and Methods",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":4578,
-      "subject":"MSCI",
-      "catalog_number":"432",
-      "title":"Production and Service Operations Management",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        "Mantin,Binyamin"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":4747,
-      "subject":"MSCI",
-      "catalog_number":"432",
-      "title":"Production and Service Operations Management",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5074,
-      "subject":"MSCI",
-      "catalog_number":"436",
-      "title":"Decision Support Systems",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Dimitrov,Stanko"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5074,
-      "subject":"MSCI",
-      "catalog_number":"436",
-      "title":"Decision Support Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Dimitrov,Stanko"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5075,
-      "subject":"MSCI",
-      "catalog_number":"436",
-      "title":"Decision Support Systems",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5076,
-      "subject":"MSCI",
-      "catalog_number":"444",
-      "title":"Information Systems Analysis and Design",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":54,
-      "instructors":[
-        "Vechtomova,Olga"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5076,
-      "subject":"MSCI",
-      "catalog_number":"444",
-      "title":"Information Systems Analysis and Design",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":54,
-      "instructors":[
-        "Vechtomova,Olga"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5077,
-      "subject":"MSCI",
-      "catalog_number":"444",
-      "title":"Information Systems Analysis and Design",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":54,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:23-05:00"
-    },
-    {
-      "class_number":5080,
-      "subject":"MSCI",
-      "catalog_number":"555",
-      "title":"Scheduling: Theory and Practice",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Abouee Mehrizi,Hossein"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:24-05:00"
-    },
-    {
-      "class_number":5080,
-      "subject":"MSCI",
-      "catalog_number":"555",
-      "title":"Scheduling: Theory and Practice",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Abouee Mehrizi,Hossein"
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:24-05:00"
-    },
-    {
-      "class_number":5081,
-      "subject":"MSCI",
-      "catalog_number":"555",
-      "title":"Scheduling: Theory and Practice",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1303A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:24-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "E2",
+            "catalog_number": "219",
+            "class_number": 3082,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Kwon,Hyock Ju"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Mechanics of Deformable Solids 1",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "219",
+            "class_number": 3083,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 26,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "1303A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Mechanics of Deformable Solids 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "219",
+            "class_number": 3084,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "1303A",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Mechanics of Deformable Solids 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "252",
+            "class_number": 3214,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 55,
+            "instructors": [
+                "Saif,Ahmed"
+            ],
+            "last_updated": "2015-05-04T16:01:43-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Probability and Statistics for Engineers",
+            "weekdays": "TF"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "263",
+            "class_number": 3093,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 56,
+            "instructors": [
+                "Onay,Selcuk"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Managerial Economics",
+            "weekdays": "MW"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "263",
+            "class_number": 3251,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 7,
+            "instructors": [
+                "Onay,Selcuk"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Managerial Economics",
+            "weekdays": "MW"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "263",
+            "class_number": 3094,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 63,
+            "instructors": [
+                "Tanehkar,Ahmad"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Managerial Economics",
+            "weekdays": "F"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "331",
+            "class_number": 2838,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 65,
+            "instructors": [
+                "Bayley,Tiffany Amber"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Introduction to Optimization",
+            "weekdays": "WF"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "331",
+            "class_number": 3099,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Alnaggar,Aliaa"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Introduction to Optimization",
+            "weekdays": "W"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "346",
+            "class_number": 3216,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 55,
+            "instructors": [
+                "Aluc,Gunes"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Database Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "346",
+            "class_number": 3216,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 55,
+            "instructors": [
+                "Aluc,Gunes"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Database Systems",
+            "weekdays": "Th"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "400A",
+            "class_number": 3219,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 56,
+            "instructors": [
+                "McKay,Kenneth"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "T"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "421",
+            "class_number": 2893,
+            "end_date": null,
+            "end_time": "20:20",
+            "enrollment_total": 26,
+            "instructors": [
+                "Carr,Peter"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Strategic Management of Technology",
+            "weekdays": "W"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "434",
+            "class_number": 3221,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Bookbinder,James H"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Supply Chain Management",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "434",
+            "class_number": 3222,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 56,
+            "instructors": [
+                "Cai,Qishu",
+                "Alnaggar,Aliaa"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Supply Chain Management",
+            "weekdays": "F"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "434",
+            "class_number": 3223,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Bookbinder,James H"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Supply Chain Management",
+            "weekdays": "W"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "445",
+            "class_number": 3224,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Dimitrov,Stanko"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Telecommunication Systems: from protocols to applications",
+            "weekdays": "Th"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "445",
+            "class_number": 3224,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 56,
+            "instructors": [
+                "Dimitrov,Stanko"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Telecommunication Systems: from protocols to applications",
+            "weekdays": "F"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "445",
+            "class_number": 3225,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Karimi,Majid",
+                "Gohider,Nada"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Telecommunication Systems: from protocols to applications",
+            "weekdays": "T"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "452",
+            "class_number": 2889,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 68,
+            "instructors": [
+                "Erenay,Fatih"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Decision Making Under Uncertainty",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "E2",
+            "catalog_number": "452",
+            "class_number": 2890,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 68,
+            "instructors": [
+                "Nemutlu,Gizem Sultan"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "1303A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Decision Making Under Uncertainty",
+            "weekdays": "W"
+        }
+    ]
 }

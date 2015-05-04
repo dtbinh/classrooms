@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "DWE",
+            "catalog_number": "330",
+            "class_number": 2800,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Plumb,Benjamin Douglas"
+            ],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "1407",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Lab Analysis and Field Sampling Techniques",
+            "weekdays": "T"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "330",
+            "class_number": 2801,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Plumb,Benjamin Douglas"
+            ],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "1407",
+            "section": "LAB 202",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Lab Analysis and Field Sampling Techniques",
+            "weekdays": "M"
+        }
+    ]
+}

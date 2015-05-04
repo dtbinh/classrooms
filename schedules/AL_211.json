@@ -1,194 +1,144 @@
 {
-  "meta":{
-    "requests":5293,
-    "timestamp":1420353792,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4015,
-      "subject":"ARBUS",
-      "catalog_number":"300",
-      "title":"Practical Business Skills",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        "O'Hara,Kathleen"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":4411,
-      "subject":"ARBUS",
-      "catalog_number":"300",
-      "title":"Practical Business Skills",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "O'Hara,Kathleen"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":3503,
-      "subject":"ARTS",
-      "catalog_number":"101",
-      "title":"Foundations for Writing",
-      "section":"WSP 101",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Shakespeare,Robert David"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    },
-    {
-      "class_number":3733,
-      "subject":"ECON",
-      "catalog_number":"202",
-      "title":"Macroeconomic Theory 1",
-      "section":"LEC 003",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Rybczynski,Kathleen K"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:32-05:00"
-    },
-    {
-      "class_number":3801,
-      "subject":"ECON",
-      "catalog_number":"332",
-      "title":"International Finance",
-      "section":"LEC 002",
-      "weekdays":"TF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "He,Zhen"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:36-05:00"
-    },
-    {
-      "class_number":5406,
-      "subject":"ERS",
-      "catalog_number":"410",
-      "title":"Environmental Analysis and Solutions VI: Ecosocial Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":62,
-      "instructors":[
-        "Quilley,Stephen"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":4321,
-      "subject":"PSYCH",
-      "catalog_number":"361",
-      "title":"Evolutionary and Comparative Psychology",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":56,
-      "instructors":[
-        "Stolz,Jennifer"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:34-05:00"
-    },
-    {
-      "class_number":7498,
-      "subject":"SOC",
-      "catalog_number":"226",
-      "title":"Juvenile Justice",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Carrington,Peter J"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:00-05:00"
-    },
-    {
-      "class_number":3643,
-      "subject":"WS",
-      "catalog_number":"102",
-      "title":"Contemporary Women's Issues in Canada",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Maitra,Srabani"
-      ],
-      "building":"AL",
-      "room":"211",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:33-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "AL",
+            "catalog_number": "201",
+            "class_number": 2404,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Rajsic,Predrag"
+            ],
+            "last_updated": "2015-05-04T16:01:05-04:00",
+            "room": "211",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Microeconomic Theory 1",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "220",
+            "class_number": 2208,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 68,
+            "instructors": [
+                "Nunez,Camelia Gianina"
+            ],
+            "last_updated": "2015-05-04T16:01:06-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "The Principles of Entrepreneurship",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "302",
+            "class_number": 2526,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 85,
+            "instructors": [
+                "Fatima,Nafeez"
+            ],
+            "last_updated": "2015-05-04T16:01:07-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Macroeconomic Theory 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "372",
+            "class_number": 2213,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 55,
+            "instructors": [
+                "Tharmalingam,Pirapagaran"
+            ],
+            "last_updated": "2015-05-04T16:01:08-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Business Finance 2",
+            "weekdays": "T"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "230",
+            "class_number": 2391,
+            "end_date": "06/12",
+            "end_time": "11:20",
+            "enrollment_total": 34,
+            "instructors": [
+                "Momani,Bessma"
+            ],
+            "last_updated": "2015-05-04T16:01:25-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": "05/06",
+            "start_time": "09:30",
+            "subject": "HIST",
+            "term": 1155,
+            "title": "Introduction to the Modern Middle East",
+            "weekdays": "WF"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "257",
+            "class_number": 2449,
+            "end_date": "06/12",
+            "end_time": "11:20",
+            "enrollment_total": 45,
+            "instructors": [
+                "Momani,Bessma"
+            ],
+            "last_updated": "2015-05-04T16:02:05-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": "05/06",
+            "start_time": "09:30",
+            "subject": "PSCI",
+            "term": 1155,
+            "title": "Introduction to the Modern Middle East",
+            "weekdays": "WF"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "353",
+            "class_number": 2639,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 58,
+            "instructors": [
+                "Spencer,Stephen J"
+            ],
+            "last_updated": "2015-05-04T16:02:07-04:00",
+            "room": "211",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Social Cognition",
+            "weekdays": "MW"
+        }
+    ]
 }

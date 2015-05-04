@@ -1,94 +1,64 @@
 {
-  "meta":{
-    "requests":5302,
-    "timestamp":1420353795,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7710,
-      "subject":"BIOL",
-      "catalog_number":"426",
-      "title":"Phycology",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Muller,Kirsten"
-      ],
-      "building":"B1",
-      "room":"169",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:46-05:00"
-    },
-    {
-      "class_number":6978,
-      "subject":"BIOL",
-      "catalog_number":"428",
-      "title":"Plant Molecular Genetics",
-      "section":"LAB 101",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Moffatt,Barbara A"
-      ],
-      "building":"B1",
-      "room":"169",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:46-05:00"
-    },
-    {
-      "class_number":7941,
-      "subject":"BME",
-      "catalog_number":"184L",
-      "title":"Engineering Biology Lab",
-      "section":"LAB 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Aucoin,Marc Gordon"
-      ],
-      "building":"B1",
-      "room":"169",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:51-05:00"
-    },
-    {
-      "class_number":7942,
-      "subject":"BME",
-      "catalog_number":"184L",
-      "title":"Engineering Biology Lab",
-      "section":"LAB 002",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Aucoin,Marc Gordon"
-      ],
-      "building":"B1",
-      "room":"169",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:51-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B1",
+            "catalog_number": "120",
+            "class_number": 4099,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "169",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Plant Structure and Function",
+            "weekdays": "T"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "120",
+            "class_number": 4101,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "169",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Plant Structure and Function",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "120",
+            "class_number": 4102,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "169",
+            "section": "LAB 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Plant Structure and Function",
+            "weekdays": "Th"
+        }
+    ]
 }

@@ -1,454 +1,232 @@
 {
-  "meta":{
-    "requests":5435,
-    "timestamp":1420353843,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8179,
-      "subject":"AVIA",
-      "catalog_number":"310",
-      "title":"Human Factors in Aviation",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Glussich,Douglas Robert"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":3616,
-      "subject":"CROAT",
-      "catalog_number":"102",
-      "title":"Elementary Croatian II",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Petrovic,Ivana"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:50-05:00"
-    },
-    {
-      "class_number":5404,
-      "subject":"ERS",
-      "catalog_number":"375",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 002",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Fedy,Bradley Craig"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":5621,
-      "subject":"ERS",
-      "catalog_number":"411B",
-      "title":"Environmental Research Project III",
-      "section":"PRJ 006",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Murphy,Stephen D"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":5625,
-      "subject":"ERS",
-      "catalog_number":"412B",
-      "title":"Environmental Research Project III",
-      "section":"PRJ 006",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Murphy,Stephen D"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":3965,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"TUT 202",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":3976,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"TUT 213",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":5469,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":5470,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":5471,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":5502,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 105",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":8133,
-      "subject":"GEOG",
-      "catalog_number":"293",
-      "title":"Professional and Scholarly Practice in Geography",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":8135,
-      "subject":"GEOG",
-      "catalog_number":"293",
-      "title":"Professional and Scholarly Practice in Geography",
-      "section":"TUT 103",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":3819,
-      "subject":"GER",
-      "catalog_number":"101",
-      "title":"Elementary German I",
-      "section":"LEC 003",
-      "weekdays":"MWTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Rocker,Maike"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:27-05:00"
-    },
-    {
-      "class_number":5642,
-      "subject":"PLAN",
-      "catalog_number":"474",
-      "title":"Special Topics in Planning",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Drescher,Michael"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:15-05:00"
-    },
-    {
-      "class_number":5633,
-      "subject":"GEMCC",
-      "catalog_number":"621",
-      "title":"Advancced Climate Change Adaptation",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Wandel,Johanna"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:25-05:00"
-    },
-    {
-      "class_number":5577,
-      "subject":"GEOG",
-      "catalog_number":"600",
-      "title":"Seminar in Spatial Data Handling",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Deadman,Peter J"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:25-05:00"
-    },
-    {
-      "class_number":8131,
-      "subject":"GEOG",
-      "catalog_number":"675",
-      "title":"Selected Topics in Geography",
-      "section":"RDG 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Burch,Sarah"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:26-05:00"
-    },
-    {
-      "class_number":8274,
-      "subject":"GEOG",
-      "catalog_number":"675",
-      "title":"Selected Topics in Geography",
-      "section":"RDG 003",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Strack,Maria"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:26-05:00"
-    },
-    {
-      "class_number":5680,
-      "subject":"PLAN",
-      "catalog_number":"674",
-      "title":"Special Topics in Planning",
-      "section":"SEM 002",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Drescher,Michael"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:03-05:00"
-    },
-    {
-      "class_number":5614,
-      "subject":"SUSM",
-      "catalog_number":"603",
-      "title":"Research Methods for Sustainable Management",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Wood,Michael"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:19-05:00"
-    },
-    {
-      "class_number":5613,
-      "subject":"SUSM",
-      "catalog_number":"605",
-      "title":"Thesis Development",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Wood,Michael"
-      ],
-      "building":"EV3",
-      "room":"3406",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:20-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3484,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3485,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "M"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3487,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 13,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "F"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3488,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 24,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 105",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "M"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3489,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 15,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 106",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "M"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3491,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 20,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3406",
+            "section": "TUT 108",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "M"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "408",
+            "class_number": 3531,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 8,
+            "instructors": [
+                "Khirfan,Luna"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3406",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Urban Design Seminar",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "474",
+            "class_number": 4658,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 4,
+            "instructors": [
+                "Khirfan,Luna"
+            ],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "3406",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Special Topics in Planning",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "474",
+            "class_number": 4659,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 4,
+            "instructors": [
+                "Khirfan,Luna"
+            ],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "3406",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Special Topics in Planning",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "648",
+            "class_number": 3532,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Khirfan,Luna"
+            ],
+            "last_updated": "2015-05-04T16:02:56-04:00",
+            "room": "3406",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Urban Design Philosophy and Methodology",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "674",
+            "class_number": 4682,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Khirfan,Luna"
+            ],
+            "last_updated": "2015-05-04T16:02:56-04:00",
+            "room": "3406",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Special Topics in Planning",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "702",
+            "class_number": 3483,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 2,
+            "instructors": [
+                "Qian,Zhu"
+            ],
+            "last_updated": "2015-05-04T16:02:57-04:00",
+            "room": "3406",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Critical Assessment of Theories, Methods and Practices of Planning",
+            "weekdays": "M"
+        }
+    ]
 }

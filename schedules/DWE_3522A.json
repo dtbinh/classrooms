@@ -1,214 +1,180 @@
 {
-  "meta":{
-    "requests":5371,
-    "timestamp":1420353818,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4883,
-      "subject":"CIVE",
-      "catalog_number":"422",
-      "title":"Finite Element Analysis",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Gracie,Robert R"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    },
-    {
-      "class_number":6203,
-      "subject":"CS",
-      "catalog_number":"452",
-      "title":"Real-time Programming",
-      "section":"LEC 001",
-      "weekdays":"MTTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Cowan,William B"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:01-05:00"
-    },
-    {
-      "class_number":8058,
-      "subject":"ENGL",
-      "catalog_number":"309A",
-      "title":"Classical Rhetoric",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Shakespeare,Robert David"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:49-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"MSCI",
-      "catalog_number":"131",
-      "title":"Work Design and Facilities Planning",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Alumur Alev,Sibel"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:21-05:00"
-    },
-    {
-      "class_number":6528,
-      "subject":"PHYS",
-      "catalog_number":"125",
-      "title":"Physics for Engineers",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Jayasundera,Rohan"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:04-05:00"
-    },
-    {
-      "class_number":7450,
-      "subject":"PSYCH",
-      "catalog_number":"391",
-      "title":"Advanced Data Analysis",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Beck,James W"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:34-05:00"
-    },
-    {
-      "class_number":4149,
-      "subject":"SPAN",
-      "catalog_number":"490",
-      "title":"Advanced Translation",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Rozotto,David"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:11-05:00"
-    },
-    {
-      "class_number":6204,
-      "subject":"CS",
-      "catalog_number":"652",
-      "title":"Real-Time Programming",
-      "section":"LEC 001",
-      "weekdays":"MTTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Cowan,William B"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:03-05:00"
-    },
-    {
-      "class_number":8204,
-      "subject":"ESL",
-      "catalog_number":"602R",
-      "title":"Scholarly Writing in English",
-      "section":"LEC 002",
-      "weekdays":"MTTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Oczkowski,Nancy"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:23-05:00"
-    },
-    {
-      "class_number":8273,
-      "subject":"ME",
-      "catalog_number":"780",
-      "title":"Special Topics in Mechatronics",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"09:30",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Tung,James"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:49-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "DWE",
+            "catalog_number": "486",
+            "class_number": 2795,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Soulis,Eric D"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3522A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Hydrology",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "103",
+            "class_number": 2996,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 41,
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "3522A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "103",
+            "class_number": 3115,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 40,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "3522A",
+            "section": "TUT 106",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Discrete Mathematics",
+            "weekdays": "M"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "106",
+            "class_number": 3118,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "3522A",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "106",
+            "class_number": 3121,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "3522A",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "460D",
+            "class_number": 4782,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 9,
+            "instructors": [
+                "McArthur,Murray"
+            ],
+            "last_updated": "2015-05-04T16:01:13-04:00",
+            "room": "3522A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Contemporary Literature of the United Kingdom and Ireland",
+            "weekdays": "MTF"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "380",
+            "class_number": 4303,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Peemoeller,Hartwig"
+            ],
+            "last_updated": "2015-05-04T16:02:01-04:00",
+            "room": "3522A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Molecular and Cellular Biophysics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "603",
+            "class_number": 3373,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Carr,Peter"
+            ],
+            "last_updated": "2015-05-04T16:02:33-04:00",
+            "room": "3522A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BE",
+            "term": 1155,
+            "title": "Operations and Supply Chain Management",
+            "weekdays": "M"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "732",
+            "class_number": 4684,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:02:50-04:00",
+            "room": "3522A",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Thermodynamics and Phase Transformations",
+            "weekdays": "T"
+        }
+    ]
 }

@@ -1,334 +1,182 @@
 {
-  "meta":{
-    "requests":5492,
-    "timestamp":1420353863,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7076,
-      "subject":"BIOL",
-      "catalog_number":"489",
-      "title":"Arctic Ecology",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Swanson,Heidi"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:48-05:00"
-    },
-    {
-      "class_number":5794,
-      "subject":"CO",
-      "catalog_number":"367",
-      "title":"Nonlinear Optimization",
-      "section":"LEC 001",
-      "weekdays":"MWTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Wolkowicz,Henry"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:45-05:00"
-    },
-    {
-      "class_number":7931,
-      "subject":"CO",
-      "catalog_number":"444",
-      "title":"Algebraic Graph Theory",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Godsil,Christopher D"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:45-05:00"
-    },
-    {
-      "class_number":6242,
-      "subject":"CS",
-      "catalog_number":"240",
-      "title":"Data Structures and Data Management",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Lopez-Ortiz,Alejandro"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":7713,
-      "subject":"CS",
-      "catalog_number":"240",
-      "title":"Data Structures and Data Management",
-      "section":"TUT 105",
-      "weekdays":"M",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":5881,
-      "subject":"CS",
-      "catalog_number":"365",
-      "title":"Models of Computation",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Blais,Eric"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:59-05:00"
-    },
-    {
-      "class_number":5965,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"TUT 107",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Sellaroli,Giuseppe"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":6089,
-      "subject":"MATH",
-      "catalog_number":"207",
-      "title":"Calculus 3 (Non-Specialist Level)",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Smith,Paula T."
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6090,
-      "subject":"MATH",
-      "catalog_number":"207",
-      "title":"Calculus 3 (Non-Specialist Level)",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":5841,
-      "subject":"MATH",
-      "catalog_number":"228",
-      "title":"Differential Equations for Physics and Chemistry",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Bauch,Christopher"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":5877,
-      "subject":"MATH",
-      "catalog_number":"249",
-      "title":"Introduction to Combinatorics (Advanced Level)",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Wagner,David G"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6969,
-      "subject":"PHYS",
-      "catalog_number":"234",
-      "title":"Quantum Physics 1",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Lutkenhaus,Norbert N"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:06-05:00"
-    },
-    {
-      "class_number":6971,
-      "subject":"PHYS",
-      "catalog_number":"234",
-      "title":"Quantum Physics 1",
-      "section":"TUT 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Lutkenhaus,Norbert N"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:06-05:00"
-    },
-    {
-      "class_number":6073,
-      "subject":"STAT",
-      "catalog_number":"220",
-      "title":"Probability (Non-Specialist Level)",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Roberts,Collin Donald"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":5748,
-      "subject":"STAT",
-      "catalog_number":"221",
-      "title":"Statistics (Non-Specialist Level)",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Diao,Liqun"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":7947,
-      "subject":"CO",
-      "catalog_number":"644",
-      "title":"Algebraic Graph Theory",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Godsil,Christopher D"
-      ],
-      "building":"MC",
-      "room":"4064",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:57-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "342",
+            "class_number": 4103,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 41,
+            "instructors": [
+                "Lynch,Michael David Joseph"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Molecular Biotechnology 1",
+            "weekdays": "TThF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "327",
+            "class_number": 3868,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Fukasawa,Ricardo"
+            ],
+            "last_updated": "2015-05-04T16:00:46-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "CO",
+            "term": 1155,
+            "title": "Deterministic OR Models (Non-Specialist Level)",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "454",
+            "class_number": 3613,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 45,
+            "instructors": [
+                "Fukasawa,Ricardo"
+            ],
+            "last_updated": "2015-05-04T16:00:46-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CO",
+            "term": 1155,
+            "title": "Scheduling",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "200",
+            "class_number": 3691,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 27,
+            "instructors": [
+                "Daly,Barbara"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Concepts for Advanced Computer Usage",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "119",
+            "class_number": 3847,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Chow,Amenda"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "4064",
+            "section": "TUT 106",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "225",
+            "class_number": 3663,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 30,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "4064",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Applied Linear Algebra 2",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "245",
+            "class_number": 3866,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 9,
+            "instructors": [
+                "New,Stephen"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 2 (Advanced Level)",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "247",
+            "class_number": 3883,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 9,
+            "instructors": [
+                "Moraru,Ruxandra"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 3 (Advanced Level)",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "206A",
+            "class_number": 3618,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "instructors": [
+                "Ferguson,Barry"
+            ],
+            "last_updated": "2015-05-04T16:01:46-04:00",
+            "room": "4064",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "MTHEL",
+            "term": 1155,
+            "title": "Introduction to Mathematics Education",
+            "weekdays": "MW"
+        }
+    ]
 }

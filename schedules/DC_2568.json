@@ -1,114 +1,84 @@
 {
-  "meta":{
-    "requests":5348,
-    "timestamp":1420353810,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7515,
-      "subject":"CS",
-      "catalog_number":"758",
-      "title":"Cryptography\/Network Security",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Stinson,Douglas R"
-      ],
-      "building":"DC",
-      "room":"2568",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:05-05:00"
-    },
-    {
-      "class_number":7517,
-      "subject":"CS",
-      "catalog_number":"842",
-      "title":"Advanced Topics in Language Design and Implementation",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Buhr,Peter A"
-      ],
-      "building":"DC",
-      "room":"2568",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":7518,
-      "subject":"CS",
-      "catalog_number":"842",
-      "title":"Advanced Topics in Language Design and Implementation",
-      "section":"SEM 002",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Richards,Gregor"
-      ],
-      "building":"DC",
-      "room":"2568",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":6154,
-      "subject":"CS",
-      "catalog_number":"886",
-      "title":"Advanced Topics in Artificial Intelligence",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Larson,Kate"
-      ],
-      "building":"DC",
-      "room":"2568",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":7522,
-      "subject":"CS",
-      "catalog_number":"886",
-      "title":"Advanced Topics in Artificial Intelligence",
-      "section":"SEM 002",
-      "weekdays":"Th",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Ben-David,Shai"
-      ],
-      "building":"DC",
-      "room":"2568",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "DC",
+            "catalog_number": "744",
+            "class_number": 4774,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Naeem,Nomair Ahmed"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "2568",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Compiler Design",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "846",
+            "class_number": 4776,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 34,
+            "instructors": [
+                "Berry,Daniel"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "2568",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Topics in Software Engineering",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "848",
+            "class_number": 4779,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 24,
+            "instructors": [
+                "Clarke,Charles L.A"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "2568",
+            "section": "SEM 002",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Topics in Data Bases",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "886",
+            "class_number": 4997,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 30,
+            "instructors": [
+                "Li,Ming"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "2568",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Topics in Artificial Intelligence",
+            "weekdays": "W"
+        }
+    ]
 }

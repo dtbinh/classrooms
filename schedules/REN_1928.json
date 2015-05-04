@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "32",
+            "class_number": 4986,
+            "end_date": "07/17",
+            "end_time": "14:50",
+            "enrollment_total": 0,
+            "instructors": [
+                "Jacob,Raveet"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1928",
+            "section": "LEC 002",
+            "start_date": "04/20",
+            "start_time": "13:00",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Academic Skills",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "42",
+            "class_number": 4992,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1928",
+            "section": "LEC 001",
+            "start_date": "04/20",
+            "start_time": "09:30",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Academic Skills",
+            "weekdays": "TWThF"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "44",
+            "class_number": 4993,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1928",
+            "section": "LEC 001",
+            "start_date": "04/20",
+            "start_time": "09:30",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Writing Skills",
+            "weekdays": "M"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "44",
+            "class_number": 4993,
+            "end_date": "07/17",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "last_updated": "2015-05-04T16:01:09-04:00",
+            "room": "1928",
+            "section": "LEC 001",
+            "start_date": "04/20",
+            "start_time": "13:00",
+            "subject": "EFAS",
+            "term": 1155,
+            "title": "Writing Skills",
+            "weekdays": "TW"
+        }
+    ]
+}

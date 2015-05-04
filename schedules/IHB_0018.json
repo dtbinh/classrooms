@@ -1,74 +1,64 @@
 {
-  "meta":{
-    "requests":5462,
-    "timestamp":1420353851,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6828,
-      "subject":"PHARM",
-      "catalog_number":"110",
-      "title":"Systems Approach to the Study of the Human Body 1",
-      "section":"LAB 101",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Allen,Lisa"
-      ],
-      "building":"IHB",
-      "room":"0018",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:50-05:00"
-    },
-    {
-      "class_number":6829,
-      "subject":"PHARM",
-      "catalog_number":"110",
-      "title":"Systems Approach to the Study of the Human Body 1",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Allen,Lisa"
-      ],
-      "building":"IHB",
-      "room":"0018",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:50-05:00"
-    },
-    {
-      "class_number":6830,
-      "subject":"PHARM",
-      "catalog_number":"110",
-      "title":"Systems Approach to the Study of the Human Body 1",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Allen,Lisa"
-      ],
-      "building":"IHB",
-      "room":"0018",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:50-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "IHB",
+            "catalog_number": "111",
+            "class_number": 4194,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Allen,Lisa"
+            ],
+            "last_updated": "2015-05-04T16:01:55-04:00",
+            "room": "0018",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Systems Approach to the Study of the Human Body 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "IHB",
+            "catalog_number": "111",
+            "class_number": 4197,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Allen,Lisa"
+            ],
+            "last_updated": "2015-05-04T16:01:55-04:00",
+            "room": "0018",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "11:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Systems Approach to the Study of the Human Body 2",
+            "weekdays": "F"
+        },
+        {
+            "building": "IHB",
+            "catalog_number": "111",
+            "class_number": 4198,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Allen,Lisa"
+            ],
+            "last_updated": "2015-05-04T16:01:55-04:00",
+            "room": "0018",
+            "section": "LAB 103",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Systems Approach to the Study of the Human Body 2",
+            "weekdays": "F"
+        }
+    ]
 }

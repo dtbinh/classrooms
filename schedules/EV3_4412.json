@@ -1,254 +1,124 @@
 {
-  "meta":{
-    "requests":5439,
-    "timestamp":1420353844,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7976,
-      "subject":"ANTH",
-      "catalog_number":"321",
-      "title":"Archaeology of Complex Cultures",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Adams,Russell"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:28-05:00"
-    },
-    {
-      "class_number":8176,
-      "subject":"AVIA",
-      "catalog_number":"101",
-      "title":"Professional Pilot Program Course I",
-      "section":"FLT 001",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":7977,
-      "subject":"CLAS",
-      "catalog_number":"321",
-      "title":"Archaeology of Complex Cultures",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Adams,Russell"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:42-05:00"
-    },
-    {
-      "class_number":3341,
-      "subject":"FR",
-      "catalog_number":"152",
-      "title":"Basic French 2",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Petrescu,Maria"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":5581,
-      "subject":"GEOG",
-      "catalog_number":"452",
-      "title":"Resource Management Project",
-      "section":"PRJ 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "May,Bradley"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":4000,
-      "subject":"SOC",
-      "catalog_number":"326",
-      "title":"Punishment and Society",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "O'Connor,Daniel"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:03-05:00"
-    },
-    {
-      "class_number":4057,
-      "subject":"SPAN",
-      "catalog_number":"101",
-      "title":"Introduction to Spanish 1",
-      "section":"LEC 005",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":41,
-      "instructors":[
-        "Boido,Mario"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:09-05:00"
-    },
-    {
-      "class_number":3302,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":3536,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 004",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":5569,
-      "subject":"INDEV",
-      "catalog_number":"604",
-      "title":"Sustainable Cities",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Frayne,Bruce"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:38-05:00"
-    },
-    {
-      "class_number":5571,
-      "subject":"INDEV",
-      "catalog_number":"607",
-      "title":"Methods for Sustainable Development Practice:  A Systems Approach",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Singh,Simron"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:38-05:00"
-    },
-    {
-      "class_number":4001,
-      "subject":"PACS",
-      "catalog_number":"650",
-      "title":"Sustainable Cities",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Frayne,Bruce"
-      ],
-      "building":"EV3",
-      "room":"4412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:54-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV3",
+            "catalog_number": "211",
+            "class_number": 2504,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 50,
+            "instructors": [
+                "Vanden Bosch,Nancy Ann"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "4412",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Business Context",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "211",
+            "class_number": 2505,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 50,
+            "instructors": [
+                "Vanden Bosch,Nancy Ann"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "4412",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Business Context",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "481",
+            "class_number": 2631,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 58,
+            "instructors": [
+                "Manning,Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:13-04:00",
+            "room": "4412",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Cost Management Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "442",
+            "class_number": 4740,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 31,
+            "instructors": [
+                "Nguyen,Trien T"
+            ],
+            "last_updated": "2015-05-04T16:01:08-04:00",
+            "room": "4412",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Economics of Taxation",
+            "weekdays": "MW"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "472",
+            "class_number": 2215,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 17,
+            "instructors": [
+                "Nguyen,Trien T"
+            ],
+            "last_updated": "2015-05-04T16:01:08-04:00",
+            "room": "4412",
+            "section": "ESS 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Senior Honours Essay",
+            "weekdays": "F"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "252",
+            "class_number": 4746,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Kliashchuk,Mikalai"
+            ],
+            "last_updated": "2015-05-04T16:01:18-04:00",
+            "room": "4412",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "FR",
+            "term": 1155,
+            "title": "French Language 2: Module 2",
+            "weekdays": "TTh"
+        }
+    ]
 }

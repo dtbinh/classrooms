@@ -142,7 +142,6 @@ function collectInfo() {
 	else if (UrlExists(urlFull)) {
 		$.getJSON(urlFull, function(data) {
 			roomSchedule = data.data;
-			var metaStatus = data.meta.status;
 			
 			document.getElementById("displayStatus").innerHTML="<strong>Room has classes scheduled:</strong>";
 			var output = [];

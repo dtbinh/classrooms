@@ -1,114 +1,24 @@
 {
-  "meta":{
-    "requests":5326,
-    "timestamp":1420353802,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7015,
-      "subject":"CHEM",
-      "catalog_number":"750",
-      "title":"Selected Topics in Physical Chemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:52-05:00"
-    },
-    {
-      "class_number":4976,
-      "subject":"NANO",
-      "catalog_number":"701",
-      "title":"Fundamentals of Nanotechnology",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:20",
-      "start_date":"01\/08",
-      "end_date":"02\/12",
-      "enrollment_total":20,
-      "instructors":[
-        "Radovanovic,Pavle"
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:52-05:00"
-    },
-    {
-      "class_number":4977,
-      "subject":"NANO",
-      "catalog_number":"702",
-      "title":"Nanotechology Tools",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:20",
-      "start_date":"02\/26",
-      "end_date":"04\/02",
-      "enrollment_total":20,
-      "instructors":[
-        "Radovanovic,Pavle"
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:52-05:00"
-    },
-    {
-      "class_number":6465,
-      "subject":"PHYS",
-      "catalog_number":"706",
-      "title":"Electromagnetic Theory",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:59-05:00"
-    },
-    {
-      "class_number":8375,
-      "subject":"PHYS",
-      "catalog_number":"787",
-      "title":"Cosmology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Hudson,Michael"
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:01-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "C2",
+            "catalog_number": "720",
+            "class_number": 4710,
+            "end_date": "06/12",
+            "end_time": "15:20",
+            "enrollment_total": 6,
+            "instructors": [
+                "Mikkelsen,Susan R"
+            ],
+            "last_updated": "2015-05-04T16:02:35-04:00",
+            "room": "278",
+            "section": "LEC 001",
+            "start_date": "05/05",
+            "start_time": "13:00",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Selected Topics in Analytical Chemistry",
+            "weekdays": "TF"
+        }
+    ]
 }

@@ -1,154 +1,144 @@
 {
-  "meta":{
-    "requests":5344,
-    "timestamp":1420353808,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5253,
-      "subject":"MSCI",
-      "catalog_number":"602",
-      "title":"Strategic Management of Technological Innovation",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Alzayat,Ayman"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:50-05:00"
-    },
-    {
-      "class_number":5254,
-      "subject":"MSCI",
-      "catalog_number":"620",
-      "title":"Organizations & Technical Systems",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Duimering,P.Robert"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    },
-    {
-      "class_number":5065,
-      "subject":"MSCI",
-      "catalog_number":"631",
-      "title":"Probabilistic  Models in Operations Research",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Abouee Mehrizi,Hossein"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    },
-    {
-      "class_number":5066,
-      "subject":"MSCI",
-      "catalog_number":"633",
-      "title":"Production and Inventory Management",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Mantin,Binyamin"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    },
-    {
-      "class_number":5205,
-      "subject":"MSCI",
-      "catalog_number":"709",
-      "title":"Logistics and Supply Chain Management",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Bookbinder,James H"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    },
-    {
-      "class_number":5205,
-      "subject":"MSCI",
-      "catalog_number":"709",
-      "title":"Logistics and Supply Chain Management",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Bookbinder,James H"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    },
-    {
-      "class_number":8236,
-      "subject":"MSCI",
-      "catalog_number":"741",
-      "title":"Economics of Technological Change",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Cozzarin,Brian"
-      ],
-      "building":"CPH",
-      "room":"4333",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:51-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "CPH",
+            "catalog_number": "531",
+            "class_number": 3231,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Erenay,Fatih"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "4333",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Stochastic Processes and Decision Making",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "531",
+            "class_number": 3232,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 11,
+            "instructors": [
+                "Akhundov,Najmaddin"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "4333",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Stochastic Processes and Decision Making",
+            "weekdays": "F"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "551",
+            "class_number": 3233,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Wang,Biao"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "4333",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Quality Management and Control",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "551",
+            "class_number": 3234,
+            "end_date": null,
+            "end_time": "10:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Yildiz,Ugur"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "4333",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Quality Management and Control",
+            "weekdays": "F"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "700",
+            "class_number": 4933,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 2,
+            "instructors": [
+                "Alumur Alev,Sibel"
+            ],
+            "last_updated": "2015-05-04T16:02:52-04:00",
+            "room": "4333",
+            "section": "RDG 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Topics in Operations Research and Management",
+            "weekdays": "Th"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "712",
+            "class_number": 3384,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 12,
+            "instructors": [
+                "Onay,Selcuk"
+            ],
+            "last_updated": "2015-05-04T16:02:52-04:00",
+            "room": "4333",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Decision Analysis Under Uncertainty",
+            "weekdays": "W"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "720",
+            "class_number": 4812,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 9,
+            "instructors": [
+                "Hancock,Mark"
+            ],
+            "last_updated": "2015-05-04T16:02:52-04:00",
+            "room": "4333",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Topics in Information and Information Systems",
+            "weekdays": "M"
+        }
+    ]
 }

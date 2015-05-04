@@ -1,354 +1,114 @@
 {
-  "meta":{
-    "requests":5436,
-    "timestamp":1420353843,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6442,
-      "subject":"EFAS",
-      "catalog_number":"44",
-      "title":"Writing Skills",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Morgan,Christine Elizabeth"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":8038,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 005",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Condon,Frances"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":8045,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 012",
-      "weekdays":"TThF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Sikkema,Douglas James"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":3460,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 001",
-      "weekdays":"MTTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Deveau,Danielle"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:44-05:00"
-    },
-    {
-      "class_number":8049,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 006",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Deveau,Danielle"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:44-05:00"
-    },
-    {
-      "class_number":8053,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 010",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Gladkova,Olga"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:44-05:00"
-    },
-    {
-      "class_number":5619,
-      "subject":"ERS",
-      "catalog_number":"411B",
-      "title":"Environmental Research Project III",
-      "section":"PRJ 004",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "McAllister,Mary Louise"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":5623,
-      "subject":"ERS",
-      "catalog_number":"412B",
-      "title":"Environmental Research Project III",
-      "section":"PRJ 004",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "McAllister,Mary Louise"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":3973,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"TUT 210",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":3974,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"TUT 211",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":5472,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":8128,
-      "subject":"GEOG",
-      "catalog_number":"203",
-      "title":"Environment and Development in a Global Perspective",
-      "section":"TUT 106",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:21-05:00"
-    },
-    {
-      "class_number":7596,
-      "subject":"GER",
-      "catalog_number":"272",
-      "title":"German Thought and Culture",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Skidmore,James"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:29-05:00"
-    },
-    {
-      "class_number":4004,
-      "subject":"LS",
-      "catalog_number":"403",
-      "title":"Socio-Legal Responses to Crime",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Singh,Rashmee"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:07-05:00"
-    },
-    {
-      "class_number":5490,
-      "subject":"GEOG",
-      "catalog_number":"607",
-      "title":"Applications of Geographic Information Systems",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:25-05:00"
-    },
-    {
-      "class_number":5565,
-      "subject":"LED",
-      "catalog_number":"621",
-      "title":"Environment & Business",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Lin,Haiying"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:44-05:00"
-    },
-    {
-      "class_number":5422,
-      "subject":"LED",
-      "catalog_number":"687",
-      "title":"Communication, Market Research and Marketing for the Public Sector",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Borovilos,George"
-      ],
-      "building":"EV3",
-      "room":"3408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:44-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV3",
+            "catalog_number": "308",
+            "class_number": 3533,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 26,
+            "instructors": [
+                "Young,Steve"
+            ],
+            "last_updated": "2015-05-04T16:01:10-04:00",
+            "room": "3408",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ENBUS",
+            "term": 1155,
+            "title": "Advanced Environmental Auditing",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3490,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "3408",
+            "section": "TUT 107",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "346",
+            "class_number": 3545,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 23,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3408",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Advanced Tools for Planning: Program Evaluation, Mediation and Public Participation",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "346",
+            "class_number": 3546,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 23,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3408",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Advanced Tools for Planning: Program Evaluation, Mediation and Public Participation",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "346",
+            "class_number": 3547,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 22,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3408",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Advanced Tools for Planning: Program Evaluation, Mediation and Public Participation",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "346",
+            "class_number": 3548,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3408",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Advanced Tools for Planning: Program Evaluation, Mediation and Public Participation",
+            "weekdays": "W"
+        }
+    ]
 }

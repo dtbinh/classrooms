@@ -1,334 +1,482 @@
 {
-  "meta":{
-    "requests":5475,
-    "timestamp":1420353857,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7036,
-      "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Holyoak,Todd"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":5795,
-      "subject":"CO",
-      "catalog_number":"370",
-      "title":"Deterministic OR Models",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":117,
-      "instructors":[
-        "Sanita,Laura"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:45-05:00"
-    },
-    {
-      "class_number":5997,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":107,
-      "instructors":[
-        "Dupont,Edward"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":4989,
-      "subject":"ECE",
-      "catalog_number":"459",
-      "title":"Programming for Performance",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":152,
-      "instructors":[
-        "Lam,Patrick"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":5816,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5986,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":138,
-      "instructors":[
-        "Cheriyan,Joseph"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":6266,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 007",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Wires,Alexander"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5824,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":191,
-      "instructors":[
-        "Knoll,Carolyn Alexis"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5833,
-      "subject":"MATH",
-      "catalog_number":"138",
-      "title":"Calculus 2 For Honours Mathematics",
-      "section":"LEC 005",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":190,
-      "instructors":[
-        "Scott,Matthew"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":4664,
-      "subject":"ME",
-      "catalog_number":"400B",
-      "title":"Seminar",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":159,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:15-05:00"
-    },
-    {
-      "class_number":7199,
-      "subject":"SE",
-      "catalog_number":"350",
-      "title":"Operating Systems",
-      "section":"LEC 001",
-      "weekdays":"MTTh",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":119,
-      "instructors":[
-        "Reidemeister,Thomas"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":5865,
-      "subject":"STAT",
-      "catalog_number":"202",
-      "title":"Introductory Statistics for Scientists",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":155,
-      "instructors":[
-        "Dawoud,Dina"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":6122,
-      "subject":"STAT",
-      "catalog_number":"231",
-      "title":"Statistics",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":161,
-      "instructors":[
-        "Zhang,Chong"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":6182,
-      "subject":"STAT",
-      "catalog_number":"340",
-      "title":"Computer Simulation of Complex Systems",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        "Hofert,Marius"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":5760,
-      "subject":"STAT",
-      "catalog_number":"454",
-      "title":"Sampling Theory and Practice",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":72,
-      "instructors":[
-        "Wu,Changbao"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:18-05:00"
-    },
-    {
-      "class_number":5718,
-      "subject":"STAT",
-      "catalog_number":"854",
-      "title":"Sampling Theory and Practice",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Wu,Changbao"
-      ],
-      "building":"MC",
-      "room":"2065",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:18-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "432",
+            "class_number": 4703,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 135,
+            "instructors": [
+                "Freeland,R Keith"
+            ],
+            "last_updated": "2015-05-04T16:00:03-04:00",
+            "room": "2065",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 2",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "212",
+            "class_number": 4184,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 130,
+            "instructors": [
+                "Lee,Sonny S.C."
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Structure and Bonding",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "254",
+            "class_number": 4095,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 125,
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Chemical Thermodynamics",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "254",
+            "class_number": 4095,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 125,
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Chemical Thermodynamics",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "05/19",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "05/19",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "06/02",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "06/02",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "06/16",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "06/16",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "06/23",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "06/23",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "07/07",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "07/07",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "100B",
+            "class_number": 3110,
+            "end_date": "07/21",
+            "end_time": "16:20",
+            "enrollment_total": 117,
+            "instructors": [
+                "Neale,Adam John"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "SEM 001",
+            "start_date": "07/21",
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electrical and Computer Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "106",
+            "class_number": 3116,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 118,
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Physics of Electrical Engineering 2",
+            "weekdays": "W"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "124",
+            "class_number": 3130,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 121,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "124",
+            "class_number": 3130,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 121,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "155",
+            "class_number": 3144,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 119,
+            "instructors": [
+                "Ward,Paul A S"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "260",
+            "class_number": 2164,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 110,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:25-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "HLTH",
+            "term": 1155,
+            "title": "Social Determinants of Health",
+            "weekdays": "WF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "213",
+            "class_number": 3734,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 151,
+            "instructors": [
+                "Wang,David W L"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Advanced Mathematics for Software Engineers",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "213",
+            "class_number": 3735,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 151,
+            "instructors": [
+                "Wang,David W L"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2065",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Advanced Mathematics for Software Engineers",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "306",
+            "class_number": 2637,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 67,
+            "instructors": [
+                "Carson,Linda Christine"
+            ],
+            "last_updated": "2015-05-04T16:02:07-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Perception",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "330",
+            "class_number": 3746,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 161,
+            "instructors": [
+                "Han,Peisong"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Mathematical Statistics",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "331",
+            "class_number": 3606,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 139,
+            "instructors": [
+                "Mohammad,Nagham"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "2065",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Applied Linear Models",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "333",
+            "class_number": 3662,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 164,
+            "instructors": [
+                "Li,Pengfei"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "2065",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Applied Probability",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "832",
+            "class_number": 4704,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Freeland,R Keith"
+            ],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "2065",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 2",
+            "weekdays": "T"
+        }
+    ]
 }

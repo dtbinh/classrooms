@@ -1,414 +1,246 @@
 {
-  "meta":{
-    "requests":5440,
-    "timestamp":1420353845,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3527,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":182,
-      "instructors":[
-        "Tian,Jie Joyce"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3528,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":173,
-      "instructors":[
-        "Tian,Jie Joyce"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3587,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"LEC 003",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":148,
-      "instructors":[
-        "Tian,Jie Joyce"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3537,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":224,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3538,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":150,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3539,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":138,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3540,
-      "subject":"AFM",
-      "catalog_number":"102",
-      "title":"Introduction to Managerial Accounting",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":131,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3529,
-      "subject":"AFM",
-      "catalog_number":"123",
-      "title":"Accounting Information for Managers",
-      "section":"LEC 003",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":180,
-      "instructors":[
-        "Lin,David"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3612,
-      "subject":"AFM",
-      "catalog_number":"131",
-      "title":"Introduction to Business in North America",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        "Sproule,Robert J"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3793,
-      "subject":"AFM",
-      "catalog_number":"231",
-      "title":"Business Law",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":175,
-      "instructors":[
-        "Charters,Darren"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":8332,
-      "subject":"AFM",
-      "catalog_number":"231",
-      "title":"Business Law",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Charters,Darren"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:17-05:00"
-    },
-    {
-      "class_number":3757,
-      "subject":"ARBUS",
-      "catalog_number":"102",
-      "title":"Accounting Information for Managers",
-      "section":"LEC 003",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Lin,David"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:32-05:00"
-    },
-    {
-      "class_number":3844,
-      "subject":"HIST",
-      "catalog_number":"205",
-      "title":"History of Western Sport",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":65,
-      "instructors":[
-        "Schweitzer,David"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:32-05:00"
-    },
-    {
-      "class_number":7424,
-      "subject":"PHIL",
-      "catalog_number":"226",
-      "title":"Biomedical Ethics",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":150,
-      "instructors":[
-        "Lowry,Christopher"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:58-05:00"
-    },
-    {
-      "class_number":4208,
-      "subject":"PSCI",
-      "catalog_number":"231",
-      "title":"Government and Business",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        "Needham,William Brent"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:20-05:00"
-    },
-    {
-      "class_number":3177,
-      "subject":"REC",
-      "catalog_number":"202",
-      "title":"History of Western Sport",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Schweitzer,David"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:40-05:00"
-    },
-    {
-      "class_number":6149,
-      "subject":"STAT",
-      "catalog_number":"211",
-      "title":"Introductory Statistics and Sampling for Accounting",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":119,
-      "instructors":[
-        "Balka,Peter"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":6224,
-      "subject":"STAT",
-      "catalog_number":"211",
-      "title":"Introductory Statistics and Sampling for Accounting",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":200,
-      "instructors":[
-        "Goh,Joslin Tze Ching"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":6171,
-      "subject":"STAT",
-      "catalog_number":"211",
-      "title":"Introductory Statistics and Sampling for Accounting",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"16:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":119,
-      "instructors":[
-        "Balka,Peter"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":6225,
-      "subject":"STAT",
-      "catalog_number":"211",
-      "title":"Introductory Statistics and Sampling for Accounting",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":200,
-      "instructors":[
-        "Goh,Joslin Tze Ching"
-      ],
-      "building":"HH",
-      "room":"1101",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "HH",
+            "catalog_number": "101",
+            "class_number": 2323,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 160,
+            "instructors": [
+                "Ducharme,Robert Gerard"
+            ],
+            "last_updated": "2015-05-04T16:00:04-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Financial Accounting",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "102",
+            "class_number": 2334,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 190,
+            "instructors": [
+                "Ducharme,Robert Gerard"
+            ],
+            "last_updated": "2015-05-04T16:00:05-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Managerial Accounting",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "211",
+            "class_number": 2501,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 200,
+            "instructors": [
+                "Vanden Bosch,Nancy Ann"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Business Context",
+            "weekdays": "Th"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "211",
+            "class_number": 4883,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 194,
+            "instructors": [
+                "Vanden Bosch,Nancy Ann"
+            ],
+            "last_updated": "2015-05-04T16:00:06-04:00",
+            "room": "1101",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Business Context",
+            "weekdays": "Th"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "241",
+            "class_number": 2319,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 172,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "241",
+            "class_number": 4882,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 168,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1101",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "311",
+            "class_number": 2607,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 148,
+            "instructors": [
+                "Fiolleau,Krista",
+                "Charters,Darren",
+                "Wensley,Karen"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Ethical Context",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "311",
+            "class_number": 4927,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 160,
+            "instructors": [
+                "Fiolleau,Krista",
+                "Charters,Darren",
+                "Wensley,Karen"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1101",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Ethical Context",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "200",
+            "class_number": 2598,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 79,
+            "instructors": [
+                "Malleck,Geoff"
+            ],
+            "last_updated": "2015-05-04T16:00:20-04:00",
+            "room": "1101",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ARBUS",
+            "term": 1155,
+            "title": "Entrepreneurship Principles and Practices",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "200",
+            "class_number": 2599,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 90,
+            "instructors": [
+                "Malleck,Geoff"
+            ],
+            "last_updated": "2015-05-04T16:00:20-04:00",
+            "room": "1101",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ARBUS",
+            "term": 1155,
+            "title": "Entrepreneurship Principles and Practices",
+            "weekdays": "T"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "200",
+            "class_number": 2600,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 169,
+            "instructors": [
+                "Malleck,Geoff"
+            ],
+            "last_updated": "2015-05-04T16:00:20-04:00",
+            "room": "1101",
+            "section": "PRA 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ARBUS",
+            "term": 1155,
+            "title": "Entrepreneurship Principles and Practices",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 4942,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 85,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "1101",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "F"
+        }
+    ]
 }

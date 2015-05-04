@@ -1,254 +1,144 @@
 {
-  "meta":{
-    "requests":5538,
-    "timestamp":1420353880,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5884,
-      "subject":"AMATH",
-      "catalog_number":"250",
-      "title":"Introduction to Differential Equations",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":183,
-      "instructors":[
-        "West,Joseph John"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:23-05:00"
-    },
-    {
-      "class_number":4698,
-      "subject":"CIVE",
-      "catalog_number":"127",
-      "title":"Statics & Solid Mechanics 1",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":130,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":5996,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":90,
-      "instructors":[
-        "Graham,Sandra Lynn"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":7476,
-      "subject":"MTE",
-      "catalog_number":"140",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        "Ivkovic,Igor"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:25-05:00"
-    },
-    {
-      "class_number":6483,
-      "subject":"PHYS",
-      "catalog_number":"10",
-      "title":"Physics Seminar",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":182,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:02-05:00"
-    },
-    {
-      "class_number":6484,
-      "subject":"PHYS",
-      "catalog_number":"112",
-      "title":"Physics 2",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":200,
-      "instructors":[
-        "Idziak,Stefan"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":6485,
-      "subject":"PHYS",
-      "catalog_number":"112",
-      "title":"Physics 2",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":200,
-      "instructors":[
-        "Idziak,Stefan"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":6930,
-      "subject":"PHYS",
-      "catalog_number":"122",
-      "title":"Waves, Electricity and Magnetism",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":126,
-      "instructors":[
-        "Scholz,Guenter A"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:04-05:00"
-    },
-    {
-      "class_number":6936,
-      "subject":"PHYS",
-      "catalog_number":"124",
-      "title":"Modern Physics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":194,
-      "instructors":[
-        "Epp,Richard J"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:04-05:00"
-    },
-    {
-      "class_number":6249,
-      "subject":"PMATH",
-      "catalog_number":"446",
-      "title":"Introduction to Commutative Algebra",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Bell,Jason Pierre"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:18-05:00"
-    },
-    {
-      "class_number":6798,
-      "subject":"SCBUS",
-      "catalog_number":"122",
-      "title":"Management of Business Organizations",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":72,
-      "instructors":[
-        "Memon,Muhammad Kashif"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:49-05:00"
-    },
-    {
-      "class_number":6255,
-      "subject":"PMATH",
-      "catalog_number":"646",
-      "title":"Introduction to Commutative Algebra",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Bell,Jason Pierre"
-      ],
-      "building":"PHY",
-      "room":"145",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:04-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHY",
+            "catalog_number": "237",
+            "class_number": 4245,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 199,
+            "instructors": [
+                "Daub,Elisabeth"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "145",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introductory Biochemistry",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "101",
+            "class_number": 3389,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 55,
+            "instructors": [
+                "Owen,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "145",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Strategies and Skills for Academic Success",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "239",
+            "class_number": 3844,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 151,
+            "instructors": [
+                "Nelson,Peter"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "145",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "112",
+            "class_number": 4110,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 125,
+            "instructors": [
+                "Mansour,Firas K"
+            ],
+            "last_updated": "2015-05-04T16:01:59-04:00",
+            "room": "145",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Physics 2",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "238",
+            "class_number": 4108,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 199,
+            "instructors": [
+                "Henderson,Robert Douglas Evert"
+            ],
+            "last_updated": "2015-05-04T16:02:13-04:00",
+            "room": "145",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "SCI",
+            "term": 1155,
+            "title": "Introductory Astronomy",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "230",
+            "class_number": 3964,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 123,
+            "instructors": [
+                "Mohammad,Nagham"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "145",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Probability",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "231",
+            "class_number": 3966,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 199,
+            "instructors": [
+                "Banerjee,Suryapratim"
+            ],
+            "last_updated": "2015-05-04T16:02:20-04:00",
+            "room": "145",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Statistics",
+            "weekdays": "MWF"
+        }
+    ]
 }

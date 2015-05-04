@@ -1,214 +1,124 @@
 {
-  "meta":{
-    "requests":5307,
-    "timestamp":1420353797,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6565,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6566,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6567,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6568,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6569,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6570,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 106",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6571,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6572,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 108",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6573,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 109",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    },
-    {
-      "class_number":6574,
-      "subject":"BIOL",
-      "catalog_number":"241",
-      "title":"Introduction to Applied Microbiology",
-      "section":"LAB 110",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B1",
-      "room":"374",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:41-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4158,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "T"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4159,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "T"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4160,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4161,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 31,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 104",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4196,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 105",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "Th"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "241",
+            "class_number": 4717,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "374",
+            "section": "LAB 106",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introduction to Applied Microbiology",
+            "weekdays": "Th"
+        }
+    ]
 }

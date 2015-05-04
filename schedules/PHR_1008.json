@@ -1,114 +1,124 @@
 {
-  "meta":{
-    "requests":5533,
-    "timestamp":1420353878,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8306,
-      "subject":"PHARM",
-      "catalog_number":"366",
-      "title":"Concepts in Nutritional Sciences",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Richard,Cynthia"
-      ],
-      "building":"PHR",
-      "room":"1008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":7005,
-      "subject":"PHARM",
-      "catalog_number":"374",
-      "title":"Complementary and Alternate Medicine",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Spagnuolo,Paul Anthony"
-      ],
-      "building":"PHR",
-      "room":"1008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":7575,
-      "subject":"PHARM",
-      "catalog_number":"425",
-      "title":"Symposium",
-      "section":"LEC 001",
-      "weekdays":"MTW",
-      "start_time":"09:00",
-      "end_time":"10:50",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":60,
-      "instructors":[
-        "Lillie,Elaine"
-      ],
-      "building":"PHR",
-      "room":"1008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:54-05:00"
-    },
-    {
-      "class_number":6918,
-      "subject":"PHARM",
-      "catalog_number":"466",
-      "title":"Advanced Geriatric Care",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":29,
-      "instructors":[
-        "Viana,Luis"
-      ],
-      "building":"PHR",
-      "room":"1008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:55-05:00"
-    },
-    {
-      "class_number":7576,
-      "subject":"PHARM",
-      "catalog_number":"491",
-      "title":"Seminars in Pharmacy 3",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":60,
-      "instructors":[
-        "Maxwell,Colleen Jean"
-      ],
-      "building":"PHR",
-      "room":"1008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:55-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHR",
+            "catalog_number": "222",
+            "class_number": 4815,
+            "end_date": "06/12",
+            "end_time": "15:50",
+            "enrollment_total": 117,
+            "instructors": [
+                "Schneider,Eric"
+            ],
+            "last_updated": "2015-05-04T16:01:56-04:00",
+            "room": "1008",
+            "section": "TUT 101",
+            "start_date": "05/04",
+            "start_time": "14:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Integrated Patient Focused Care 3",
+            "weekdays": "F"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "223",
+            "class_number": 4817,
+            "end_date": "07/28",
+            "end_time": "15:50",
+            "enrollment_total": 117,
+            "instructors": [
+                "Alsabbagh,Wasem"
+            ],
+            "last_updated": "2015-05-04T16:01:56-04:00",
+            "room": "1008",
+            "section": "TUT 101",
+            "start_date": "06/15",
+            "start_time": "14:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Integrated Patient Focused Care 4",
+            "weekdays": "F"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "425",
+            "class_number": 4825,
+            "end_date": "08/27",
+            "end_time": "10:50",
+            "enrollment_total": 55,
+            "instructors": [
+                "Lillie,Elaine"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1008",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "09:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Symposium",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "466",
+            "class_number": 4240,
+            "end_date": "08/27",
+            "end_time": "14:50",
+            "enrollment_total": 34,
+            "instructors": [
+                "Viana,Luis"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1008",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "12:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Advanced Geriatric Care",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "466",
+            "class_number": 4240,
+            "end_date": "08/27",
+            "end_time": "14:20",
+            "enrollment_total": 34,
+            "instructors": [
+                "Viana,Luis"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1008",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "13:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Advanced Geriatric Care",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "491",
+            "class_number": 4233,
+            "end_date": "08/27",
+            "end_time": "12:20",
+            "enrollment_total": 55,
+            "instructors": [
+                "Maxwell,Colleen Jean"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1008",
+            "section": "SEM 001",
+            "start_date": "07/02",
+            "start_time": "11:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Seminars in Pharmacy 3",
+            "weekdays": "T"
+        }
+    ]
 }

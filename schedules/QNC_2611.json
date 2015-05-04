@@ -1,0 +1,1444 @@
+{
+    "data": [
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "05/07",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "05/07",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "05/21",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "05/21",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "06/04",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "06/04",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "06/18",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "06/18",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "07/02",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "07/02",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3003,
+            "end_date": "07/16",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "07/16",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "05/05",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "05/05",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "05/19",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "05/19",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "06/02",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/02",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "06/16",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/16",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "06/30",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/30",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3004,
+            "end_date": "07/14",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "07/14",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "05/06",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "05/06",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "05/20",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "05/20",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "06/03",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/03",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "06/17",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/17",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "06/29",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/29",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3005,
+            "end_date": "07/15",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "07/15",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "05/14",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "05/14",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "05/28",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "05/28",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "06/11",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "06/11",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "06/25",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "06/25",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "07/09",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "07/09",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3344,
+            "end_date": "07/23",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "07/23",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "05/12",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "05/12",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "05/26",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "05/26",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "06/09",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "06/09",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "06/23",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "06/23",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "07/07",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "07/07",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3345,
+            "end_date": "07/21",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "07/21",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "05/13",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "05/13",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "05/27",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "05/27",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "06/10",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "06/10",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "06/24",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "06/24",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "07/08",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "07/08",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3346,
+            "end_date": "07/22",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "07/22",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "05/07",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "05/07",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "05/21",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "05/21",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "06/04",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "06/04",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "06/18",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "06/18",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "07/02",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "07/02",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3028,
+            "end_date": "07/16",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 201",
+            "start_date": "07/16",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "05/05",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "05/05",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "05/19",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "05/19",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "06/02",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/02",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "06/16",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/16",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "06/30",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "06/30",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3029,
+            "end_date": "07/14",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 202",
+            "start_date": "07/14",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "05/06",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "05/06",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "05/20",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "05/20",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "06/03",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/03",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "06/17",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/17",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "06/29",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "06/29",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3030,
+            "end_date": "07/15",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 203",
+            "start_date": "07/15",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "05/14",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "05/14",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "05/28",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "05/28",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "06/11",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "06/11",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "06/25",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "06/25",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "07/09",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "07/09",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3347,
+            "end_date": "07/23",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 204",
+            "start_date": "07/23",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "Th"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "05/12",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "05/12",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "05/26",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "05/26",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "06/09",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "06/09",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "06/23",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "06/23",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "07/07",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "07/07",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3348,
+            "end_date": "07/21",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 205",
+            "start_date": "07/21",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "05/13",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "05/13",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "05/27",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "05/27",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "06/10",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "06/10",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "06/24",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "06/24",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "07/08",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "07/08",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 3349,
+            "end_date": "07/22",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Saad,John Farid Hanna"
+            ],
+            "last_updated": "2015-05-04T16:01:51-04:00",
+            "room": "2611",
+            "section": "LAB 206",
+            "start_date": "07/22",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Circuits and Integration",
+            "weekdays": "W"
+        }
+    ]
+}

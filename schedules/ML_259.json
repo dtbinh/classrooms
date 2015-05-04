@@ -1,174 +1,144 @@
 {
-  "meta":{
-    "requests":5503,
-    "timestamp":1420353867,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3433,
-      "subject":"DRAMA",
-      "catalog_number":"307",
-      "title":"Spec Studies: Theatre Prod 2",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"17:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Ross,Martha"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:06-05:00"
-    },
-    {
-      "class_number":3433,
-      "subject":"DRAMA",
-      "catalog_number":"307",
-      "title":"Spec Studies: Theatre Prod 2",
-      "section":"LAB 001",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Ross,Martha"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:06-05:00"
-    },
-    {
-      "class_number":3451,
-      "subject":"DRAMA",
-      "catalog_number":"307",
-      "title":"Spec Studies: Theatre Prod 2",
-      "section":"LAB 002",
-      "weekdays":"M",
-      "start_time":"11:00",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Cegys,Paul"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:06-05:00"
-    },
-    {
-      "class_number":3451,
-      "subject":"DRAMA",
-      "catalog_number":"307",
-      "title":"Spec Studies: Theatre Prod 2",
-      "section":"LAB 002",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Cegys,Paul"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:06-05:00"
-    },
-    {
-      "class_number":3306,
-      "subject":"DRAMA",
-      "catalog_number":"407",
-      "title":"Theatre Workshop 2",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"17:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Ross,Martha"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:07-05:00"
-    },
-    {
-      "class_number":3306,
-      "subject":"DRAMA",
-      "catalog_number":"407",
-      "title":"Theatre Workshop 2",
-      "section":"LAB 001",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Ross,Martha"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:07-05:00"
-    },
-    {
-      "class_number":3453,
-      "subject":"DRAMA",
-      "catalog_number":"407",
-      "title":"Theatre Workshop 2",
-      "section":"LAB 002",
-      "weekdays":"M",
-      "start_time":"11:00",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Cegys,Paul"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:07-05:00"
-    },
-    {
-      "class_number":3453,
-      "subject":"DRAMA",
-      "catalog_number":"407",
-      "title":"Theatre Workshop 2",
-      "section":"LAB 002",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Cegys,Paul"
-      ],
-      "building":"ML",
-      "room":"259",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:07-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ML",
+            "catalog_number": "307",
+            "class_number": 4770,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 6,
+            "instructors": [
+                "Roberts-Smith,Jennifer"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Spec Studies: Theatre Prod 2",
+            "weekdays": "MTWThF"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "307",
+            "class_number": 4771,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 2,
+            "instructors": [
+                "Secord,Sharon"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Spec Studies: Theatre Prod 2",
+            "weekdays": "M"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "307",
+            "class_number": 4771,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 2,
+            "instructors": [
+                "Secord,Sharon"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Spec Studies: Theatre Prod 2",
+            "weekdays": "TWThF"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "407",
+            "class_number": 4772,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 9,
+            "instructors": [
+                "Roberts-Smith,Jennifer"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Theatre Workshop 2",
+            "weekdays": "MTWThF"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "407",
+            "class_number": 4773,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 3,
+            "instructors": [
+                "Secord,Sharon"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Theatre Workshop 2",
+            "weekdays": "M"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "407",
+            "class_number": 4773,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 3,
+            "instructors": [
+                "Secord,Sharon"
+            ],
+            "last_updated": "2015-05-04T16:00:54-04:00",
+            "room": "259",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "DRAMA",
+            "term": 1155,
+            "title": "Theatre Workshop 2",
+            "weekdays": "TWThF"
+        },
+        {
+            "building": "ML",
+            "catalog_number": "710",
+            "class_number": 2690,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Roberts-Smith,Jennifer"
+            ],
+            "last_updated": "2015-05-04T16:02:43-04:00",
+            "room": "259",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Studies in Renaissance Drama",
+            "weekdays": "Th"
+        }
+    ]
 }

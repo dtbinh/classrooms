@@ -1,494 +1,504 @@
 {
-  "meta":{
-    "requests":5546,
-    "timestamp":1420353884,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6961,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/20",
-      "end_date":"01\/20",
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6961,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/03",
-      "end_date":"02\/03",
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6962,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/21",
-      "end_date":"01\/21",
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6962,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/04",
-      "end_date":"02\/04",
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6963,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 003",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/22",
-      "end_date":"01\/22",
-      "enrollment_total":22,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6963,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 003",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/05",
-      "end_date":"02\/05",
-      "enrollment_total":22,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6964,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 004",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/23",
-      "end_date":"01\/23",
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6964,
-      "subject":"PHYS",
-      "catalog_number":"175L",
-      "title":"Introduction to the Universe Laboratory",
-      "section":"LAB 004",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/06",
-      "end_date":"04\/06",
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:05-05:00"
-    },
-    {
-      "class_number":6965,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/24",
-      "end_date":"02\/24",
-      "enrollment_total":16,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6965,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/10",
-      "end_date":"03\/10",
-      "enrollment_total":16,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6965,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/24",
-      "end_date":"03\/24",
-      "enrollment_total":16,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6966,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/25",
-      "end_date":"02\/25",
-      "enrollment_total":7,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6966,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/11",
-      "end_date":"03\/11",
-      "enrollment_total":7,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6966,
-      "subject":"PHYS",
-      "catalog_number":"242L",
-      "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/25",
-      "end_date":"03\/25",
-      "enrollment_total":7,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6871,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/13",
-      "end_date":"01\/13",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6871,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/27",
-      "end_date":"01\/27",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6871,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:00",
-      "end_time":"17:20",
-      "start_date":"02\/10",
-      "end_date":"02\/10",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6871,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/03",
-      "end_date":"03\/03",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6871,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/17",
-      "end_date":"03\/17",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6872,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/14",
-      "end_date":"01\/14",
-      "enrollment_total":12,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6872,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"01\/28",
-      "end_date":"01\/28",
-      "enrollment_total":12,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6872,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"02\/11",
-      "end_date":"02\/11",
-      "enrollment_total":12,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6872,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/04",
-      "end_date":"03\/04",
-      "enrollment_total":12,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":6872,
-      "subject":"PHYS",
-      "catalog_number":"260L",
-      "title":"Intermediate Physics Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"03\/18",
-      "end_date":"03\/18",
-      "enrollment_total":12,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4262,
+            "end_date": "05/19",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "05/19",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4262,
+            "end_date": "06/02",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "06/02",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4262,
+            "end_date": "06/16",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "06/16",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4262,
+            "end_date": "06/30",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "06/30",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4262,
+            "end_date": "07/14",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "07/14",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4263,
+            "end_date": "05/20",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "05/20",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4263,
+            "end_date": "06/03",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "06/03",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4263,
+            "end_date": "06/17",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "06/17",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4263,
+            "end_date": "07/02",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "07/02",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "242L",
+            "class_number": 4263,
+            "end_date": "07/15",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "07/15",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Electricity and Magnetism Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4265,
+            "end_date": "05/12",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "05/12",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4265,
+            "end_date": "05/26",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "05/26",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4265,
+            "end_date": "06/09",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "06/09",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4265,
+            "end_date": "06/23",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "06/23",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4265,
+            "end_date": "07/07",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 001",
+            "start_date": "07/07",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4264,
+            "end_date": "05/13",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "05/13",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4264,
+            "end_date": "05/27",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "05/27",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4264,
+            "end_date": "06/10",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "06/10",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4264,
+            "end_date": "06/24",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "06/24",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4264,
+            "end_date": "07/08",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Dinh,Tan Ngoc N"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LAB 002",
+            "start_date": "07/08",
+            "start_time": "14:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4924,
+            "end_date": "05/07",
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Duley,Walter W"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LEC 101",
+            "start_date": "05/07",
+            "start_time": "11:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4924,
+            "end_date": "05/21",
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Duley,Walter W"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LEC 101",
+            "start_date": "05/21",
+            "start_time": "11:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4924,
+            "end_date": "06/04",
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Duley,Walter W"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LEC 101",
+            "start_date": "06/04",
+            "start_time": "11:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4924,
+            "end_date": "06/18",
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Duley,Walter W"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LEC 101",
+            "start_date": "06/18",
+            "start_time": "11:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "260L",
+            "class_number": 4924,
+            "end_date": "07/02",
+            "end_time": "12:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Duley,Walter W"
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "318",
+            "section": "LEC 101",
+            "start_date": "07/02",
+            "start_time": "11:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Intermediate Physics Laboratory",
+            "weekdays": "Th"
+        }
+    ]
 }

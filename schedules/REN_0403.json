@@ -1,374 +1,102 @@
 {
-  "meta":{
-    "requests":5586,
-    "timestamp":1420353899,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6342,
-      "subject":"APPLS",
-      "catalog_number":"306R",
-      "title":"Second Language Assessment and Testing",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Schuller,Christa"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:31-05:00"
-    },
-    {
-      "class_number":7821,
-      "subject":"EFAS",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 003",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Redmond,Denise"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":8271,
-      "subject":"HIST",
-      "catalog_number":"225",
-      "title":"History of Education in Canada",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Sanderson,Nicole"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:33-05:00"
-    },
-    {
-      "class_number":6355,
-      "subject":"JAPAN",
-      "catalog_number":"201R",
-      "title":"Second-Year Japanese 1",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Kunizane,Kumiko"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:54-05:00"
-    },
-    {
-      "class_number":6393,
-      "subject":"PSYCH",
-      "catalog_number":"212R",
-      "title":"Educational Psychology",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Yoshida,Emiko"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:28-05:00"
-    },
-    {
-      "class_number":3712,
-      "subject":"PSYCH",
-      "catalog_number":"253R",
-      "title":"Social Psychology",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Marigold,Denise"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:29-05:00"
-    },
-    {
-      "class_number":6404,
-      "subject":"SDS",
-      "catalog_number":"205R",
-      "title":"History of Education in Canada",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Sanderson,Nicole"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:51-05:00"
-    },
-    {
-      "class_number":6406,
-      "subject":"SDS",
-      "catalog_number":"240R",
-      "title":"Art and Society",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Griffiths-Fulton,Karl Raymond"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:52-05:00"
-    },
-    {
-      "class_number":6426,
-      "subject":"SDS",
-      "catalog_number":"251R",
-      "title":"Social Research",
-      "section":"LEC 003",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Schryer,Emily Catherine"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:52-05:00"
-    },
-    {
-      "class_number":4041,
-      "subject":"SOC",
-      "catalog_number":"207R",
-      "title":"Sociology of Education",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Sanderson,Nicole"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:59-05:00"
-    },
-    {
-      "class_number":4039,
-      "subject":"SOC",
-      "catalog_number":"223R",
-      "title":"Deviance: Perspectives and Processes",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Roberts,Sharon Elizabeth"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:00-05:00"
-    },
-    {
-      "class_number":6421,
-      "subject":"SOCWK",
-      "catalog_number":"221R",
-      "title":"Social Group Work",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Boyd,Jon Allan"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:06-05:00"
-    },
-    {
-      "class_number":6460,
-      "subject":"SOCWK",
-      "catalog_number":"322R",
-      "title":"International Perspectives in Community Organization",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Case,Robert A."
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:07-05:00"
-    },
-    {
-      "class_number":6422,
-      "subject":"SWREN",
-      "catalog_number":"221R",
-      "title":"Social Group Work",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Boyd,Jon Allan"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:20-05:00"
-    },
-    {
-      "class_number":6366,
-      "subject":"SWREN",
-      "catalog_number":"424R",
-      "title":"Diversity and Empowerment",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Miller,Wayne Alan"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:21-05:00"
-    },
-    {
-      "class_number":6374,
-      "subject":"SWREN",
-      "catalog_number":"431R",
-      "title":"Fields of Practice",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "VanKatwyk,Patricia"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:22-05:00"
-    },
-    {
-      "class_number":6378,
-      "subject":"SWREN",
-      "catalog_number":"434R",
-      "title":"Selected Theories for Social Work Practice: Analysis and Application",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Miller,Wayne Alan"
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:22-05:00"
-    },
-    {
-      "class_number":6379,
-      "subject":"SWREN",
-      "catalog_number":"442R",
-      "title":"Practicum 2",
-      "section":"PRA 003",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0403",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:23-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "349R",
+            "class_number": 4919,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 30,
+            "instructors": [
+                "Yoshida,Emiko"
+            ],
+            "last_updated": "2015-05-04T16:02:07-04:00",
+            "room": "0403",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Cross-Cultural Psychology",
+            "weekdays": "MW"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "349R",
+            "class_number": 4921,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 0,
+            "instructors": [
+                "Yoshida,Emiko"
+            ],
+            "last_updated": "2015-05-04T16:02:24-04:00",
+            "room": "0403",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Cross-Cultural Psychology",
+            "weekdays": "MW"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "443R",
+            "class_number": 4064,
+            "end_date": "06/30",
+            "end_time": "11:20",
+            "enrollment_total": 22,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:25-04:00",
+            "room": "0403",
+            "section": "PRA 003",
+            "start_date": "04/09",
+            "start_time": "09:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Practicum 3",
+            "weekdays": "F"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "470R",
+            "class_number": 4040,
+            "end_date": "06/30",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "McMillan,Colleen Vera"
+            ],
+            "last_updated": "2015-05-04T16:02:25-04:00",
+            "room": "0403",
+            "section": "LEC 001",
+            "start_date": "04/09",
+            "start_time": "09:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Mental Health and Addiction Issues: Social Work Responses",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "470R",
+            "class_number": 4042,
+            "end_date": "06/30",
+            "end_time": "16:20",
+            "enrollment_total": 26,
+            "instructors": [
+                "Vito,Rosemary"
+            ],
+            "last_updated": "2015-05-04T16:02:25-04:00",
+            "room": "0403",
+            "section": "LEC 002",
+            "start_date": "04/09",
+            "start_time": "13:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Mental Health and Addiction Issues: Social Work Responses",
+            "weekdays": "Th"
+        }
+    ]
 }

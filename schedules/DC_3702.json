@@ -1,0 +1,1798 @@
+{
+    "data": [
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "05/05",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "05/05",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "05/19",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "05/19",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "06/02",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/02",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "06/16",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/16",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "06/30",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/30",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3310,
+            "end_date": "07/14",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "07/14",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "05/06",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "05/06",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "05/20",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "05/20",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "06/03",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/03",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "06/17",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/17",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "06/29",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/29",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3311,
+            "end_date": "07/15",
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "07/15",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "05/07",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "05/07",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "05/21",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "05/21",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "06/04",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "06/04",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "06/18",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "06/18",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "07/02",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "07/02",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3312,
+            "end_date": "07/16",
+            "end_time": "16:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "07/16",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "05/12",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "05/12",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "05/26",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "05/26",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "06/09",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "06/09",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "06/23",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "06/23",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "07/07",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "07/07",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3313,
+            "end_date": "07/21",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "07/21",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "05/13",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "05/13",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "05/27",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "05/27",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "06/10",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "06/10",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "06/24",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "06/24",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "07/08",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "07/08",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3314,
+            "end_date": "07/22",
+            "end_time": "16:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "07/22",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "05/14",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "05/14",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "05/28",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "05/28",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "06/11",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "06/11",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "06/25",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "06/25",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "07/09",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "07/09",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "226L",
+            "class_number": 3315,
+            "end_date": "07/23",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "07/23",
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Laboratory Characterization Methods",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "05/05",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "05/05",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "05/19",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "05/19",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "06/02",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/02",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "06/16",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/16",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "06/30",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "06/30",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3017,
+            "end_date": "07/14",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 001",
+            "start_date": "07/14",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "05/06",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "05/06",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "05/20",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "05/20",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "06/03",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/03",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "06/17",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/17",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "06/29",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "06/29",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3018,
+            "end_date": "07/15",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 002",
+            "start_date": "07/15",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "05/07",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "05/07",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "05/21",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "05/21",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "06/04",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "06/04",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "06/18",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "06/18",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "07/02",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "07/02",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3019,
+            "end_date": "07/16",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 003",
+            "start_date": "07/16",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "05/12",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "05/12",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "05/26",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "05/26",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "06/09",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "06/09",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "06/23",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "06/23",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "07/07",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "07/07",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3020,
+            "end_date": "07/21",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 004",
+            "start_date": "07/21",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "T"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "05/13",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "05/13",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "05/27",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "05/27",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "06/10",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "06/10",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "06/24",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "06/24",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "07/08",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "07/08",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3021,
+            "end_date": "07/22",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 005",
+            "start_date": "07/22",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "W"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "05/14",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "05/14",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "05/28",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "05/28",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "06/11",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "06/11",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "06/25",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "06/25",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "07/09",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "07/09",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3088,
+            "end_date": "07/23",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 006",
+            "start_date": "07/23",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "05/08",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "05/08",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "05/22",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "05/22",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "06/05",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "06/05",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "06/19",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "06/19",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "07/03",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "07/03",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3089,
+            "end_date": "07/17",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 007",
+            "start_date": "07/17",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "05/15",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "05/15",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "05/29",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "05/29",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "06/12",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "06/12",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "06/26",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "06/26",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "07/10",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "07/10",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3090,
+            "end_date": "07/24",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 008",
+            "start_date": "07/24",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "F"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "05/11",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "05/11",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "05/25",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "05/25",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "06/08",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "06/08",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "06/22",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "06/22",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "07/06",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "07/06",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "320L",
+            "class_number": 3091,
+            "end_date": "07/20",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "3702",
+            "section": "LAB 009",
+            "start_date": "07/20",
+            "start_time": "08:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials Laboratory",
+            "weekdays": "M"
+        }
+    ]
+}

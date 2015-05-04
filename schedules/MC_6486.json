@@ -1,74 +1,24 @@
 {
-  "meta":{
-    "requests":5495,
-    "timestamp":1420353864,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6271,
-      "subject":"CO",
-      "catalog_number":"739",
-      "title":"Topics in Combinatorics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Katz,Eric"
-      ],
-      "building":"MC",
-      "room":"6486",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:59-05:00"
-    },
-    {
-      "class_number":7950,
-      "subject":"CO",
-      "catalog_number":"749",
-      "title":"Topics in Graph Theory",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"6486",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:59-05:00"
-    },
-    {
-      "class_number":7949,
-      "subject":"CO",
-      "catalog_number":"759",
-      "title":"Topics in Discrete Optimization",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Cook,William John"
-      ],
-      "building":"MC",
-      "room":"6486",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:00-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "759",
+            "class_number": 3921,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 5,
+            "instructors": [
+                "Swamy,Chaitanya"
+            ],
+            "last_updated": "2015-05-04T16:02:37-04:00",
+            "room": "6486",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CO",
+            "term": 1155,
+            "title": "Topics in Discrete Optimization",
+            "weekdays": "TTh"
+        }
+    ]
 }

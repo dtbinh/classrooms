@@ -1,154 +1,64 @@
 {
-  "meta":{
-    "requests":5349,
-    "timestamp":1420353811,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6297,
-      "subject":"CS",
-      "catalog_number":"846",
-      "title":"Advanced Topics in Software Engineering",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Godfrey,Michael"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":7519,
-      "subject":"CS",
-      "catalog_number":"846",
-      "title":"Advanced Topics in Software Engineering",
-      "section":"SEM 002",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Holmes,Reid Thomas"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":5918,
-      "subject":"CS",
-      "catalog_number":"848",
-      "title":"Advanced Topics in Data Bases",
-      "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"10:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Ilyas,Ihab"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":7520,
-      "subject":"CS",
-      "catalog_number":"848",
-      "title":"Advanced Topics in Data Bases",
-      "section":"SEM 002",
-      "weekdays":"T",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Ozsu,Tamer"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":8246,
-      "subject":"CS",
-      "catalog_number":"848",
-      "title":"Advanced Topics in Data Bases",
-      "section":"SEM 003",
-      "weekdays":"M",
-      "start_time":"15:00",
-      "end_time":"17:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Weddell,Grant"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":7521,
-      "subject":"CS",
-      "catalog_number":"854",
-      "title":"Advanced Topics in Computer Systems",
-      "section":"SEM 001",
-      "weekdays":"MW",
-      "start_time":"13:30",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Wong,Bernard"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    },
-    {
-      "class_number":6186,
-      "subject":"CS",
-      "catalog_number":"898",
-      "title":"Advanced Special Topics in Computer Science",
-      "section":"SEM 001",
-      "weekdays":"TW",
-      "start_time":"17:00",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Baranoski,Gladimir"
-      ],
-      "building":"DC",
-      "room":"3313",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:06-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "DC",
+            "catalog_number": "791",
+            "class_number": 4775,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 13,
+            "instructors": [
+                "Kaplan,Craig Steven"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "3313",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Non-Photorealistic Rendering",
+            "weekdays": "MW"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "848",
+            "class_number": 3937,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 13,
+            "instructors": [
+                "Salem,Kenneth"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "3313",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Topics in Data Bases",
+            "weekdays": "Th"
+        },
+        {
+            "building": "DC",
+            "catalog_number": "889",
+            "class_number": 3808,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 18,
+            "instructors": [
+                "Vogel,Daniel"
+            ],
+            "last_updated": "2015-05-04T16:02:39-04:00",
+            "room": "3313",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Advanced Topics in Human-Computer Interaction",
+            "weekdays": "T"
+        }
+    ]
 }

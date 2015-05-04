@@ -1,94 +1,44 @@
 {
-  "meta":{
-    "requests":5396,
-    "timestamp":1420353831,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8368,
-      "subject":"SYDE",
-      "catalog_number":"632",
-      "title":"Optimization Methods",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Calamai,Paul H"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:21-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"SYDE",
-      "catalog_number":"652",
-      "title":"Dynamics of Multibody  Systems",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"15:00",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "McPhee,John"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:22-05:00"
-    },
-    {
-      "class_number":8281,
-      "subject":"SYDE",
-      "catalog_number":"655",
-      "title":"Optimal Control",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:30",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Lashgarian Azad,Nasser"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:22-05:00"
-    },
-    {
-      "class_number":5204,
-      "subject":"SYDE",
-      "catalog_number":"675",
-      "title":"Pattern Recognition",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Stashuk,Daniel W"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:23-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "E5",
+            "catalog_number": "644",
+            "class_number": 4878,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "MacGregor,Carolyn G"
+            ],
+            "last_updated": "2015-05-04T16:03:02-04:00",
+            "room": "6127",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "SYDE",
+            "term": 1155,
+            "title": "Human Factors Testing",
+            "weekdays": "T"
+        },
+        {
+            "building": "E5",
+            "catalog_number": "661",
+            "class_number": 3437,
+            "end_date": null,
+            "end_time": "11:50",
+            "enrollment_total": 7,
+            "instructors": [
+                "Savage,Gordon"
+            ],
+            "last_updated": "2015-05-04T16:03:02-04:00",
+            "room": "6127",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "SYDE",
+            "term": 1155,
+            "title": "Model-Based Robust Design",
+            "weekdays": "WTh"
+        }
+    ]
 }

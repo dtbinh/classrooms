@@ -1,414 +1,162 @@
 {
-  "meta":{
-    "requests":5437,
-    "timestamp":1420353844,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6880,
-      "subject":"BIOL",
-      "catalog_number":"383",
-      "title":"Tropical Ecosystems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Oelbermann,Maren"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:45-05:00"
-    },
-    {
-      "class_number":5411,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 103",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5454,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5456,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 108",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5485,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 110",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5525,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 112",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5589,
-      "subject":"ERS",
-      "catalog_number":"317",
-      "title":"Waste Management",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Jackson,John"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":5500,
-      "subject":"ERS",
-      "catalog_number":"383",
-      "title":"Tropical Ecosystems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Oelbermann,Maren"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":5606,
-      "subject":"ERS",
-      "catalog_number":"413",
-      "title":"Senior Honours Research Seminar",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Larson,Brendon"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":3902,
-      "subject":"FR",
-      "catalog_number":"263",
-      "title":"Major Works 1 - France and la francophonie",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Dusaillant-Fernandes,Valerie"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:11-05:00"
-    },
-    {
-      "class_number":3502,
-      "subject":"FR",
-      "catalog_number":"297",
-      "title":"French Culture & Literature: 1715 to the Present",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Gauthier,Nicolas"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:12-05:00"
-    },
-    {
-      "class_number":5385,
-      "subject":"GEOG",
-      "catalog_number":"387",
-      "title":"Spatial Databases",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Glenday,Peter John"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:25-05:00"
-    },
-    {
-      "class_number":5414,
-      "subject":"GEOG",
-      "catalog_number":"471",
-      "title":"Remote Sensing Project",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Kelly,Richard E.J."
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":5442,
-      "subject":"PLAN",
-      "catalog_number":"387",
-      "title":"Spatial Databases",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":8007,
-      "subject":"PLAN",
-      "catalog_number":"477",
-      "title":"Freight Planning and Policy",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Woudsma,Clarence"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:15-05:00"
-    },
-    {
-      "class_number":8147,
-      "subject":"SOC",
-      "catalog_number":"302",
-      "title":"Introduction to Contemporary Theory",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Muszynski,Alicja"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:02-05:00"
-    },
-    {
-      "class_number":3598,
-      "subject":"SPAN",
-      "catalog_number":"101",
-      "title":"Introduction to Spanish 1",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Atoche,Cristina"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:09-05:00"
-    },
-    {
-      "class_number":4156,
-      "subject":"SPCOM",
-      "catalog_number":"100",
-      "title":"Interpersonal Communication",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Harvie,Jo"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:12-05:00"
-    },
-    {
-      "class_number":5501,
-      "subject":"LED",
-      "catalog_number":"688",
-      "title":"Entrepreneurship and Small Business Development",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Malleck,Geoff"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:44-05:00"
-    },
-    {
-      "class_number":8016,
-      "subject":"PLAN",
-      "catalog_number":"677",
-      "title":"Freight Planning and Policy",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Woudsma,Clarence"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:03-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV3",
+            "catalog_number": "110B",
+            "class_number": 2563,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 33,
+            "instructors": [
+                "Andres,Gregory George"
+            ],
+            "last_updated": "2015-05-04T16:01:58-04:00",
+            "room": "3412",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "PHIL",
+            "term": 1155,
+            "title": "Introduction to Philosophy: Ethics and Values",
+            "weekdays": "MW"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "145",
+            "class_number": 2200,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 39,
+            "instructors": [
+                "Holukoff,Kurt Sheldon"
+            ],
+            "last_updated": "2015-05-04T16:01:58-04:00",
+            "room": "3412",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PHIL",
+            "term": 1155,
+            "title": "Critical Thinking",
+            "weekdays": "MW"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "220",
+            "class_number": 2388,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 37,
+            "instructors": [
+                "Drecun,Darlene"
+            ],
+            "last_updated": "2015-05-04T16:01:58-04:00",
+            "room": "3412",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "PHIL",
+            "term": 1155,
+            "title": "Moral Issues",
+            "weekdays": "MW"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "350",
+            "class_number": 3540,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 22,
+            "instructors": [
+                "Mitchell,Carrie"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3412",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Research Methods for Planners",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "350",
+            "class_number": 3541,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Mitchell,Carrie"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3412",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Research Methods for Planners",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "350",
+            "class_number": 3542,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 21,
+            "instructors": [
+                "Mitchell,Carrie"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3412",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Research Methods for Planners",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "350",
+            "class_number": 4936,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 20,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "3412",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Research Methods for Planners",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "474",
+            "class_number": 4660,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Mitchell,Carrie"
+            ],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "3412",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Special Topics in Planning",
+            "weekdays": "Th"
+        }
+    ]
 }

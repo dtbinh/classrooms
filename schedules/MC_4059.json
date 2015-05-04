@@ -1,314 +1,396 @@
 {
-  "meta":{
-    "requests":5488,
-    "timestamp":1420353861,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6003,
-      "subject":"CS",
-      "catalog_number":"116",
-      "title":"Introduction to Computer Science 2",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Kaplan,Craig Steven"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":6024,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":95,
-      "instructors":[
-        "Holtby,Daniel James"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":6025,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 004",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Sakhnini,Victoria"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":6077,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 005",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Sakhnini,Victoria"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":7722,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 007",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Sakhnini,Victoria"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":5761,
-      "subject":"CS",
-      "catalog_number":"230",
-      "title":"Introduction to Computers and Computer Systems",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Graham,Sandra Lynn"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":3805,
-      "subject":"ECON",
-      "catalog_number":"221",
-      "title":"Statistics for Economists",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Chakraborty,Liton"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:33-05:00"
-    },
-    {
-      "class_number":5812,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        "Beltaos,Andrew"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":6126,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"LEC 006",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        "Woody,Owen Zeno"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":7642,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"TUT 107",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5819,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":66,
-      "instructors":[
-        "Loo,Clinton"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5930,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Akash,Mukto"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":5845,
-      "subject":"MATH",
-      "catalog_number":"237",
-      "title":"Calculus 3 for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":121,
-      "instructors":[
-        "West,Joseph John"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":5846,
-      "subject":"MATH",
-      "catalog_number":"237",
-      "title":"Calculus 3 for Honours Mathematics",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        "Katz,Eric"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":3222,
-      "subject":"REC",
-      "catalog_number":"151",
-      "title":"Foundations of Therapeutic Recreation Practice",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":116,
-      "instructors":[
-        "Berbary,Lisbeth"
-      ],
-      "building":"MC",
-      "room":"4059",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:40-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "431",
+            "class_number": 4699,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 61,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:03-04:00",
+            "room": "4059",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 1",
+            "weekdays": "TF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "250",
+            "class_number": 3827,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 28,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:16-04:00",
+            "room": "4059",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "AMATH",
+            "term": 1155,
+            "title": "Introduction to Differential Equations",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "330",
+            "class_number": 3622,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 102,
+            "instructors": [
+                "Ataullah,Ahmed Ayaz"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Management Information Systems",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "117",
+            "class_number": 3926,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "4059",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "138",
+            "class_number": 3656,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 115,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "4059",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 For Honours Mathematics",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "138",
+            "class_number": 3839,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 120,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "4059",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 For Honours Mathematics",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "235",
+            "class_number": 3751,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 86,
+            "instructors": [
+                "Geshnizjani,Ghazal"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "4059",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 2 for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "237",
+            "class_number": 3843,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Speziale,Sean"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4059",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 3 for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3660,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Nelson,Peter"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3661,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4059",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3666,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Nelson,Peter"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4059",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "239",
+            "class_number": 3667,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4059",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Introduction to Combinatorics",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "05/21",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "05/21",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "06/04",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "06/04",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "06/18",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "06/18",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "06/25",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "06/25",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "07/09",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "07/09",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 2809,
+            "end_date": "07/23",
+            "end_time": "11:20",
+            "enrollment_total": 98,
+            "instructors": [
+                "Esmaeili,Shahrzad"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": "07/23",
+            "start_time": "10:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "203",
+            "class_number": 4847,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 58,
+            "instructors": [
+                "Wilson,Austin Wade"
+            ],
+            "last_updated": "2015-05-04T16:02:10-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "REC",
+            "term": 1155,
+            "title": "Sociology of Sport",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "210",
+            "class_number": 4848,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 31,
+            "instructors": [
+                "Potwarka,Luke Richard"
+            ],
+            "last_updated": "2015-05-04T16:02:16-04:00",
+            "room": "4059",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "SOC",
+            "term": 1155,
+            "title": "Sociology of Sport",
+            "weekdays": "Th"
+        }
+    ]
 }

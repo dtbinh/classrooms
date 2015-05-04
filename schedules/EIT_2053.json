@@ -1,215 +1,24 @@
 {
-  "meta":{
-    "requests":5413,
-    "timestamp":1420353836,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7093,
-      "subject":"CHEM",
-      "catalog_number":"440",
-      "title":"Special Topics in Computational\/Theoretical Chemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Roy,Pierre-Nicholas"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:32-05:00"
-    },
-    {
-      "class_number":8139,
-      "subject":"CHEM",
-      "catalog_number":"710",
-      "title":"Selected Topics in Inorganic Chemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:51-05:00"
-    },
-    {
-      "class_number":6886,
-      "subject":"CHEM",
-      "catalog_number":"720",
-      "title":"Selected Topics in Analytical Chemistry",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Liu,Juewen"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:51-05:00"
-    },
-    {
-      "class_number":6987,
-      "subject":"CHEM",
-      "catalog_number":"731",
-      "title":"Selected Topics in Biochemistry",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Palmer,Michael"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:51-05:00"
-    },
-    {
-      "class_number":8101,
-      "subject":"CHEM",
-      "catalog_number":"740",
-      "title":"Selected Topics in Theoretical Chemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Roy,Pierre-Nicholas"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:52-05:00"
-    },
-    {
-      "class_number":8141,
-      "subject":"CHEM",
-      "catalog_number":"760",
-      "title":"Selected Topics in Organic Chemistry",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:52-05:00"
-    },
-    {
-      "class_number":8225,
-      "subject":"CHEM",
-      "catalog_number":"773",
-      "title":"Selected Topics in Polymer Chemistry",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Wang,Xiaosong"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:53-05:00"
-    },
-    {
-      "class_number":6463,
-      "subject":"EARTH",
-      "catalog_number":"622",
-      "title":"Environmental Isotope Hydrology and Geochemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Aravena,Ramon O",
-        "Wu,Lingling"
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:08-05:00"
-    },
-    {
-      "class_number":8376,
-      "subject":"PHYS",
-      "catalog_number":"747",
-      "title":"Optical Electronics",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Yevick,David O."
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:00-05:00"
-    },
-    {
-      "class_number":6734,
-      "subject":"PHYS",
-      "catalog_number":"752",
-      "title":"Molecular Biophysics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"EIT",
-      "room":"2053",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:00-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EIT",
+            "catalog_number": "671",
+            "class_number": 4148,
+            "end_date": null,
+            "end_time": "17:50",
+            "enrollment_total": 30,
+            "instructors": [
+                "Robertson,William D"
+            ],
+            "last_updated": "2015-05-04T16:02:40-04:00",
+            "room": "2053",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Field Methods in Hydrogeology",
+            "weekdays": "MTWThF"
+        }
+    ]
 }

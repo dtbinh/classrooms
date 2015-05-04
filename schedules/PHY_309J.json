@@ -1,94 +1,84 @@
 {
-  "meta":{
-    "requests":5544,
-    "timestamp":1420353883,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6516,
-      "subject":"PHYS",
-      "catalog_number":"360A",
-      "title":"Modern Physics Laboratory 1",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"309J",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:09-05:00"
-    },
-    {
-      "class_number":6517,
-      "subject":"PHYS",
-      "catalog_number":"360B",
-      "title":"Modern Physics Laboratory 2",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"309J",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:09-05:00"
-    },
-    {
-      "class_number":6665,
-      "subject":"PHYS",
-      "catalog_number":"460A",
-      "title":"Advanced Laboratory 1",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"309J",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:12-05:00"
-    },
-    {
-      "class_number":6518,
-      "subject":"PHYS",
-      "catalog_number":"460B",
-      "title":"Advanced Laboratory 2",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Gardiner,Jeff"
-      ],
-      "building":"PHY",
-      "room":"309J",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:12-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHY",
+            "catalog_number": "360A",
+            "class_number": 4131,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:01-04:00",
+            "room": "309J",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Modern Physics Laboratory 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "360B",
+            "class_number": 4132,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:01-04:00",
+            "room": "309J",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Modern Physics Laboratory 2",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "460A",
+            "class_number": 4317,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 3,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "309J",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Advanced Laboratory 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHY",
+            "catalog_number": "460B",
+            "class_number": 4318,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 3,
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "309J",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Advanced Laboratory 2",
+            "weekdays": "M"
+        }
+    ]
 }

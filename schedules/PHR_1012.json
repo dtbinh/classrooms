@@ -1,155 +1,84 @@
 {
-  "meta":{
-    "requests":5534,
-    "timestamp":1420353878,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6909,
-      "subject":"PHARM",
-      "catalog_number":"362",
-      "title":"Advanced Patient Self Care",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":14,
-      "instructors":[
-        "Nakhla,Nardine"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":6909,
-      "subject":"PHARM",
-      "catalog_number":"362",
-      "title":"Advanced Patient Self Care",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":14,
-      "instructors":[
-        "Nakhla,Nardine"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":7084,
-      "subject":"PHARM",
-      "catalog_number":"377",
-      "title":"Drug-Induced Disease",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:00",
-      "end_time":"14:50",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":13,
-      "instructors":[
-        "Sian,Preet"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":7084,
-      "subject":"PHARM",
-      "catalog_number":"377",
-      "title":"Drug-Induced Disease",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:50",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":13,
-      "instructors":[
-        "Sian,Preet"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:53-05:00"
-    },
-    {
-      "class_number":7573,
-      "subject":"PHARM",
-      "catalog_number":"422",
-      "title":"Integrated Patient Focused Care 9",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"17:20",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":60,
-      "instructors":[
-        "Nagge,Jeffrey Judson"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:54-05:00"
-    },
-    {
-      "class_number":7574,
-      "subject":"PHARM",
-      "catalog_number":"422",
-      "title":"Integrated Patient Focused Care 9",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"15:00",
-      "end_time":"17:50",
-      "start_date":"01\/05",
-      "end_date":"02\/28",
-      "enrollment_total":60,
-      "instructors":[
-        "Nagge,Jeffrey Judson"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:54-05:00"
-    },
-    {
-      "class_number":8307,
-      "subject":"PHARM",
-      "catalog_number":"473",
-      "title":"Advanced Infectious Disease",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Barrett,Brett",
-        "Wasfi,Olla"
-      ],
-      "building":"PHR",
-      "room":"1012",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:55-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PHR",
+            "catalog_number": "377",
+            "class_number": 4311,
+            "end_date": "08/27",
+            "end_time": "14:50",
+            "enrollment_total": 20,
+            "instructors": [
+                "Sian,Preet"
+            ],
+            "last_updated": "2015-05-04T16:01:56-04:00",
+            "room": "1012",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "12:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Drug-Induced Disease",
+            "weekdays": "M"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "377",
+            "class_number": 4311,
+            "end_date": "08/27",
+            "end_time": "13:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Sian,Preet"
+            ],
+            "last_updated": "2015-05-04T16:01:56-04:00",
+            "room": "1012",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "12:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Drug-Induced Disease",
+            "weekdays": "W"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "422",
+            "class_number": 4231,
+            "end_date": "08/27",
+            "end_time": "17:20",
+            "enrollment_total": 55,
+            "instructors": [
+                "Nagge,Jeffrey Judson"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1012",
+            "section": "LEC 001",
+            "start_date": "07/02",
+            "start_time": "15:30",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Integrated Patient Focused Care 9",
+            "weekdays": "T"
+        },
+        {
+            "building": "PHR",
+            "catalog_number": "422",
+            "class_number": 4232,
+            "end_date": "08/27",
+            "end_time": "17:50",
+            "enrollment_total": 55,
+            "instructors": [
+                "Nagge,Jeffrey Judson"
+            ],
+            "last_updated": "2015-05-04T16:01:57-04:00",
+            "room": "1012",
+            "section": "TUT 101",
+            "start_date": "07/02",
+            "start_time": "15:00",
+            "subject": "PHARM",
+            "term": 1155,
+            "title": "Integrated Patient Focused Care 9",
+            "weekdays": "M"
+        }
+    ]
 }

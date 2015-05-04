@@ -1,34 +1,44 @@
 {
-  "meta":{
-    "requests":5479,
-    "timestamp":1420353858,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6228,
-      "subject":"STAT",
-      "catalog_number":"316",
-      "title":"Introduction to Statistical Problem Solving by Computer",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Robinson,Jack"
-      ],
-      "building":"MC",
-      "room":"3008",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "360",
+            "class_number": 3668,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Dickey,Leroy J"
+            ],
+            "last_updated": "2015-05-04T16:02:04-04:00",
+            "room": "3008",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "PMATH",
+            "term": 1155,
+            "title": "Geometry",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "360",
+            "class_number": 3712,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "instructors": [
+                "Dickey,Leroy J"
+            ],
+            "last_updated": "2015-05-04T16:02:04-04:00",
+            "room": "3008",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "PMATH",
+            "term": 1155,
+            "title": "Geometry",
+            "weekdays": "M"
+        }
+    ]
 }

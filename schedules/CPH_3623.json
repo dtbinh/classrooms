@@ -1,35 +1,25 @@
 {
-  "meta":{
-    "requests":5341,
-    "timestamp":1420353807,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5071,
-      "subject":"MSCI",
-      "catalog_number":"402",
-      "title":"Management Engineering Design Project 2",
-      "section":"PRJ 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":53,
-      "instructors":[
-        "Hurst,Ada",
-        "Nespoli,Oscar Gabriel"
-      ],
-      "building":"CPH",
-      "room":"3623",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "CPH",
+            "catalog_number": "401",
+            "class_number": 3220,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Hurst,Ada",
+                "Nespoli,Oscar Gabriel"
+            ],
+            "last_updated": "2015-05-04T16:01:44-04:00",
+            "room": "3623",
+            "section": "PRJ 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Management Engineering Design Project 1",
+            "weekdays": "M"
+        }
+    ]
 }

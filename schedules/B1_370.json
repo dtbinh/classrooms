@@ -1,956 +1,184 @@
 {
-  "meta":{
-    "requests":5306,
-    "timestamp":1420353796,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6531,
-      "subject":"BIOL",
-      "catalog_number":"361",
-      "title":"Biostatistics and Experimental Design",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        "Hall,Roland I."
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:44-05:00"
-    },
-    {
-      "class_number":6868,
-      "subject":"BIOL",
-      "catalog_number":"365",
-      "title":"Resources in Bioinformatics",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "McConkey,Brendan J"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:44-05:00"
-    },
-    {
-      "class_number":6869,
-      "subject":"BIOL",
-      "catalog_number":"365",
-      "title":"Resources in Bioinformatics",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "McConkey,Brendan J"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:44-05:00"
-    },
-    {
-      "class_number":6589,
-      "subject":"BIOL",
-      "catalog_number":"457",
-      "title":"Analysis of Communities",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Cuddington,Kim"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:47-05:00"
-    },
-    {
-      "class_number":6988,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6989,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6990,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 003",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6991,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 004",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6992,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 005",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6995,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 008",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6996,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 009",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6997,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 010",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6998,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 011",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6999,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 012",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":7000,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 013",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":7001,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 014",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":7002,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 015",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8106,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 016",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8107,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 017",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8108,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 018",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8109,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 019",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8110,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 020",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8111,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LEC 021",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6813,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6814,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6815,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 103",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6816,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 104",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6817,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 105",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6823,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 108",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6824,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 109",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6825,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 110",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6876,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6877,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6878,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 113",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6900,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 114",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6903,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 115",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8112,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 116",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8113,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 117",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8114,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 118",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8115,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 119",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8116,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 120",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":8117,
-      "subject":"CHEM",
-      "catalog_number":"140",
-      "title":"Introduction to Scientific Calculations",
-      "section":"LAB 121",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":6786,
-      "subject":"CHEM",
-      "catalog_number":"340",
-      "title":"Introductory Computational Chemistry",
-      "section":"LAB 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:31-05:00"
-    },
-    {
-      "class_number":6787,
-      "subject":"CHEM",
-      "catalog_number":"340",
-      "title":"Introductory Computational Chemistry",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:31-05:00"
-    },
-    {
-      "class_number":6884,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"02\/09",
-      "end_date":"04\/06",
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":7004,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":"02\/09",
-      "end_date":"04\/06",
-      "enrollment_total":7,
-      "instructors":[
-        
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":6889,
-      "subject":"SCI",
-      "catalog_number":"227",
-      "title":"Chemistry in Society: Yesterday, Today and Tomorrow",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"12:00",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Daub,Elisabeth",
-        "Bissonnette,Carey",
-        "Forsey,Steven Philip"
-      ],
-      "building":"B1",
-      "room":"370",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:49-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4192,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4209,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4269,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4270,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4255,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4256,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4272,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LAB 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "140",
+            "class_number": 4273,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "370",
+            "section": "LAB 104",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Introduction to Scientific Calculations",
+            "weekdays": "W"
+        },
+        {
+            "building": "B1",
+            "catalog_number": "217",
+            "class_number": 4600,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 85,
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "370",
+            "section": "LAB 201",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
+            "weekdays": "M"
+        }
+    ]
 }

@@ -1,275 +1,179 @@
 {
-  "meta":{
-    "requests":5575,
-    "timestamp":1420353895,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5739,
-      "subject":"AMATH",
-      "catalog_number":"361",
-      "title":"Continuum Mechanics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Waite,Michael L."
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:25-05:00"
-    },
-    {
-      "class_number":6867,
-      "subject":"BIOL",
-      "catalog_number":"335L",
-      "title":"Molecular Biology Techniques",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Duxbury,Cheryl",
-        "Duncker,Bernard"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:43-05:00"
-    },
-    {
-      "class_number":6796,
-      "subject":"CHEM",
-      "catalog_number":"212",
-      "title":"Structure and Bonding",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":82,
-      "instructors":[
-        "Lee,Sonny S.C."
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:26-05:00"
-    },
-    {
-      "class_number":5292,
-      "subject":"ECE",
-      "catalog_number":"404",
-      "title":"Geometrical and Physical Optics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Choi,Kyung Soo"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:27-05:00"
-    },
-    {
-      "class_number":4897,
-      "subject":"ECE",
-      "catalog_number":"488",
-      "title":"Multivariable Control Systems",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Wang,David W L"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":4325,
-      "subject":"HIST",
-      "catalog_number":"209",
-      "title":"Health, Disease and Medicine in Canadian History, 1500 to the Present",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "MacDougall,Heather A"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:33-05:00"
-    },
-    {
-      "class_number":6155,
-      "subject":"MATBUS",
-      "catalog_number":"470",
-      "title":"Derivatives",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Freeland,R Keith"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:07-05:00"
-    },
-    {
-      "class_number":4583,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"TUT 103",
-      "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4584,
-      "subject":"MSCI",
-      "catalog_number":"311",
-      "title":"Organizational Design and Technology",
-      "section":"TUT 104",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":4575,
-      "subject":"MSCI",
-      "catalog_number":"331",
-      "title":"Introduction to Optimization",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:22-05:00"
-    },
-    {
-      "class_number":7044,
-      "subject":"PHYS",
-      "catalog_number":"256",
-      "title":"Geometrical and Physical Optics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Choi,Kyung Soo"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:07-05:00"
-    },
-    {
-      "class_number":5519,
-      "subject":"PLAN",
-      "catalog_number":"110",
-      "title":"Visual Approaches to Design and Communication",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Lewis,John L."
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":7411,
-      "subject":"ME",
-      "catalog_number":"735",
-      "title":"Special Topics - Welding and Joining",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Zhou,Norman YunHong"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:48-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "353",
+            "class_number": 2784,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 69,
+            "instructors": [
+                "Knight,Mark A"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "305",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Geotechnical Engineering 1",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "221",
+            "class_number": 4082,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 73,
+            "instructors": [
+                "Schiff,Sherry L",
+                "Kendall,Brian"
+            ],
+            "last_updated": "2015-05-04T16:00:55-04:00",
+            "room": "305",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Geochemistry 1",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3132,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 41,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "305",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "124",
+            "class_number": 3133,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 41,
+            "instructors": [
+                "Gebotys,Catherine"
+            ],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "305",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Circuits and Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3146,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 39,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "305",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "155",
+            "class_number": 3147,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 41,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:59-04:00",
+            "room": "305",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Engineering Design with Embedded Systems",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "331",
+            "class_number": 3275,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "305",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "357",
+            "class_number": 2454,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 60,
+            "instructors": [
+                "Nimubona,Alain-Desire"
+            ],
+            "last_updated": "2015-05-04T16:01:07-04:00",
+            "room": "305",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Environmental Economics",
+            "weekdays": "MW"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "321",
+            "class_number": 2797,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 60,
+            "instructors": [
+                "Craig,James R."
+            ],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "305",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ENVE",
+            "term": 1155,
+            "title": "Advanced Mathematics",
+            "weekdays": "WF"
+        }
+    ]
 }

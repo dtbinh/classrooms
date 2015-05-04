@@ -1,314 +1,204 @@
 {
-  "meta":{
-    "requests":5482,
-    "timestamp":1420353859,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5729,
-      "subject":"ACTSC",
-      "catalog_number":"331",
-      "title":"Life Contingencies 1",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":65,
-      "instructors":[
-        "Cai,Jun"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:15-05:00"
-    },
-    {
-      "class_number":5793,
-      "subject":"CO",
-      "catalog_number":"250",
-      "title":"Introduction to Optimization",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        "Koenemann,Jochen"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:43-05:00"
-    },
-    {
-      "class_number":7723,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 008",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":104,
-      "instructors":[
-        "Petrick,Mark"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:52-05:00"
-    },
-    {
-      "class_number":5764,
-      "subject":"CS",
-      "catalog_number":"240",
-      "title":"Data Structures and Data Management",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":95,
-      "instructors":[
-        "Maftuleac,Daniela"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":5770,
-      "subject":"CS",
-      "catalog_number":"251",
-      "title":"Computer Organization and Design",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":97,
-      "instructors":[
-        "Kharal,Rosina"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:54-05:00"
-    },
-    {
-      "class_number":6102,
-      "subject":"CS",
-      "catalog_number":"251",
-      "title":"Computer Organization and Design",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":108,
-      "instructors":[
-        "Kharal,Rosina"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:54-05:00"
-    },
-    {
-      "class_number":5910,
-      "subject":"CS",
-      "catalog_number":"430",
-      "title":"Applications Software Engineering",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Safayeni,Suzanne"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:59-05:00"
-    },
-    {
-      "class_number":6883,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:00",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Yakymchuk,Chris"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":5412,
-      "subject":"GEOG",
-      "catalog_number":"323",
-      "title":"Perspectives on International Tourism",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Nepal,Sanjay"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:24-05:00"
-    },
-    {
-      "class_number":6319,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":74,
-      "instructors":[
-        "Waite,Michael L."
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5813,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        "Ghandehari,Mahya"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":5927,
-      "subject":"MATH",
-      "catalog_number":"128",
-      "title":"Calculus 2 for the Sciences",
-      "section":"TUT 105",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":6267,
-      "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"TUT 107",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":6177,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"LEC 008",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        "Yamagishi,Shuntaro"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:10-05:00"
-    },
-    {
-      "class_number":3082,
-      "subject":"REC",
-      "catalog_number":"383",
-      "title":"Perspectives on International Tourism",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Nepal,Sanjay"
-      ],
-      "building":"MC",
-      "room":"4021",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:41-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "309",
+            "class_number": 4180,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 113,
+            "instructors": [
+                "Spafford,David"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "4021",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Analytical Methods in Molecular Biology",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "250",
+            "class_number": 3614,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Tuncel,Levent"
+            ],
+            "last_updated": "2015-05-04T16:00:45-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CO",
+            "term": 1155,
+            "title": "Introduction to Optimization",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "250",
+            "class_number": 3615,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 57,
+            "instructors": [
+                "Nayak,Ashwin"
+            ],
+            "last_updated": "2015-05-04T16:00:45-04:00",
+            "room": "4021",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CO",
+            "term": 1155,
+            "title": "Introduction to Optimization",
+            "weekdays": "MTTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "115",
+            "class_number": 4972,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 65,
+            "instructors": [
+                "Bright,Curtis William"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "4021",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Introduction to Computer Science 1",
+            "weekdays": "WF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "446",
+            "class_number": 3627,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 43,
+            "instructors": [
+                "Barsalou,Edward Lawrence"
+            ],
+            "last_updated": "2015-05-04T16:00:51-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Software Design and Architectures",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "452",
+            "class_number": 2846,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Barsalou,Edward Lawrence"
+            ],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Software Design and Architectures",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3651,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 100,
+            "instructors": [
+                "Cheriyan,Joseph"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 1 for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "237",
+            "class_number": 3688,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 120,
+            "instructors": [
+                "Roh,Patrick Young"
+            ],
+            "last_updated": "2015-05-04T16:01:39-04:00",
+            "room": "4021",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 3 for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "205",
+            "class_number": 2178,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 90,
+            "instructors": [
+                "Knutson,Shannon"
+            ],
+            "last_updated": "2015-05-04T16:02:10-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "REC",
+            "term": 1155,
+            "title": "Social Psychology of Leisure",
+            "weekdays": "M"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "646",
+            "class_number": 3671,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 5,
+            "instructors": [
+                "Barsalou,Edward Lawrence"
+            ],
+            "last_updated": "2015-05-04T16:02:38-04:00",
+            "room": "4021",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Software Design and  Architectures",
+            "weekdays": "MWF"
+        }
+    ]
 }

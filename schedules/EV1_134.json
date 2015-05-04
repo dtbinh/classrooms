@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "building": "EV1",
+            "catalog_number": "474",
+            "class_number": 4902,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 13,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "134",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ENVS",
+            "term": 1155,
+            "title": "Special Topics in Environmental Studies",
+            "weekdays": "Th"
+        }
+    ]
+}

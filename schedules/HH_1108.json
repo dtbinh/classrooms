@@ -1,236 +1,242 @@
 {
-  "meta":{
-    "requests":5444,
-    "timestamp":1420353846,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7616,
-      "subject":"AFM",
-      "catalog_number":"341",
-      "title":"Accounting Information Systems",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Lobana,Jodie"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:18-05:00"
-    },
-    {
-      "class_number":3506,
-      "subject":"AFM",
-      "catalog_number":"501",
-      "title":"Contemporary Issues in Assurance and Accounting",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Pomeroy,Bradley",
-        "Wainberg,James"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":3509,
-      "subject":"AFM",
-      "catalog_number":"503",
-      "title":"Issues and Problems in Accounting Practice",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Vanden Bosch,Nancy Ann"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:21-05:00"
-    },
-    {
-      "class_number":3750,
-      "subject":"ENGL",
-      "catalog_number":"251B",
-      "title":"Criticism 2",
-      "section":"LEC 003",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Hirschkop,Kenneth"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:48-05:00"
-    },
-    {
-      "class_number":4203,
-      "subject":"PSCI",
-      "catalog_number":"150",
-      "title":"Politics II: The Global Politics of Who Gets What",
-      "section":"DIS 110",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:20-05:00"
-    },
-    {
-      "class_number":4212,
-      "subject":"PSCI",
-      "catalog_number":"231",
-      "title":"Government and Business",
-      "section":"DIS 104",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:20-05:00"
-    },
-    {
-      "class_number":7767,
-      "subject":"ACC",
-      "catalog_number":"650",
-      "title":"Assurance and Governance",
-      "section":"LEC 003",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Wainberg,James",
-        "Pomeroy,Bradley"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":4042,
-      "subject":"ACC",
-      "catalog_number":"652",
-      "title":"Forensic Accounting",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Robinson,Linda A."
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":7762,
-      "subject":"ACC",
-      "catalog_number":"680",
-      "title":"Performance Measurement and Control systems for Implementing Strategy",
-      "section":"LEC 003",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Vanden Bosch,Nancy Ann"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":4290,
-      "subject":"ACC",
-      "catalog_number":"690",
-      "title":"Topics in Accounting",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Hayes,Frank"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:37-05:00"
-    },
-    {
-      "class_number":4385,
-      "subject":"ACC",
-      "catalog_number":"690",
-      "title":"Topics in Accounting",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Hayes,Frank"
-      ],
-      "building":"HH",
-      "room":"1108",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:37-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "HH",
+            "catalog_number": "272",
+            "class_number": 2332,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "instructors": [
+                "Hayes,Frank"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1108",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Corporate Finance 1",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "272",
+            "class_number": 2389,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 35,
+            "instructors": [
+                "Hayes,Frank"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1108",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Corporate Finance 1",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "280",
+            "class_number": 2494,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 59,
+            "instructors": [
+                "Michela,John"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1108",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Organizational Behaviour",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "280",
+            "class_number": 2662,
+            "end_date": null,
+            "end_time": "18:50",
+            "enrollment_total": 41,
+            "instructors": [
+                "Michela,John"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1108",
+            "section": "LEC 005",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Organizational Behaviour",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "311",
+            "class_number": 2609,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 40,
+            "instructors": [
+                "Fiolleau,Krista"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1108",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "12:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Ethical Context",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "311",
+            "class_number": 2610,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 40,
+            "instructors": [
+                "Charters,Darren"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "1108",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Connections to Ethical Context",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "351",
+            "class_number": 2619,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 57,
+            "instructors": [
+                "Robinson,Linda A."
+            ],
+            "last_updated": "2015-05-04T16:00:10-04:00",
+            "room": "1108",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Audit Strategy",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "363",
+            "class_number": 2626,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 57,
+            "instructors": [
+                "Rogozynski,Daniel John"
+            ],
+            "last_updated": "2015-05-04T16:00:11-04:00",
+            "room": "1108",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Taxation 2 for Accountants",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "363",
+            "class_number": 2627,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 58,
+            "instructors": [
+                "Rogozynski,Daniel John"
+            ],
+            "last_updated": "2015-05-04T16:00:11-04:00",
+            "room": "1108",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Taxation 2 for Accountants",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "363",
+            "class_number": 4880,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Rogozynski,Daniel John"
+            ],
+            "last_updated": "2015-05-04T16:00:11-04:00",
+            "room": "1108",
+            "section": "LEC 005",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Taxation 2 for Accountants",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "492",
+            "class_number": 2390,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 10,
+            "instructors": [
+                "Chen,Changling"
+            ],
+            "last_updated": "2015-05-04T16:00:14-04:00",
+            "room": "1108",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Financial Statement Analysis",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 4946,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 31,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "1108",
+            "section": "TUT 105",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "F"
+        }
+    ]
 }

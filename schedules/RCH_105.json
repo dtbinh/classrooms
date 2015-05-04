@@ -1,314 +1,1278 @@
 {
-  "meta":{
-    "requests":5559,
-    "timestamp":1420353890,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4716,
-      "subject":"CIVE",
-      "catalog_number":"507",
-      "title":"Building Science and Technology",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":75,
-      "instructors":[
-        "Straube,John F"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:39-05:00"
-    },
-    {
-      "class_number":4722,
-      "subject":"CIVE",
-      "catalog_number":"596",
-      "title":"Construction Engineering",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":53,
-      "instructors":[
-        "Hegazi,Tarek"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:40-05:00"
-    },
-    {
-      "class_number":4723,
-      "subject":"CIVE",
-      "catalog_number":"596",
-      "title":"Construction Engineering",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":53,
-      "instructors":[
-        "Hegazi,Tarek"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:40-05:00"
-    },
-    {
-      "class_number":4982,
-      "subject":"ECE",
-      "catalog_number":"406",
-      "title":"Algorithm Design and Analysis",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:27-05:00"
-    },
-    {
-      "class_number":5800,
-      "subject":"MATH",
-      "catalog_number":"118",
-      "title":"Calculus 2 for Engineering",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":90,
-      "instructors":[
-        "Sellaroli,Giuseppe"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":4965,
-      "subject":"MSCI",
-      "catalog_number":"100B",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":89,
-      "instructors":[
-        "McKay,Kenneth"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:20-05:00"
-    },
-    {
-      "class_number":7421,
-      "subject":"PHIL",
-      "catalog_number":"256",
-      "title":"Introduction to Cognitive Science",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Thagard,Paul"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:59-05:00"
-    },
-    {
-      "class_number":5430,
-      "subject":"PLAN",
-      "catalog_number":"103",
-      "title":"Planning, Administration, and Finance",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Moos,Markus"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":4227,
-      "subject":"PSCI",
-      "catalog_number":"282",
-      "title":"Foreign Policy",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Cooper,Andrew F."
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:21-05:00"
-    },
-    {
-      "class_number":7446,
-      "subject":"PSYCH",
-      "catalog_number":"256",
-      "title":"Introduction to Cognitive Science",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Thagard,Paul"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":7448,
-      "subject":"PSYCH",
-      "catalog_number":"335",
-      "title":"Developmental Neuropsychology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "McAuley,Tara"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:32-05:00"
-    },
-    {
-      "class_number":7188,
-      "subject":"SE",
-      "catalog_number":"402",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Atlee,Joanne"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":7198,
-      "subject":"SE",
-      "catalog_number":"491",
-      "title":"Design Project 2",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        "Morton,Andrew"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:55-05:00"
-    },
-    {
-      "class_number":6181,
-      "subject":"STAT",
-      "catalog_number":"333",
-      "title":"Applied Probability",
-      "section":"LEC 002",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Lysy,Martin"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":7155,
-      "subject":"STV",
-      "catalog_number":"100",
-      "title":"Society, Technology and Values: Introduction",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        "Campbell,Scott Martin"
-      ],
-      "building":"RCH",
-      "room":"105",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:18-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "431",
+            "class_number": 3598,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 81,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:03-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 1",
+            "weekdays": "MW"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "05/12",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/12",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "05/26",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/26",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "06/09",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/09",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "06/30",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/30",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "07/14",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/14",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3212,
+            "end_date": "07/28",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/28",
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "102",
+            "class_number": 3213,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Robinson,Mary"
+            ],
+            "last_updated": "2015-05-04T16:00:37-04:00",
+            "room": "105",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemistry for Engineers",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "358",
+            "class_number": 3255,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 83,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "105",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Computer Networks",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "123",
+            "class_number": 2765,
+            "end_date": "05/14",
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/14",
+            "start_time": "16:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Electrical Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "123",
+            "class_number": 2765,
+            "end_date": "05/28",
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/28",
+            "start_time": "16:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Electrical Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "123",
+            "class_number": 2765,
+            "end_date": "06/11",
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/11",
+            "start_time": "16:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Electrical Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "123",
+            "class_number": 2765,
+            "end_date": "07/09",
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/09",
+            "start_time": "16:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Electrical Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "123",
+            "class_number": 2765,
+            "end_date": "07/23",
+            "end_time": "17:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Saini,Simarjeet S."
+            ],
+            "last_updated": "2015-05-04T16:01:19-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/23",
+            "start_time": "16:30",
+            "subject": "GENE",
+            "term": 1155,
+            "title": "Electrical Engineering",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "05/12",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/12",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "05/26",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/26",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "06/09",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/09",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "06/30",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/30",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "07/14",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/14",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "115",
+            "class_number": 3876,
+            "end_date": "07/28",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Poirrier,Laurent"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/28",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": "05/19",
+            "end_time": "12:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/19",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": "06/23",
+            "end_time": "12:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/23",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": "07/07",
+            "end_time": "12:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/07",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": "07/21",
+            "end_time": "12:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/21",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "117",
+            "class_number": 3916,
+            "end_date": "06/02",
+            "end_time": "12:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Loo,Clinton"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/02",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 1 for Engineering",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "118",
+            "class_number": 3727,
+            "end_date": "05/15",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Scott,Matthew"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 004",
+            "start_date": "05/15",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "118",
+            "class_number": 3727,
+            "end_date": "05/29",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Scott,Matthew"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 004",
+            "start_date": "05/29",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "118",
+            "class_number": 3727,
+            "end_date": "06/12",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Scott,Matthew"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 004",
+            "start_date": "06/12",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "118",
+            "class_number": 3727,
+            "end_date": "07/03",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Scott,Matthew"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 004",
+            "start_date": "07/03",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "118",
+            "class_number": 3727,
+            "end_date": "07/17",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Scott,Matthew"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "105",
+            "section": "LEC 004",
+            "start_date": "07/17",
+            "start_time": "11:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "261",
+            "class_number": 2909,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 99,
+            "instructors": [
+                "Bayley,Tiffany Amber"
+            ],
+            "last_updated": "2015-05-04T16:01:43-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Engineering Economics: Financial Management for Engineers",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "261",
+            "class_number": 2909,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 99,
+            "instructors": [
+                "Bayley,Tiffany Amber"
+            ],
+            "last_updated": "2015-05-04T16:01:43-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Engineering Economics: Financial Management for Engineers",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "100B",
+            "class_number": 2919,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Melek,William"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Seminar",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": "06/01",
+            "end_time": "12:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/01",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": "06/15",
+            "end_time": "12:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/15",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": "06/22",
+            "end_time": "12:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/22",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": "07/06",
+            "end_time": "12:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/06",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "111",
+            "class_number": 2911,
+            "end_date": "07/20",
+            "end_time": "12:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Mayer,Michael"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/20",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Structure and Properties of Materials",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "WF"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "05/13",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/13",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "05/27",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/27",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "06/10",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/10",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "06/24",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/24",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "07/08",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/08",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "119",
+            "class_number": 2914,
+            "end_date": "07/22",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/22",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Statics",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "05/11",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/11",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "05/25",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/25",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "06/08",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/08",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "06/29",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/29",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "07/13",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/13",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "120",
+            "class_number": 2916,
+            "end_date": "07/27",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Opal,Ajoy"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/27",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Circuits",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "05/22",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "05/22",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "06/05",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/05",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "06/19",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/19",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "06/26",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "06/26",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "07/10",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/10",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "140",
+            "class_number": 2937,
+            "end_date": "07/24",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "last_updated": "2015-05-04T16:01:45-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": "07/24",
+            "start_time": "11:30",
+            "subject": "MTE",
+            "term": 1155,
+            "title": "Algorithms and Data Structures",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "831",
+            "class_number": 3669,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 3,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "105",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Loss Models 1",
+            "weekdays": "MW"
+        }
+    ]
 }

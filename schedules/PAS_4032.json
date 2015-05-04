@@ -1,174 +1,104 @@
 {
-  "meta":{
-    "requests":5531,
-    "timestamp":1420353877,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3494,
-      "subject":"PSYCH",
-      "catalog_number":"394",
-      "title":"Research in Cognition and Perception",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Besner,Derek"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":3791,
-      "subject":"PSYCH",
-      "catalog_number":"394",
-      "title":"Research in Cognition and Perception",
-      "section":"SEM 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Seli,Paul"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":4013,
-      "subject":"PSYCH",
-      "catalog_number":"396",
-      "title":"Research in Behavioural Neuroscience",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Ellard,Colin G"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":7452,
-      "subject":"PSYCH",
-      "catalog_number":"396",
-      "title":"Research in Behavioural Neuroscience",
-      "section":"SEM 002",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Barr,Nathaniel"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":3382,
-      "subject":"PSYCH",
-      "catalog_number":"398",
-      "title":"Research in Memory",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Stolz,Jennifer"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":7454,
-      "subject":"PSYCH",
-      "catalog_number":"398",
-      "title":"Research in Memory",
-      "section":"SEM 003",
-      "weekdays":"MW",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Wehr,Paul"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":3983,
-      "subject":"PSYCH",
-      "catalog_number":"458",
-      "title":"Honours Seminar in Cognition",
-      "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"10:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Koehler,Derek J"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:36-05:00"
-    },
-    {
-      "class_number":7457,
-      "subject":"PSYCH",
-      "catalog_number":"461",
-      "title":"Honours Seminar in Cognitive Neuroscience",
-      "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"12:00",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Anderson,Britt"
-      ],
-      "building":"PAS",
-      "room":"4032",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:36-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PAS",
+            "catalog_number": "396",
+            "class_number": 4791,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Ellard,Colin G"
+            ],
+            "last_updated": "2015-05-04T16:02:08-04:00",
+            "room": "4032",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Research in Behavioural Neuroscience",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "398",
+            "class_number": 2458,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Wehr,Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:08-04:00",
+            "room": "4032",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Research in Memory",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "789",
+            "class_number": 4844,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Smilek,Daniel"
+            ],
+            "last_updated": "2015-05-04T16:02:59-04:00",
+            "room": "4032",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Mind-wandering and Inattention",
+            "weekdays": "M"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "877",
+            "class_number": 4845,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 5,
+            "instructors": [
+                "Beck,James W"
+            ],
+            "last_updated": "2015-05-04T16:02:59-04:00",
+            "room": "4032",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Work Motivation",
+            "weekdays": "T"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "879",
+            "class_number": 4978,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 9,
+            "instructors": [
+                "Shen,Winny"
+            ],
+            "last_updated": "2015-05-04T16:02:59-04:00",
+            "room": "4032",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PSYCH",
+            "term": 1155,
+            "title": "Personnel Selection",
+            "weekdays": "M"
+        }
+    ]
 }

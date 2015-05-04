@@ -1,314 +1,64 @@
 {
-  "meta":{
-    "requests":5522,
-    "timestamp":1420353873,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7973,
-      "subject":"ANTH",
-      "catalog_number":"233",
-      "title":"Inuit and Eskimo Cultures",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Park,Robert"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:27-05:00"
-    },
-    {
-      "class_number":7974,
-      "subject":"ANTH",
-      "catalog_number":"260",
-      "title":"Human Evolution",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Barrickman,Nancy"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:28-05:00"
-    },
-    {
-      "class_number":7975,
-      "subject":"ANTH",
-      "catalog_number":"305",
-      "title":"Paleopathology of Health and Disease",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Liston,Maria"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:28-05:00"
-    },
-    {
-      "class_number":3984,
-      "subject":"CLAS",
-      "catalog_number":"252",
-      "title":"Roman History",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Coskun,Altay"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:42-05:00"
-    },
-    {
-      "class_number":4340,
-      "subject":"ECON",
-      "catalog_number":"483",
-      "title":"Special Topics",
-      "section":"SEM 001",
-      "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "George,Ryan"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:38-05:00"
-    },
-    {
-      "class_number":3351,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Petrescu,Maria"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:10-05:00"
-    },
-    {
-      "class_number":8036,
-      "subject":"GEOG",
-      "catalog_number":"450",
-      "title":"Changing Form and Structure of Metropolitan Canada",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Moos,Markus"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":3985,
-      "subject":"HIST",
-      "catalog_number":"252",
-      "title":"Roman History",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Coskun,Altay"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:33-05:00"
-    },
-    {
-      "class_number":3790,
-      "subject":"HRM",
-      "catalog_number":"400",
-      "title":"Honours Seminar in Human Resources Management - Special Topics",
-      "section":"SEM 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Di Ruzza,Vince"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:41-05:00"
-    },
-    {
-      "class_number":8211,
-      "subject":"LS",
-      "catalog_number":"403",
-      "title":"Socio-Legal Responses to Crime",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":63,
-      "instructors":[
-        "Schulenberg,Jennifer Lina"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:07-05:00"
-    },
-    {
-      "class_number":8006,
-      "subject":"PLAN",
-      "catalog_number":"450",
-      "title":"Changing Form and Structure of Metropolitan Canada",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Moos,Markus"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:15-05:00"
-    },
-    {
-      "class_number":3363,
-      "subject":"PSYCH",
-      "catalog_number":"292",
-      "title":"Basic Data Analysis",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":3492,
-      "subject":"PSYCH",
-      "catalog_number":"292",
-      "title":"Basic Data Analysis",
-      "section":"TUT 105",
-      "weekdays":"T",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":3498,
-      "subject":"PSYCH",
-      "catalog_number":"292",
-      "title":"Basic Data Analysis",
-      "section":"TUT 106",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":7502,
-      "subject":"SOC",
-      "catalog_number":"270",
-      "title":"International Migration",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Mainwaring,Cetta"
-      ],
-      "building":"PAS",
-      "room":"1241",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:01-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PAS",
+            "catalog_number": "109",
+            "class_number": 5057,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Al Ethari,Lamees"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "1241",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Introduction to Academic Writing",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "306A",
+            "class_number": 2367,
+            "end_date": null,
+            "end_time": "20:20",
+            "enrollment_total": 35,
+            "instructors": [
+                "Afros,Elena"
+            ],
+            "last_updated": "2015-05-04T16:01:12-04:00",
+            "room": "1241",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Introduction to Linguistics",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "151",
+            "class_number": 2225,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 56,
+            "instructors": [
+                "Kliashchuk,Mikalai"
+            ],
+            "last_updated": "2015-05-04T16:01:17-04:00",
+            "room": "1241",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "FR",
+            "term": 1155,
+            "title": "Basic French 1",
+            "weekdays": "TTh"
+        }
+    ]
 }

@@ -1,354 +1,220 @@
 {
-  "meta":{
-    "requests":5610,
-    "timestamp":1420353939,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3507,
-      "subject":"AFM",
-      "catalog_number":"502",
-      "title":"Control Systems in a Computer Environment",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Datardina,Malik"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:21-05:00"
-    },
-    {
-      "class_number":3328,
-      "subject":"ECON",
-      "catalog_number":"401",
-      "title":"Microeconomic Theory 3",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Burbidge,John"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:37-05:00"
-    },
-    {
-      "class_number":4129,
-      "subject":"GBDA",
-      "catalog_number":"204",
-      "title":"Applied Leadership and Management",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"10:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":55,
-      "instructors":[
-        "Siebel-Achenbach,Sebastian"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:14-05:00"
-    },
-    {
-      "class_number":3640,
-      "subject":"HRM",
-      "catalog_number":"301",
-      "title":"Strategic Human Resources Management",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Di Ruzza,Vince"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:40-05:00"
-    },
-    {
-      "class_number":3788,
-      "subject":"HRM",
-      "catalog_number":"305",
-      "title":"Health and Safety",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        "Morgan,Derek"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:40-05:00"
-    },
-    {
-      "class_number":3789,
-      "subject":"HRM",
-      "catalog_number":"307",
-      "title":"Labour Relations",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Peckham,William Charles"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:41-05:00"
-    },
-    {
-      "class_number":4282,
-      "subject":"JS",
-      "catalog_number":"233",
-      "title":"The Holocaust and Film",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Diamond,James"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:55-05:00"
-    },
-    {
-      "class_number":7500,
-      "subject":"LS",
-      "catalog_number":"240",
-      "title":"Terrorism",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Dawson,Lorne"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:06-05:00"
-    },
-    {
-      "class_number":3887,
-      "subject":"LS",
-      "catalog_number":"280",
-      "title":"Social Statistics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Ellis-Hale,Kimberly Ann"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:06-05:00"
-    },
-    {
-      "class_number":4064,
-      "subject":"PSCI",
-      "catalog_number":"363",
-      "title":"Canadian Constitutional Law",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "MacFarlane,Emmett"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:22-05:00"
-    },
-    {
-      "class_number":4065,
-      "subject":"PSCI",
-      "catalog_number":"387",
-      "title":"Globalization",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Coleman,William Donald"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:22-05:00"
-    },
-    {
-      "class_number":4283,
-      "subject":"RS",
-      "catalog_number":"272",
-      "title":"The Holocaust and Film",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Diamond,James"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:47-05:00"
-    },
-    {
-      "class_number":7499,
-      "subject":"SOC",
-      "catalog_number":"240",
-      "title":"Terrorism",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Dawson,Lorne"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:01-05:00"
-    },
-    {
-      "class_number":3888,
-      "subject":"SOC",
-      "catalog_number":"280",
-      "title":"Social Statistics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Ellis-Hale,Kimberly Ann"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:01-05:00"
-    },
-    {
-      "class_number":3251,
-      "subject":"ACC",
-      "catalog_number":"611",
-      "title":"External Reporting",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Mann,Shari"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":7761,
-      "subject":"ACC",
-      "catalog_number":"680",
-      "title":"Performance Measurement and Control systems for Implementing Strategy",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Russell,Grant W"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":4046,
-      "subject":"ECON",
-      "catalog_number":"604",
-      "title":"Monetary Theory and Banking",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Lam,Jean-Paul"
-      ],
-      "building":"AL",
-      "room":"124",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:16-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "AL",
+            "catalog_number": "101",
+            "class_number": 2330,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 160,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:04-04:00",
+            "room": "124",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Financial Accounting",
+            "weekdays": "F"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "102",
+            "class_number": 2335,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 190,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:05-04:00",
+            "room": "124",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Managerial Accounting",
+            "weekdays": "F"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "211",
+            "class_number": 2207,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 60,
+            "instructors": [
+                "Burbidge,John"
+            ],
+            "last_updated": "2015-05-04T16:01:05-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Introduction to Mathematical Economics",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "301",
+            "class_number": 2366,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 39,
+            "instructors": [
+                "George,Ryan"
+            ],
+            "last_updated": "2015-05-04T16:01:07-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Microeconomic Theory 2",
+            "weekdays": "MW"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "401",
+            "class_number": 2527,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 26,
+            "instructors": [
+                "Burbidge,John"
+            ],
+            "last_updated": "2015-05-04T16:01:08-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Microeconomic Theory 3",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "402",
+            "class_number": 2214,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Rybczynski,Kathleen K"
+            ],
+            "last_updated": "2015-05-04T16:01:08-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Macroeconomic Theory 3",
+            "weekdays": "MW"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "349",
+            "class_number": 3549,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Qian,Zhu"
+            ],
+            "last_updated": "2015-05-04T16:01:22-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Urban Form and Internal Spatial Structure",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "303",
+            "class_number": 2518,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 39,
+            "instructors": [
+                "Di Ruzza,Vince"
+            ],
+            "last_updated": "2015-05-04T16:01:26-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "HRM",
+            "term": 1155,
+            "title": "Compensation",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "305",
+            "class_number": 2519,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 36,
+            "instructors": [
+                "Morgan,Derek"
+            ],
+            "last_updated": "2015-05-04T16:01:26-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "HRM",
+            "term": 1155,
+            "title": "Health and Safety",
+            "weekdays": "T"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "307",
+            "class_number": 2520,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 21,
+            "instructors": [
+                "Murray,Neil Gordon"
+            ],
+            "last_updated": "2015-05-04T16:01:26-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "HRM",
+            "term": 1155,
+            "title": "Labour Relations",
+            "weekdays": "Th"
+        },
+        {
+            "building": "AL",
+            "catalog_number": "349",
+            "class_number": 3543,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 51,
+            "instructors": [
+                "Qian,Zhu"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "124",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Urban Form and Internal Spatial Structure",
+            "weekdays": "TTh"
+        }
+    ]
 }

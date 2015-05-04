@@ -1,234 +1,244 @@
 {
-  "meta":{
-    "requests":5452,
-    "timestamp":1420353849,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7617,
-      "subject":"AFM",
-      "catalog_number":"341",
-      "title":"Accounting Information Systems",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":41,
-      "instructors":[
-        "Lobana,Jodie"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:18-05:00"
-    },
-    {
-      "class_number":3515,
-      "subject":"ACC",
-      "catalog_number":"607",
-      "title":"Tax Issues Integration",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"01\/05",
-      "end_date":"04\/06",
-      "enrollment_total":45,
-      "instructors":[
-        "Robson,Julie"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":3516,
-      "subject":"ACC",
-      "catalog_number":"607",
-      "title":"Tax Issues Integration",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Rockx,Barb"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":3525,
-      "subject":"ACC",
-      "catalog_number":"607",
-      "title":"Tax Issues Integration",
-      "section":"LEC 003",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Robson,Julie"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":3647,
-      "subject":"ACC",
-      "catalog_number":"607",
-      "title":"Tax Issues Integration",
-      "section":"LEC 004",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Robson,Julie"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":7759,
-      "subject":"ACC",
-      "catalog_number":"607",
-      "title":"Tax Issues Integration",
-      "section":"LEC 005",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Robson,Julie"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":3252,
-      "subject":"ACC",
-      "catalog_number":"611",
-      "title":"External Reporting",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Wiedman,Christine Ingrid"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":3253,
-      "subject":"ACC",
-      "catalog_number":"611",
-      "title":"External Reporting",
-      "section":"LEC 003",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Wiedman,Christine Ingrid"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:35-05:00"
-    },
-    {
-      "class_number":7760,
-      "subject":"ACC",
-      "catalog_number":"680",
-      "title":"Performance Measurement and Control systems for Implementing Strategy",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Vanden Bosch,Nancy Ann"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":7770,
-      "subject":"ACC",
-      "catalog_number":"685",
-      "title":"Performance Management",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Webb,Alan"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    },
-    {
-      "class_number":7771,
-      "subject":"ACC",
-      "catalog_number":"685",
-      "title":"Performance Management",
-      "section":"SEM 002",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Webb,Alan"
-      ],
-      "building":"HH",
-      "room":"2104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:36-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "HH",
+            "catalog_number": "241",
+            "class_number": 4612,
+            "end_date": null,
+            "end_time": "18:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "2104",
+            "section": "SEM 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "Th"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "322",
+            "class_number": 2615,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 35,
+            "instructors": [
+                "Phillips,Blake"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "2104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Derivative Securities",
+            "weekdays": "MT"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "322",
+            "class_number": 4888,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "instructors": [
+                "Phillips,Blake"
+            ],
+            "last_updated": "2015-05-04T16:00:08-04:00",
+            "room": "2104",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Derivative Securities",
+            "weekdays": "T"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "481",
+            "class_number": 2629,
+            "end_date": null,
+            "end_time": "18:50",
+            "enrollment_total": 50,
+            "instructors": [
+                "Manning,Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:13-04:00",
+            "room": "2104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Cost Management Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "481",
+            "class_number": 2630,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 42,
+            "instructors": [
+                "Manning,Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:13-04:00",
+            "room": "2104",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Cost Management Systems",
+            "weekdays": "M"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "609",
+            "class_number": 4696,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "instructors": [
+                "Chen,Changling"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Financial Statement Analysis",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 2258,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 31,
+            "instructors": [
+                "Berberich,Gregory Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 2259,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 42,
+            "instructors": [
+                "Berberich,Gregory Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 2260,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 48,
+            "instructors": [
+                "Berberich,Gregory Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "W"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 2397,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 45,
+            "instructors": [
+                "Berberich,Gregory Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "Th"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 2605,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 45,
+            "instructors": [
+                "Berberich,Gregory Paul"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 005",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "Th"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "690",
+            "class_number": 2423,
+            "end_date": null,
+            "end_time": "20:50",
+            "enrollment_total": 50,
+            "instructors": [
+                "Lin,David"
+            ],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "2104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Topics in Accounting",
+            "weekdays": "T"
+        }
+    ]
 }

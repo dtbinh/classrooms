@@ -1,334 +1,84 @@
 {
-  "meta":{
-    "requests":5585,
-    "timestamp":1420353898,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6412,
-      "subject":"EASIA",
-      "catalog_number":"210R",
-      "title":"Chinese Literature in Translation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Niu,Kangsheng"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:16-05:00"
-    },
-    {
-      "class_number":7821,
-      "subject":"EFAS",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 003",
-      "weekdays":"T",
-      "start_time":"10:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Redmond,Denise"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":7824,
-      "subject":"EFAS",
-      "catalog_number":"36",
-      "title":"Oral Skills",
-      "section":"LEC 003",
-      "weekdays":"M",
-      "start_time":"10:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":7824,
-      "subject":"EFAS",
-      "catalog_number":"36",
-      "title":"Oral Skills",
-      "section":"LEC 003",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":3423,
-      "subject":"ENGL",
-      "catalog_number":"140R",
-      "title":"The Use of English 1",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Vardon,John F"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:44-05:00"
-    },
-    {
-      "class_number":6352,
-      "subject":"JAPAN",
-      "catalog_number":"101R",
-      "title":"First-Year Japanese 1",
-      "section":"TUT 103",
-      "weekdays":"T",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Burns,Eri"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:53-05:00"
-    },
-    {
-      "class_number":6357,
-      "subject":"KOREA",
-      "catalog_number":"101R",
-      "title":"First-Year Korean 1",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Kim,Wonhee"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:03-05:00"
-    },
-    {
-      "class_number":3827,
-      "subject":"PSYCH",
-      "catalog_number":"257R",
-      "title":"Psychopathology",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Wilson,Carolyn Mary"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:30-05:00"
-    },
-    {
-      "class_number":6407,
-      "subject":"SDS",
-      "catalog_number":"251R",
-      "title":"Social Research",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Plante,Courtney"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:52-05:00"
-    },
-    {
-      "class_number":6363,
-      "subject":"SOCWK",
-      "catalog_number":"220R",
-      "title":"Social Work with Individuals - Theory and Practice 1",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Boyd,Jon Allan"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:06-05:00"
-    },
-    {
-      "class_number":6397,
-      "subject":"SOCWK",
-      "catalog_number":"321R",
-      "title":"Social Work with Families",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Wang,Debbie"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:07-05:00"
-    },
-    {
-      "class_number":6382,
-      "subject":"SWREN",
-      "catalog_number":"220R",
-      "title":"Social Work with Individuals - Theory and Practice 1",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Boyd,Jon Allan"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:19-05:00"
-    },
-    {
-      "class_number":6364,
-      "subject":"SWREN",
-      "catalog_number":"424R",
-      "title":"Diversity and Empowerment",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Dutta,Debashis"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:21-05:00"
-    },
-    {
-      "class_number":6385,
-      "subject":"SWREN",
-      "catalog_number":"431R",
-      "title":"Fields of Practice",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Hogarth,Kathleen"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:22-05:00"
-    },
-    {
-      "class_number":6365,
-      "subject":"SWREN",
-      "catalog_number":"434R",
-      "title":"Selected Theories for Social Work Practice: Analysis and Application",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Ashcroft,Rachelle"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:22-05:00"
-    },
-    {
-      "class_number":6370,
-      "subject":"SWREN",
-      "catalog_number":"442R",
-      "title":"Practicum 2",
-      "section":"PRA 001",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Noordstra,Patricia Ann"
-      ],
-      "building":"REN",
-      "room":"0402",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:23-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "411R",
+            "class_number": 4032,
+            "end_date": "06/30",
+            "end_time": "12:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "King,Hilton"
+            ],
+            "last_updated": "2015-05-04T16:02:24-04:00",
+            "room": "0402",
+            "section": "LEC 001",
+            "start_date": "04/09",
+            "start_time": "09:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Integrative Practice: Aboriginal Perspectives and Social Work",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "411R",
+            "class_number": 4874,
+            "end_date": "06/30",
+            "end_time": "20:50",
+            "enrollment_total": 10,
+            "instructors": [
+                "Laurila,Kelly I"
+            ],
+            "last_updated": "2015-05-04T16:02:24-04:00",
+            "room": "0402",
+            "section": "LEC 002",
+            "start_date": "04/09",
+            "start_time": "18:00",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Integrative Practice: Aboriginal Perspectives and Social Work",
+            "weekdays": "M"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "443R",
+            "class_number": 4035,
+            "end_date": "06/30",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Noordstra,Patricia Ann"
+            ],
+            "last_updated": "2015-05-04T16:02:25-04:00",
+            "room": "0402",
+            "section": "PRA 001",
+            "start_date": "04/19",
+            "start_time": "09:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Practicum 3",
+            "weekdays": "F"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "471R",
+            "class_number": 4043,
+            "end_date": "06/30",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Donahue,Peter John Douglas"
+            ],
+            "last_updated": "2015-05-04T16:02:25-04:00",
+            "room": "0402",
+            "section": "LEC 001",
+            "start_date": "04/09",
+            "start_time": "13:30",
+            "subject": "SWREN",
+            "term": 1155,
+            "title": "Social Work with Older Adults: Critical Issues and Future Trends",
+            "weekdays": "Th"
+        }
+    ]
 }

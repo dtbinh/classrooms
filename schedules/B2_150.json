@@ -1,134 +1,44 @@
 {
-  "meta":{
-    "requests":5310,
-    "timestamp":1420353798,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6537,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":6538,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":6539,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":6540,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":6541,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    },
-    {
-      "class_number":6542,
-      "subject":"BIOL",
-      "catalog_number":"211",
-      "title":"Introductory Vertebrate Zoology",
-      "section":"LAB 106",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"B2",
-      "room":"150",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:40-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B2",
+            "catalog_number": "110",
+            "class_number": 4305,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "150",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introductory Zoology",
+            "weekdays": "W"
+        },
+        {
+            "building": "B2",
+            "catalog_number": "110",
+            "class_number": 4306,
+            "end_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 19,
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "150",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "19:00",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Introductory Zoology",
+            "weekdays": "W"
+        }
+    ]
 }

@@ -1,474 +1,275 @@
 {
-  "meta":{
-    "requests":5570,
-    "timestamp":1420353894,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7790,
-      "subject":"BASE",
-      "catalog_number":"42",
-      "title":"Academic Skills",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Corwin,Jesse Eliot"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":7709,
-      "subject":"BIOL",
-      "catalog_number":"426",
-      "title":"Phycology",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Muller,Kirsten"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:46-05:00"
-    },
-    {
-      "class_number":6979,
-      "subject":"BIOL",
-      "catalog_number":"428",
-      "title":"Plant Molecular Genetics",
-      "section":"TUT 201",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Moffatt,Barbara A"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:46-05:00"
-    },
-    {
-      "class_number":7012,
-      "subject":"BIOL",
-      "catalog_number":"477L",
-      "title":"Techniques in Animal Physiology",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:47-05:00"
-    },
-    {
-      "class_number":5290,
-      "subject":"ECE",
-      "catalog_number":"409",
-      "title":"Cryptography and System Security",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:27-05:00"
-    },
-    {
-      "class_number":4984,
-      "subject":"ECE",
-      "catalog_number":"417",
-      "title":"Image Processing",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:28-05:00"
-    },
-    {
-      "class_number":5288,
-      "subject":"ECE",
-      "catalog_number":"433",
-      "title":"Semiconductor Device Technology",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:28-05:00"
-    },
-    {
-      "class_number":4729,
-      "subject":"ECE",
-      "catalog_number":"477",
-      "title":"Photonic Devices and Systems",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:30-05:00"
-    },
-    {
-      "class_number":5528,
-      "subject":"ERS",
-      "catalog_number":"404",
-      "title":"Global Environmental Governance",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Rowlands,Ian H"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:00-05:00"
-    },
-    {
-      "class_number":5592,
-      "subject":"ERS",
-      "catalog_number":"475",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 002",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Fedy,Bradley Craig"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:02-05:00"
-    },
-    {
-      "class_number":8136,
-      "subject":"GEOG",
-      "catalog_number":"419",
-      "title":"The Cryosphere",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Duguay,Claude R"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:25-05:00"
-    },
-    {
-      "class_number":7743,
-      "subject":"GER",
-      "catalog_number":"101",
-      "title":"Elementary German I",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:27-05:00"
-    },
-    {
-      "class_number":7536,
-      "subject":"PHYS",
-      "catalog_number":"392",
-      "title":"Scientific Measurement and Control",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Scholz,Guenter A"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:10-05:00"
-    },
-    {
-      "class_number":8191,
-      "subject":"PLAN",
-      "catalog_number":"474",
-      "title":"Special Topics in Planning",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Qian,Zhu"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:15-05:00"
-    },
-    {
-      "class_number":4210,
-      "subject":"PSCI",
-      "catalog_number":"231",
-      "title":"Government and Business",
-      "section":"DIS 102",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:20-05:00"
-    },
-    {
-      "class_number":4230,
-      "subject":"PSCI",
-      "catalog_number":"282",
-      "title":"Foreign Policy",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:21-05:00"
-    },
-    {
-      "class_number":4363,
-      "subject":"PSCI",
-      "catalog_number":"432",
-      "title":"Global Environmental Governance",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Rowlands,Ian H"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:24-05:00"
-    },
-    {
-      "class_number":4318,
-      "subject":"PSYCH",
-      "catalog_number":"340",
-      "title":"Training and Development",
-      "section":"DIS 103",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Michela,John"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:32-05:00"
-    },
-    {
-      "class_number":5631,
-      "subject":"GEMCC",
-      "catalog_number":"620",
-      "title":"Climate and Society",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Rutty,Michelle Kimberly"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:24-05:00"
-    },
-    {
-      "class_number":5634,
-      "subject":"GEMCC",
-      "catalog_number":"622",
-      "title":"Climate Change, Natural Hazards and Disaster Risk Reduction",
-      "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Doberstein,Brent"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:25-05:00"
-    },
-    {
-      "class_number":5632,
-      "subject":"GEOG",
-      "catalog_number":"674",
-      "title":"Climate and Society",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Rutty,Michelle Kimberly"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:26-05:00"
-    },
-    {
-      "class_number":5287,
-      "subject":"GEOG",
-      "catalog_number":"677",
-      "title":"Climate Change, Natural Hazards and Disaster Risk Reduction",
-      "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Doberstein,Brent"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:26-05:00"
-    },
-    {
-      "class_number":8192,
-      "subject":"PLAN",
-      "catalog_number":"674",
-      "title":"Special Topics in Planning",
-      "section":"SEM 004",
-      "weekdays":"M",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Qian,Zhu"
-      ],
-      "building":"RCH",
-      "room":"209",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:03-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "320",
+            "class_number": 4914,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 7,
+            "instructors": [
+                "Rose,David George"
+            ],
+            "last_updated": "2015-05-04T16:00:27-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BET",
+            "term": 1155,
+            "title": "Intro to Commercialization Mgt",
+            "weekdays": "Th"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "410A",
+            "class_number": 4915,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 8,
+            "instructors": [
+                "Rose,David George"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BET",
+            "term": 1155,
+            "title": "Cap Entre Planning Exec Pt 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "444",
+            "class_number": 2965,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "instructors": [
+                "Fu,Liping F"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "209",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Urban Transport Planning",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "572",
+            "class_number": 3171,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 0,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:45-04:00",
+            "room": "209",
+            "section": "TUT 201",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Wastewater Treatment",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "413",
+            "class_number": 2844,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 23,
+            "instructors": [
+                "Damen,Mohamed Oussama"
+            ],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Signal Processing",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "413",
+            "class_number": 2845,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "209",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Digital Signal Processing",
+            "weekdays": "M"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "432",
+            "class_number": 4661,
+            "end_date": null,
+            "end_time": "09:20",
+            "enrollment_total": 17,
+            "instructors": [
+                "Long,John"
+            ],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Radio Frequency Wireless Microelectronics, Optoelectronic Semiconductor Integrated Circuit & Sensor",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "432",
+            "class_number": 4662,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 17,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:02-04:00",
+            "room": "209",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Radio Frequency Wireless Microelectronics, Optoelectronic Semiconductor Integrated Circuit & Sensor",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "475",
+            "class_number": 4664,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 5,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:04-04:00",
+            "room": "209",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Electromagnetic Radiation and Propagation",
+            "weekdays": "F"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "486",
+            "class_number": 3106,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 20,
+            "instructors": [
+                "Kulic,Dana"
+            ],
+            "last_updated": "2015-05-04T16:01:04-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Robot Dynamics and Control",
+            "weekdays": "TWTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "486",
+            "class_number": 3159,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:04-04:00",
+            "room": "209",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Robot Dynamics and Control",
+            "weekdays": "W"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "346",
+            "class_number": 4780,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "McGuirk,Kevin V"
+            ],
+            "last_updated": "2015-05-04T16:01:12-04:00",
+            "room": "209",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "American Fiction",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "101",
+            "class_number": 4954,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Teertstra,Peter Michael",
+                "Hulls,Carol C"
+            ],
+            "last_updated": "2015-05-04T16:01:40-04:00",
+            "room": "209",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Introduction to Mechanical Engineering Practice 2",
+            "weekdays": "T"
+        },
+        {
+            "building": "RCH",
+            "catalog_number": "770",
+            "class_number": 2528,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "instructors": [
+                "Hulan,Shelley Margaret"
+            ],
+            "last_updated": "2015-05-04T16:02:43-04:00",
+            "room": "209",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Studies in Canadian Literature",
+            "weekdays": "M"
+        }
+    ]
 }

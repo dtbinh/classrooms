@@ -1,354 +1,104 @@
 {
-  "meta":{
-    "requests":5604,
-    "timestamp":1420353905,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7826,
-      "subject":"CLAS",
-      "catalog_number":"210",
-      "title":"History of Ancient Law",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Hutter,Daniel E"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:41-05:00"
-    },
-    {
-      "class_number":3743,
-      "subject":"ENGL",
-      "catalog_number":"101A",
-      "title":"Introduction to Literary Studies",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Greenwood,John Philip Peter"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:42-05:00"
-    },
-    {
-      "class_number":3415,
-      "subject":"ENGL",
-      "catalog_number":"108F",
-      "title":"The Rebel",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Kolentsis,Alysia Michelle"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":7794,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Spielmacher,Mark S"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:44-05:00"
-    },
-    {
-      "class_number":3870,
-      "subject":"ENGL",
-      "catalog_number":"306A",
-      "title":"Introduction to Linguistics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Afros,Elena"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:49-05:00"
-    },
-    {
-      "class_number":7825,
-      "subject":"HIST",
-      "catalog_number":"210",
-      "title":"History of Ancient Law",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Hutter,Daniel E"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:33-05:00"
-    },
-    {
-      "class_number":7854,
-      "subject":"HIST",
-      "catalog_number":"304",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:34-05:00"
-    },
-    {
-      "class_number":7854,
-      "subject":"HIST",
-      "catalog_number":"304",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:34-05:00"
-    },
-    {
-      "class_number":7863,
-      "subject":"HUMSC",
-      "catalog_number":"102",
-      "title":"Great Dialogues: Politics and Morality",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Greenwood,John Philip Peter"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:41-05:00"
-    },
-    {
-      "class_number":7852,
-      "subject":"MEDVL",
-      "catalog_number":"304",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:19-05:00"
-    },
-    {
-      "class_number":7852,
-      "subject":"MEDVL",
-      "catalog_number":"304",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:19-05:00"
-    },
-    {
-      "class_number":3658,
-      "subject":"PHIL",
-      "catalog_number":"327",
-      "title":"Philosophy of Law",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"18:30",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Gregoire,Stephanie"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:00-05:00"
-    },
-    {
-      "class_number":7886,
-      "subject":"RS",
-      "catalog_number":"151",
-      "title":"Roman Catholicism",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Vanin,Cristina"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:45-05:00"
-    },
-    {
-      "class_number":7856,
-      "subject":"RS",
-      "catalog_number":"342",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:47-05:00"
-    },
-    {
-      "class_number":7856,
-      "subject":"RS",
-      "catalog_number":"342",
-      "title":"Heresy and Religious Crises in Late Medieval Europe",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:47-05:00"
-    },
-    {
-      "class_number":7894,
-      "subject":"SOC",
-      "catalog_number":"101",
-      "title":"Introduction to Sociology",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Waterman,Benjamin"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:59-05:00"
-    },
-    {
-      "class_number":7895,
-      "subject":"SOC",
-      "catalog_number":"369J",
-      "title":"The Sociology of Community",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Svenson,Stephen Robert"
-      ],
-      "building":"STJ",
-      "room":"3027",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:04-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "STJ",
+            "catalog_number": "108A",
+            "class_number": 2589,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 40,
+            "instructors": [
+                "Terzian,Sylvia"
+            ],
+            "last_updated": "2015-05-04T16:01:10-04:00",
+            "room": "3027",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "The Superhero",
+            "weekdays": "MW"
+        },
+        {
+            "building": "STJ",
+            "catalog_number": "119",
+            "class_number": 4733,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Spielmacher,Mark S"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "3027",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Communications in Mathematics & Computer Science",
+            "weekdays": "T"
+        },
+        {
+            "building": "STJ",
+            "catalog_number": "119",
+            "class_number": 4735,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "Humphreys,Sara Megan"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "3027",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Communications in Mathematics & Computer Science",
+            "weekdays": "M"
+        },
+        {
+            "building": "STJ",
+            "catalog_number": "251B",
+            "class_number": 2205,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 26,
+            "instructors": [
+                "Humphreys,Sara Megan"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "3027",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Criticism 2",
+            "weekdays": "MW"
+        },
+        {
+            "building": "STJ",
+            "catalog_number": "145",
+            "class_number": 2201,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 49,
+            "instructors": [
+                "Stumpf,Andrew Douglas Heslop"
+            ],
+            "last_updated": "2015-05-04T16:01:58-04:00",
+            "room": "3027",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "PHIL",
+            "term": 1155,
+            "title": "Critical Thinking",
+            "weekdays": "TTh"
+        }
+    ]
 }

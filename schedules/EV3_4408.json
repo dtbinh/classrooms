@@ -1,334 +1,262 @@
 {
-  "meta":{
-    "requests":5438,
-    "timestamp":1420353844,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8176,
-      "subject":"AVIA",
-      "catalog_number":"101",
-      "title":"Professional Pilot Program Course I",
-      "section":"FLT 001",
-      "weekdays":"MW",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":8177,
-      "subject":"AVIA",
-      "catalog_number":"204",
-      "title":"Professional Pilot Program Course IV",
-      "section":"FLT 001",
-      "weekdays":"TTh",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":8177,
-      "subject":"AVIA",
-      "catalog_number":"204",
-      "title":"Professional Pilot Program Course IV",
-      "section":"FLT 001",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":5568,
-      "subject":"ENBUS",
-      "catalog_number":"410",
-      "title":"Engaging Stakeholders",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        "Thistlethwaite,Jason"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:40-05:00"
-    },
-    {
-      "class_number":5393,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5394,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5423,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 104",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5424,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 105",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5455,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 107",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5457,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 109",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":5524,
-      "subject":"ENVS",
-      "catalog_number":"178",
-      "title":"Introduction to Environmental Research Methods",
-      "section":"TUT 111",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:57-05:00"
-    },
-    {
-      "class_number":8134,
-      "subject":"GEOG",
-      "catalog_number":"293",
-      "title":"Professional and Scholarly Practice in Geography",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:23-05:00"
-    },
-    {
-      "class_number":7989,
-      "subject":"REC",
-      "catalog_number":"420",
-      "title":"Program Evaluation in Leisure Services",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Glover,Troy D"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:42-05:00"
-    },
-    {
-      "class_number":3940,
-      "subject":"SPCOM",
-      "catalog_number":"111",
-      "title":"Leadership, Communication, and Collaboration",
-      "section":"LEC 012",
-      "weekdays":"TF",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Ross,George"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:12-05:00"
-    },
-    {
-      "class_number":4291,
-      "subject":"SPCOM",
-      "catalog_number":"228",
-      "title":"Public Communication",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Voorhees,Gerald"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:13-05:00"
-    },
-    {
-      "class_number":7437,
-      "subject":"TOUR",
-      "catalog_number":"604",
-      "title":"Social Planning for Tourism",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Cukier,Judith"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:25-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EV3",
+            "catalog_number": "474",
+            "class_number": 4745,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Raimbault,Beverly Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:14-04:00",
+            "room": "4408",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ENVS",
+            "term": 1155,
+            "title": "Special Topics in Environmental Studies",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "203",
+            "class_number": 3486,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:21-04:00",
+            "room": "4408",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Environment and Development in a Global Perspective",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "426",
+            "class_number": 3561,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 17,
+            "instructors": [
+                "Scott,Steffanie"
+            ],
+            "last_updated": "2015-05-04T16:01:22-04:00",
+            "room": "4408",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Geographies of Development",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "481",
+            "class_number": 3477,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Balulescu,Andrei Mircea"
+            ],
+            "last_updated": "2015-05-04T16:01:22-04:00",
+            "room": "4408",
+            "section": "PRJ 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "GEOG",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "313",
+            "class_number": 3482,
+            "end_date": null,
+            "end_time": "20:20",
+            "enrollment_total": 37,
+            "instructors": [
+                "Braunstein,Martina"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "4408",
+            "section": "STU 001",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Community Design Studio",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "313",
+            "class_number": 3482,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 37,
+            "instructors": [
+                "Braunstein,Martina"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "4408",
+            "section": "STU 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Community Design Studio",
+            "weekdays": "F"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "414",
+            "class_number": 3538,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 33,
+            "instructors": [
+                "Shipley,Robert J M"
+            ],
+            "last_updated": "2015-05-04T16:02:02-04:00",
+            "room": "4408",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Heritage Planning Workshop",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "451",
+            "class_number": 3568,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 24,
+            "instructors": [
+                "Lewis,Geoffrey"
+            ],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "4408",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Tools for Sustainable Communities",
+            "weekdays": "MTh"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "481",
+            "class_number": 3479,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 1,
+            "instructors": [
+                "Balulescu,Andrei Mircea"
+            ],
+            "last_updated": "2015-05-04T16:02:03-04:00",
+            "room": "4408",
+            "section": "PRJ 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Geographic Information Systems Project",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "425",
+            "class_number": 2177,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 7,
+            "instructors": [
+                "Shipley,Robert J M"
+            ],
+            "last_updated": "2015-05-04T16:02:11-04:00",
+            "room": "4408",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "REC",
+            "term": 1155,
+            "title": "Heritage Planning Workshop",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "641",
+            "class_number": 3550,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 3,
+            "instructors": [
+                "Shipley,Robert J M"
+            ],
+            "last_updated": "2015-05-04T16:02:56-04:00",
+            "room": "4408",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Heritage Planning Workshop",
+            "weekdays": "W"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "647",
+            "class_number": 3534,
+            "end_date": null,
+            "end_time": "20:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Braunstein,Martina"
+            ],
+            "last_updated": "2015-05-04T16:02:56-04:00",
+            "room": "4408",
+            "section": "STU 001",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Community Design Studio",
+            "weekdays": "T"
+        },
+        {
+            "building": "EV3",
+            "catalog_number": "647",
+            "class_number": 3534,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "instructors": [
+                "Braunstein,Martina"
+            ],
+            "last_updated": "2015-05-04T16:02:56-04:00",
+            "room": "4408",
+            "section": "STU 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "PLAN",
+            "term": 1155,
+            "title": "Community Design Studio",
+            "weekdays": "F"
+        }
+    ]
 }

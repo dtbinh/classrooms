@@ -1,254 +1,124 @@
 {
-  "meta":{
-    "requests":5593,
-    "timestamp":1420353902,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7813,
-      "subject":"EASIA",
-      "catalog_number":"300R",
-      "title":"Politics & Diplomacy of Contemporary Japan",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Lee,Seung Hyok"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:16-05:00"
-    },
-    {
-      "class_number":7820,
-      "subject":"EFAS",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Slot,Corinne"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":4415,
-      "subject":"ENGL",
-      "catalog_number":"108A",
-      "title":"The Superhero",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Lobb,Diana Frances"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:42-05:00"
-    },
-    {
-      "class_number":6358,
-      "subject":"KOREA",
-      "catalog_number":"102R",
-      "title":"First-Year Korean 2",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Kim,Young Gon G"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:03-05:00"
-    },
-    {
-      "class_number":7866,
-      "subject":"PSYCH",
-      "catalog_number":"349R",
-      "title":"Cross-Cultural Psychology",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Yoshida,Emiko"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:33-05:00"
-    },
-    {
-      "class_number":6399,
-      "subject":"SDS",
-      "catalog_number":"131R",
-      "title":"Social Ideas, Social Policy and Political Practice",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Romkey,Theresa Lea"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:51-05:00"
-    },
-    {
-      "class_number":7868,
-      "subject":"SDS",
-      "catalog_number":"210R",
-      "title":"Children's Rights in Canada",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Blokhuis,Jason C."
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:51-05:00"
-    },
-    {
-      "class_number":6410,
-      "subject":"SDS",
-      "catalog_number":"353R",
-      "title":"The Evolution of Family Law in Canadian Society",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"15:00",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Briggs,Catherine"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:53-05:00"
-    },
-    {
-      "class_number":6456,
-      "subject":"SI",
-      "catalog_number":"315R",
-      "title":"Islam, Women, and the Modern World",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Habib,Maha"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:56-05:00"
-    },
-    {
-      "class_number":7881,
-      "subject":"SOC",
-      "catalog_number":"101R",
-      "title":"Introduction to Sociology",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Roberts,Sharon Elizabeth"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:59-05:00"
-    },
-    {
-      "class_number":7882,
-      "subject":"SOC",
-      "catalog_number":"101R",
-      "title":"Introduction to Sociology",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Roberts,Sharon Elizabeth"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:59-05:00"
-    },
-    {
-      "class_number":6359,
-      "subject":"SOCWK",
-      "catalog_number":"120R",
-      "title":"Introduction to Social Work",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Oba,Olufunke"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:06-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "102R",
+            "class_number": 4066,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 21,
+            "instructors": [
+                "Skinner,Patricia Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:16-04:00",
+            "room": "2107",
+            "section": "LEC 006",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Error Correction in Academic Writing",
+            "weekdays": "MTTh"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "129R",
+            "class_number": 4046,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "instructors": [
+                "Skinner,Patricia Anne"
+            ],
+            "last_updated": "2015-05-04T16:01:16-04:00",
+            "room": "2107",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Written Academic English",
+            "weekdays": "MTTh"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4045,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "last_updated": "2015-05-04T16:01:33-04:00",
+            "room": "2107",
+            "section": "TUT 104",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "JAPAN",
+            "term": 1155,
+            "title": "First-Year Japanese 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "601R",
+            "class_number": 4875,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "last_updated": "2015-05-04T16:02:44-04:00",
+            "room": "2107",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Speaking English for Professional Purposes",
+            "weekdays": "W"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "601R",
+            "class_number": 4875,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "last_updated": "2015-05-04T16:02:44-04:00",
+            "room": "2107",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Speaking English for Professional Purposes",
+            "weekdays": "M"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "602R",
+            "class_number": 4079,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 9,
+            "instructors": [
+                "Oczkowski,Nancy"
+            ],
+            "last_updated": "2015-05-04T16:02:44-04:00",
+            "room": "2107",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ESL",
+            "term": 1155,
+            "title": "Scholarly Writing in English",
+            "weekdays": "MTTh"
+        }
+    ]
 }

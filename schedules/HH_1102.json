@@ -1,334 +1,262 @@
 {
-  "meta":{
-    "requests":5441,
-    "timestamp":1420353845,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":3680,
-      "subject":"AFM",
-      "catalog_number":"372",
-      "title":"Corporate Finance 2",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Vetzal,Kenneth R"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:19-05:00"
-    },
-    {
-      "class_number":7625,
-      "subject":"AFM",
-      "catalog_number":"391",
-      "title":"Intermediate Financial Accounting 2",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Ducharme,Robert Gerard"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:19-05:00"
-    },
-    {
-      "class_number":7626,
-      "subject":"AFM",
-      "catalog_number":"391",
-      "title":"Intermediate Financial Accounting 2",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Ducharme,Robert Gerard"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:19-05:00"
-    },
-    {
-      "class_number":7629,
-      "subject":"AFM",
-      "catalog_number":"433",
-      "title":"Business Strategy",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Vanden Bosch,Nancy Ann"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":3856,
-      "subject":"AFM",
-      "catalog_number":"475",
-      "title":"Fixed Income Securities",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Vetzal,Kenneth R"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":7967,
-      "subject":"AFM",
-      "catalog_number":"491",
-      "title":"Advanced Financial Accounting",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Ducharme,Robert Gerard"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":7968,
-      "subject":"AFM",
-      "catalog_number":"491",
-      "title":"Advanced Financial Accounting",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"19:00",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Ducharme,Robert Gerard"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:20-05:00"
-    },
-    {
-      "class_number":6119,
-      "subject":"COMM",
-      "catalog_number":"321",
-      "title":"Intermediate Accounting for Finance",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Blake,William Peter Thomas"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:47-05:00"
-    },
-    {
-      "class_number":4337,
-      "subject":"ECON",
-      "catalog_number":"351",
-      "title":"Labour Economics",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Skuterud,Mikal"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:36-05:00"
-    },
-    {
-      "class_number":5638,
-      "subject":"ERS",
-      "catalog_number":"461",
-      "title":"Food Systems and Sustainability",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Desjardins,Ellen"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:01-05:00"
-    },
-    {
-      "class_number":5579,
-      "subject":"GEOG",
-      "catalog_number":"209",
-      "title":"Hydroclimatology",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Fletcher,Christopher"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:22-05:00"
-    },
-    {
-      "class_number":5612,
-      "subject":"GEOG",
-      "catalog_number":"461",
-      "title":"Food Systems and Sustainability",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Desjardins,Ellen"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:26-05:00"
-    },
-    {
-      "class_number":3530,
-      "subject":"HIST",
-      "catalog_number":"258",
-      "title":"United States Since 1877",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Sbardellati,John"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:33-05:00"
-    },
-    {
-      "class_number":7425,
-      "subject":"PHIL",
-      "catalog_number":"240",
-      "title":"Introduction to Formal Logic",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Holukoff,Kurt Sheldon"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:59-05:00"
-    },
-    {
-      "class_number":3387,
-      "subject":"PHIL",
-      "catalog_number":"258",
-      "title":"Introduction to the Philosophy of Science",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Fraser,Doreen"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:59-05:00"
-    },
-    {
-      "class_number":6512,
-      "subject":"SCI",
-      "catalog_number":"267",
-      "title":"Introduction to the Philosophy of Science",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Fraser,Doreen"
-      ],
-      "building":"HH",
-      "room":"1102",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:50-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "HH",
+            "catalog_number": "274",
+            "class_number": 2496,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 71,
+            "instructors": [
+                "Thompson,James"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Managerial Finance 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "274",
+            "class_number": 2497,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Thompson,James"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1102",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Managerial Finance 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "274",
+            "class_number": 2498,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 70,
+            "instructors": [
+                "Thompson,James"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1102",
+            "section": "LEC 003",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Managerial Finance 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "333",
+            "class_number": 4630,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 53,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:10-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "International Business",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "333",
+            "class_number": 4631,
+            "end_date": null,
+            "end_time": "17:50",
+            "enrollment_total": 45,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:10-04:00",
+            "room": "1102",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "International Business",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "424",
+            "class_number": 4622,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 61,
+            "instructors": [
+                "Ecclestone,Andrew Peter"
+            ],
+            "last_updated": "2015-05-04T16:00:12-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Equity Investments",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "433",
+            "class_number": 4624,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 56,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:13-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Strategy",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "433",
+            "class_number": 4625,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 61,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:13-04:00",
+            "room": "1102",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Business Strategy",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "491",
+            "class_number": 4627,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 44,
+            "instructors": [
+                "Mann,Shari"
+            ],
+            "last_updated": "2015-05-04T16:00:14-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Advanced Financial Accounting",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "491",
+            "class_number": 4628,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 49,
+            "instructors": [
+                "Mann,Shari"
+            ],
+            "last_updated": "2015-05-04T16:00:14-04:00",
+            "room": "1102",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Advanced Financial Accounting",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "301",
+            "class_number": 4633,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 13,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:20-04:00",
+            "room": "1102",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "15:00",
+            "subject": "ARBUS",
+            "term": 1155,
+            "title": "International Business",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "301",
+            "class_number": 4634,
+            "end_date": null,
+            "end_time": "17:50",
+            "enrollment_total": 11,
+            "instructors": [
+                "Arnason,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:20-04:00",
+            "room": "1102",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "ARBUS",
+            "term": 1155,
+            "title": "International Business",
+            "weekdays": "MW"
+        },
+        {
+            "building": "HH",
+            "catalog_number": "610",
+            "class_number": 4943,
+            "end_date": null,
+            "end_time": "13:50",
+            "enrollment_total": 32,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:02:30-04:00",
+            "room": "1102",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "09:00",
+            "subject": "ACC",
+            "term": 1155,
+            "title": "Public Accounting Practice",
+            "weekdays": "F"
+        }
+    ]
 }

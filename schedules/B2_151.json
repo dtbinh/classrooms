@@ -1,194 +1,44 @@
 {
-  "meta":{
-    "requests":5311,
-    "timestamp":1420353798,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6691,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6692,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 002",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6693,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 003",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6694,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 004",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6695,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 005",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6696,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 006",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6697,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 007",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6698,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 008",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    },
-    {
-      "class_number":6908,
-      "subject":"BIOL",
-      "catalog_number":"273L",
-      "title":"Human Physiology 1 Laboratory",
-      "section":"LAB 009",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"151",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:42-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "B2",
+            "catalog_number": "130L",
+            "class_number": 4152,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "151",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Cell Biology Laboratory",
+            "weekdays": "M"
+        },
+        {
+            "building": "B2",
+            "catalog_number": "130L",
+            "class_number": 4153,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 31,
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "last_updated": "2015-05-04T16:00:28-04:00",
+            "room": "151",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Cell Biology Laboratory",
+            "weekdays": "T"
+        }
+    ]
 }

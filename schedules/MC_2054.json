@@ -1,394 +1,178 @@
 {
-  "meta":{
-    "requests":5474,
-    "timestamp":1420353856,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7643,
-      "subject":"AMATH",
-      "catalog_number":"391",
-      "title":"From Fourier to Wavelets",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Vrscay,Edward R"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:25-05:00"
-    },
-    {
-      "class_number":4886,
-      "subject":"CIVE",
-      "catalog_number":"405",
-      "title":"Structural Dynamics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Narasimhan,Sriram"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:38-05:00"
-    },
-    {
-      "class_number":6147,
-      "subject":"CS",
-      "catalog_number":"146",
-      "title":"Elementary Algorithm Design and Data Abstraction (Advanced Level)",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Ragde,Prabhakar"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:53-05:00"
-    },
-    {
-      "class_number":5778,
-      "subject":"CS",
-      "catalog_number":"442",
-      "title":"Principles of Programming Languages",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Ragde,Prabhakar"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:00-05:00"
-    },
-    {
-      "class_number":5962,
-      "subject":"CS",
-      "catalog_number":"476",
-      "title":"Numeric Computation for Financial Modeling",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Xu,Wei"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:02-05:00"
-    },
-    {
-      "class_number":3313,
-      "subject":"ECON",
-      "catalog_number":"201",
-      "title":"Microeconomic Theory 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Nimubona,Alain-Desire"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:32-05:00"
-    },
-    {
-      "class_number":3625,
-      "subject":"ECON",
-      "catalog_number":"301",
-      "title":"Microeconomic Theory 2",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":99,
-      "instructors":[
-        "Nimubona,Alain-Desire"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:34-05:00"
-    },
-    {
-      "class_number":3646,
-      "subject":"ECON",
-      "catalog_number":"321",
-      "title":"Introduction to Econometrics",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Pierard,Emmanuelle"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:35-05:00"
-    },
-    {
-      "class_number":6180,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"TUT 103",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":2971,
-      "subject":"REC",
-      "catalog_number":"215",
-      "title":"Marketing Recreation and Sport Services",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":96,
-      "instructors":[
-        "Potwarka,Luke Richard"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:40-05:00"
-    },
-    {
-      "class_number":2969,
-      "subject":"REC",
-      "catalog_number":"230",
-      "title":"Outdoor Recreation Resources Management",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Grimwood,Bryan"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:40-05:00"
-    },
-    {
-      "class_number":5752,
-      "subject":"STAT",
-      "catalog_number":"330",
-      "title":"Mathematical Statistics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Qin,Yingli"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":6152,
-      "subject":"STAT",
-      "catalog_number":"330",
-      "title":"Mathematical Statistics",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":78,
-      "instructors":[
-        "Qin,Yingli"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":5704,
-      "subject":"CS",
-      "catalog_number":"642",
-      "title":"Principles of Programming Languages",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Ragde,Prabhakar"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:02-05:00"
-    },
-    {
-      "class_number":5983,
-      "subject":"CS",
-      "catalog_number":"676",
-      "title":"Numeric Computation for Financial Modelling",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Xu,Wei"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:04-05:00"
-    },
-    {
-      "class_number":2955,
-      "subject":"HSG",
-      "catalog_number":"605D",
-      "title":"Analysis of Variance I",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":"01\/05",
-      "end_date":"02\/13",
-      "enrollment_total":4,
-      "instructors":[
-        "Dawoud,Dina"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:36-05:00"
-    },
-    {
-      "class_number":2956,
-      "subject":"HSG",
-      "catalog_number":"605E",
-      "title":"Analysis of Variance II",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":"02\/23",
-      "end_date":"04\/06",
-      "enrollment_total":4,
-      "instructors":[
-        "Dawoud,Dina"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:36-05:00"
-    },
-    {
-      "class_number":2959,
-      "subject":"KIN",
-      "catalog_number":"631E",
-      "title":"Analysis of Variance I",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":"01\/05",
-      "end_date":"02\/13",
-      "enrollment_total":11,
-      "instructors":[
-        "Dawoud,Dina"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:39-05:00"
-    },
-    {
-      "class_number":2960,
-      "subject":"KIN",
-      "catalog_number":"631F",
-      "title":"Analysis of Variance II",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":"02\/23",
-      "end_date":"04\/06",
-      "enrollment_total":3,
-      "instructors":[
-        "Dawoud,Dina"
-      ],
-      "building":"MC",
-      "room":"2054",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:40-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "221",
+            "class_number": 3755,
+            "end_date": "07/28",
+            "end_time": "15:20",
+            "enrollment_total": 67,
+            "instructors": [
+                "Blake,William Peter Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "2054",
+            "section": "LEC 001",
+            "start_date": "05/04",
+            "start_time": "14:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Mathematics of Investment",
+            "weekdays": "TThF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "231",
+            "class_number": 4697,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 86,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "2054",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Mathematics of Finance",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "231",
+            "class_number": 4698,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 100,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:00:02-04:00",
+            "room": "2054",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Mathematics of Finance",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "331",
+            "class_number": 3732,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 54,
+            "instructors": [
+                "Hardy,Mary R"
+            ],
+            "last_updated": "2015-05-04T16:00:03-04:00",
+            "room": "2054",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "ACTSC",
+            "term": 1155,
+            "title": "Life Contingencies 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3913,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 66,
+            "instructors": [
+                "Holtby,Daniel James"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2054",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Elementary Algorithm Design and Data Abstraction",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "348",
+            "class_number": 3962,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 60,
+            "instructors": [
+                "Roatis,Alexandra"
+            ],
+            "last_updated": "2015-05-04T16:00:51-04:00",
+            "room": "2054",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Introduction to Database Management",
+            "weekdays": "WF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "458",
+            "class_number": 3957,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 52,
+            "instructors": [
+                "McKillop,Ian"
+            ],
+            "last_updated": "2015-05-04T16:00:52-04:00",
+            "room": "2054",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Computer Security and Privacy",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3826,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 98,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2054",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 1 for Honours Mathematics",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "658",
+            "class_number": 3959,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 1,
+            "instructors": [
+                "McKillop,Ian"
+            ],
+            "last_updated": "2015-05-04T16:02:38-04:00",
+            "room": "2054",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Computer Security and Privacy",
+            "weekdays": "TTh"
+        }
+    ]
 }

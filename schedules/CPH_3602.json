@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "CPH",
+            "catalog_number": "486",
+            "class_number": 2794,
+            "end_date": null,
+            "end_time": "14:50",
+            "enrollment_total": 16,
+            "instructors": [
+                "Soulis,Eric D"
+            ],
+            "last_updated": "2015-05-04T16:00:44-04:00",
+            "room": "3602",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CIVE",
+            "term": 1155,
+            "title": "Hydrology",
+            "weekdays": "WF"
+        },
+        {
+            "building": "CPH",
+            "catalog_number": "724",
+            "class_number": 4813,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 3,
+            "instructors": [
+                "Dimitrov,Stanko"
+            ],
+            "last_updated": "2015-05-04T16:02:52-04:00",
+            "room": "3602",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "MSCI",
+            "term": 1155,
+            "title": "Info. Procurement Mechanisms",
+            "weekdays": "Th"
+        }
+    ]
+}

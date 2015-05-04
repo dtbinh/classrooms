@@ -1,1654 +1,222 @@
 {
-  "meta":{
-    "requests":5555,
-    "timestamp":1420353888,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5243,
-      "subject":"ECE",
-      "catalog_number":"200A",
-      "title":"Electrical and Computer Engineering Practice",
-      "section":"SEM 002",
-      "weekdays":"T",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Neale,Adam John"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/08",
-      "end_date":"01\/08",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/22",
-      "end_date":"01\/22",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/05",
-      "end_date":"02\/05",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/26",
-      "end_date":"02\/26",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/12",
-      "end_date":"03\/12",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/26",
-      "end_date":"03\/26",
-      "enrollment_total":99,
-      "instructors":[
-        "Hewitt,Conrad G"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/08",
-      "end_date":"01\/08",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/22",
-      "end_date":"01\/22",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/05",
-      "end_date":"02\/05",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/26",
-      "end_date":"02\/26",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/12",
-      "end_date":"03\/12",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5282,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/26",
-      "end_date":"03\/26",
-      "enrollment_total":105,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5283,
-      "subject":"ECE",
-      "catalog_number":"205",
-      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4853,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/06",
-      "end_date":"01\/06",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/20",
-      "end_date":"01\/20",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/03",
-      "end_date":"02\/03",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/24",
-      "end_date":"02\/24",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/10",
-      "end_date":"03\/10",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":4999,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/24",
-      "end_date":"03\/24",
-      "enrollment_total":103,
-      "instructors":[
-        "Mateos Santillan,Edgar"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5000,
-      "subject":"ECE",
-      "catalog_number":"222",
-      "title":"Digital Computers",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:22-05:00"
-    },
-    {
-      "class_number":5004,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 001",
-      "weekdays":"TWTh",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"TWTh",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/13",
-      "end_date":"01\/13",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/27",
-      "end_date":"01\/27",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/10",
-      "end_date":"02\/10",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/03",
-      "end_date":"03\/03",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/17",
-      "end_date":"03\/17",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5009,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/31",
-      "end_date":"03\/31",
-      "enrollment_total":106,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5010,
-      "subject":"ECE",
-      "catalog_number":"240",
-      "title":"Electronic Circuits 1",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/06",
-      "end_date":"01\/06",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/20",
-      "end_date":"01\/20",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/03",
-      "end_date":"02\/03",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/24",
-      "end_date":"02\/24",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/10",
-      "end_date":"03\/10",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/24",
-      "end_date":"03\/24",
-      "enrollment_total":102,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/07",
-      "end_date":"01\/07",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/21",
-      "end_date":"01\/21",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/04",
-      "end_date":"02\/04",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/25",
-      "end_date":"02\/25",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/11",
-      "end_date":"03\/11",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4756,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/25",
-      "end_date":"03\/25",
-      "enrollment_total":106,
-      "instructors":[
-        "Tahvildari,Ladan"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":4757,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/13",
-      "end_date":"01\/13",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/27",
-      "end_date":"01\/27",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/10",
-      "end_date":"02\/10",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/03",
-      "end_date":"03\/03",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/17",
-      "end_date":"03\/17",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5014,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/31",
-      "end_date":"03\/31",
-      "enrollment_total":100,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/14",
-      "end_date":"01\/14",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/28",
-      "end_date":"01\/28",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/11",
-      "end_date":"02\/11",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/04",
-      "end_date":"03\/04",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/18",
-      "end_date":"03\/18",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":5018,
-      "subject":"ECE",
-      "catalog_number":"290",
-      "title":"Engineering Profession, Ethics, and Law",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"04\/01",
-      "end_date":"04\/01",
-      "enrollment_total":102,
-      "instructors":[
-        "Karim,Karim"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:23-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"TWTh",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/15",
-      "end_date":"01\/15",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"01\/29",
-      "end_date":"01\/29",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"02\/12",
-      "end_date":"02\/12",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/05",
-      "end_date":"03\/05",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"03\/19",
-      "end_date":"03\/19",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6105,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"04\/02",
-      "end_date":"04\/02",
-      "enrollment_total":99,
-      "instructors":[
-        "Rosen,Julian"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"TWTh",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/15",
-      "end_date":"01\/15",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"01\/29",
-      "end_date":"01\/29",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"02\/12",
-      "end_date":"02\/12",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/05",
-      "end_date":"03\/05",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"03\/19",
-      "end_date":"03\/19",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6106,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"04\/02",
-      "end_date":"04\/02",
-      "enrollment_total":102,
-      "instructors":[
-        "Jankauskas,Jonas"
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    },
-    {
-      "class_number":6108,
-      "subject":"MATH",
-      "catalog_number":"215",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 102",
-      "weekdays":"T",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2502",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:11-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "QNC",
+            "catalog_number": "309",
+            "class_number": 4179,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 113,
+            "instructors": [
+                "Spafford,David"
+            ],
+            "last_updated": "2015-05-04T16:00:29-04:00",
+            "room": "2502",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "BIOL",
+            "term": 1155,
+            "title": "Analytical Methods in Molecular Biology",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "358",
+            "class_number": 3254,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 83,
+            "instructors": [
+                "Ho,Pin-Han"
+            ],
+            "last_updated": "2015-05-04T16:01:01-04:00",
+            "room": "2502",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Computer Networks",
+            "weekdays": "MF"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "454",
+            "class_number": 2853,
+            "end_date": null,
+            "end_time": "18:20",
+            "enrollment_total": 115,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:03-04:00",
+            "room": "2502",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "17:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Distributed Computing",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "344",
+            "class_number": 2211,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 80,
+            "instructors": [
+                "Rodenburg,Kathleen"
+            ],
+            "last_updated": "2015-05-04T16:01:07-04:00",
+            "room": "2502",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Marketing: Principles of Marketing and Consumer Economics",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "235",
+            "class_number": 3658,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 106,
+            "instructors": [
+                "Akash,Mukto"
+            ],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2502",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 2 for Honours Mathematics",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "202",
+            "class_number": 4601,
+            "end_date": "06/23",
+            "end_time": "12:20",
+            "enrollment_total": 86,
+            "instructors": [
+                "Deakin,Laura"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "2502",
+            "section": "SEM 001",
+            "start_date": "05/04",
+            "start_time": "11:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Nanomaterials Exposure Assessment and Nanotechnology Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "202",
+            "class_number": 4601,
+            "end_date": "07/28",
+            "end_time": "12:20",
+            "enrollment_total": 86,
+            "instructors": [
+                "Wang,Xiaosong"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "2502",
+            "section": "SEM 001",
+            "start_date": "06/30",
+            "start_time": "11:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Nanomaterials Exposure Assessment and Nanotechnology Engineering Practice",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3000,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2502",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3001,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 27,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2502",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3002,
+            "end_date": null,
+            "end_time": "13:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2502",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "12:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "430",
+            "class_number": 3805,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 100,
+            "instructors": [
+                "Li,Pengfei"
+            ],
+            "last_updated": "2015-05-04T16:02:21-04:00",
+            "room": "2502",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "STAT",
+            "term": 1155,
+            "title": "Experimental Design",
+            "weekdays": "T"
+        }
+    ]
 }

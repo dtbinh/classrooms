@@ -1,134 +1,84 @@
 {
-  "meta":{
-    "requests":5521,
-    "timestamp":1420353873,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7451,
-      "subject":"PSYCH",
-      "catalog_number":"391",
-      "title":"Advanced Data Analysis",
-      "section":"LAB 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:34-05:00"
-    },
-    {
-      "class_number":3531,
-      "subject":"PSYCH",
-      "catalog_number":"398",
-      "title":"Research in Memory",
-      "section":"SEM 002",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Danckert,James"
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:35-05:00"
-    },
-    {
-      "class_number":7459,
-      "subject":"PSYCH",
-      "catalog_number":"492",
-      "title":"Psychological Measurement: Foundations of Research and Practice",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:38-05:00"
-    },
-    {
-      "class_number":7460,
-      "subject":"PSYCH",
-      "catalog_number":"492",
-      "title":"Psychological Measurement: Foundations of Research and Practice",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:38-05:00"
-    },
-    {
-      "class_number":3810,
-      "subject":"PSYCH",
-      "catalog_number":"630",
-      "title":"Advanced Analysis of Variance",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:00",
-      "end_time":"16:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Fugelsang,Jonathan"
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:09-05:00"
-    },
-    {
-      "class_number":3708,
-      "subject":"SOC",
-      "catalog_number":"710",
-      "title":"Intermediate Social Statistics",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"17:00",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Gallupe,Owen"
-      ],
-      "building":"PAS",
-      "room":"1237",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:15-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "PAS",
+            "catalog_number": "241",
+            "class_number": 4613,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 39,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1237",
+            "section": "SEM 102",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "T"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "241",
+            "class_number": 4614,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1237",
+            "section": "SEM 103",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "T"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "241",
+            "class_number": 4618,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 33,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1237",
+            "section": "SEM 107",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "Th"
+        },
+        {
+            "building": "PAS",
+            "catalog_number": "241",
+            "class_number": 4619,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "instructors": [
+                "Stratopoulos,Theophanis"
+            ],
+            "last_updated": "2015-05-04T16:00:07-04:00",
+            "room": "1237",
+            "section": "SEM 108",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "AFM",
+            "term": 1155,
+            "title": "Introduction to Business Information Technology",
+            "weekdays": "Th"
+        }
+    ]
 }

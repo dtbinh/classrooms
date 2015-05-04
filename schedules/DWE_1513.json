@@ -1,94 +1,86 @@
 {
-  "meta":{
-    "requests":5359,
-    "timestamp":1420353814,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4881,
-      "subject":"CHE",
-      "catalog_number":"390",
-      "title":"Chemical Engineering Lab 3",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Zhang,Mingqian (John)"
-      ],
-      "building":"DWE",
-      "room":"1513",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:17-05:00"
-    },
-    {
-      "class_number":4882,
-      "subject":"CHE",
-      "catalog_number":"390",
-      "title":"Chemical Engineering Lab 3",
-      "section":"LAB 002",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Zhang,Mingqian (John)"
-      ],
-      "building":"DWE",
-      "room":"1513",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:17-05:00"
-    },
-    {
-      "class_number":4608,
-      "subject":"CHE",
-      "catalog_number":"524",
-      "title":"Process Control Laboratory",
-      "section":"LAB 101",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Ricardez Sandoval,Luis Alberto"
-      ],
-      "building":"DWE",
-      "room":"1513",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:22-05:00"
-    },
-    {
-      "class_number":4609,
-      "subject":"CHE",
-      "catalog_number":"524",
-      "title":"Process Control Laboratory",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Ricardez Sandoval,Luis Alberto"
-      ],
-      "building":"DWE",
-      "room":"1513",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:22-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "DWE",
+            "catalog_number": "390",
+            "class_number": 3035,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 33,
+            "instructors": [
+                "Zhang,Mingqian (John)"
+            ],
+            "last_updated": "2015-05-04T16:00:39-04:00",
+            "room": "1513",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemical Engineering Lab 3",
+            "weekdays": "M"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "390",
+            "class_number": 3036,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "instructors": [
+                "Zhang,Mingqian (John)"
+            ],
+            "last_updated": "2015-05-04T16:00:39-04:00",
+            "room": "1513",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemical Engineering Lab 3",
+            "weekdays": "F"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "490",
+            "class_number": 3056,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 36,
+            "instructors": [
+                "Zhang,Mingqian (John)",
+                "Ganeshalingam,Sivasubramaniam"
+            ],
+            "last_updated": "2015-05-04T16:00:39-04:00",
+            "room": "1513",
+            "section": "LAB 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemical Engineering Lab 5",
+            "weekdays": "T"
+        },
+        {
+            "building": "DWE",
+            "catalog_number": "490",
+            "class_number": 3057,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 36,
+            "instructors": [
+                "Zhang,Mingqian (John)",
+                "Ganeshalingam,Sivasubramaniam"
+            ],
+            "last_updated": "2015-05-04T16:00:39-04:00",
+            "room": "1513",
+            "section": "LAB 002",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "CHE",
+            "term": 1155,
+            "title": "Chemical Engineering Lab 5",
+            "weekdays": "Th"
+        }
+    ]
 }

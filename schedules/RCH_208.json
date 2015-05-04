@@ -1,134 +1,24 @@
 {
-  "meta":{
-    "requests":5569,
-    "timestamp":1420353893,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7806,
-      "subject":"BASE",
-      "catalog_number":"46",
-      "title":"Oral Skills",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":7806,
-      "subject":"BASE",
-      "catalog_number":"46",
-      "title":"Oral Skills",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":7807,
-      "subject":"BASE",
-      "catalog_number":"46",
-      "title":"Oral Skills",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"09:00",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Gillies,Christine"
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":5546,
-      "subject":"PLAN",
-      "catalog_number":"103",
-      "title":"Planning, Administration, and Finance",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:13-05:00"
-    },
-    {
-      "class_number":3618,
-      "subject":"SPAN",
-      "catalog_number":"450",
-      "title":"Theory and Practice of Translation",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Sillato,Maria Del Carmen D C"
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:11-05:00"
-    },
-    {
-      "class_number":8389,
-      "subject":"STAT",
-      "catalog_number":"946",
-      "title":"Topics in Probability and Statistics",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Zhu,Mu"
-      ],
-      "building":"RCH",
-      "room":"208",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:19-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "RCH",
+            "catalog_number": "751",
+            "class_number": 4952,
+            "end_date": null,
+            "end_time": "16:50",
+            "enrollment_total": 13,
+            "instructors": [
+                "Alaefour,Ibrahim"
+            ],
+            "last_updated": "2015-05-04T16:02:51-04:00",
+            "room": "208",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:00",
+            "subject": "ME",
+            "term": 1155,
+            "title": "Fuel Cell Technology",
+            "weekdays": "W"
+        }
+    ]
 }

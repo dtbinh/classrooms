@@ -1,354 +1,224 @@
 {
-  "meta":{
-    "requests":5554,
-    "timestamp":1420353888,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5215,
-      "subject":"BET",
-      "catalog_number":"300",
-      "title":"Foundations of Venture Creation",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Chang,Wayne"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":7555,
-      "subject":"BET",
-      "catalog_number":"300",
-      "title":"Foundations of Venture Creation",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Hurwitz,Marc"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":8272,
-      "subject":"CHEM",
-      "catalog_number":"224L",
-      "title":"Analytical Chemistry Laboratory 2",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:27-05:00"
-    },
-    {
-      "class_number":7057,
-      "subject":"CHEM",
-      "catalog_number":"228",
-      "title":"Chemical Analysis",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Fisher,Jacob"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:27-05:00"
-    },
-    {
-      "class_number":6625,
-      "subject":"CHEM",
-      "catalog_number":"460",
-      "title":"Special Topics in Organic Chemistry",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Chong,Michael J."
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:32-05:00"
-    },
-    {
-      "class_number":3368,
-      "subject":"FR",
-      "catalog_number":"252",
-      "title":"French Language 2: Module 2",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Abd-Elrazak,Loula"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:11-05:00"
-    },
-    {
-      "class_number":7490,
-      "subject":"NE",
-      "catalog_number":"113",
-      "title":"Engineering Computation",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Tsui,Ting TY"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:34-05:00"
-    },
-    {
-      "class_number":4807,
-      "subject":"NE",
-      "catalog_number":"125",
-      "title":"Introduction to Materials Science and Engineering",
-      "section":"TUT 103",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Li,Yuning"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:35-05:00"
-    },
-    {
-      "class_number":4874,
-      "subject":"NE",
-      "catalog_number":"131",
-      "title":"Physics for Nanotechnology Engineering",
-      "section":"TUT 103",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Yoon,Youngki"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:35-05:00"
-    },
-    {
-      "class_number":5228,
-      "subject":"NE",
-      "catalog_number":"452",
-      "title":"Special Topics in Nanoscale Simulations",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Karttunen,Mikko"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:36-05:00"
-    },
-    {
-      "class_number":5228,
-      "subject":"NE",
-      "catalog_number":"452",
-      "title":"Special Topics in Nanoscale Simulations",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Karttunen,Mikko"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:36-05:00"
-    },
-    {
-      "class_number":5056,
-      "subject":"NE",
-      "catalog_number":"469",
-      "title":"Special Topics in Micro and Nanoinstruments",
-      "section":"LEC 002",
-      "weekdays":"MF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Maheshwari,Vivek"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:37-05:00"
-    },
-    {
-      "class_number":4933,
-      "subject":"NE",
-      "catalog_number":"489",
-      "title":"Special Topics in Nanoscale Biosystems",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:38-05:00"
-    },
-    {
-      "class_number":5125,
-      "subject":"NE",
-      "catalog_number":"489",
-      "title":"Special Topics in Nanoscale Biosystems",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Tang,Xiao-Wu (Shirley)"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:38-05:00"
-    },
-    {
-      "class_number":5057,
-      "subject":"NE",
-      "catalog_number":"499",
-      "title":"Special Topics in Nanostructured Materials",
-      "section":"LEC 002",
-      "weekdays":"MF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Wang,Xiaosong"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:38-05:00"
-    },
-    {
-      "class_number":6928,
-      "subject":"PHYS",
-      "catalog_number":"125",
-      "title":"Physics for Engineers",
-      "section":"TUT 103",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Jayasundera,Rohan"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:04-05:00"
-    },
-    {
-      "class_number":7412,
-      "subject":"ME",
-      "catalog_number":"750",
-      "title":"Advanced Engineering Thermodynamics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Li,Dongqing"
-      ],
-      "building":"QNC",
-      "room":"2501",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:48-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "QNC",
+            "catalog_number": "353",
+            "class_number": 3607,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Miskovic,Zoran"
+            ],
+            "last_updated": "2015-05-04T16:00:18-04:00",
+            "room": "2501",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:30",
+            "subject": "AMATH",
+            "term": 1155,
+            "title": "Partial Differential Equations 1",
+            "weekdays": "MWF"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "300",
+            "class_number": 3309,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 11,
+            "instructors": [
+                "Chang,Wayne"
+            ],
+            "last_updated": "2015-05-04T16:00:27-04:00",
+            "room": "2501",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BET",
+            "term": 1155,
+            "title": "Foundations of Venture Creation",
+            "weekdays": "W"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "300",
+            "class_number": 4937,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 8,
+            "instructors": [
+                "Hurwitz,Marc"
+            ],
+            "last_updated": "2015-05-04T16:00:27-04:00",
+            "room": "2501",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BET",
+            "term": 1155,
+            "title": "Foundations of Venture Creation",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "310",
+            "class_number": 4913,
+            "end_date": null,
+            "end_time": "21:20",
+            "enrollment_total": 5,
+            "instructors": [
+                "Hurwitz,Marc"
+            ],
+            "last_updated": "2015-05-04T16:00:27-04:00",
+            "room": "2501",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "18:30",
+            "subject": "BET",
+            "term": 1155,
+            "title": "Entrprise Coop Entre Plan Exec",
+            "weekdays": "T"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "201",
+            "class_number": 2199,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 18,
+            "instructors": [
+                "Pender,John"
+            ],
+            "last_updated": "2015-05-04T16:01:11-04:00",
+            "room": "2501",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "The Short Story",
+            "weekdays": "MTTh"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "217",
+            "class_number": 4597,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "2501",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "217",
+            "class_number": 4598,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 27,
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "2501",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "217",
+            "class_number": 4599,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "2501",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "242",
+            "class_number": 3002,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Wong,William S."
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "2501",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Electronic Devices",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "234",
+            "class_number": 4278,
+            "end_date": null,
+            "end_time": "10:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Hill,Robert W."
+            ],
+            "last_updated": "2015-05-04T16:02:00-04:00",
+            "room": "2501",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "PHYS",
+            "term": 1155,
+            "title": "Quantum Physics 1",
+            "weekdays": "M"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "735",
+            "class_number": 4785,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "instructors": [
+                "McArthur,Murray"
+            ],
+            "last_updated": "2015-05-04T16:02:43-04:00",
+            "room": "2501",
+            "section": "SEM 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ENGL",
+            "term": 1155,
+            "title": "Studies in Modern British Literature",
+            "weekdays": "W"
+        }
+    ]
 }

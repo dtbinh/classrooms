@@ -1,254 +1,184 @@
 {
-  "meta":{
-    "requests":5580,
-    "timestamp":1420353897,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7802,
-      "subject":"BASE",
-      "catalog_number":"44",
-      "title":"Writing Skills",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:37-05:00"
-    },
-    {
-      "class_number":6345,
-      "subject":"CHINA",
-      "catalog_number":"120R",
-      "title":"Advanced First-Year Chinese",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Wang,Renee Rui"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:33-05:00"
-    },
-    {
-      "class_number":7811,
-      "subject":"CHINA",
-      "catalog_number":"120R",
-      "title":"Advanced First-Year Chinese",
-      "section":"LEC 002",
-      "weekdays":"TF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Tang,Renjie"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:33-05:00"
-    },
-    {
-      "class_number":7817,
-      "subject":"EFAS",
-      "catalog_number":"32",
-      "title":"Academic Skills",
-      "section":"LEC 002",
-      "weekdays":"MTWTh",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:38-05:00"
-    },
-    {
-      "class_number":7820,
-      "subject":"EFAS",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 002",
-      "weekdays":"MTh",
-      "start_time":"10:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Slot,Corinne"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:39-05:00"
-    },
-    {
-      "class_number":3554,
-      "subject":"ENGL",
-      "catalog_number":"335",
-      "title":"Creative Writing 1",
-      "section":"WSP 001",
-      "weekdays":"MW",
-      "start_time":"12:00",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Al Ethari,Lamees"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:50-05:00"
-    },
-    {
-      "class_number":7843,
-      "subject":"ESL",
-      "catalog_number":"102R",
-      "title":"Error Correction in Academic Writing",
-      "section":"LEC 011",
-      "weekdays":"MWTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Smithwick,Neal Andrew"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:12:02-05:00"
-    },
-    {
-      "class_number":6408,
-      "subject":"SDS",
-      "catalog_number":"251R",
-      "title":"Social Research",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Plante,Courtney"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:52-05:00"
-    },
-    {
-      "class_number":6432,
-      "subject":"SDS",
-      "catalog_number":"450R",
-      "title":"Honours Seminar in Special Topics",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Romkey,Theresa Lea"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:54-05:00"
-    },
-    {
-      "class_number":6458,
-      "subject":"SOCWK",
-      "catalog_number":"222R",
-      "title":"Community Organization 1",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:07-05:00"
-    },
-    {
-      "class_number":6459,
-      "subject":"SWREN",
-      "catalog_number":"222R",
-      "title":"Community Organization 1",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:20-05:00"
-    },
-    {
-      "class_number":8315,
-      "subject":"SWREN",
-      "catalog_number":"251R",
-      "title":"Social Research",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Plante,Courtney"
-      ],
-      "building":"REN",
-      "room":"0104",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:20-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4049,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "last_updated": "2015-05-04T16:01:33-04:00",
+            "room": "0104",
+            "section": "TUT 106",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "JAPAN",
+            "term": 1155,
+            "title": "First-Year Japanese 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4033,
+            "end_date": "06/12",
+            "end_time": "12:20",
+            "enrollment_total": 42,
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "LEC 001",
+            "start_date": "05/04",
+            "start_time": "11:00",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "W"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4033,
+            "end_date": "06/12",
+            "end_time": "11:20",
+            "enrollment_total": 42,
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "LEC 001",
+            "start_date": "05/04",
+            "start_time": "10:00",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4051,
+            "end_date": "06/12",
+            "end_time": "17:20",
+            "enrollment_total": 49,
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "LEC 002",
+            "start_date": "05/04",
+            "start_time": "16:00",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "W"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4051,
+            "end_date": "06/12",
+            "end_time": "12:50",
+            "enrollment_total": 49,
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "LEC 002",
+            "start_date": "05/04",
+            "start_time": "11:30",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4070,
+            "end_date": "06/12",
+            "end_time": "15:50",
+            "enrollment_total": 17,
+            "instructors": [
+                "Kim,Wonhee"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "TUT 102",
+            "start_date": "05/04",
+            "start_time": "14:30",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "WTh"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "101R",
+            "class_number": 4071,
+            "end_date": "06/12",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "instructors": [
+                "Elworthy,Brendan John"
+            ],
+            "last_updated": "2015-05-04T16:01:36-04:00",
+            "room": "0104",
+            "section": "TUT 103",
+            "start_date": "05/04",
+            "start_time": "16:00",
+            "subject": "KOREA",
+            "term": 1155,
+            "title": "First-Year Korean 1",
+            "weekdays": "Th"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "150R",
+            "class_number": 4055,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 50,
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "last_updated": "2015-05-04T16:02:14-04:00",
+            "room": "0104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "SDS",
+            "term": 1155,
+            "title": "Lifespan Processes: The Normal Events",
+            "weekdays": "T"
+        },
+        {
+            "building": "REN",
+            "catalog_number": "215R",
+            "class_number": 4920,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 9,
+            "instructors": [
+                "Blokhuis,Jason C."
+            ],
+            "last_updated": "2015-05-04T16:02:14-04:00",
+            "room": "0104",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "SDS",
+            "term": 1155,
+            "title": "Education and Social Development from a Global Perspective",
+            "weekdays": "T"
+        }
+    ]
 }

@@ -1,274 +1,124 @@
 {
-  "meta":{
-    "requests":5553,
-    "timestamp":1420353887,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":8178,
-      "subject":"AVIA",
-      "catalog_number":"307",
-      "title":"Professional Pilot Program Course VII",
-      "section":"FLT 001",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "McKenzie,Ian"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:36-05:00"
-    },
-    {
-      "class_number":6873,
-      "subject":"CHEM",
-      "catalog_number":"430",
-      "title":"Special Topics in Biochemistry",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Meiering,Elizabeth M"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:32-05:00"
-    },
-    {
-      "class_number":6883,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"17:00",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":3329,
-      "subject":"ECON",
-      "catalog_number":"402",
-      "title":"Macroeconomic Theory 3",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Gonzalez,Francisco"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:37-05:00"
-    },
-    {
-      "class_number":3417,
-      "subject":"ENGL",
-      "catalog_number":"108M",
-      "title":"Youth and Adolescence",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Mayberry,Thomas Ray"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:43-05:00"
-    },
-    {
-      "class_number":4052,
-      "subject":"ENGL",
-      "catalog_number":"309C",
-      "title":"Contemporary Rhetoric",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Slethaug,Gordon"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:49-05:00"
-    },
-    {
-      "class_number":5499,
-      "subject":"ERS",
-      "catalog_number":"253",
-      "title":"The Politics of Sustainable Communities",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "McAllister,Mary Louise"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:59-05:00"
-    },
-    {
-      "class_number":7489,
-      "subject":"NE",
-      "catalog_number":"113",
-      "title":"Engineering Computation",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Tsui,Ting TY"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:34-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"NE",
-      "catalog_number":"125",
-      "title":"Introduction to Materials Science and Engineering",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Li,Yuning"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:35-05:00"
-    },
-    {
-      "class_number":4873,
-      "subject":"NE",
-      "catalog_number":"131",
-      "title":"Physics for Nanotechnology Engineering",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Yoon,Youngki"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:35-05:00"
-    },
-    {
-      "class_number":6235,
-      "subject":"STAT",
-      "catalog_number":"435",
-      "title":"Statistical Methods for Process Improvements",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Steiner,Stefan"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    },
-    {
-      "class_number":4962,
-      "subject":"ME",
-      "catalog_number":"760",
-      "title":"Special Topics in Thermal Engineering",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Li,Dongqing"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:16:49-05:00"
-    },
-    {
-      "class_number":6236,
-      "subject":"STAT",
-      "catalog_number":"835",
-      "title":"Statistical Methods for Process Improvement",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Steiner,Stefan"
-      ],
-      "building":"QNC",
-      "room":"1507",
-      "term":1151,
-      "last_updated":"2014-12-15T06:17:16-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "QNC",
+            "catalog_number": "421",
+            "class_number": 4719,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Matheson,Brenton James"
+            ],
+            "last_updated": "2015-05-04T16:00:47-04:00",
+            "room": "1507",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "COMM",
+            "term": 1155,
+            "title": "Financial Statement Analysis",
+            "weekdays": "MTTh"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "226",
+            "class_number": 3007,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Miao,Guo-Xing"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "1507",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "16:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "226",
+            "class_number": 3008,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 28,
+            "instructors": [
+                "Miao,Guo-Xing"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "1507",
+            "section": "TUT 102",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "226",
+            "class_number": 3009,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 30,
+            "instructors": [
+                "Miao,Guo-Xing"
+            ],
+            "last_updated": "2015-05-04T16:01:49-04:00",
+            "room": "1507",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Characterization of Materials",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "232",
+            "class_number": 3014,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 29,
+            "instructors": [
+                "Cory,David D.G"
+            ],
+            "last_updated": "2015-05-04T16:01:50-04:00",
+            "room": "1507",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "NE",
+            "term": 1155,
+            "title": "Quantum Mechanics",
+            "weekdays": "F"
+        },
+        {
+            "building": "QNC",
+            "catalog_number": "632",
+            "class_number": 3040,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 22,
+            "instructors": [
+                "Sivoththaman,Siva"
+            ],
+            "last_updated": "2015-05-04T16:02:41-04:00",
+            "room": "1507",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "ECE",
+            "term": 1155,
+            "title": "Photovoltaic Energy Conversion",
+            "weekdays": "W"
+        }
+    ]
 }

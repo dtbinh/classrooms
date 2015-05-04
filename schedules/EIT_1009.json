@@ -1,174 +1,64 @@
 {
-  "meta":{
-    "requests":5409,
-    "timestamp":1420353835,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":5286,
-      "subject":"CIVE",
-      "catalog_number":"153",
-      "title":"Earth Engineering",
-      "section":"LAB 103",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Allen,Anne"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:35-05:00"
-    },
-    {
-      "class_number":6923,
-      "subject":"EARTH",
-      "catalog_number":"232",
-      "title":"Petrography",
-      "section":"LAB 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Parks,Jennifer Eleanor"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":6924,
-      "subject":"EARTH",
-      "catalog_number":"232",
-      "title":"Petrography",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Parks,Jennifer Eleanor"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:09-05:00"
-    },
-    {
-      "class_number":7039,
-      "subject":"EARTH",
-      "catalog_number":"332",
-      "title":"Metamorphic Petrology",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Parks,Jennifer Eleanor"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:10-05:00"
-    },
-    {
-      "class_number":7040,
-      "subject":"EARTH",
-      "catalog_number":"332",
-      "title":"Metamorphic Petrology",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Parks,Jennifer Eleanor"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:10-05:00"
-    },
-    {
-      "class_number":6783,
-      "subject":"EARTH",
-      "catalog_number":"435",
-      "title":"Advanced Structural Geology",
-      "section":"LAB 101",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Li,Changcheng"
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:12-05:00"
-    },
-    {
-      "class_number":6884,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"01\/05",
-      "end_date":"02\/06",
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    },
-    {
-      "class_number":7004,
-      "subject":"EARTH",
-      "catalog_number":"471",
-      "title":"Mineral Deposits",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":"01\/05",
-      "end_date":"02\/06",
-      "enrollment_total":7,
-      "instructors":[
-        
-      ],
-      "building":"EIT",
-      "room":"1009",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:13-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "EIT",
+            "catalog_number": "232",
+            "class_number": 4085,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 21,
+            "instructors": [
+                "Parks,Jennifer Eleanor"
+            ],
+            "last_updated": "2015-05-04T16:00:55-04:00",
+            "room": "1009",
+            "section": "LAB 101",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Petrography",
+            "weekdays": "Th"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "232",
+            "class_number": 4195,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 23,
+            "instructors": [
+                "Parks,Jennifer Eleanor"
+            ],
+            "last_updated": "2015-05-04T16:00:55-04:00",
+            "room": "1009",
+            "section": "LAB 102",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Petrography",
+            "weekdays": "T"
+        },
+        {
+            "building": "EIT",
+            "catalog_number": "232",
+            "class_number": 4739,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 25,
+            "instructors": [
+                "Parks,Jennifer Eleanor"
+            ],
+            "last_updated": "2015-05-04T16:00:55-04:00",
+            "room": "1009",
+            "section": "LAB 103",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "EARTH",
+            "term": 1155,
+            "title": "Petrography",
+            "weekdays": "T"
+        }
+    ]
 }

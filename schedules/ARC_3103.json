@@ -1,54 +1,84 @@
 {
-  "meta":{
-    "requests":5301,
-    "timestamp":1420353795,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":4795,
-      "subject":"ARCH",
-      "catalog_number":"392",
-      "title":"Design Studio",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        
-      ],
-      "building":"ARC",
-      "room":"3103",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    },
-    {
-      "class_number":4795,
-      "subject":"ARCH",
-      "catalog_number":"392",
-      "title":"Design Studio",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        
-      ],
-      "building":"ARC",
-      "room":"3103",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ARC",
+            "catalog_number": "493",
+            "class_number": 2924,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 71,
+            "instructors": [
+                "Levitt,Andrew"
+            ],
+            "last_updated": "2015-05-04T16:00:24-04:00",
+            "room": "3103",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Design Studio/Comprehensive Building Design",
+            "weekdays": "M"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "493",
+            "class_number": 2924,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 71,
+            "instructors": [
+                "Levitt,Andrew"
+            ],
+            "last_updated": "2015-05-04T16:00:24-04:00",
+            "room": "3103",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Design Studio/Comprehensive Building Design",
+            "weekdays": "M"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "493",
+            "class_number": 2924,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 71,
+            "instructors": [
+                "Levitt,Andrew"
+            ],
+            "last_updated": "2015-05-04T16:00:24-04:00",
+            "room": "3103",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Design Studio/Comprehensive Building Design",
+            "weekdays": "Th"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "493",
+            "class_number": 2924,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 71,
+            "instructors": [
+                "Levitt,Andrew"
+            ],
+            "last_updated": "2015-05-04T16:00:24-04:00",
+            "room": "3103",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Design Studio/Comprehensive Building Design",
+            "weekdays": "Th"
+        }
+    ]
 }

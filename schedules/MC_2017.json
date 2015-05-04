@@ -1,254 +1,360 @@
 {
-  "meta":{
-    "requests":5470,
-    "timestamp":1420353855,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":6091,
-      "subject":"AMATH",
-      "catalog_number":"342",
-      "title":"Computational Methods for Differential Equations",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "De Sterck,Hans"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:24-05:00"
-    },
-    {
-      "class_number":5889,
-      "subject":"CS",
-      "catalog_number":"343",
-      "title":"Concurrent and Parallel Programming",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":72,
-      "instructors":[
-        "Kierstead,Caroline"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:56-05:00"
-    },
-    {
-      "class_number":5784,
-      "subject":"CS",
-      "catalog_number":"348",
-      "title":"Introduction to Database Management",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":95,
-      "instructors":[
-        "Weddell,Grant"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:10:57-05:00"
-    },
-    {
-      "class_number":3314,
-      "subject":"ECON",
-      "catalog_number":"201",
-      "title":"Microeconomic Theory 1",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Rajsic,Predrag"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:11:32-05:00"
-    },
-    {
-      "class_number":6051,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "McKinnon,David"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":6320,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"TUT 104",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":74,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:09-05:00"
-    },
-    {
-      "class_number":4928,
-      "subject":"NE",
-      "catalog_number":"402",
-      "title":"Nanotechnology Engineering Practice",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":97,
-      "instructors":[
-        "Maheshwari,Vivek"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:13:36-05:00"
-    },
-    {
-      "class_number":7007,
-      "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Bohlouli Zanjani,Parisa"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":7010,
-      "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"TUT 104",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":83,
-      "instructors":[
-        "Bohlouli Zanjani,Parisa"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":7011,
-      "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"TUT 105",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":104,
-      "instructors":[
-        "Bohlouli Zanjani,Parisa"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:14:03-05:00"
-    },
-    {
-      "class_number":6072,
-      "subject":"STAT",
-      "catalog_number":"220",
-      "title":"Probability (Non-Specialist Level)",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Roberts,Collin Donald"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:15-05:00"
-    },
-    {
-      "class_number":5754,
-      "subject":"STAT",
-      "catalog_number":"333",
-      "title":"Applied Probability",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":68,
-      "instructors":[
-        "Shen,Yi"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:16-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "MC",
+            "catalog_number": "221",
+            "class_number": 4175,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 35,
+            "instructors": [
+                "Karanassios,Vassili"
+            ],
+            "last_updated": "2015-05-04T16:00:41-04:00",
+            "room": "2017",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CHEM",
+            "term": 1155,
+            "title": "Multi-Component Analysis",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "116",
+            "class_number": 3813,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 75,
+            "instructors": [
+                "Sakhnini,Victoria"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Introduction to Computer Science 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "116",
+            "class_number": 3814,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 73,
+            "instructors": [
+                "Sakhnini,Victoria"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Introduction to Computer Science 2",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "234",
+            "class_number": 3692,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 87,
+            "instructors": [
+                "Bedawi,Safaa Mahmoud Ahmed"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Data Types and Structures",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "234",
+            "class_number": 4639,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 87,
+            "instructors": [
+                "Derka,Martin"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Data Types and Structures",
+            "weekdays": "TTh"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "241",
+            "class_number": 3634,
+            "end_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 87,
+            "instructors": [
+                "Lushman,Bradley Michael"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Foundations of Sequential Programs",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "241",
+            "class_number": 3833,
+            "end_date": null,
+            "end_time": "14:20",
+            "enrollment_total": 90,
+            "instructors": [
+                "Lushman,Bradley Michael"
+            ],
+            "last_updated": "2015-05-04T16:00:49-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "13:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Foundations of Sequential Programs",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "251",
+            "class_number": 3621,
+            "end_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 92,
+            "instructors": [
+                "Kharal,Rosina"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "16:00",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Computer Organization and Design",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "251",
+            "class_number": 3869,
+            "end_date": null,
+            "end_time": "12:50",
+            "enrollment_total": 95,
+            "instructors": [
+                "Kharal,Rosina"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "11:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Computer Organization and Design",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "341",
+            "class_number": 3624,
+            "end_date": null,
+            "end_time": "09:50",
+            "enrollment_total": 61,
+            "instructors": [
+                "Petrick,Mark"
+            ],
+            "last_updated": "2015-05-04T16:00:50-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "08:30",
+            "subject": "CS",
+            "term": 1155,
+            "title": "Algorithms",
+            "weekdays": "WF"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "201",
+            "class_number": 2297,
+            "end_date": null,
+            "end_time": "11:20",
+            "enrollment_total": 100,
+            "instructors": [
+                "Van de Waal,Cornelis Howard"
+            ],
+            "last_updated": "2015-05-04T16:01:05-04:00",
+            "room": "2017",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "10:00",
+            "subject": "ECON",
+            "term": 1155,
+            "title": "Microeconomic Theory 1",
+            "weekdays": "MW"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "118",
+            "class_number": 3637,
+            "end_date": "05/15",
+            "end_time": "13:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Andre,Robert"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": "05/15",
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "118",
+            "class_number": 3637,
+            "end_date": "05/29",
+            "end_time": "13:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Andre,Robert"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": "05/29",
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "118",
+            "class_number": 3637,
+            "end_date": "06/12",
+            "end_time": "13:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Andre,Robert"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": "06/12",
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "118",
+            "class_number": 3637,
+            "end_date": "07/03",
+            "end_time": "13:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Andre,Robert"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": "07/03",
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "118",
+            "class_number": 3637,
+            "end_date": "07/17",
+            "end_time": "13:20",
+            "enrollment_total": 70,
+            "instructors": [
+                "Andre,Robert"
+            ],
+            "last_updated": "2015-05-04T16:01:37-04:00",
+            "room": "2017",
+            "section": "LEC 002",
+            "start_date": "07/17",
+            "start_time": "12:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Calculus 2 for Engineering",
+            "weekdays": "F"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3652,
+            "end_date": null,
+            "end_time": "15:20",
+            "enrollment_total": 100,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2017",
+            "section": "TUT 101",
+            "start_date": null,
+            "start_time": "14:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 1 for Honours Mathematics",
+            "weekdays": "T"
+        },
+        {
+            "building": "MC",
+            "catalog_number": "136",
+            "class_number": 3950,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 41,
+            "instructors": [],
+            "last_updated": "2015-05-04T16:01:38-04:00",
+            "room": "2017",
+            "section": "TUT 103",
+            "start_date": null,
+            "start_time": "15:30",
+            "subject": "MATH",
+            "term": 1155,
+            "title": "Linear Algebra 1 for Honours Mathematics",
+            "weekdays": "T"
+        }
+    ]
 }

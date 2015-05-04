@@ -1,174 +1,84 @@
 {
-  "meta":{
-    "requests":5299,
-    "timestamp":1420353794,
-    "status":200,
-    "message":"Request successful",
-    "method_id":1223,
-    "method":{
-      
-    }
-  },
-  "data":[
-    {
-      "class_number":7673,
-      "subject":"ARCH",
-      "catalog_number":"385",
-      "title":"Architectural Research",
-      "section":"RDG 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "van Pelt,Robert J"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    },
-    {
-      "class_number":7674,
-      "subject":"ARCH",
-      "catalog_number":"385",
-      "title":"Architectural Research",
-      "section":"RDG 002",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "El Khafif,Mona"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    },
-    {
-      "class_number":7675,
-      "subject":"ARCH",
-      "catalog_number":"385",
-      "title":"Architectural Research",
-      "section":"RDG 003",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Rynnimeri,Valerio"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:09:35-05:00"
-    },
-    {
-      "class_number":5213,
-      "subject":"ARCH",
-      "catalog_number":"623",
-      "title":"Ecosystem Design for Urban Landscapes",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Rynnimeri,Valerio"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:43-05:00"
-    },
-    {
-      "class_number":5214,
-      "subject":"ARCH",
-      "catalog_number":"641",
-      "title":"The Inner Studio",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"17:20",
-      "start_date":"03\/05",
-      "end_date":"04\/02",
-      "enrollment_total":12,
-      "instructors":[
-        "Levitt,Andrew"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:43-05:00"
-    },
-    {
-      "class_number":8229,
-      "subject":"ARCH",
-      "catalog_number":"684",
-      "title":"Special Topics in Architecture",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "van Pelt,Robert J"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:44-05:00"
-    },
-    {
-      "class_number":8230,
-      "subject":"ARCH",
-      "catalog_number":"684",
-      "title":"Special Topics in Architecture",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "El Khafif,Mona"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:44-05:00"
-    },
-    {
-      "class_number":8231,
-      "subject":"ARCH",
-      "catalog_number":"684",
-      "title":"Special Topics in Architecture",
-      "section":"LEC 003",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Revington,Dereck"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1151,
-      "last_updated":"2014-12-15T06:15:44-05:00"
-    }
-  ]
+    "data": [
+        {
+            "building": "ARC",
+            "catalog_number": "285",
+            "class_number": 3425,
+            "end_date": null,
+            "end_time": "19:50",
+            "enrollment_total": 20,
+            "instructors": [
+                "Beites,Steven"
+            ],
+            "last_updated": "2015-05-04T16:00:23-04:00",
+            "room": "2026",
+            "section": "LEC 001",
+            "start_date": null,
+            "start_time": "17:00",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Architectural Research",
+            "weekdays": "W"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "285",
+            "class_number": 3432,
+            "end_date": null,
+            "end_time": "12:20",
+            "enrollment_total": 8,
+            "instructors": [
+                "Sorli,Scott Thomas"
+            ],
+            "last_updated": "2015-05-04T16:00:23-04:00",
+            "room": "2026",
+            "section": "LEC 002",
+            "start_date": null,
+            "start_time": "09:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Architectural Research",
+            "weekdays": "T"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "684",
+            "class_number": 3427,
+            "end_date": "06/24",
+            "end_time": "13:50",
+            "enrollment_total": 6,
+            "instructors": [
+                "Marcopoulos,Christos"
+            ],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "2026",
+            "section": "LEC 003",
+            "start_date": "05/06",
+            "start_time": "09:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Special Topics in Architecture",
+            "weekdays": "W"
+        },
+        {
+            "building": "ARC",
+            "catalog_number": "684",
+            "class_number": 3428,
+            "end_date": null,
+            "end_time": "16:20",
+            "enrollment_total": 4,
+            "instructors": [
+                "English,Elizabeth"
+            ],
+            "last_updated": "2015-05-04T16:02:32-04:00",
+            "room": "2026",
+            "section": "LEC 004",
+            "start_date": null,
+            "start_time": "13:30",
+            "subject": "ARCH",
+            "term": 1155,
+            "title": "Special Topics in Architecture",
+            "weekdays": "T"
+        }
+    ]
 }
