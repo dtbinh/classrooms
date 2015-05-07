@@ -1,41 +1,27 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <title>Classrooms</title>
+<head>
+	<title>Classrooms</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> <!--320-->
-    <!-meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    
-    <link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
+	<!-meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
 	<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
 	<link rel="icon" sizes="192x192" href="icon.png">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="mobile-web-app-capable" content="yes">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom.css">
-  </head>
+</head>
 
-  <body onload="onLoad()">
-    <div class="container">
-      <h2>Classrooms</h2>
-
-      <form role="form" action="javascript:collectInfo()">
-		<div class="col-sm-3">
-          <label for="sel1">Day</label>
-          <select class="form-control" id="dayOfWeek">
-			<option value="M">Monday</option>
-			<option value="T">Tuesday</option>
-			<option value="W">Wednesday</option>
-			<option value="Th">Thursday</option>
-			<option value="F">Friday</option>
-          </select>
-		  <br>
-        </div>
-
-        <div class="col-sm-6">
-          <label for="buildings">Building</label>
-          <select class="form-control" id="buildings">
+<body>
+<div class="container">
+	<h2>Classrooms</h2>
+	<div class="col-sm-12">
+		<label for="buildings">Building</label>
+		<select class="form-control" id="buildings">
 			<option value="AL">AL - Arts Lecture Hall</option>
 			<option value="B1">B1 - Biology 1</option>
 			<option value="B2">B2 - Biology 2</option>
@@ -66,69 +52,23 @@
 			<option value="REN">REN - Renison University College Original Building</option>
 			<option value="STJ">STJ - St. Jerome's University Classroom Building</option>
 			<option value="STP">STP - St. Paul's United College Main Building</option>
-          </select>
-	  <br>
-	  </div>
-	  
-	  <div class="col-sm-3">
-		<label for="text">Room Number</label>
-		<input type="text" class="form-control" id="room">
-		<br>
-	  </div>
-      </form>
-
-	<div class="col-sm-3 hidden-xs">
-		<label>
-		<input type="checkbox" id="showCourses"> Show Course Titles
-		</label>
-	</div>
-	<div class="col-sm-3 hidden-xs">
-		<label>
-		<input type="checkbox" id="showDays"> Show Course Days
-		</label>
-	</div>
-	<div class="col-sm-3 hidden-xs">
-		<label>
-		<input type="checkbox" id="showInstr"> Show Instructors
-		</label>
-	</div>
-	<div class="col-sm-3 hidden-xs">
-		<label>
-		<input type="checkbox" id="showEnroll"> Show Enrollment
-		</label>
-		<br><br>
-	</div>
-
-	<div class="col-sm-12 hidden-xs">
-		<button onclick="collectInfo()" type="submit" class="btn btn-warning btn-block">Search</button>
+		</select>
 		<br>
 	</div>
-	<div class="col-sm-12 visible-xs">
-		<center><button onclick="collectInfo()" type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
-		<br>
-	</div>
-	
-	<div class="col-sm-12" id="displayOpenTimes">
-			<i>Find class schedule for a room by selecting day and room number</i>
-	</div>
-	<div class="col-sm-12" id="displayStatus"></div>
-	<div class="col-sm-12" id="displayTimes"></div>
+</div>
 
-	</div> 
-	
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-	<script src="classrooms.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.13.0/ui-bootstrap.js"></script>
+<script src="classrooms.js"></script>
 
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-59654912-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-  </body>
-
+	ga('create', 'UA-59654912-1', 'auto');
+	ga('send', 'pageview');
+</script>
+</body>
 </html>
