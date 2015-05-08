@@ -2,64 +2,48 @@
 <html>
 <head>
 	<title>Classrooms</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> <!--320-->
-	<!-meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Mobile Configuration -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
+	<!-- Mobile Icons -->
 	<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
 	<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
 	<link rel="icon" sizes="192x192" href="icon.png">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="mobile-web-app-capable" content="yes">
 
+	<!-- CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom.css">
+
+	<!-- AngularJS -->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.13.0/ui-bootstrap.js"></script>
+	<script src="app/controllers.js"></script>
+
 </head>
 
-<body>
-<div class="container">
+<body ng-app="classroomsApp">
+<div class="container" ng-controller="buildingsController">
 	<h2>Classrooms</h2>
 	<div class="col-sm-12">
 		<label for="buildings">Building</label>
-		<select class="form-control" id="buildings">
-			<option value="AL">AL - Arts Lecture Hall</option>
-			<option value="B1">B1 - Biology 1</option>
-			<option value="B2">B2 - Biology 2</option>
-			<option value="BMH">BMH - B.C. Matthews Hall</option>
-			<option value="C2">C2 - Chemistry 2</option>
-			<option value="CGR">CGR - Conrad Grebel University College</option>
-			<option value="CPH">CPH - Carl A. Pollock Hall</option>
-			<option value="DC">DC - William G. Davis Computer Research Centre</option>
-			<option value="DWE">DWE - Douglas Wright Engineering Building</option>
-			<option value="E2">E2 - Engineering 2</option>
-			<option value="E3">E3 - Engineering 3</option>
-			<option value="E5">E5 - Engineering 5</option>
-			<option value="E6">E6 - Engineering 6</option>
-			<option value="EIT">EIT - Centre for Environmental and Information Technology</option>
-			<option value="ESC">ESC - Earth Sciences & Chemistry</option>
-			<option value="EV1">EV1 - Environment 1</option>
-			<option value="EV2">EV2 - Environment 2</option>
-			<option value="EV3">EV3 - Environment 3</option>
-			<option value="HH">HH - J.G. Hagey Hall of the Humanities</option>
-			<option value="M3">M3 - Mathematics 3</option>
-			<option value="MC">MC - Mathematics & Computer Building</option>
-			<option value="ML">ML - Modern Languages</option>
-			<option value="OPT">OPT - Optometry</option>
-			<option value="PAS">PAS - Psychology, Anthropology, Sociology</option>
-			<option value="PHY">PHY - Physics</option>
-			<option value="QNC">QNC - Mike & Ophelia Lazaridis Quantum-Nano Centre</option>
-			<option value="RCH">RCH - J.R. Coutts Engineering Lecture Hall</option>
-			<option value="REN">REN - Renison University College Original Building</option>
-			<option value="STJ">STJ - St. Jerome's University Classroom Building</option>
-			<option value="STP">STP - St. Paul's United College Main Building</option>
+		<select class="form-control"
+				ng-model="selectedBuilding"
+				ng-change="buildingChanged()"
+				ng-init="selectedBuilding = buildings[0]"
+				ng-options="(building.code + ' - ' + building.name) for building in buildings"
+				id="buildings">
 		</select>
+		<!--<select class="form-control" id="buildings"></select>-->
+
 		<br>
+		<pre>{{selectedBuilding | json}}</pre>
+
 	</div>
 </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.13.0/ui-bootstrap.js"></script>
-<script src="classrooms.js"></script>
 
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
