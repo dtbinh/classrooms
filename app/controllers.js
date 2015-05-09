@@ -37,32 +37,33 @@ classroomsApp.controller('buildingsController', function($scope, $http) {
         {code: 'STP', name: 'St. Paul\'s United College Main Building'}
     ];
 
-    // TODO: load previously viewed building from localStorage
-    $scope.selectedBuilding = $scope.buildings[0];
+    $scope.hideAllDivs = function() {
+        $scope.showOpenTimesDiv = false;
+        $scope.showNoOpenTimesDiv = false;
+        $scope.showNoClassesDiv = false;
+    };
 
     $scope.getBuildingOpenTimes = function() {
+        localStorage.setItem("selectedBuildingIndex", $scope.buildings.indexOf( $scope.selectedBuilding ));
+
         $http.get('open_times/' + $scope.selectedBuilding.code + '.json').success(function (data) {
             $scope.openTimes = data;
-            // after getting the open times process the times
+            // after getting the open times process them
             $scope.processOpenTimes();
         });
     };
 
     $scope.processOpenTimes = function() {
+        $scope.hideAllDivs();
         $scope.processedOpenTimes = [];
 
         var currentTime = getCurrentTime();
         var currentDay = getCurrentDayOfWeek();
 
-        // TODO: remove hardcode of time used for testing
-        currentTime = 30;
-        currentDay = "M";
-
         // determine whether current time and day are valid
         if (currentTime >= 3 && currentTime < 84 && currentDay != "S") {
-
             // loop through open times and determine which rooms are available given the current time and day
-            for (var i = 0; i <= $scope.openTimes.length; i++) {
+            for (var i = 0; i < $scope.openTimes.length; i++) {
                 if ($scope.openTimes[i][currentDay][currentTime] == 0) {
                     var openRoom = new Object();
                     openRoom.name = $scope.selectedBuilding.code + " " + $scope.openTimes[i].roomNumber;
@@ -88,14 +89,31 @@ classroomsApp.controller('buildingsController', function($scope, $http) {
                     $scope.processedOpenTimes.push(openRoom);
                 }
             }
+
+            if ($scope.processedOpenTimes.length > 0) {
+                // there are open times to display
+                $scope.showOpenTimesDiv = true;
+            } else {
+                // no open times to display, all rooms occupied
+                $scope.showNoOpenTimesDiv = true;
+            }
         }
 
         // otherwise if the time is out of range no classes are scheduled
         else {
-
+            $scope.showNoClassesDiv = true;
         }
 
     };
+
+    // get the previously selected building from the last session if it exists
+    var prevBuildingIndex = localStorage.getItem("selectedBuildingIndex");
+
+    if (prevBuildingIndex === null) {
+        $scope.selectedBuilding = $scope.buildings[0];
+    } else {
+        $scope.selectedBuilding = $scope.buildings[prevBuildingIndex];
+    }
 
     // get the selected building's open times
     $scope.getBuildingOpenTimes();
