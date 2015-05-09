@@ -1,6 +1,7 @@
 # Classrooms
-This is a webapp that displays schedules of classes given a building, room number and day. 
-If there is no input in the room number, it shows the currently open rooms in the selected building.
+This is a webapp that shows currently unoccupied classrooms in a building in the University of Waterloo.
+The unoccupied classrooms are determined from which classrooms currently do not have a class scheduled in them.
+
 Take a look [here](http://www.jkliu.ca/classrooms).
 
-Built with JavaScript, jQuery, Bootstrap, and Python.
+Built with AngularJS, UI Bootstrap, and Python.
