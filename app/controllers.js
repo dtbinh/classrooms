@@ -155,8 +155,8 @@ function formatTime(i) {
     if (i < 30) twelveHourTime += (Math.floor(i / 6) + 8) + ":" + i % 6 + "0";
     else twelveHourTime += (Math.floor(i / 6) + 8) % 12 + ":" + i % 6 + "0";
 
-    if (i <= 23) twelveHourTime += "AM";
-    else twelveHourTime += "PM";
+    if (i <= 23) twelveHourTime += " AM";
+    else twelveHourTime += " PM";
 
     return twelveHourTime;
 }
