@@ -126,7 +126,6 @@ classroomsApp.controller('buildingsController', function($scope, $http) {
 function getCurrentDayOfWeek() {
     var d = new Date();
     var weekdays = ["S", "M", "T", "W", "Th", "F", "S"];
-
     return weekdays[d.getDay()];
 }
 
@@ -145,18 +144,17 @@ function getCurrentTime() {
 
 /**
  * Formats a time in 0 to 84 format to 12 hour format eg. 8:30AM
- * @param i a time in 0 to 84 format
+ * @param time84 a time in 0 to 84 format
  * @returns {string}
  */
-function formatTime(i) {
-    var twelveHourTime = "";
+function formatTime(time84) {
+    var hour = Math.floor(time84 / 6) + 8;          // 0 represents 8:00 AM so always add 8
+    if (time84 >= 30) hour = hour % 12;             // modulo the hour after 13:00 to get 12 hour format
 
-    // don't change to 12 hour until at least 1:00PM (30)
-    if (i < 30) twelveHourTime += (Math.floor(i / 6) + 8) + ":" + i % 6 + "0";
-    else twelveHourTime += (Math.floor(i / 6) + 8) % 12 + ":" + i % 6 + "0";
+    var minute = time84 % 6 + "0";
 
-    if (i <= 23) twelveHourTime += " AM";
-    else twelveHourTime += " PM";
+    var amPm = "AM";
+    if (time84 >= 24) amPm = "PM";
 
-    return twelveHourTime;
+    return hour + ":" + minute + " " + amPm;
 }
