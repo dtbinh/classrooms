@@ -2,7 +2,7 @@
 
 var classroomsApp = angular.module('classroomsApp', []);
 
-classroomsApp.controller('buildingsController', function($scope, $http) {
+classroomsApp.controller('openTimesController', function($scope, $http) {
     // define the buildings on campus
     $scope.buildings = [
         {code: 'AL', name: 'Arts Lecture Hall'},
