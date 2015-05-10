@@ -6,7 +6,7 @@
         <label for="buildings">Building</label>
         <select class="form-control"
                 ng-model="selectedBuilding"
-                ng-change="getBuildingOpenTimes()"
+                ng-change="onSelectedBuildingChange()"
                 ng-options="(building.code + ' - ' + building.name) for building in buildings"
                 id="buildings">
         </select>
