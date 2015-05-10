@@ -1,0 +1,91 @@
+<div class="container" ng-controller="openTimesController">
+    <h3>Open Rooms</h3>
+
+    <!-- BUILDING SELECTOR -->
+    <div class="col-sm-12" style="margin-bottom: 16px;">
+        <label for="buildings">Building</label>
+        <select class="form-control"
+                ng-model="selectedBuilding"
+                ng-change="getBuildingOpenTimes()"
+                ng-options="(building.code + ' - ' + building.name) for building in buildings"
+                id="buildings">
+        </select>
+    </div>
+
+    <!-- OPEN TIMES -->
+    <div class="col-sm-6 col-md-4" ng-show="showOpenTimesDiv">
+        <table class="table table-condensed">
+            <tr>
+                <th>
+                    <p style="text-align:left; margin: 3px;">
+                        <i class="fa fa-university"></i> Classroom
+                    </p>
+                </th>
+                <th>
+                    <p style="text-align:right; margin: 3px;">
+                        Available Until <i class="fa fa-clock-o"></i>
+                    </p>
+                </th>
+            </tr>
+            <tr ng-repeat="openTime in processedOpenTimes">
+                <td>
+                    <p style="text-align:left; margin: 3px;">
+                        <b>{{openTime.name}}</b>
+                    </p>
+                </td>
+                <td>
+                    <p style="text-align:right; margin: 3px;">
+                        {{openTime.occupied}}
+                    </p>
+                </td>
+            </tr>
+        </table>
+
+        <i>Rooms may not always be accessible.</i>
+    </div>
+
+    <!-- NO OPEN TIMES MESSAGE -->
+    <div class="col-sm-12" ng-show="showNoOpenTimesDiv">
+        <p><i class="fa fa-exclamation-triangle"></i> All of the classrooms in this building are currently occupied.</p>
+    </div>
+
+    <!-- NO CLASSES SCHEDULED -->
+    <div ng-show="showNoClassesDiv">
+        <div class="col-sm-12">
+            <p><i class="fa fa-info-circle"></i> No classes scheduled at this time, these rooms may be available</p>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+            <table class="table table-condensed">
+                <tr>
+                    <th>
+                        <p style="text-align:left; margin: 3px;">
+                            <i class="fa fa-university"></i> Classroom
+                        </p>
+                    </th>
+                    <th>
+                        <p style="text-align:right; margin: 3px;">
+                            Available Until <i class="fa fa-clock-o"></i>
+                        </p>
+                    </th>
+                </tr>
+                <tr ng-repeat="room in openTimes">
+                    <td>
+                        <p style="text-align:left; margin: 3px;">
+                            <b>{{selectedBuilding.code + " " + room.roomNumber}}</b>
+                        </p>
+                    </td>
+                    <td>
+                        <p style="text-align:right; margin: 3px;">
+                            building closes
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="col-sm-12">
+            <i>Rooms may not always be accessible.</i>
+        </div>
+    </div>
+</div>

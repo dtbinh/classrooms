@@ -1,6 +1,6 @@
 /* Controllers */
 
-var classroomsApp = angular.module('classroomsApp', []);
+var classroomsApp = angular.module('classroomsControllers', []);
 
 classroomsApp.controller('openTimesController', function($scope, $http) {
     // define the buildings on campus
