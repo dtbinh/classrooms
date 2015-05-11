@@ -1,5 +1,9 @@
-<div class="container" ng-controller="openTimesController">
-    <h3>Open Rooms</h3>
+<div class="container">
+    <h3 style="margin-top: 0;">Open Rooms
+        <a style="vertical-align: middle; font-size:10.5px" class="label label-primary" href="#/room-schedules" role="button">
+            <i class="fa fa-clock-o"></i> Room Schedules
+        </a>
+    </h3>
 
     <!-- BUILDING SELECTOR -->
     <div class="col-sm-12" style="margin-bottom: 16px;">
@@ -30,7 +34,7 @@
             <tr ng-repeat="openTime in processedOpenTimes">
                 <td>
                     <p style="text-align:left; margin: 3px;">
-                        <b>{{openTime.name}}</b>
+                        <b><a href={{openTime.url}}>{{openTime.name}}</a></b>
                     </p>
                 </td>
                 <td>

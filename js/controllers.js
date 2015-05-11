@@ -2,7 +2,7 @@
 
 var classroomsApp = angular.module('classroomsControllers', []);
 
-classroomsApp.controller('openTimesController', function($scope, $routeParams, $http) {
+classroomsApp.controller('openRoomsController', function($scope, $routeParams, $http) {
     $scope.buildings = CAMPUS_BUILDINGS;
 
     $scope.hideAllDivs = function() {
@@ -33,6 +33,10 @@ classroomsApp.controller('openTimesController', function($scope, $routeParams, $
                 if ($scope.openTimes[i][currentDay][currentTime] == 0) {
                     var openRoom = new Object();
                     openRoom.name = $scope.selectedBuilding.code + " " + $scope.openTimes[i].roomNumber;
+                    openRoom.url = '#/room-schedules/'
+                                    + $scope.selectedBuilding.code + '/'
+                                    + $scope.openTimes[i].roomNumber + '/'
+                                    + getCurrentDayOfWeek();
 
                     var j = currentTime;
 
@@ -77,14 +81,8 @@ classroomsApp.controller('openTimesController', function($scope, $routeParams, $
     };
 
     // get the route information and initialize if not set
-    if ($routeParams.buildingCode === undefined) {
-        $scope.selectedBuilding = $scope.buildings[0];
-        $scope.onSelectedBuildingChange();
-    }
-
-    // building url is valid
-    else if (getBuildingCodeIndex( $routeParams.buildingCode ) != -1) {
-        $scope.selectedBuilding = $scope.buildings[getBuildingCodeIndex( $routeParams.buildingCode )];
+    if (getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS ) != -1) {
+        $scope.selectedBuilding = $scope.buildings[getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS )];
         $scope.getBuildingOpenTimes();
     }
 
@@ -92,6 +90,113 @@ classroomsApp.controller('openTimesController', function($scope, $routeParams, $
     else {
         $scope.selectedBuilding = $scope.buildings[0];
         $scope.onSelectedBuildingChange();
+    }
+});
+
+
+classroomsApp.controller('roomSchedulesController', function($scope, $routeParams, $http) {
+    $scope.buildings = CAMPUS_BUILDINGS;
+    $scope.daysOfWeek = DAYS_OF_WEEK;
+    $scope.roomNumber = $routeParams.roomNumber;
+
+    // hide all the divs
+    $scope.showOpenTimesDiv = false;
+    $scope.showRoomDoesNotExist = false;
+    $scope.showNoClassesDiv = false;
+
+    $scope.submit = function() {
+        if ($scope.selectedBuilding != undefined && $scope.roomNumber != undefined && $scope.selectedDay != undefined) {
+            // change the window location
+            window.location.href = '#/room-schedules/' + $scope.selectedBuilding.code + '/' + $scope.roomNumber + '/' + $scope.selectedDay.code;
+        }
+    };
+
+    $scope.getRoomSchedule = function() {
+        $http.get('schedules/' + $scope.selectedBuilding.code + '_' + $scope.roomNumber + '.json')
+            .success(function (data) {
+                $scope.roomSchedule = data.data;
+                // process the room schedule
+                $scope.processRoomSchedule();
+
+                // if the room exists get the open time data
+                $http.get('open_times/' + $scope.selectedBuilding.code + '.json').success(function (data) {
+                    $scope.openTimes = data;
+                    // after getting the open times process them
+                    $scope.processOpenTimes();
+                });
+            })
+
+            .error(function () {
+                // if the room does not exist tell the user
+                $scope.showRoomDoesNotExist = true;
+            });
+    };
+
+    $scope.processRoomSchedule = function() {
+        // sort the array by start time
+        $scope.roomSchedule.sort(function(a, b) {
+            var x = a.start_time; var y = b.start_time;
+            return ((x < y) ? -1 : (x > y));
+        });
+
+        // remove elements from the room schedule that are not of the current day selected
+        var currentDaySchedule = [];
+
+        for (i = 0; i < $scope.roomSchedule.length; i++) {
+            if ($scope.roomSchedule[i].weekdays.indexOf($scope.selectedDay.code) > -1) {
+                // TODO determine better method of seeing if classes
+                // this only works with the assumption that Thursday classes are not combined with any other classes
+                // other than Tuesday eg. this fails for 'WTh' classes
+                if ($scope.selectedDay.code == "T" && $scope.roomSchedule[0].weekdays != "Th") {
+                    // API sometimes has duplicate entries for some reason, remove them here
+                    if (!isItemInSchedule($scope.roomSchedule[i], currentDaySchedule)) {
+                        currentDaySchedule.push($scope.roomSchedule[i]);
+                    }
+                }
+
+                else if ($scope.selectedDay.code != "T") {
+                    if (!isItemInSchedule($scope.roomSchedule[i], currentDaySchedule)) {
+                        currentDaySchedule.push($scope.roomSchedule[i]);
+                    }
+                }
+            }
+        }
+
+        $scope.roomSchedule = currentDaySchedule;
+        if ($scope.roomSchedule.length == 0) {
+            $scope.showNoClassesDiv = true;
+        }
+    };
+
+    $scope.processOpenTimes = function() {
+        // get only the relevant part of the data
+        for (var i = 0; i < $scope.openTimes.length; i++) {
+            if ($scope.openTimes[i].roomNumber == $scope.roomNumber) {
+                $scope.openTimes = $scope.openTimes[i][$scope.selectedDay.code];
+                break;
+            }
+        }
+    };
+
+    /* GET ANGULAR ROUTE INFORMATION AND SET IF INVALID */
+    if ((getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS ) != -1) &&
+        (getCodeIndex( $routeParams.dayOfWeek, DAYS_OF_WEEK ) != -1)) {
+        $scope.selectedBuilding = $scope.buildings[getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS )];
+        $scope.selectedDay = $scope.daysOfWeek[getCodeIndex( $routeParams.dayOfWeek, DAYS_OF_WEEK )];
+
+        $scope.getRoomSchedule();
+    }
+
+    // url is invalid or empty, set form default values
+    else {
+        $scope.selectedBuilding = $scope.buildings[0];
+        if (getCurrentDayOfWeek() != "S") {
+            $scope.selectedDay = $scope.daysOfWeek[getCodeIndex( getCurrentDayOfWeek(), DAYS_OF_WEEK )];
+        }
+        else {
+            $scope.selectedDay = $scope.daysOfWeek[0];
+        }
+        $scope.roomNumber = undefined;
     }
 });
 
@@ -127,6 +232,15 @@ var CAMPUS_BUILDINGS = [
     {code: 'REN', name: 'Renison University College Original Building'},
     {code: 'STJ', name: 'St. Jerome\'s University Classroom Building'},
     {code: 'STP', name: 'St. Paul\'s United College Main Building'}
+];
+
+// define the days of the week in the same format as the room data
+var DAYS_OF_WEEK = [
+    {code: 'M', name: 'Monday'},
+    {code: 'T', name: 'Tuesday'},
+    {code: 'W', name: 'Wednesday'},
+    {code: 'Th', name: 'Thursday'},
+    {code: 'F', name: 'Friday'}
 ];
 
 /**
@@ -170,20 +284,35 @@ function formatTime(time84) {
 }
 
 /**
- * Gets the index of a building on campus from the building code
- * if the building code is valid, otherwise returns -1
- * @param code
+ * Gets the index of a building/day from the building/day code if the code is valid,
+ * returns -1 otherwise
+ * @param code the code to check
+ * @param array the array to check
  * @returns {number}
  */
-function getBuildingCodeIndex(code) {
+function getCodeIndex(code, array) {
+    if (code === undefined) return -1;
     var index = -1;
 
-    for (var i = 0; i < CAMPUS_BUILDINGS.length; i++) {
-        if (CAMPUS_BUILDINGS[i].code == code) {
+    for (var i = 0; i < array.length; i++) {
+        if (array[i].code == code) {
             index = i;
             break;
         }
     }
 
     return index;
+}
+
+function isItemInSchedule(item, schedule) {
+    var isFound = false;
+
+    for (var i = 0; i < schedule.length; i++) {
+        if (item.title == schedule[i].title && item.section == schedule[i].section){
+            isFound = true;
+            break;
+        }
+    }
+
+    return isFound;
 }

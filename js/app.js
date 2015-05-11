@@ -10,12 +10,22 @@ classroomsApp.config(function($routeProvider) {
 
         .when('/open-rooms', {
             templateUrl: 'partials/open-rooms.html',
-            controller: 'openTimesController'
+            controller: 'openRoomsController'
         })
 
         .when('/open-rooms/:buildingCode', {
             templateUrl: 'partials/open-rooms.html',
-            controller: 'openTimesController'
+            controller: 'openRoomsController'
+        })
+
+        .when('/room-schedules', {
+            templateUrl: 'partials/room-schedules.html',
+            controller: 'roomSchedulesController'
+        })
+
+        .when('/room-schedules/:buildingCode/:roomNumber/:dayOfWeek', {
+            templateUrl: 'partials/room-schedules.html',
+            controller: 'roomSchedulesController'
         })
 
         .otherwise({

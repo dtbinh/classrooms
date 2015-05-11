@@ -1,0 +1,66 @@
+<div class="container">
+    <h3 style="margin-top: 0;">Room Schedules
+        <a style="vertical-align: middle; font-size:10.5px" class="label label-primary" href="#/open-rooms/{{selectedBuilding.code}}" role="button">
+            <i class="fa fa-institution"></i> Open Rooms
+        </a>
+    </h3>
+
+    <form ng-submit="submit()">
+        <!-- DAY SELECTOR -->
+        <div class="col-sm-3" style="margin-bottom: 16px;">
+            <label for="daysOfWeek">Day</label>
+            <select class="form-control"
+                    ng-model="selectedDay"
+                    ng-options="day.name for day in daysOfWeek"
+                    id="daysOfWeek">
+            </select>
+        </div>
+
+        <!-- BUILDING SELECTOR -->
+        <div class="col-sm-6" style="margin-bottom: 16px;">
+            <label for="buildings">Building</label>
+            <select class="form-control"
+                    ng-model="selectedBuilding"
+                    ng-options="(building.code + ' - ' + building.name) for building in buildings"
+                    id="buildings">
+            </select>
+        </div>
+
+        <!-- ROOM NUMBER -->
+        <div class="col-sm-3" style="margin-bottom: 16px;">
+            <label for="roomNumber">Room Number</label>
+            <input type="text" class="form-control" ng-model="roomNumber" id="roomNumber">
+        </div>
+
+        <!-- SUBMIT BUTTON -->
+        <div class="col-sm-12 hidden-xs">
+            <button class="btn btn-warning btn-block" type="submit">Search</button>
+        </div>
+        <div class="col-sm-12 visible-xs" style="text-align: center">
+            <button class="btn btn-warning btn-circle btn-lg" type="submit">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </form>
+
+    <!-- NO CLASSES MESSAGE -->
+    <div class="col-sm-12" ng-show="showNoClassesDiv" style="margin-top: 12px;">
+        <p><i class="fa fa-check-circle"></i> Room has no classes scheduled for selected day.</p>
+    </div>
+
+    <!-- ROOM DOES NOT EXIST MESSAGE -->
+    <div class="col-sm-12" ng-show="showRoomDoesNotExist" style="margin-top: 12px;">
+        <p><i class="fa fa-exclamation-triangle"></i> Room has no classes scheduled or does not exist.</p>
+    </div>
+
+    <div class="col-sm-12" ng-repeat="class in roomSchedule" style="margin-top: 12px;">
+        <!-- TODO: Pretty formatting -->
+        <p>{{class.title}} {{class.section}}</p>
+        <p>{{class.subject}} {{class.catalog_number}} {{class.start_time}}-{{class.end_time}} {{class.weekdays}}</p>
+        <br>
+
+        <!-- TODO: Process open times-->
+        <pre>{{openTimes | json}}</pre>
+    </div>
+
+</div>
