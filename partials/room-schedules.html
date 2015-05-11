@@ -63,11 +63,8 @@
     </div>
 
     <!-- EMPTY TIMES -->
-    <div class="col-sm-12" ng-show="showOpenTimesDiv">
-        <h3>Open Times</h3>
-    </div>
-
     <div class="col-sm-6 col-md-4" ng-show="showOpenTimesDiv">
+        <h3 style="margin-top: 0">Open Times</h3>
         <table class="table table-condensed" style="margin-bottom: 0;">
             <tr>
                 <th>
@@ -97,44 +94,45 @@
     </div>
 
     <!-- SCHEDULED CLASSES -->
-    <div class="col-sm-12" ng-show="showOpenTimesDiv">
-        <h3>Scheduled Sections</h3>
-    </div>
+    <div class="col-sm-6 col-md-8" ng-show="showOpenTimesDiv">
+        <h3 style="margin-top: 0;">Scheduled Sections</h3>
+        <div class="col-md-6 col-sm-12 section" ng-repeat="class in roomSchedule" ng-show="showOpenTimesDiv">
+            <table class="table table-classes">
+                <tr>
+                    <td colspan="3">
+                        <p style="text-align:left; margin: 0; font-size: 32px; line-height: .9;">
+                            {{class.subject}} {{class.catalog_number}}
+                        </p>
+                    </td>
+                    <td colspan="3" style="vertical-align: middle">
+                        <p style="text-align:right; margin: 0; font-weight: bold">
+                            {{class.section}}
+                        </p>
+                    </td>
+                </tr>
 
-    <div class="col-md-4 col-sm-6" ng-repeat="class in roomSchedule" ng-show="showOpenTimesDiv">
-        <table class="table table-classes">
-            <tr>
-                <td colspan="3">
-                    <p style="text-align:left; margin: 0; font-size: 32px; line-height: .9;">
-                        {{class.subject}} {{class.catalog_number}}
-                    </p>
-                </td>
-                <td colspan="3" style="vertical-align: middle">
-                    <p style="text-align:right; margin: 0; font-weight: bold">
-                        {{class.section}}
-                    </p>
-                </td>
-            </tr>
+                <tr>
+                    <td colspan="3">
+                        <p style="text-align:left; margin: 0;">
+                            <i class="fa fa-clock-o"></i> {{class.start_time}} - {{class.end_time}}
+                        </p>
+                    </td>
 
-            <tr>
-                <td colspan="3">
-                    <p style="text-align:left; margin: 3px;">
-                        {{class.start_time}} - {{class.end_time}}
-                    </p>
-                </td>
+                    <td colspan="3">
+                        <p style="text-align:right; margin: 0;">
+                            {{class.weekdays}} <i class="fa fa-calendar"></i>
+                        </p>
+                    </td>
+                </tr>
 
-                <td colspan="3">
-                    <p style="text-align:right; margin: 3px;">
-                        {{class.weekdays}}
-                    </p>
-                </td>
-            </tr>
-
-            <tr>
-                <td colspan="6" style="text-align:left; font-size: 12px;">
-                    <p style="margin: 0 0 0 3px;">{{class.title}}</p>
-                </td>
-            </tr>
-        </table>
+                <tr>
+                    <td colspan="6" style="text-align:left; font-size: 12px;">
+                        <p style="margin: 0;">
+                            <i class="fa fa-book"></i> {{class.title}}
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </div>
     </div>
 </div>
