@@ -33,10 +33,10 @@
         </div>
 
         <!-- SUBMIT BUTTON -->
-        <div class="col-sm-12 hidden-xs">
+        <div class="col-sm-12 hidden-xs" style="margin-bottom: 12px;">
             <button class="btn btn-warning btn-block" type="submit">Search</button>
         </div>
-        <div class="col-sm-12 visible-xs" style="text-align: center">
+        <div class="col-sm-12 visible-xs" style="text-align: center; margin-bottom: 12px">
             <button class="btn btn-warning btn-circle btn-lg" type="submit">
                 <i class="fa fa-search"></i>
             </button>
@@ -44,23 +44,24 @@
     </form>
 
     <!-- NO CLASSES MESSAGE -->
-    <div class="col-sm-12" ng-show="showNoClassesDiv" style="margin-top: 12px;">
+    <div class="col-sm-12" ng-show="showNoClassesDiv">
         <p><i class="fa fa-check-circle"></i> Room has no classes scheduled for selected day.</p>
     </div>
 
     <!-- ROOM DOES NOT EXIST MESSAGE -->
-    <div class="col-sm-12" ng-show="showRoomDoesNotExist" style="margin-top: 12px;">
+    <div class="col-sm-12" ng-show="showRoomDoesNotExist">
         <p><i class="fa fa-exclamation-triangle"></i> Room has no classes scheduled or does not exist.</p>
     </div>
 
-    <div class="col-sm-12" ng-repeat="class in roomSchedule" style="margin-top: 12px;">
+    <div class="col-md-4 col-sm-6" ng-repeat="class in roomSchedule">
         <!-- TODO: Pretty formatting -->
         <p>{{class.title}} {{class.section}}</p>
         <p>{{class.subject}} {{class.catalog_number}} {{class.start_time}}-{{class.end_time}} {{class.weekdays}}</p>
         <br>
+    </div>
 
+    <div class="col-sm-12">
         <!-- TODO: Process open times-->
         <pre>{{openTimes | json}}</pre>
     </div>
-
 </div>
