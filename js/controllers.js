@@ -173,6 +173,8 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
         $scope.roomSchedule = currentDaySchedule;
         if ($scope.roomSchedule.length == 0) {
             $scope.showNoClassesDiv = true;
+        } else {
+            $scope.showOpenTimesDiv = true;
         }
     };
 
