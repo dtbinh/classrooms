@@ -44,15 +44,13 @@
     </form>
 
     <!-- HEADER WHEN FORM IS GONE -->
-    <div class="col-sm-12" ng-hide="showFormDiv">
-        <h3 style="margin-top: 0">
-            <a href="#/room-schedules/{{selectedBuilding.code}}/{{roomNumber}}/{{selectedDay.code}}/editing">
-                <i class="fa fa-arrow-left"></i>
-            </a>
+	<h3 style="margin-top: 0"; ng-hide="showFormDiv">
+		<a href="#/room-schedules/{{selectedBuilding.code}}/{{roomNumber}}/{{selectedDay.code}}/editing">
+			<i class="fa fa-arrow-left"></i>
+		</a>
 
-            {{selectedBuilding.code}} {{roomNumber}} - {{selectedDay.name}}
-        </h3>
-    </div>
+		{{selectedBuilding.code}} {{roomNumber}} - {{selectedDay.name}}
+	</h3>
 
     <!-- NO CLASSES MESSAGE -->
     <div class="col-sm-12" ng-show="showNoClassesDiv" style="margin-top: 16px;">
