@@ -23,7 +23,17 @@ classroomsApp.config(function($routeProvider) {
             controller: 'roomSchedulesController'
         })
 
+        .when('/room-schedules/:buildingCode', {
+            templateUrl: 'partials/room-schedules.html',
+            controller: 'roomSchedulesController'
+        })
+
         .when('/room-schedules/:buildingCode/:roomNumber/:dayOfWeek', {
+            templateUrl: 'partials/room-schedules.html',
+            controller: 'roomSchedulesController'
+        })
+
+        .when('/room-schedules/:buildingCode/:roomNumber/:dayOfWeek/:editing', {
             templateUrl: 'partials/room-schedules.html',
             controller: 'roomSchedulesController'
         })

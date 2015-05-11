@@ -1,11 +1,11 @@
 <div class="container">
-    <h3 style="margin-top: 0;">Room Schedules
+    <h3 style="margin-top: 0;" ng-show="showFormDiv">Room Schedules
         <a style="vertical-align: middle; font-size:10.5px" class="label label-primary" href="#/open-rooms/{{selectedBuilding.code}}" role="button">
             <i class="fa fa-institution"></i> Open Rooms
         </a>
     </h3>
 
-    <form ng-submit="submit()">
+    <form ng-submit="submit()" ng-show="showFormDiv">
         <!-- DAY SELECTOR -->
         <div class="col-sm-3" style="margin-bottom: 16px;">
             <label for="daysOfWeek">Day</label>
@@ -43,6 +43,17 @@
         </div>
     </form>
 
+    <!-- HEADER WHEN FORM IS GONE -->
+    <div class="col-sm-12" ng-hide="showFormDiv">
+        <h3 style="margin-top: 0">
+            <a href="#/room-schedules/{{selectedBuilding.code}}/{{roomNumber}}/{{selectedDay.code}}/editing">
+                <i class="fa fa-arrow-left"></i>
+            </a>
+
+            {{selectedBuilding.code}} {{roomNumber}} - {{selectedDay.name}}
+        </h3>
+    </div>
+
     <!-- NO CLASSES MESSAGE -->
     <div class="col-sm-12" ng-show="showNoClassesDiv" style="margin-top: 16px;">
         <p><i class="fa fa-check-circle"></i> Room has no classes scheduled for selected day.</p>
@@ -58,8 +69,33 @@
         <h3>Open Times</h3>
     </div>
 
-    <div class="col-sm-12" ng-show="showOpenTimesDiv">
-        <!-- TODO: Process open times-->
+    <div class="col-sm-6 col-md-4" ng-show="showOpenTimesDiv">
+        <table class="table table-condensed" style="margin-bottom: 0;">
+            <tr>
+                <th>
+                    <p style="text-align:left; margin: 3px;">
+                        <i class="fa fa-arrow-up"></i> Begin
+                    </p>
+                </th>
+                <th>
+                    <p style="text-align:right; margin: 3px;">
+                        End <i class="fa fa-arrow-down"></i>
+                    </p>
+                </th>
+            </tr>
+            <tr ng-repeat="time in processedOpenTimes">
+                <td>
+                    <p style="text-align:left; margin: 3px;">
+                        {{time.begin}}
+                    </p>
+                </td>
+                <td>
+                    <p style="text-align:right; margin: 3px;">
+                        {{time.end}}
+                    </p>
+                </td>
+            </tr>
+        </table>
     </div>
 
     <!-- SCHEDULED CLASSES -->

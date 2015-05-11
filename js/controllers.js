@@ -100,6 +100,7 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
     $scope.roomNumber = $routeParams.roomNumber;
 
     // hide all the divs
+    $scope.showFormDiv = false;
     $scope.showOpenTimesDiv = false;
     $scope.showRoomDoesNotExist = false;
     $scope.showNoClassesDiv = false;
@@ -151,7 +152,7 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
                 // TODO determine better method of seeing if classes
                 // this only works with the assumption that Thursday classes are not combined with any other classes
                 // other than Tuesday eg. this fails for 'WTh' classes
-                if ($scope.selectedDay.code == "T" && $scope.selectedDay.code != "Th") {
+                if ($scope.selectedDay.code == "T" && $scope.roomSchedule[i].weekdays != "Th") {
                     // API sometimes has duplicate entries for some reason, remove them here
                     if (!isItemInSchedule($scope.roomSchedule[i], currentDaySchedule)) {
                         $scope.roomSchedule[i].start_time = formatTime24($scope.roomSchedule[i].start_time);
@@ -179,6 +180,8 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
     };
 
     $scope.processOpenTimes = function() {
+        $scope.processedOpenTimes = [];
+
         // get only the relevant part of the data
         for (var i = 0; i < $scope.openTimes.length; i++) {
             if ($scope.openTimes[i].roomNumber == $scope.roomNumber) {
@@ -186,6 +189,21 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
                 break;
             }
         }
+
+        var lastTimeOccupied = false;
+        var startTimeStr = "";
+
+        for (var i = 3; i < 84; i++) {
+            if ($scope.openTimes[i] == 0 && $scope.openTimes[i + 1] == 0 && lastTimeOccupied == false) {
+                startTimeStr = formatTime84(i);
+                lastTimeOccupied = true;
+            }
+            else if ($scope.openTimes[i] == 1 && lastTimeOccupied == true) {
+                $scope.processedOpenTimes.push( {begin: startTimeStr, end: formatTime84(i)} );
+                lastTimeOccupied = false;
+            }
+        }
+        $scope.processedOpenTimes.push( {begin: startTimeStr, end: "building closes"} );
     };
 
     /* GET ANGULAR ROUTE INFORMATION AND SET IF INVALID */
@@ -194,18 +212,29 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
         $scope.selectedBuilding = $scope.buildings[getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS )];
         $scope.selectedDay = $scope.daysOfWeek[getCodeIndex( $routeParams.dayOfWeek, DAYS_OF_WEEK )];
 
-        $scope.getRoomSchedule();
+        if ($routeParams.editing != undefined) {
+            $scope.showFormDiv = true;
+        } else {
+            $scope.getRoomSchedule();
+        }
     }
 
     // url is invalid or empty, set form default values
     else {
-        $scope.selectedBuilding = $scope.buildings[0];
+        if (getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS ) != -1) {
+            $scope.selectedBuilding = $scope.buildings[getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS )];
+        } else {
+            $scope.selectedBuilding = $scope.buildings[0];
+        }
+
         if (getCurrentDayOfWeek() != "S") {
             $scope.selectedDay = $scope.daysOfWeek[getCodeIndex( getCurrentDayOfWeek(), DAYS_OF_WEEK )];
         }
         else {
             $scope.selectedDay = $scope.daysOfWeek[0];
         }
+
+        $scope.showFormDiv = true;
         $scope.roomNumber = undefined;
     }
 });
