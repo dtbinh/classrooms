@@ -33,10 +33,10 @@
         </div>
 
         <!-- SUBMIT BUTTON -->
-        <div class="col-sm-12 hidden-xs" style="margin-bottom: 12px;">
+        <div class="col-sm-12 hidden-xs" style="margin-bottom: 16px;">
             <button class="btn btn-warning btn-block" type="submit">Search</button>
         </div>
-        <div class="col-sm-12 visible-xs" style="text-align: center; margin-bottom: 12px">
+        <div class="col-sm-12 visible-xs" style="text-align: center; margin-bottom: 16px">
             <button class="btn btn-warning btn-circle btn-lg" type="submit">
                 <i class="fa fa-search"></i>
             </button>
@@ -54,10 +54,40 @@
     </div>
 
     <div class="col-md-4 col-sm-6" ng-repeat="class in roomSchedule">
-        <!-- TODO: Pretty formatting -->
-        <p>{{class.title}} {{class.section}}</p>
-        <p>{{class.subject}} {{class.catalog_number}} {{class.start_time}}-{{class.end_time}} {{class.weekdays}}</p>
-        <br>
+        <table class="table table-classes">
+            <tr>
+                <td colspan="3">
+                    <p style="text-align:left; margin: 0; font-size: 32px; line-height: .9;">
+                        {{class.subject}} {{class.catalog_number}}
+                    </p>
+                </td>
+                <td colspan="3" style="vertical-align: middle">
+                    <p style="text-align:right; margin: 0; font-weight: bold">
+                        {{class.section}}
+                    </p>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="3">
+                    <p style="text-align:left; margin: 3px;">
+                        {{class.start_time}} - {{class.end_time}}
+                    </p>
+                </td>
+
+                <td colspan="3">
+                    <p style="text-align:right; margin: 3px;">
+                        {{class.weekdays}}
+                    </p>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="6" style="text-align:left; font-size: 12px;">
+                    <p style="margin: 0 0 0 3px;">{{class.title}}</p>
+                </td>
+            </tr>
+        </table>
     </div>
 
     <div class="col-sm-12">

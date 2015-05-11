@@ -7,6 +7,16 @@ a {
 	color: #f0ad4e;
 }
 
+.table-classes > thead > tr > th,
+.table-classes > tbody > tr > th,
+.table-classes > tfoot > tr > th,
+.table-classes > thead > tr > td,
+.table-classes > tbody > tr > td,
+.table-classes > tfoot > tr > td {
+  padding: 0;
+  border: hidden;
+}
+
 /* Circular Buttons */
 .btn-circle {
   width: 30px;

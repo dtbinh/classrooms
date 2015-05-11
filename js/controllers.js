@@ -51,7 +51,7 @@ classroomsApp.controller('openRoomsController', function($scope, $routeParams, $
 
                         // otherwise if the room is occupied save what time it is no longer available
                         else if ($scope.openTimes[i][currentDay][j] == 1) {
-                            openRoom.occupied = formatTime(j);
+                            openRoom.occupied = formatTime84(j);
                             break;
                         }
                     }
@@ -105,7 +105,11 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
     $scope.showNoClassesDiv = false;
 
     $scope.submit = function() {
-        if ($scope.selectedBuilding != undefined && $scope.roomNumber != undefined && $scope.selectedDay != undefined) {
+        if ($scope.selectedBuilding != undefined &&
+            $scope.roomNumber != undefined &&
+            $scope.roomNumber != "" &&
+            $scope.selectedDay != undefined) {
+
             // change the window location
             window.location.href = '#/room-schedules/' + $scope.selectedBuilding.code + '/' + $scope.roomNumber + '/' + $scope.selectedDay.code;
         }
@@ -147,15 +151,19 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
                 // TODO determine better method of seeing if classes
                 // this only works with the assumption that Thursday classes are not combined with any other classes
                 // other than Tuesday eg. this fails for 'WTh' classes
-                if ($scope.selectedDay.code == "T" && $scope.roomSchedule[0].weekdays != "Th") {
+                if ($scope.selectedDay.code == "T" && $scope.selectedDay.code != "Th") {
                     // API sometimes has duplicate entries for some reason, remove them here
                     if (!isItemInSchedule($scope.roomSchedule[i], currentDaySchedule)) {
+                        $scope.roomSchedule[i].start_time = formatTime24($scope.roomSchedule[i].start_time);
+                        $scope.roomSchedule[i].end_time = formatTime24($scope.roomSchedule[i].end_time);
                         currentDaySchedule.push($scope.roomSchedule[i]);
                     }
                 }
 
                 else if ($scope.selectedDay.code != "T") {
                     if (!isItemInSchedule($scope.roomSchedule[i], currentDaySchedule)) {
+                        $scope.roomSchedule[i].start_time = formatTime24($scope.roomSchedule[i].start_time);
+                        $scope.roomSchedule[i].end_time = formatTime24($scope.roomSchedule[i].end_time);
                         currentDaySchedule.push($scope.roomSchedule[i]);
                     }
                 }
@@ -271,7 +279,7 @@ function getCurrentTime() {
  * @param time84 a time in 0 to 84 format
  * @returns {string}
  */
-function formatTime(time84) {
+function formatTime84(time84) {
     var hour = Math.floor(time84 / 6) + 8;          // 0 represents 8:00 AM so always add 8
     if (time84 >= 30) hour = hour % 12;             // modulo the hour after 13:00 to get 12 hour format
 
@@ -279,6 +287,23 @@ function formatTime(time84) {
 
     var amPm = "AM";
     if (time84 >= 24) amPm = "PM";
+
+    return hour + ":" + minute + " " + amPm;
+}
+
+/**
+ * Formats a time in 23:59 24 hour format to 12 hour format
+ * @param time24
+ * @returns {string}
+ */
+function formatTime24(time24) {
+    var hour = parseInt( time24.split(':')[0] );
+    var minute = time24.split(':')[1];
+
+    var amPm = "AM";
+    if (hour >= 12) amPm = "PM";
+
+    if (hour > 12) hour = hour % 12;
 
     return hour + ":" + minute + " " + amPm;
 }
@@ -304,6 +329,13 @@ function getCodeIndex(code, array) {
     return index;
 }
 
+/**
+ * Determines whether an item is already in the schedule for the purposes of not
+ * inserting duplicate items into the schedule
+ * @param item
+ * @param schedule
+ * @returns {boolean}
+ */
 function isItemInSchedule(item, schedule) {
     var isFound = false;
 
