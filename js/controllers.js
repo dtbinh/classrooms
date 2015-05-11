@@ -36,7 +36,8 @@ classroomsApp.controller('openRoomsController', function($scope, $routeParams, $
                     openRoom.url = '#/room-schedules/'
                                     + $scope.selectedBuilding.code + '/'
                                     + $scope.openTimes[i].roomNumber + '/'
-                                    + getCurrentDayOfWeek();
+                                    + getCurrentDayOfWeek() + '/'
+                                    + "view";
 
                     var j = currentTime;
 
@@ -212,10 +213,26 @@ classroomsApp.controller('roomSchedulesController', function($scope, $routeParam
         $scope.selectedBuilding = $scope.buildings[getCodeIndex( $routeParams.buildingCode, CAMPUS_BUILDINGS )];
         $scope.selectedDay = $scope.daysOfWeek[getCodeIndex( $routeParams.dayOfWeek, DAYS_OF_WEEK )];
 
-        if ($routeParams.editing != undefined) {
-            $scope.showFormDiv = true;
+        // if viewing or editing #/room-schedules/building/roomNum/day
+        // set the back button to go to the appropriate place
+        if ($routeParams.isEditing != undefined) {
+            // editing
+            if ($routeParams.isEditing == "editing") {
+                $scope.showFormDiv = true;
+            }
+            // viewing from link from open-times, go back to open-times
+            else if ($routeParams.isEditing == "view") {
+                $scope.getRoomSchedule();
+                $scope.urlBack = '#/open-rooms/' + $scope.selectedBuilding.code;
+            }
+            // viewing from open rooms directly, go back to editor
         } else {
             $scope.getRoomSchedule();
+            $scope.urlBack = '#/room-schedules/'
+                            + $scope.selectedBuilding.code + '/'
+                            + $scope.roomNumber + '/'
+                            + $scope.selectedDay.code + '/'
+                            + 'editing';
         }
     }
 

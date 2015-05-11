@@ -33,7 +33,7 @@ classroomsApp.config(function($routeProvider) {
             controller: 'roomSchedulesController'
         })
 
-        .when('/room-schedules/:buildingCode/:roomNumber/:dayOfWeek/:editing', {
+        .when('/room-schedules/:buildingCode/:roomNumber/:dayOfWeek/:isEditing', {
             templateUrl: 'partials/room-schedules.html',
             controller: 'roomSchedulesController'
         })
