@@ -53,12 +53,12 @@
 	</h3>
 
     <!-- NO CLASSES MESSAGE -->
-    <div class="col-sm-12" ng-show="showNoClassesDiv" style="margin-top: 16px;">
+    <div class="col-sm-12 alert alert-success" role="alert" ng-show="showNoClassesDiv" style="margin-top: 16px;">
         <p><i class="fa fa-check-circle"></i> Room has no classes scheduled for selected day.</p>
     </div>
 
     <!-- ROOM DOES NOT EXIST MESSAGE -->
-    <div class="col-sm-12" ng-show="showRoomDoesNotExist" style="margin-top: 16px;">
+    <div class="col-sm-12 alert alert-warning" role="alert" ng-show="showRoomDoesNotExist" style="margin-top: 16px;">
         <p><i class="fa fa-exclamation-triangle"></i> Room has no classes scheduled or does not exist.</p>
     </div>
 
