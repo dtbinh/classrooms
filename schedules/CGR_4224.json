@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:32-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Systems of Peace, Order, and Good Governance",
+            "section": "SEM 001",
+            "instructors": [
+                "Neufeldt,Reina"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "4224",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "class_number": 4656,
+            "start_time": "13:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:33-04:00",
+            "catalog_number": "604",
+            "end_date": null,
+            "title": "Conflict Analysis",
+            "section": "SEM 001",
+            "instructors": [
+                "Funk,Nathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "4224",
+            "end_time": "11:50",
+            "enrollment_total": 14,
+            "class_number": 4081,
+            "start_time": "09:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:34-04:00",
+            "catalog_number": "610",
+            "end_date": null,
+            "title": "Contemporary Nonviolent Movements",
+            "section": "SEM 001",
+            "instructors": [
+                "Epp,Marlene G"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "4224",
+            "end_time": "21:20",
+            "enrollment_total": 9,
+            "class_number": 7938,
+            "start_time": "18:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "610",
+            "end_date": null,
+            "title": "Reading and Teaching the Old Testament",
+            "section": "LEC 001",
+            "instructors": [
+                "Suderman,Derek"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "4224",
+            "end_time": "15:50",
+            "enrollment_total": 8,
+            "class_number": 7657,
+            "start_time": "13:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "11/06",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "4224",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "11/06",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "4224",
+            "end_time": "15:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "13:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "12/04",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "4224",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "12/04",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "4224",
+            "end_time": "15:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "13:00",
+            "subject": "TS"
+        }
+    ]
+}

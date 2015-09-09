@@ -2,23 +2,223 @@
     "data": [
         {
             "building": "STJ",
-            "catalog_number": "119",
-            "class_number": 2252,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:31-04:00",
+            "catalog_number": "335",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 22,
+            "title": "Creative Writing 1",
+            "section": "WSP 001",
             "instructors": [
-                "Spielmacher,Mark S"
+                "Tacon,Claire"
             ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "2009",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
+            "room": "2009",
+            "end_time": "21:20",
+            "enrollment_total": 25,
+            "class_number": 3626,
+            "start_time": "18:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:02-04:00",
+            "catalog_number": "103",
+            "end_date": null,
+            "title": "Canadian History Through Biography",
+            "section": "LEC 001",
+            "instructors": [
+                "Lackenbauer,Paul Whitney"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "12:20",
+            "enrollment_total": 23,
+            "class_number": 3973,
             "start_time": "11:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Communications in Mathematics & Computer Science",
-            "weekdays": "M"
+            "subject": "HIST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:02-04:00",
+            "catalog_number": "103",
+            "end_date": null,
+            "title": "Canadian History Through Biography",
+            "section": "LEC 001",
+            "instructors": [
+                "Lackenbauer,Paul Whitney"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "16:20",
+            "enrollment_total": 23,
+            "class_number": 3973,
+            "start_time": "14:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:02-04:00",
+            "catalog_number": "115",
+            "end_date": null,
+            "title": "Crusading in the Middle Ages",
+            "section": "LEC 001",
+            "instructors": [
+                "Bednarski,Steven"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "14:20",
+            "enrollment_total": 33,
+            "class_number": 7817,
+            "start_time": "11:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:10-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Great Dialogues: Reflection and Action",
+            "section": "LEC 002",
+            "instructors": [
+                "Greenwood,John Philip Peter"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "class_number": 7556,
+            "start_time": "13:00",
+            "subject": "HUMSC"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:51-04:00",
+            "catalog_number": "115",
+            "end_date": null,
+            "title": "Crusading in the Middle Ages",
+            "section": "LEC 001",
+            "instructors": [
+                "Bednarski,Steven"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "14:20",
+            "enrollment_total": 5,
+            "class_number": 7816,
+            "start_time": "11:30",
+            "subject": "MEDVL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:21-04:00",
+            "catalog_number": "318",
+            "end_date": null,
+            "title": "Psychosexual Organization",
+            "section": "LEC 001",
+            "instructors": [
+                "Rye,BJ"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "11:20",
+            "enrollment_total": 38,
+            "class_number": 4077,
+            "start_time": "10:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:38-04:00",
+            "catalog_number": "170",
+            "end_date": null,
+            "title": "Religion and Popular Culture",
+            "section": "LEC 001",
+            "instructors": [
+                "Bekkering,Denis"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "21:20",
+            "enrollment_total": 11,
+            "class_number": 4304,
+            "start_time": "18:30",
+            "subject": "RS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:40-04:00",
+            "catalog_number": "286",
+            "end_date": null,
+            "title": "Spirit in Motion: Secular and Religious Spiritualities Today",
+            "section": "LEC 001",
+            "instructors": [
+                "Perrin,David B"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "21:20",
+            "enrollment_total": 4,
+            "class_number": 4309,
+            "start_time": "18:30",
+            "subject": "RS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:58-04:00",
+            "catalog_number": "305",
+            "end_date": null,
+            "title": "Social Issues and Controversies in Human Sexuality",
+            "section": "LEC 001",
+            "instructors": [
+                "Rye,BJ"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 8134,
+            "start_time": "11:30",
+            "subject": "SMF"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:58-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "The Formation and Maintenance of Close Relationships",
+            "section": "LEC 001",
+            "instructors": [
+                "Whitehead,Denise"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2009",
+            "end_time": "17:20",
+            "enrollment_total": 27,
+            "class_number": 8135,
+            "start_time": "14:30",
+            "subject": "SMF"
         }
     ]
 }

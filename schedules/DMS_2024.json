@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LEC 003",
+            "instructors": [
+                "Birke,Lisa"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "14:20",
+            "enrollment_total": 43,
+            "class_number": 4282,
+            "start_time": "13:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LAB 103",
+            "instructors": [
+                "Birke,Lisa"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "15:50",
+            "enrollment_total": 43,
+            "class_number": 4283,
+            "start_time": "14:30",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "103",
+            "end_date": null,
+            "title": "User Experience Design",
+            "section": "LEC 003",
+            "instructors": [
+                "Schmidlin,Karin"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "10:20",
+            "enrollment_total": 36,
+            "class_number": 4284,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "103",
+            "end_date": null,
+            "title": "User Experience Design",
+            "section": "LAB 103",
+            "instructors": [
+                "Schmidlin,Karin"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "11:50",
+            "enrollment_total": 36,
+            "class_number": 4285,
+            "start_time": "10:30",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Digital Media Project 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Baltrusaitis,Jonathan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "11:50",
+            "enrollment_total": 53,
+            "class_number": 4134,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Digital Media Project 1",
+            "section": "PRJ 002",
+            "instructors": [
+                "Baltrusaitis,Jonathan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "15:50",
+            "enrollment_total": 53,
+            "class_number": 4135,
+            "start_time": "13:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Global Digital Project 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Harrigan,Kevin"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "17:50",
+            "enrollment_total": 37,
+            "class_number": 4319,
+            "start_time": "16:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Global Digital Project 1",
+            "section": "PRJ 002",
+            "instructors": [
+                "Harrigan,Kevin"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "15:50",
+            "enrollment_total": 46,
+            "class_number": 7839,
+            "start_time": "14:00",
+            "subject": "GBDA"
+        }
+    ]
+}

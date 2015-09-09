@@ -2,103 +2,223 @@
     "data": [
         {
             "building": "E2",
-            "catalog_number": "604",
-            "class_number": 3041,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:00-04:00",
+            "catalog_number": "601",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 7,
-            "instructors": [
-                "Xu,Lei"
-            ],
-            "last_updated": "2015-05-04T16:02:36-04:00",
-            "room": "3356",
+            "title": "Engineering Risk and Reliability",
             "section": "LEC 001",
+            "instructors": [
+                "Pandey,Mahesh D"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Advanced Structural Steel Design",
-            "weekdays": "T"
+            "room": "3356",
+            "end_time": "12:20",
+            "enrollment_total": 36,
+            "class_number": 5049,
+            "start_time": "10:30",
+            "subject": "CIVE"
         },
         {
             "building": "E2",
-            "catalog_number": "640",
-            "class_number": 3042,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:00-04:00",
+            "catalog_number": "610",
             "end_date": null,
+            "title": "Elasticity",
+            "section": "LEC 001",
+            "instructors": [
+                "Potapenko,Stan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3356",
             "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7778,
+            "start_time": "09:00",
+            "subject": "CIVE"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:00-04:00",
+            "catalog_number": "653",
+            "end_date": null,
+            "title": "Numerical Methods in Geomechanics",
+            "section": "LEC 001",
+            "instructors": [
+                "Basu,Dipanjan"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "16:20",
+            "enrollment_total": 10,
+            "class_number": 7779,
+            "start_time": "13:00",
+            "subject": "CIVE"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "671",
+            "end_date": null,
+            "title": "Aquatic Chemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Huck,Peter M"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "14:50",
             "enrollment_total": 11,
-            "instructors": [
-                "Fu,Liping F"
-            ],
-            "last_updated": "2015-05-04T16:02:36-04:00",
-            "room": "3356",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:00",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Urban Transportation Planning Models: Principles & Applications",
-            "weekdays": "M"
+            "class_number": 5147,
+            "start_time": "13:30",
+            "subject": "CIVE"
         },
         {
             "building": "E2",
-            "catalog_number": "711",
-            "class_number": 5058,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "681",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 8,
-            "instructors": [
-                "Hegazi,Tarek"
-            ],
-            "last_updated": "2015-05-04T16:02:36-04:00",
-            "room": "3356",
+            "title": "Surface Water: Theory and Modelling",
             "section": "LEC 001",
+            "instructors": [
+                "Soulis,Eric D"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Computer-Aided Project Organization and Management",
-            "weekdays": "T"
+            "room": "3356",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 8558,
+            "start_time": "13:00",
+            "subject": "CIVE"
         },
         {
             "building": "E2",
-            "catalog_number": "750",
-            "class_number": 4999,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "770",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 6,
-            "instructors": [
-                "Knight,Mark A"
-            ],
-            "last_updated": "2015-05-04T16:02:36-04:00",
-            "room": "3356",
+            "title": "Topics in Environmental Engineering",
             "section": "RDG 001",
+            "instructors": [
+                "Annable,William Kenneth"
+            ],
+            "weekdays": "M",
             "start_date": null,
+            "room": "3356",
+            "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 5540,
             "start_time": "14:30",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Topics in Geotechnical Engineering",
-            "weekdays": "MW"
+            "subject": "CIVE"
         },
         {
             "building": "E2",
-            "catalog_number": "771",
-            "class_number": 4709,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "770",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 7,
+            "title": "Topics in Environmental Engineering",
+            "section": "RDG 002",
             "instructors": [
-                "Parker,Wayne Jeffery"
+                "Lee,Hyung-Sool"
             ],
-            "last_updated": "2015-05-04T16:02:36-04:00",
-            "room": "3356",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
+            "room": "3356",
+            "end_time": "16:50",
+            "enrollment_total": 6,
+            "class_number": 7780,
+            "start_time": "15:00",
+            "subject": "CIVE"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Topics in Environmental Engineering",
+            "section": "RDG 002",
+            "instructors": [
+                "Lee,Hyung-Sool"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "09:50",
+            "enrollment_total": 6,
+            "class_number": 7780,
             "start_time": "09:00",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Biological Wastewater Treatment: Theory and Practice",
-            "weekdays": "W"
+            "subject": "CIVE"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:01-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Topics in Environmental Engineering",
+            "section": "RDG 003",
+            "instructors": [
+                "Basu,Nandita"
+            ],
+            "weekdays": "WTh",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "16:50",
+            "enrollment_total": 11,
+            "class_number": 8559,
+            "start_time": "15:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:29-04:00",
+            "catalog_number": "691",
+            "end_date": null,
+            "title": "Special Studies for MSc Students",
+            "section": "RDG 001",
+            "instructors": [
+                "Basu,Nandita"
+            ],
+            "weekdays": "WTh",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8627,
+            "start_time": "15:30",
+            "subject": "EARTH"
+        },
+        {
+            "building": "E2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:29-04:00",
+            "catalog_number": "692",
+            "end_date": null,
+            "title": "Special Studies for PhD Students",
+            "section": "RDG 001",
+            "instructors": [
+                "Basu,Nandita"
+            ],
+            "weekdays": "WTh",
+            "start_date": null,
+            "room": "3356",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8628,
+            "start_time": "15:30",
+            "subject": "EARTH"
         }
     ]
 }

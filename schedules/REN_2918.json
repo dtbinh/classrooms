@@ -1,0 +1,242 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "42",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Wardell,Margaret"
+            ],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "2918",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 8272,
+            "start_time": "10:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "46",
+            "end_date": "12/11",
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "2918",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 8274,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Vardon,John F"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "15:50",
+            "enrollment_total": 25,
+            "class_number": 3455,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "301R",
+            "end_date": null,
+            "title": "Third-Year Japanese 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Kunizane,Kumiko"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "11:20",
+            "enrollment_total": 22,
+            "class_number": 6786,
+            "start_time": "10:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 001",
+            "instructors": [
+                "Logel,Christine Elizabeth"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "14:20",
+            "enrollment_total": 50,
+            "class_number": 3862,
+            "start_time": "13:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 002",
+            "instructors": [
+                "Logel,Christine Elizabeth"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "class_number": 3863,
+            "start_time": "10:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 003",
+            "instructors": [
+                "Logel,Christine Elizabeth"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 4279,
+            "start_time": "16:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:37-04:00",
+            "catalog_number": "125",
+            "end_date": null,
+            "title": "Introduction to Religion",
+            "section": "LEC 001",
+            "instructors": [
+                "McKeen,Leah"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "09:50",
+            "enrollment_total": 12,
+            "class_number": 4271,
+            "start_time": "08:30",
+            "subject": "RS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "220R",
+            "end_date": null,
+            "title": "Changing Concepts of Childhood",
+            "section": "LEC 001",
+            "instructors": [
+                "Parker,Christina"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "12:50",
+            "enrollment_total": 39,
+            "class_number": 6798,
+            "start_time": "11:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Sociology",
+            "section": "LEC 001",
+            "instructors": [
+                "Roberts,Sharon Elizabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "17:20",
+            "enrollment_total": 49,
+            "class_number": 8329,
+            "start_time": "14:30",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:01-04:00",
+            "catalog_number": "224R",
+            "end_date": null,
+            "title": "Poverty in Canada and its Social Consequences",
+            "section": "LEC 001",
+            "instructors": [
+                "Parker,Christina"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "14:20",
+            "enrollment_total": 36,
+            "class_number": 3494,
+            "start_time": "13:00",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "224R",
+            "end_date": null,
+            "title": "Poverty in Canada and its Social Consequences",
+            "section": "LEC 001",
+            "instructors": [
+                "Parker,Christina"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2918",
+            "end_time": "14:20",
+            "enrollment_total": 2,
+            "class_number": 6766,
+            "start_time": "13:00",
+            "subject": "SWREN"
+        }
+    ]
+}

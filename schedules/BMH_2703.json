@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "15:20",
+            "enrollment_total": 30,
+            "class_number": 3255,
+            "start_time": "14:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "11:20",
+            "enrollment_total": 29,
+            "class_number": 3256,
+            "start_time": "10:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 103",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "11:20",
+            "enrollment_total": 30,
+            "class_number": 3257,
+            "start_time": "10:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 104",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 3258,
+            "start_time": "15:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 105",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "09:20",
+            "enrollment_total": 29,
+            "class_number": 3259,
+            "start_time": "08:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Health 1",
+            "section": "TUT 106",
+            "instructors": [
+                "Williams,Diane"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "09:20",
+            "enrollment_total": 25,
+            "class_number": 3260,
+            "start_time": "08:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:08-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Intro Hlth Promotion Tech",
+            "section": "LEC 001",
+            "instructors": [
+                "Neiterman,Elena"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "09:50",
+            "enrollment_total": 17,
+            "class_number": 8217,
+            "start_time": "08:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:08-04:00",
+            "catalog_number": "303",
+            "end_date": null,
+            "title": "Program Planning",
+            "section": "LEC 001",
+            "instructors": [
+                "Anthony,Kelly"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 8218,
+            "start_time": "10:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "421",
+            "end_date": null,
+            "title": "Nutritional Aspects of Chronic Disease",
+            "section": "SEM 001",
+            "instructors": [
+                "Hanning,Rhona"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 8219,
+            "start_time": "14:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "452",
+            "end_date": null,
+            "title": "Decision Making and Decision Support in Health Informatics",
+            "section": "SEM 001",
+            "instructors": [
+                "Arocha,Jose"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 3272,
+            "start_time": "11:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "458",
+            "end_date": null,
+            "title": "Social Neuroscience and Health",
+            "section": "LEC 001",
+            "instructors": [
+                "Hall,Peter Anthony"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "12:50",
+            "enrollment_total": 5,
+            "class_number": 8220,
+            "start_time": "11:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:29-04:00",
+            "catalog_number": "425",
+            "end_date": null,
+            "title": "Biomechanical Modelling of Human Movement",
+            "section": "LEC 001",
+            "instructors": [
+                "Callaghan,Jack P"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "14:20",
+            "enrollment_total": 22,
+            "class_number": 3295,
+            "start_time": "13:00",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "458",
+            "end_date": null,
+            "title": "Social Neuroscience and Health",
+            "section": "LEC 001",
+            "instructors": [
+                "Hall,Peter Anthony"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 3327,
+            "start_time": "11:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 101",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "10:20",
+            "enrollment_total": 12,
+            "class_number": 3298,
+            "start_time": "09:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 102",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "class_number": 3299,
+            "start_time": "16:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 103",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "10:20",
+            "enrollment_total": 15,
+            "class_number": 3300,
+            "start_time": "09:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 111",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "09:20",
+            "enrollment_total": 10,
+            "class_number": 3315,
+            "start_time": "08:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:15-04:00",
+            "catalog_number": "620",
+            "end_date": null,
+            "title": "Selected Topics",
+            "section": "RDG 001",
+            "instructors": [
+                "Arocha,Jose"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "14:20",
+            "enrollment_total": 2,
+            "class_number": 3254,
+            "start_time": "11:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:15-04:00",
+            "catalog_number": "730",
+            "end_date": null,
+            "title": "Fundamentals of Work and Health",
+            "section": "LEC 001",
+            "instructors": [
+                "Bigelow,Philip Lloyd"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "17:20",
+            "enrollment_total": 3,
+            "class_number": 8140,
+            "start_time": "14:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:21-04:00",
+            "catalog_number": "730",
+            "end_date": null,
+            "title": "Fundamentals of Work and Health",
+            "section": "LEC 001",
+            "instructors": [
+                "Bigelow,Philip Lloyd"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2703",
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "class_number": 8145,
+            "start_time": "14:30",
+            "subject": "KIN"
+        }
+    ]
+}

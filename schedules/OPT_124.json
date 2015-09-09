@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:27-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Human Anatomy of the Central Nervous System",
+            "section": "LAB 101",
+            "instructors": [
+                "Roth,Jeremy"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "124",
+            "end_time": "16:20",
+            "enrollment_total": 29,
+            "class_number": 3225,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:27-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Human Anatomy of the Central Nervous System",
+            "section": "LAB 102",
+            "instructors": [
+                "Roth,Jeremy"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "124",
+            "end_time": "14:20",
+            "enrollment_total": 26,
+            "class_number": 3226,
+            "start_time": "12:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:27-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Human Anatomy of the Central Nervous System",
+            "section": "LAB 103",
+            "instructors": [
+                "Roth,Jeremy"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "124",
+            "end_time": "14:20",
+            "enrollment_total": 30,
+            "class_number": 3227,
+            "start_time": "12:30",
+            "subject": "KIN"
+        }
+    ]
+}

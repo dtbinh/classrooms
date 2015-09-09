@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:47-04:00",
+            "catalog_number": "950",
+            "end_date": null,
+            "title": "Topics in Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Nica,Alexandru"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2134",
+            "end_time": "12:20",
+            "enrollment_total": 4,
+            "class_number": 7973,
+            "start_time": "11:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:48-04:00",
+            "catalog_number": "990",
+            "end_date": null,
+            "title": "Topics in Pure Mathematics",
+            "section": "LEC 001",
+            "instructors": [
+                "Paulson,Vern"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2134",
+            "end_time": "15:20",
+            "enrollment_total": 6,
+            "class_number": 8557,
+            "start_time": "14:30",
+            "subject": "PMATH"
+        }
+    ]
+}

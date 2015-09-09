@@ -2,103 +2,203 @@
     "data": [
         {
             "building": "ML",
-            "catalog_number": "223",
-            "class_number": 2303,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "101",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 20,
+            "title": "Elementary Dutch I",
+            "section": "LEC 001",
             "instructors": [
-                "Moll,Sorouja"
+                "de Rooij-Mohle,Geertruida (Mar"
             ],
-            "last_updated": "2015-05-04T16:02:20-04:00",
-            "room": "117",
-            "section": "LEC 003",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "SPCOM",
-            "term": 1155,
-            "title": "Public Speaking",
-            "weekdays": "MW"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "223",
-            "class_number": 2315,
-            "end_date": null,
+            "room": "117",
             "end_time": "14:20",
-            "enrollment_total": 20,
+            "enrollment_total": 34,
+            "class_number": 3374,
+            "start_time": "13:00",
+            "subject": "DUTCH"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:02-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Intermediate Dutch I",
+            "section": "LEC 001",
+            "instructors": [
+                "de Rooij-Mohle,Geertruida (Mar"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "117",
+            "end_time": "11:20",
+            "enrollment_total": 7,
+            "class_number": 7977,
+            "start_time": "10:00",
+            "subject": "DUTCH"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:58-04:00",
+            "catalog_number": "211",
+            "end_date": null,
+            "title": "Integrative Language Seminar I",
+            "section": "LEC 001",
+            "instructors": [
+                "Schmenk,Barbara"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "117",
+            "end_time": "12:50",
+            "enrollment_total": 8,
+            "class_number": 4224,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:59-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Exploring the German Language",
+            "section": "SEM 001",
+            "instructors": [
+                "Betz,Emma"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "117",
+            "end_time": "09:50",
+            "enrollment_total": 9,
+            "class_number": 4544,
+            "start_time": "08:30",
+            "subject": "GER"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:14-04:00",
+            "catalog_number": "100",
+            "end_date": "12/04",
+            "title": "Interpersonal Communication",
+            "section": "LEC 001",
+            "instructors": [
+                "Lazar,Karen"
+            ],
+            "weekdays": "T",
+            "start_date": "09/14",
+            "room": "117",
+            "end_time": "17:20",
+            "enrollment_total": 26,
+            "class_number": 3605,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:14-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Interpersonal Communication",
+            "section": "LEC 003",
             "instructors": [
                 "Moll,Sorouja"
             ],
-            "last_updated": "2015-05-04T16:02:20-04:00",
-            "room": "117",
-            "section": "LEC 004",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "SPCOM",
-            "term": 1155,
-            "title": "Public Speaking",
-            "weekdays": "MW"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "223",
-            "class_number": 2316,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 19,
-            "instructors": [
-                "Doyle,Jennifer"
-            ],
-            "last_updated": "2015-05-04T16:02:20-04:00",
             "room": "117",
-            "section": "LEC 005",
-            "start_date": null,
+            "end_time": "17:20",
+            "enrollment_total": 28,
+            "class_number": 4545,
             "start_time": "14:30",
-            "subject": "SPCOM",
-            "term": 1155,
+            "subject": "SPCOM"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "223",
+            "end_date": null,
             "title": "Public Speaking",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "225",
-            "class_number": 2305,
-            "end_date": null,
+            "section": "LEC 010",
+            "instructors": [
+                "Moll,Sorouja"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "117",
             "end_time": "10:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Doyle,Jennifer"
-            ],
-            "last_updated": "2015-05-04T16:02:20-04:00",
-            "room": "117",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 28,
+            "class_number": 4556,
             "start_time": "08:30",
-            "subject": "SPCOM",
-            "term": 1155,
-            "title": "Interviewing",
-            "weekdays": "TTh"
+            "subject": "SPCOM"
         },
         {
             "building": "ML",
-            "catalog_number": "431",
-            "class_number": 2403,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "223",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 27,
+            "title": "Public Speaking",
+            "section": "LEC 012",
             "instructors": [
-                "Paci,Timothy P"
+                "Moll,Sorouja"
             ],
-            "last_updated": "2015-05-04T16:02:20-04:00",
-            "room": "117",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "SPCOM",
-            "term": 1155,
-            "title": "Crisis Communication",
-            "weekdays": "T"
+            "room": "117",
+            "end_time": "14:20",
+            "enrollment_total": 30,
+            "class_number": 4558,
+            "start_time": "12:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:16-04:00",
+            "catalog_number": "226",
+            "end_date": null,
+            "title": "Introduction to Intercultural Communication",
+            "section": "LEC 001",
+            "instructors": [
+                "Simpson,Jennifer"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "117",
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "class_number": 3742,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:17-04:00",
+            "catalog_number": "433",
+            "end_date": null,
+            "title": "The Organizational Consultant",
+            "section": "WSP 001",
+            "instructors": [
+                "Young,Vershawn"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "117",
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "class_number": 8086,
+            "start_time": "14:30",
+            "subject": "SPCOM"
         }
     ]
 }

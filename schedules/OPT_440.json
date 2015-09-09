@@ -1,0 +1,200 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "104",
+            "end_date": null,
+            "title": "Anatomy of the Eye 1",
+            "section": "LAB 101",
+            "instructors": [
+                "MacNeill,Nancy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "440",
+            "end_time": "12:20",
+            "enrollment_total": 46,
+            "class_number": 7042,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "104",
+            "end_date": null,
+            "title": "Anatomy of the Eye 1",
+            "section": "LAB 102",
+            "instructors": [
+                "MacNeill,Nancy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "440",
+            "end_time": "16:20",
+            "enrollment_total": 46,
+            "class_number": 7043,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "124",
+            "end_date": null,
+            "title": "Human Gross Anatomy",
+            "section": "LAB 101",
+            "instructors": [
+                "MacNeill,Nancy"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "440",
+            "end_time": "12:20",
+            "enrollment_total": 45,
+            "class_number": 7286,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "124",
+            "end_date": null,
+            "title": "Human Gross Anatomy",
+            "section": "LAB 102",
+            "instructors": [
+                "MacNeill,Nancy"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "440",
+            "end_time": "16:20",
+            "enrollment_total": 45,
+            "class_number": 7287,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LAB 101",
+            "instructors": [
+                "Smith,Marilyn Anne"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "440",
+            "end_time": "12:20",
+            "enrollment_total": 44,
+            "class_number": 7050,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LAB 102",
+            "instructors": [
+                "Smith,Marilyn Anne"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "440",
+            "end_time": "12:20",
+            "enrollment_total": 44,
+            "class_number": 7051,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "346",
+            "end_date": null,
+            "title": "Ophthalmic Optics 3",
+            "section": "LAB 001",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "440",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "class_number": 7055,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "346",
+            "end_date": null,
+            "title": "Ophthalmic Optics 3",
+            "section": "LAB 002",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "440",
+            "end_time": "17:20",
+            "enrollment_total": 93,
+            "class_number": 7056,
+            "start_time": "14:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347L",
+            "end_date": null,
+            "title": "Contact Lenses 1 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Robinson,Barbara E"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "440",
+            "end_time": "17:20",
+            "enrollment_total": 47,
+            "class_number": 7253,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347L",
+            "end_date": null,
+            "title": "Contact Lenses 1 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Robinson,Barbara E"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "440",
+            "end_time": "17:20",
+            "enrollment_total": 46,
+            "class_number": 7254,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

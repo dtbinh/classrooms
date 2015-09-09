@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "230",
+            "end_date": null,
+            "title": "Printmaking",
+            "section": "STU 001",
+            "instructors": [
+                "Cooper,Tara"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1231",
+            "end_time": "11:50",
+            "enrollment_total": 21,
+            "class_number": 3619,
+            "start_time": "09:30",
+            "subject": "FINE"
+        }
+    ]
+}

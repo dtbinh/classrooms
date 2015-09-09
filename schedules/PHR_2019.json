@@ -2,63 +2,63 @@
     "data": [
         {
             "building": "PHR",
-            "catalog_number": "125",
-            "class_number": 4187,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:39-04:00",
+            "catalog_number": "232",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 40,
-            "instructors": [
-                "Simon,Josephine"
-            ],
-            "last_updated": "2015-05-04T16:01:55-04:00",
-            "room": "2019",
+            "title": "Medical Microbiology",
             "section": "LAB 101",
+            "instructors": [
+                "Wasfi,Olla"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Pharmaceutics 2",
-            "weekdays": "M"
+            "room": "2019",
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "class_number": 7453,
+            "start_time": "14:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "125",
-            "class_number": 4188,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:39-04:00",
+            "catalog_number": "232",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 40,
-            "instructors": [
-                "Simon,Josephine"
-            ],
-            "last_updated": "2015-05-04T16:01:55-04:00",
-            "room": "2019",
+            "title": "Medical Microbiology",
             "section": "LAB 102",
+            "instructors": [
+                "Wasfi,Olla"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "13:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Pharmaceutics 2",
-            "weekdays": "M"
+            "room": "2019",
+            "end_time": "16:20",
+            "enrollment_total": 40,
+            "class_number": 7499,
+            "start_time": "15:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "125",
-            "class_number": 4189,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:39-04:00",
+            "catalog_number": "232",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 40,
-            "instructors": [
-                "Simon,Josephine"
-            ],
-            "last_updated": "2015-05-04T16:01:55-04:00",
-            "room": "2019",
+            "title": "Medical Microbiology",
             "section": "LAB 103",
+            "instructors": [
+                "Wasfi,Olla"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Pharmaceutics 2",
-            "weekdays": "T"
+            "room": "2019",
+            "end_time": "17:20",
+            "enrollment_total": 40,
+            "class_number": 7500,
+            "start_time": "16:30",
+            "subject": "PHARM"
         }
     ]
 }

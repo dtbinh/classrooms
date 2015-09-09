@@ -2,123 +2,283 @@
     "data": [
         {
             "building": "B2",
-            "catalog_number": "273L",
-            "class_number": 4154,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
             "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "149",
             "end_time": "17:20",
             "enrollment_total": 32,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "149",
-            "section": "LAB 001",
-            "start_date": null,
+            "class_number": 7107,
             "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 1 Laboratory",
-            "weekdays": "W"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "273L",
-            "class_number": 4155,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
             "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "149",
             "end_time": "21:50",
             "enrollment_total": 31,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "149",
-            "section": "LAB 002",
-            "start_date": null,
+            "class_number": 7108,
             "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 1 Laboratory",
-            "weekdays": "W"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "273L",
-            "class_number": 4156,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
             "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "149",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7109,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "149",
+            "end_time": "17:20",
+            "enrollment_total": 31,
+            "class_number": 7110,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "149",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7111,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "149",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7112,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 007",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "149",
             "end_time": "17:20",
             "enrollment_total": 32,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "149",
-            "section": "LAB 003",
-            "start_date": null,
+            "class_number": 7113,
             "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 1 Laboratory",
-            "weekdays": "Th"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "273L",
-            "class_number": 4718,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
             "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 008",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "149",
+            "end_time": "21:50",
+            "enrollment_total": 30,
+            "class_number": 7114,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 009",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "149",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7115,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 010",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "149",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7116,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 011",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "149",
+            "end_time": "21:50",
+            "enrollment_total": 31,
+            "class_number": 7117,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 012",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "149",
+            "end_time": "12:20",
+            "enrollment_total": 31,
+            "class_number": 7118,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 013",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "149",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7119,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130L",
+            "end_date": null,
+            "title": "Cell Biology Laboratory",
+            "section": "LAB 014",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "149",
             "end_time": "21:50",
             "enrollment_total": 0,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "149",
-            "section": "LAB 004",
-            "start_date": null,
+            "class_number": 7120,
             "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 1 Laboratory",
-            "weekdays": "Th"
-        },
-        {
-            "building": "B2",
-            "catalog_number": "373L",
-            "class_number": 4267,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 26,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:30-04:00",
-            "room": "149",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 2 Laboratory",
-            "weekdays": "T"
-        },
-        {
-            "building": "B2",
-            "catalog_number": "373L",
-            "class_number": 4287,
-            "end_date": null,
-            "end_time": "21:50",
-            "enrollment_total": 14,
-            "instructors": [
-                "Wolff,Bruce Richard"
-            ],
-            "last_updated": "2015-05-04T16:00:30-04:00",
-            "room": "149",
-            "section": "LAB 002",
-            "start_date": null,
-            "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Human Physiology 2 Laboratory",
-            "weekdays": "T"
+            "subject": "BIOL"
         }
     ]
 }

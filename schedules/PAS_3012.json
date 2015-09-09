@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:54-04:00",
+            "catalog_number": "680",
+            "end_date": null,
+            "title": "Special Topics in Child Behaviour and Development",
+            "section": "LEC 001",
+            "instructors": [
+                "Henderson,Heather Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3012",
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "class_number": 4289,
+            "start_time": "11:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:58-04:00",
+            "catalog_number": "794",
+            "end_date": null,
+            "title": "Cognitive Neuroscience of Face Perception",
+            "section": "SEM 001",
+            "instructors": [
+                "Itier,Roxane"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3012",
+            "end_time": "11:50",
+            "enrollment_total": 1,
+            "class_number": 7797,
+            "start_time": "09:30",
+            "subject": "PSYCH"
+        }
+    ]
+}

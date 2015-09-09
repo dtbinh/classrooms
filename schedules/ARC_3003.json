@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Visual Communication 1",
+            "section": "STU 001",
+            "instructors": [
+                "Dowling,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3003",
+            "end_time": "11:50",
+            "enrollment_total": 77,
+            "class_number": 4970,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Visual Communication 1",
+            "section": "STU 001",
+            "instructors": [
+                "Dowling,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3003",
+            "end_time": "16:50",
+            "enrollment_total": 77,
+            "class_number": 4970,
+            "start_time": "13:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:09-04:00",
+            "catalog_number": "570",
+            "end_date": null,
+            "title": "Building Tech & Enviro Courses",
+            "section": "SEM 001",
+            "instructors": [
+                "English,Elizabeth"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3003",
+            "end_time": "16:50",
+            "enrollment_total": 22,
+            "class_number": 8552,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        }
+    ]
+}

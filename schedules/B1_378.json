@@ -2,83 +2,563 @@
     "data": [
         {
             "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
             "catalog_number": "240L",
-            "class_number": 4162,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 30,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 012",
             "instructors": [
                 "Duxbury,Cheryl"
             ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "378",
-            "section": "LAB 001",
+            "weekdays": "T",
             "start_date": null,
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7145,
             "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Microbiology Laboratory",
-            "weekdays": "T"
+            "subject": "BIOL"
         },
         {
             "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
             "catalog_number": "240L",
-            "class_number": 4163,
             "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 013",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7146,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 014",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7147,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 015",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7176,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 016",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7192,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 017",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7193,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 018",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7257,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "240L",
+            "end_date": null,
+            "title": "Microbiology Laboratory",
+            "section": "LAB 019",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7258,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "09/28",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "09/28",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "class_number": 7186,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "10/26",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "10/26",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "class_number": 7186,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "11/09",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/09",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "class_number": 7186,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "11/23",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/23",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "class_number": 7186,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "09/28",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "09/28",
+            "room": "378",
             "end_time": "21:50",
             "enrollment_total": 23,
-            "instructors": [
-                "Duxbury,Cheryl"
-            ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "378",
-            "section": "LAB 002",
-            "start_date": null,
+            "class_number": 7187,
             "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Microbiology Laboratory",
-            "weekdays": "T"
+            "subject": "BIOL"
         },
         {
             "building": "B1",
-            "catalog_number": "240L",
-            "class_number": 4176,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 30,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "10/26",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 103",
             "instructors": [
                 "Duxbury,Cheryl"
             ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
+            "weekdays": "M",
+            "start_date": "10/26",
             "room": "378",
-            "section": "LAB 003",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Microbiology Laboratory",
-            "weekdays": "W"
-        },
-        {
-            "building": "B1",
-            "catalog_number": "240L",
-            "class_number": 4199,
-            "end_date": null,
             "end_time": "21:50",
-            "enrollment_total": 0,
+            "enrollment_total": 23,
+            "class_number": 7187,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "11/09",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 103",
             "instructors": [
                 "Duxbury,Cheryl"
             ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
+            "weekdays": "M",
+            "start_date": "11/09",
             "room": "378",
-            "section": "LAB 004",
-            "start_date": null,
+            "end_time": "21:50",
+            "enrollment_total": 23,
+            "class_number": 7187,
             "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Microbiology Laboratory",
-            "weekdays": "W"
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": "11/23",
+            "title": "Microorganisms in Foods",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/23",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 23,
+            "class_number": 7187,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "09/21",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "09/21",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "10/05",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "10/05",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "10/19",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "10/19",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/02",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/02",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/16",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/16",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/30",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 102",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/30",
+            "room": "378",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 7190,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "09/21",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "09/21",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "10/05",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "10/05",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "10/19",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "10/19",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/02",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/02",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/16",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/16",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "444",
+            "end_date": "11/30",
+            "title": "Microorganisms and Disease",
+            "section": "LAB 103",
+            "instructors": [
+                "Duxbury,Cheryl"
+            ],
+            "weekdays": "M",
+            "start_date": "11/30",
+            "room": "378",
+            "end_time": "21:50",
+            "enrollment_total": 28,
+            "class_number": 7191,
+            "start_time": "19:00",
+            "subject": "BIOL"
         }
     ]
 }

@@ -2,143 +2,43 @@
     "data": [
         {
             "building": "CPH",
-            "catalog_number": "531",
-            "class_number": 3231,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:27-04:00",
+            "catalog_number": "601",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 11,
-            "instructors": [
-                "Erenay,Fatih"
-            ],
-            "last_updated": "2015-05-04T16:01:44-04:00",
-            "room": "4333",
+            "title": "Research Methods in the Management Sciences",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Stochastic Processes and Decision Making",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "531",
-            "class_number": 3232,
-            "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 11,
             "instructors": [
-                "Akhundov,Najmaddin"
+                "Chilana,Parmit"
             ],
-            "last_updated": "2015-05-04T16:01:44-04:00",
-            "room": "4333",
-            "section": "TUT 101",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Stochastic Processes and Decision Making",
-            "weekdays": "F"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "551",
-            "class_number": 3233,
-            "end_date": null,
+            "room": "4333",
             "end_time": "11:50",
-            "enrollment_total": 44,
-            "instructors": [
-                "Wang,Biao"
-            ],
-            "last_updated": "2015-05-04T16:01:45-04:00",
-            "room": "4333",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 4,
+            "class_number": 7677,
             "start_time": "10:30",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Quality Management and Control",
-            "weekdays": "TTh"
+            "subject": "MSCI"
         },
         {
             "building": "CPH",
-            "catalog_number": "551",
-            "class_number": 3234,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:28-04:00",
+            "catalog_number": "730",
             "end_date": null,
-            "end_time": "10:50",
-            "enrollment_total": 44,
-            "instructors": [
-                "Yildiz,Ugur"
-            ],
-            "last_updated": "2015-05-04T16:01:45-04:00",
-            "room": "4333",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Quality Management and Control",
-            "weekdays": "F"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "700",
-            "class_number": 4933,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 2,
-            "instructors": [
-                "Alumur Alev,Sibel"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "4333",
-            "section": "RDG 001",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Topics in Operations Research and Management",
-            "weekdays": "Th"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "712",
-            "class_number": 3384,
-            "end_date": null,
-            "end_time": "16:50",
-            "enrollment_total": 12,
-            "instructors": [
-                "Onay,Selcuk"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "4333",
+            "title": "Human Computer Interaction",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Decision Analysis Under Uncertainty",
-            "weekdays": "W"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "720",
-            "class_number": 4812,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 9,
             "instructors": [
                 "Hancock,Mark"
             ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "4333",
-            "section": "LEC 001",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Topics in Information and Information Systems",
-            "weekdays": "M"
+            "room": "4333",
+            "end_time": "17:50",
+            "enrollment_total": 6,
+            "class_number": 5509,
+            "start_time": "15:00",
+            "subject": "MSCI"
         }
     ]
 }

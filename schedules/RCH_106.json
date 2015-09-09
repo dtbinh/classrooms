@@ -1,0 +1,362 @@
+{
+    "data": [
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:19-04:00",
+            "catalog_number": "456",
+            "end_date": null,
+            "title": "Population Biology",
+            "section": "LEC 001",
+            "instructors": [
+                "Power,Michael"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "106",
+            "end_time": "11:20",
+            "enrollment_total": 8,
+            "class_number": 7486,
+            "start_time": "10:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:19-04:00",
+            "catalog_number": "469",
+            "end_date": null,
+            "title": "Genomics",
+            "section": "LEC 001",
+            "instructors": [
+                "Doxey,Andrew Charles"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "106",
+            "end_time": "15:20",
+            "enrollment_total": 21,
+            "class_number": 8307,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:19-04:00",
+            "catalog_number": "456",
+            "end_date": null,
+            "title": "Health Economics",
+            "section": "LEC 001",
+            "instructors": [
+                "Curtis,Lori J"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "106",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 4075,
+            "start_time": "16:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 026",
+            "instructors": [
+                "Deshane,Evelyn"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "106",
+            "end_time": "17:20",
+            "enrollment_total": 25,
+            "class_number": 8190,
+            "start_time": "16:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 030",
+            "instructors": [
+                "Mehrabian,Houman"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "106",
+            "end_time": "15:50",
+            "enrollment_total": 24,
+            "class_number": 8194,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 031",
+            "instructors": [
+                "Miletic,Philip"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 8195,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:30-04:00",
+            "catalog_number": "318",
+            "end_date": null,
+            "title": "Contemporary Canadian Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Zacharias,Robert"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "106",
+            "end_time": "12:50",
+            "enrollment_total": 29,
+            "class_number": 4066,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:36-04:00",
+            "catalog_number": "210",
+            "end_date": null,
+            "title": "Environmental Analysis and Solutions III: Greening Communities",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "106",
+            "end_time": "10:20",
+            "enrollment_total": 28,
+            "class_number": 5684,
+            "start_time": "08:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:59-04:00",
+            "catalog_number": "431",
+            "end_date": null,
+            "title": "Senior Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Boehringer,Michael"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 4,
+            "class_number": 3725,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:14-04:00",
+            "catalog_number": "402",
+            "end_date": null,
+            "title": "Politics of International Trade",
+            "section": "SEM 001",
+            "instructors": [
+                "Rus,Horatiu"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "class_number": 4197,
+            "start_time": "11:30",
+            "subject": "PSCI"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:22-04:00",
+            "catalog_number": "340",
+            "end_date": null,
+            "title": "Training and Development",
+            "section": "DIS 101",
+            "instructors": [
+                "Michela,John"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "106",
+            "end_time": "21:20",
+            "enrollment_total": 27,
+            "class_number": 3919,
+            "start_time": "19:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:00-04:00",
+            "catalog_number": "611",
+            "end_date": null,
+            "title": "Finite Element Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Gracie,Robert R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 5427,
+            "start_time": "11:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:58-04:00",
+            "catalog_number": "623",
+            "end_date": null,
+            "title": "Topics in Literature and Cultural Theory",
+            "section": "SEM 001",
+            "instructors": [
+                "Boehringer,Michael"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 7983,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:59-04:00",
+            "catalog_number": "723",
+            "end_date": null,
+            "title": "Topics in Literature and Cultural Theory",
+            "section": "SEM 001",
+            "instructors": [
+                "Boehringer,Michael"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 7984,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:01-04:00",
+            "catalog_number": "619",
+            "end_date": null,
+            "title": "Readings in Global Political Economy",
+            "section": "RDG 001",
+            "instructors": [
+                "Rus,Horatiu"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 4198,
+            "start_time": "11:30",
+            "subject": "GGOV"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:45-04:00",
+            "catalog_number": "801",
+            "end_date": null,
+            "title": "PhD Research Forum 1",
+            "section": "SEM 001",
+            "instructors": [
+                "Moos,Markus"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "106",
+            "end_time": "11:20",
+            "enrollment_total": 3,
+            "class_number": 5642,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:45-04:00",
+            "catalog_number": "802",
+            "end_date": null,
+            "title": "PhD Research Forum 2",
+            "section": "SEM 001",
+            "instructors": [
+                "Moos,Markus"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "106",
+            "end_time": "11:20",
+            "enrollment_total": 6,
+            "class_number": 5643,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:52-04:00",
+            "catalog_number": "683",
+            "end_date": null,
+            "title": "Topics in International Political Economy",
+            "section": "SEM 001",
+            "instructors": [
+                "Rus,Horatiu"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "106",
+            "end_time": "14:20",
+            "enrollment_total": 2,
+            "class_number": 4196,
+            "start_time": "11:30",
+            "subject": "PSCI"
+        }
+    ]
+}

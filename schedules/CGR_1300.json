@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:03-04:00",
+            "catalog_number": "247",
+            "end_date": null,
+            "title": "Mennonite History: A Survey",
+            "section": "LEC 001",
+            "instructors": [
+                "Epp,Marlene G"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "21:20",
+            "enrollment_total": 17,
+            "class_number": 7935,
+            "start_time": "18:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:04-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Early Modern Europe 1450-1700",
+            "section": "LEC 001",
+            "instructors": [
+                "Osborne,Troy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "11:20",
+            "enrollment_total": 29,
+            "class_number": 7918,
+            "start_time": "10:00",
+            "subject": "HIST"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:35-04:00",
+            "catalog_number": "319",
+            "end_date": null,
+            "title": "Neg'n Theories & Strategies",
+            "section": "LEC 001",
+            "instructors": [
+                "Ball,Jennifer Susan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "12:50",
+            "enrollment_total": 10,
+            "class_number": 7922,
+            "start_time": "11:30",
+            "subject": "LS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:06-04:00",
+            "catalog_number": "334",
+            "end_date": null,
+            "title": "Women, Music and Gender",
+            "section": "LEC 001",
+            "instructors": [
+                "Sum,Maisie"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "21:50",
+            "enrollment_total": 9,
+            "class_number": 7897,
+            "start_time": "19:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:27-04:00",
+            "catalog_number": "314",
+            "end_date": null,
+            "title": "Conflict Resolution in the Schools",
+            "section": "LEC 001",
+            "instructors": [
+                "Gingrich,Dennis M"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "18:20",
+            "enrollment_total": 24,
+            "class_number": 7925,
+            "start_time": "15:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:27-04:00",
+            "catalog_number": "323",
+            "end_date": null,
+            "title": "Negotiation: Theories and Strategies",
+            "section": "LEC 001",
+            "instructors": [
+                "Ball,Jennifer Susan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "12:50",
+            "enrollment_total": 29,
+            "class_number": 4688,
+            "start_time": "11:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:28-04:00",
+            "catalog_number": "326",
+            "end_date": null,
+            "title": "Religion and Peace-Building",
+            "section": "LEC 001",
+            "instructors": [
+                "Funk,Nathan"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 7926,
+            "start_time": "13:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:28-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Trauma, Healing and Conflict Resolution",
+            "section": "LEC 001",
+            "instructors": [
+                "Gallagher,Susan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "17:20",
+            "enrollment_total": 29,
+            "class_number": 4694,
+            "start_time": "14:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:29-04:00",
+            "catalog_number": "332",
+            "end_date": null,
+            "title": "Ethics of Peacebuilding",
+            "section": "LEC 001",
+            "instructors": [
+                "Neufeldt,Reina"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "11:20",
+            "enrollment_total": 15,
+            "class_number": 7933,
+            "start_time": "10:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:37-04:00",
+            "catalog_number": "122",
+            "end_date": null,
+            "title": "Sacred Beauty: Religion and the Arts",
+            "section": "LEC 001",
+            "instructors": [
+                "Batten,Alicia"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "21:50",
+            "enrollment_total": 11,
+            "class_number": 7934,
+            "start_time": "19:00",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:41-04:00",
+            "catalog_number": "334",
+            "end_date": null,
+            "title": "Women, Music and Gender",
+            "section": "LEC 001",
+            "instructors": [
+                "Sum,Maisie"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1300",
+            "end_time": "21:50",
+            "enrollment_total": 12,
+            "class_number": 7896,
+            "start_time": "19:00",
+            "subject": "WS"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "building": "IHB",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "420",
+            "end_date": "10/23",
+            "title": "Integrated Patient Focused Care 7",
+            "section": "LEC 001",
+            "instructors": [
+                "Patel,Tejal"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2018",
+            "end_time": "14:50",
+            "enrollment_total": 118,
+            "class_number": 7454,
+            "start_time": "12:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "IHB",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "420",
+            "end_date": "10/23",
+            "title": "Integrated Patient Focused Care 7",
+            "section": "LEC 001",
+            "instructors": [
+                "Patel,Tejal"
+            ],
+            "weekdays": "T",
+            "start_date": "09/14",
+            "room": "2018",
+            "end_time": "14:50",
+            "enrollment_total": 118,
+            "class_number": 7454,
+            "start_time": "12:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "IHB",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "421",
+            "end_date": "12/04",
+            "title": "Integrated Patient Focused Care 8",
+            "section": "LEC 001",
+            "instructors": [
+                "Beazely,Michael"
+            ],
+            "weekdays": "M",
+            "start_date": "10/26",
+            "room": "2018",
+            "end_time": "14:50",
+            "enrollment_total": 118,
+            "class_number": 7455,
+            "start_time": "12:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "IHB",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "421",
+            "end_date": "12/04",
+            "title": "Integrated Patient Focused Care 8",
+            "section": "LEC 001",
+            "instructors": [
+                "Beazely,Michael"
+            ],
+            "weekdays": "T",
+            "start_date": "10/26",
+            "room": "2018",
+            "end_time": "14:50",
+            "enrollment_total": 118,
+            "class_number": 7455,
+            "start_time": "12:00",
+            "subject": "PHARM"
+        }
+    ]
+}

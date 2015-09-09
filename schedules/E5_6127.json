@@ -2,43 +2,163 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "644",
-            "class_number": 4878,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "553",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 17,
-            "instructors": [
-                "MacGregor,Carolyn G"
-            ],
-            "last_updated": "2015-05-04T16:03:02-04:00",
-            "room": "6127",
+            "title": "Advanced Dynamics",
             "section": "LEC 001",
+            "instructors": [
+                "McPhee,John"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Human Factors Testing",
-            "weekdays": "T"
+            "room": "6127",
+            "end_time": "15:50",
+            "enrollment_total": 8,
+            "class_number": 4715,
+            "start_time": "14:30",
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "661",
-            "class_number": 3437,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "553",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 7,
-            "instructors": [
-                "Savage,Gordon"
-            ],
-            "last_updated": "2015-05-04T16:03:02-04:00",
-            "room": "6127",
+            "title": "Advanced Dynamics",
             "section": "LEC 001",
+            "instructors": [
+                "McPhee,John"
+            ],
+            "weekdays": "F",
             "start_date": null,
+            "room": "6127",
+            "end_time": "13:50",
+            "enrollment_total": 8,
+            "class_number": 4715,
+            "start_time": "12:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "553",
+            "end_date": null,
+            "title": "Advanced Dynamics",
+            "section": "TUT 101",
+            "instructors": [
+                "McPhee,John"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "14:50",
+            "enrollment_total": 8,
+            "class_number": 4716,
+            "start_time": "14:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:29-04:00",
+            "catalog_number": "702",
+            "end_date": null,
+            "title": "Nanotechology Tools",
+            "section": "LEC 003",
+            "instructors": [
+                "Yeow,Tze Wei"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "11:50",
+            "enrollment_total": 2,
+            "class_number": 5515,
             "start_time": "10:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Model-Based Robust Design",
-            "weekdays": "WTh"
+            "subject": "NANO"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:09-04:00",
+            "catalog_number": "631",
+            "end_date": null,
+            "title": "Time Series Modelling",
+            "section": "LEC 001",
+            "instructors": [
+                "Hipel,Keith W"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "16:20",
+            "enrollment_total": 15,
+            "class_number": 5100,
+            "start_time": "13:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:09-04:00",
+            "catalog_number": "677",
+            "end_date": null,
+            "title": "Medical Imaging",
+            "section": "LEC 001",
+            "instructors": [
+                "Tizhoosh,Hamid R."
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "17:50",
+            "enrollment_total": 17,
+            "class_number": 4951,
+            "start_time": "15:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:09-04:00",
+            "catalog_number": "682",
+            "end_date": null,
+            "title": "Advanced MicroElectroMechanical Systems:  Principles, Design & Fabrication",
+            "section": "LEC 001",
+            "instructors": [
+                "Yeow,Tze Wei"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "11:50",
+            "enrollment_total": 3,
+            "class_number": 8618,
+            "start_time": "10:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:09-04:00",
+            "catalog_number": "740",
+            "end_date": null,
+            "title": "Selected Topics in Human Systems",
+            "section": "RDG 001",
+            "instructors": [
+                "Cao,Shi"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6127",
+            "end_time": "13:20",
+            "enrollment_total": 2,
+            "class_number": 8596,
+            "start_time": "12:30",
+            "subject": "SYDE"
         }
     ]
 }

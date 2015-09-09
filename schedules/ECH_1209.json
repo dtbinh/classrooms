@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:43-04:00",
+            "catalog_number": "490",
+            "end_date": null,
+            "title": "Honours Film Studies Thesis 1",
+            "section": "RDG 001",
+            "instructors": [
+                "Riva,Lori"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1209",
+            "end_time": "19:50",
+            "enrollment_total": 0,
+            "class_number": 4222,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:43-04:00",
+            "catalog_number": "493",
+            "end_date": null,
+            "title": "Senior General Art History Project",
+            "section": "PRJ 001",
+            "instructors": [
+                "Riva,Lori"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1209",
+            "end_time": "19:50",
+            "enrollment_total": 0,
+            "class_number": 4608,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:43-04:00",
+            "catalog_number": "496",
+            "end_date": null,
+            "title": "Honours Art History Thesis 1",
+            "section": "RDG 001",
+            "instructors": [
+                "Riva,Lori"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1209",
+            "end_time": "19:50",
+            "enrollment_total": 4,
+            "class_number": 3795,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:50-04:00",
+            "catalog_number": "680",
+            "end_date": null,
+            "title": "Issues in Contemporary Art 1",
+            "section": "SEM 001",
+            "instructors": [
+                "Blatherwick,David"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1209",
+            "end_time": "15:50",
+            "enrollment_total": 4,
+            "class_number": 3570,
+            "start_time": "13:00",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:51-04:00",
+            "catalog_number": "682",
+            "end_date": null,
+            "title": "Graduate Senior Seminar 1",
+            "section": "SEM 001",
+            "instructors": [
+                "Blatherwick,David"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1209",
+            "end_time": "15:50",
+            "enrollment_total": 4,
+            "class_number": 3571,
+            "start_time": "13:00",
+            "subject": "FINE"
+        }
+    ]
+}

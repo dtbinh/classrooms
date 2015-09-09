@@ -2,81 +2,119 @@
     "data": [
         {
             "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
             "catalog_number": "32",
-            "class_number": 4986,
-            "end_date": "07/17",
-            "end_time": "14:50",
-            "enrollment_total": 0,
-            "instructors": [
-                "Jacob,Raveet"
-            ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
-            "room": "1928",
-            "section": "LEC 002",
-            "start_date": "04/20",
-            "start_time": "13:00",
-            "subject": "EFAS",
-            "term": 1155,
+            "end_date": null,
             "title": "Academic Skills",
-            "weekdays": "MTh"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "42",
-            "class_number": 4992,
-            "end_date": "07/17",
-            "end_time": "11:20",
-            "enrollment_total": 0,
+            "section": "LEC 004",
             "instructors": [],
-            "last_updated": "2015-05-04T16:01:09-04:00",
+            "weekdays": "TWThF",
+            "start_date": null,
             "room": "1928",
-            "section": "LEC 001",
-            "start_date": "04/20",
-            "start_time": "09:30",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Academic Skills",
-            "weekdays": "TWThF"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "44",
-            "class_number": 4993,
-            "end_date": "07/17",
-            "end_time": "11:20",
-            "enrollment_total": 0,
-            "instructors": [
-                "Morgan,Christine Elizabeth"
-            ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
-            "room": "1928",
-            "section": "LEC 001",
-            "start_date": "04/20",
-            "start_time": "09:30",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Writing Skills",
-            "weekdays": "M"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "44",
-            "class_number": 4993,
-            "end_date": "07/17",
             "end_time": "15:20",
-            "enrollment_total": 0,
-            "instructors": [
-                "Morgan,Christine Elizabeth"
-            ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
-            "room": "1928",
-            "section": "LEC 001",
-            "start_date": "04/20",
-            "start_time": "13:00",
-            "subject": "EFAS",
-            "term": 1155,
+            "enrollment_total": 22,
+            "class_number": 6881,
+            "start_time": "13:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "34",
+            "end_date": null,
             "title": "Writing Skills",
-            "weekdays": "TW"
+            "section": "LEC 003",
+            "instructors": [
+                "Cook,Keely Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1928",
+            "end_time": "11:50",
+            "enrollment_total": 23,
+            "class_number": 6871,
+            "start_time": "09:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "36",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 003",
+            "instructors": [
+                "Gillies,Christine"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1928",
+            "end_time": "15:50",
+            "enrollment_total": 23,
+            "class_number": 6874,
+            "start_time": "14:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "42",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Corwin,Jesse Eliot"
+            ],
+            "weekdays": "TWThF",
+            "start_date": null,
+            "room": "1928",
+            "end_time": "12:20",
+            "enrollment_total": 13,
+            "class_number": 6875,
+            "start_time": "10:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 006",
+            "instructors": [],
+            "weekdays": "MTTh",
+            "start_date": null,
+            "room": "1928",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 8541,
+            "start_time": "16:00",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 007",
+            "instructors": [
+                "Beer,Lacey Anne"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1928",
+            "end_time": "21:20",
+            "enrollment_total": 25,
+            "class_number": 4588,
+            "start_time": "18:30",
+            "subject": "ENGL"
         }
     ]
 }

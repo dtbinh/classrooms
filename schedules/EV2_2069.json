@@ -2,43 +2,165 @@
     "data": [
         {
             "building": "EV2",
-            "catalog_number": "420",
-            "class_number": 3572,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:12-04:00",
+            "catalog_number": "120",
             "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 0,
+            "title": "Introduction to the Academy: Disciplines and Integrative Practices",
+            "section": "LEC 001",
             "instructors": [
-                "Plaisance,Kathryn"
+                "McLevey,John"
             ],
-            "last_updated": "2015-05-04T16:01:27-04:00",
-            "room": "2069",
-            "section": "SEM 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "INTEG",
-            "term": 1155,
-            "title": "Senior Research Project A",
-            "weekdays": "MW"
+            "room": "2069",
+            "end_time": "11:20",
+            "enrollment_total": 45,
+            "class_number": 5702,
+            "start_time": "10:00",
+            "subject": "INTEG"
         },
         {
             "building": "EV2",
-            "catalog_number": "421",
-            "class_number": 3570,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:12-04:00",
+            "catalog_number": "220",
             "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 1,
+            "title": "Nature of Scientific Knowledge",
+            "section": "LEC 001",
             "instructors": [
                 "Plaisance,Kathryn"
             ],
-            "last_updated": "2015-05-04T16:01:27-04:00",
-            "room": "2069",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "2069",
+            "end_time": "15:50",
+            "enrollment_total": 35,
+            "class_number": 5720,
+            "start_time": "14:30",
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:12-04:00",
+            "catalog_number": "231",
+            "end_date": "10/09",
+            "title": "The Museum Course: Field Trip Project",
+            "section": "PRJ 001",
+            "instructors": [
+                "McKone,Paul David",
+                "Gorbet,Robert B"
+            ],
+            "weekdays": "W",
+            "start_date": "09/14",
+            "room": "2069",
+            "end_time": "14:20",
+            "enrollment_total": 22,
+            "class_number": 5773,
+            "start_time": "11:30",
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:12-04:00",
+            "catalog_number": "251",
+            "end_date": null,
+            "title": "Creative Thinking",
+            "section": "LEC 001",
+            "instructors": [
+                "Schweizer,Vanessa"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2069",
+            "end_time": "15:50",
+            "enrollment_total": 17,
+            "class_number": 7946,
+            "start_time": "14:30",
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:12-04:00",
+            "catalog_number": "275",
+            "end_date": null,
+            "title": "Special Topics in Knowledge Integration",
+            "section": "LEC 001",
+            "instructors": [
+                "Jernigan,Marvin Edward"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2069",
+            "end_time": "11:20",
+            "enrollment_total": 4,
+            "class_number": 5850,
+            "start_time": "10:00",
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:13-04:00",
+            "catalog_number": "320",
+            "end_date": null,
+            "title": "The Museum Course: Research & Design",
+            "section": "LEC 001",
+            "instructors": [
+                "McKone,Paul David",
+                "Gorbet,Robert B"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2069",
+            "end_time": "14:20",
+            "enrollment_total": 26,
+            "class_number": 5734,
+            "start_time": "11:30",
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:13-04:00",
+            "catalog_number": "452A",
+            "end_date": null,
+            "title": "Real World Problem Solving A",
+            "section": "LEC 001",
+            "instructors": [
+                "Schweizer,Vanessa"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2069",
+            "end_time": "09:50",
+            "enrollment_total": 15,
+            "class_number": 5851,
             "start_time": "08:30",
-            "subject": "INTEG",
-            "term": 1155,
-            "title": "Senior Research Project B",
-            "weekdays": "MW"
+            "subject": "INTEG"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:13-04:00",
+            "catalog_number": "475",
+            "end_date": null,
+            "title": "Special Topics in Knowledge Integration",
+            "section": "LEC 001",
+            "instructors": [
+                "McLevey,John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2069",
+            "end_time": "14:20",
+            "enrollment_total": 5,
+            "class_number": 7947,
+            "start_time": "13:00",
+            "subject": "INTEG"
         }
     ]
 }

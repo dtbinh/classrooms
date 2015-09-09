@@ -1,0 +1,200 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Introduction to Theatre",
+            "section": "WSP 001",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "180",
+            "end_time": "17:20",
+            "enrollment_total": 40,
+            "class_number": 8087,
+            "start_time": "15:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Introduction to Theatre",
+            "section": "WSP 001",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "180",
+            "end_time": "16:20",
+            "enrollment_total": 40,
+            "class_number": 8087,
+            "start_time": "14:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "102",
+            "end_date": null,
+            "title": "Introduction to Performance",
+            "section": "WSP 001",
+            "instructors": [
+                "Hill,Heather"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "180",
+            "end_time": "11:50",
+            "enrollment_total": 15,
+            "class_number": 8088,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Performance Studies",
+            "section": "WSP 001",
+            "instructors": [
+                "Young,Vershawn"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "180",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 8082,
+            "start_time": "13:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "221",
+            "end_date": null,
+            "title": "Intermediate Acting 1",
+            "section": "WSP 001",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "180",
+            "end_time": "15:20",
+            "enrollment_total": 7,
+            "class_number": 8092,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "326",
+            "end_date": null,
+            "title": "Voice Technique",
+            "section": "WSP 001",
+            "instructors": [
+                "Hill,Heather"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "180",
+            "end_time": "20:50",
+            "enrollment_total": 8,
+            "class_number": 8085,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Directing 1",
+            "section": "WSP 001",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "180",
+            "end_time": "12:20",
+            "enrollment_total": 12,
+            "class_number": 8103,
+            "start_time": "09:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "102",
+            "end_date": null,
+            "title": "Introduction to Performance",
+            "section": "WSP 001",
+            "instructors": [
+                "Hill,Heather"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "180",
+            "end_time": "11:50",
+            "enrollment_total": 5,
+            "class_number": 8474,
+            "start_time": "10:00",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Performance Studies",
+            "section": "WSP 001",
+            "instructors": [
+                "Young,Vershawn"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "180",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 8081,
+            "start_time": "13:00",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:17-04:00",
+            "catalog_number": "326",
+            "end_date": null,
+            "title": "Voice Technique",
+            "section": "WSP 001",
+            "instructors": [
+                "Hill,Heather"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "180",
+            "end_time": "20:50",
+            "enrollment_total": 4,
+            "class_number": 8084,
+            "start_time": "18:00",
+            "subject": "SPCOM"
+        }
+    ]
+}

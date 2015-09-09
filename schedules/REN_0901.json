@@ -1,0 +1,264 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "46",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Gillies,Christine"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 6877,
+            "start_time": "09:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "46",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Scanlon,Giselle"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "class_number": 8531,
+            "start_time": "13:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "201R",
+            "end_date": null,
+            "title": "Second-Year Japanese 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Kunizane,Kumiko"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "11:20",
+            "enrollment_total": 24,
+            "class_number": 6740,
+            "start_time": "10:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:18-04:00",
+            "catalog_number": "212R",
+            "end_date": null,
+            "title": "Educational Psychology",
+            "section": "LEC 001",
+            "instructors": [
+                "Yoshida,Emiko"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "15:50",
+            "enrollment_total": 38,
+            "class_number": 8320,
+            "start_time": "14:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:18-04:00",
+            "catalog_number": "226R",
+            "end_date": null,
+            "title": "Positive Psychology",
+            "section": "LEC 001",
+            "instructors": [
+                "Marigold,Denise"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "11:20",
+            "enrollment_total": 40,
+            "class_number": 4492,
+            "start_time": "10:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:18-04:00",
+            "catalog_number": "226R",
+            "end_date": null,
+            "title": "Positive Psychology",
+            "section": "LEC 002",
+            "instructors": [
+                "Marigold,Denise"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "12:50",
+            "enrollment_total": 40,
+            "class_number": 4493,
+            "start_time": "11:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "204",
+            "end_date": null,
+            "title": "Buddhism",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilson,Jeff"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 8335,
+            "start_time": "13:00",
+            "subject": "RS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:08-04:00",
+            "catalog_number": "220R",
+            "end_date": null,
+            "title": "Social Work with Individuals - Theory and Practice 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "17:20",
+            "enrollment_total": 38,
+            "class_number": 6745,
+            "start_time": "14:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:08-04:00",
+            "catalog_number": "222R",
+            "end_date": null,
+            "title": "Community Organization 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Bennett,Karen E"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "14:20",
+            "enrollment_total": 37,
+            "class_number": 6747,
+            "start_time": "11:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:09-04:00",
+            "catalog_number": "301R",
+            "end_date": null,
+            "title": "Understanding Diversity in Canada",
+            "section": "LEC 001",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "17:20",
+            "enrollment_total": 35,
+            "class_number": 6836,
+            "start_time": "14:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "220R",
+            "end_date": null,
+            "title": "Social Work with Individuals - Theory and Practice 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "class_number": 6769,
+            "start_time": "14:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "222R",
+            "end_date": null,
+            "title": "Community Organization 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Bennett,Karen E"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 6771,
+            "start_time": "11:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:27-04:00",
+            "catalog_number": "301R",
+            "end_date": null,
+            "title": "Understanding Diversity in Canada",
+            "section": "LEC 001",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0901",
+            "end_time": "17:20",
+            "enrollment_total": 0,
+            "class_number": 6838,
+            "start_time": "14:30",
+            "subject": "SWREN"
+        }
+    ]
+}

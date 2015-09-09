@@ -2,43 +2,63 @@
     "data": [
         {
             "building": "OPT",
-            "catalog_number": "478",
-            "class_number": 4149,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "348A",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 34,
-            "instructors": [
-                "Christian,Lisa"
-            ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "149",
-            "section": "CLN 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "OPTOM",
-            "term": 1155,
             "title": "Optometry Clinics",
-            "weekdays": "MWF"
+            "section": "CLN 001",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "149",
+            "end_time": "17:20",
+            "enrollment_total": 46,
+            "class_number": 7058,
+            "start_time": "08:30",
+            "subject": "OPTOM"
         },
         {
             "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:25-04:00",
             "catalog_number": "478",
-            "class_number": 4149,
             "end_date": null,
-            "end_time": "20:50",
-            "enrollment_total": 34,
-            "instructors": [
-                "Christian,Lisa"
-            ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "149",
-            "section": "CLN 001",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "OPTOM",
-            "term": 1155,
             "title": "Optometry Clinics",
-            "weekdays": "TTh"
+            "section": "CLN 001",
+            "instructors": [
+                "Irving,Elizabeth"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "149",
+            "end_time": "17:20",
+            "enrollment_total": 29,
+            "class_number": 7081,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:25-04:00",
+            "catalog_number": "478",
+            "end_date": null,
+            "title": "Optometry Clinics",
+            "section": "CLN 001",
+            "instructors": [
+                "Irving,Elizabeth"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "149",
+            "end_time": "19:50",
+            "enrollment_total": 29,
+            "class_number": 7081,
+            "start_time": "13:00",
+            "subject": "OPTOM"
         }
     ]
 }

@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:40-04:00",
+            "catalog_number": "250L",
+            "end_date": null,
+            "title": "Physical Chemistry Laboratory 1",
+            "section": "LAB 001",
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "168",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 6954,
+            "start_time": "08:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:40-04:00",
+            "catalog_number": "250L",
+            "end_date": null,
+            "title": "Physical Chemistry Laboratory 1",
+            "section": "LAB 002",
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "168",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 6955,
+            "start_time": "08:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:40-04:00",
+            "catalog_number": "250L",
+            "end_date": null,
+            "title": "Physical Chemistry Laboratory 1",
+            "section": "LAB 003",
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "168",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7464,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "310L",
+            "end_date": null,
+            "title": "Inorganic Chemistry Laboratory 2",
+            "section": "LAB 001",
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "168",
+            "end_time": "20:20",
+            "enrollment_total": 16,
+            "class_number": 6969,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "310L",
+            "end_date": null,
+            "title": "Inorganic Chemistry Laboratory 2",
+            "section": "LAB 002",
+            "instructors": [
+                "Siu,Howard Chun-Kui"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "168",
+            "end_time": "20:20",
+            "enrollment_total": 14,
+            "class_number": 7368,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:42-04:00",
+            "catalog_number": "350L",
+            "end_date": null,
+            "title": "Physical Chemistry Laboratory 2",
+            "section": "LAB 001",
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "168",
+            "end_time": "20:20",
+            "enrollment_total": 18,
+            "class_number": 7268,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:42-04:00",
+            "catalog_number": "350L",
+            "end_date": null,
+            "title": "Physical Chemistry Laboratory 2",
+            "section": "LAB 002",
+            "instructors": [
+                "Fisher,Jacob"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "168",
+            "end_time": "20:20",
+            "enrollment_total": 17,
+            "class_number": 7369,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        }
+    ]
+}

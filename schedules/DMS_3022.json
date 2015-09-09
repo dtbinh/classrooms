@@ -1,0 +1,182 @@
+{
+    "data": [
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "303",
+            "end_date": null,
+            "title": "Innovation, Project and Change Management",
+            "section": "LAB 101",
+            "instructors": [
+                "Boyle,Philip"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "13:50",
+            "enrollment_total": 41,
+            "class_number": 4321,
+            "start_time": "13:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "303",
+            "end_date": null,
+            "title": "Innovation, Project and Change Management",
+            "section": "LAB 102",
+            "instructors": [
+                "Boyle,Philip"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "09:50",
+            "enrollment_total": 40,
+            "class_number": 4323,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LEC 001",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "10:50",
+            "enrollment_total": 46,
+            "class_number": 4325,
+            "start_time": "10:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LEC 002",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "14:50",
+            "enrollment_total": 38,
+            "class_number": 4326,
+            "start_time": "14:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LAB 101",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "11:50",
+            "enrollment_total": 46,
+            "class_number": 4327,
+            "start_time": "11:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LAB 102",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "15:50",
+            "enrollment_total": 38,
+            "class_number": 4328,
+            "start_time": "15:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:49-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Cross-Cultural Digital Business 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Nacke,Lennart"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "17:50",
+            "enrollment_total": 45,
+            "class_number": 7840,
+            "start_time": "15:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:49-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Cross-Cultural Digital Business 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Nacke,Lennart"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "11:50",
+            "enrollment_total": 45,
+            "class_number": 7840,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:26-04:00",
+            "catalog_number": "615",
+            "end_date": null,
+            "title": "New Perspectives: Media History and Analysis",
+            "section": "SEM 001",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3022",
+            "end_time": "18:50",
+            "enrollment_total": 25,
+            "class_number": 4329,
+            "start_time": "16:00",
+            "subject": "DEI"
+        }
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:05-04:00",
+            "catalog_number": "205R",
+            "end_date": null,
+            "title": "Second Language Acquisition",
+            "section": "LEC 001",
+            "instructors": [
+                "Williams,Julia"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "09:50",
+            "enrollment_total": 30,
+            "class_number": 6731,
+            "start_time": "08:30",
+            "subject": "APPLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "32",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "2102",
+            "end_time": "10:50",
+            "enrollment_total": 0,
+            "class_number": 6844,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "34",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2102",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 6842,
+            "start_time": "10:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "34",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "weekdays": "W",
+            "start_date": "09/14",
+            "room": "2102",
+            "end_time": "11:50",
+            "enrollment_total": 0,
+            "class_number": 6842,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "36",
+            "end_date": "12/11",
+            "title": "Oral Skills",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2102",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 6843,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "36",
+            "end_date": "12/11",
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "2102",
+            "end_time": "12:50",
+            "enrollment_total": 0,
+            "class_number": 6846,
+            "start_time": "11:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 004",
+            "instructors": [
+                "Edwards,Elin"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "15:50",
+            "enrollment_total": 21,
+            "class_number": 3925,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 005",
+            "instructors": [
+                "Edwards,Elin"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "14:20",
+            "enrollment_total": 38,
+            "class_number": 4280,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "11:20",
+            "enrollment_total": 30,
+            "class_number": 6782,
+            "start_time": "10:00",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "class_number": 6855,
+            "start_time": "16:00",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 6796,
+            "start_time": "11:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "18:20",
+            "enrollment_total": 22,
+            "class_number": 6856,
+            "start_time": "17:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "LAB 201",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 8322,
+            "start_time": "11:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Arabic 1",
+            "section": "LAB 202",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "18:20",
+            "enrollment_total": 22,
+            "class_number": 8323,
+            "start_time": "17:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "Introduction to Arabic 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 6857,
+            "start_time": "13:00",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "Introduction to Arabic 2",
+            "section": "TUT 101",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "15:20",
+            "enrollment_total": 1,
+            "class_number": 6862,
+            "start_time": "14:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:54-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "Introduction to Arabic 2",
+            "section": "LAB 201",
+            "instructors": [
+                "Al-Azraki,Amir"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2102",
+            "end_time": "15:20",
+            "enrollment_total": 1,
+            "class_number": 8324,
+            "start_time": "14:30",
+            "subject": "SI"
+        }
+    ]
+}

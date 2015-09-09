@@ -2,123 +2,143 @@
     "data": [
         {
             "building": "PHR",
-            "catalog_number": "222",
-            "class_number": 4815,
-            "end_date": "06/12",
-            "end_time": "15:50",
-            "enrollment_total": 117,
-            "instructors": [
-                "Schneider,Eric"
-            ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "1008",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:37-04:00",
+            "catalog_number": "220",
+            "end_date": "10/23",
+            "title": "Integrated Patient Focused Care 1",
             "section": "TUT 101",
-            "start_date": "05/04",
-            "start_time": "14:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Integrated Patient Focused Care 3",
-            "weekdays": "F"
+            "instructors": [
+                "Chang,Feng"
+            ],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "1008",
+            "end_time": "16:20",
+            "enrollment_total": 120,
+            "class_number": 8180,
+            "start_time": "14:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "223",
-            "class_number": 4817,
-            "end_date": "07/28",
-            "end_time": "15:50",
-            "enrollment_total": 117,
-            "instructors": [
-                "Alsabbagh,Wasem"
-            ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "1008",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:38-04:00",
+            "catalog_number": "221",
+            "end_date": "12/04",
+            "title": "Integrated Patient Focused Care 2",
             "section": "TUT 101",
-            "start_date": "06/15",
-            "start_time": "14:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Integrated Patient Focused Care 4",
-            "weekdays": "F"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "425",
-            "class_number": 4825,
-            "end_date": "08/27",
-            "end_time": "10:50",
-            "enrollment_total": 55,
             "instructors": [
-                "Lillie,Elaine"
+                "Barrett,Brett"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "F",
+            "start_date": "10/26",
             "room": "1008",
-            "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "09:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Symposium",
-            "weekdays": "TWTh"
+            "end_time": "16:20",
+            "enrollment_total": 123,
+            "class_number": 8181,
+            "start_time": "14:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "466",
-            "class_number": 4240,
-            "end_date": "08/27",
-            "end_time": "14:50",
-            "enrollment_total": 34,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:39-04:00",
+            "catalog_number": "374",
+            "end_date": null,
+            "title": "Complementary and Alternate Medicine",
+            "section": "LEC 001",
             "instructors": [
-                "Viana,Luis"
+                "Spagnuolo,Paul Anthony"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "F",
+            "start_date": null,
             "room": "1008",
-            "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "12:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Advanced Geriatric Care",
-            "weekdays": "M"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "466",
-            "class_number": 4240,
-            "end_date": "08/27",
-            "end_time": "14:20",
-            "enrollment_total": 34,
-            "instructors": [
-                "Viana,Luis"
-            ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
-            "room": "1008",
-            "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "13:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Advanced Geriatric Care",
-            "weekdays": "W"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "491",
-            "class_number": 4233,
-            "end_date": "08/27",
             "end_time": "12:20",
-            "enrollment_total": 55,
+            "enrollment_total": 14,
+            "class_number": 7496,
+            "start_time": "09:30",
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:40-04:00",
+            "catalog_number": "376",
+            "end_date": null,
+            "title": "Practicing Pharmacy with Diverse Populations",
+            "section": "LEC 001",
             "instructors": [
-                "Maxwell,Colleen Jean"
+                "Wong,Jeffrey"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "1008",
-            "section": "SEM 001",
-            "start_date": "07/02",
-            "start_time": "11:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Seminars in Pharmacy 3",
-            "weekdays": "T"
+            "end_time": "17:50",
+            "enrollment_total": 38,
+            "class_number": 8364,
+            "start_time": "15:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "420",
+            "end_date": "10/23",
+            "title": "Integrated Patient Focused Care 7",
+            "section": "TUT 101",
+            "instructors": [
+                "Patel,Tejal"
+            ],
+            "weekdays": "Th",
+            "start_date": "09/14",
+            "room": "1008",
+            "end_time": "16:50",
+            "enrollment_total": 118,
+            "class_number": 7470,
+            "start_time": "15:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:41-04:00",
+            "catalog_number": "421",
+            "end_date": "12/04",
+            "title": "Integrated Patient Focused Care 8",
+            "section": "TUT 101",
+            "instructors": [
+                "Beazely,Michael"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/26",
+            "room": "1008",
+            "end_time": "16:50",
+            "enrollment_total": 118,
+            "class_number": 7471,
+            "start_time": "15:00",
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:42-04:00",
+            "catalog_number": "464",
+            "end_date": null,
+            "title": "Advanced Therapeutic Concepts in Oncology",
+            "section": "LEC 001",
+            "instructors": [
+                "McFarlane,Tom"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1008",
+            "end_time": "18:20",
+            "enrollment_total": 57,
+            "class_number": 7497,
+            "start_time": "15:30",
+            "subject": "PHARM"
         }
     ]
 }

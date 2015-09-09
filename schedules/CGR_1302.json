@@ -1,0 +1,267 @@
+{
+    "data": [
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:03-04:00",
+            "catalog_number": "235",
+            "end_date": null,
+            "title": "History of Christianity",
+            "section": "LEC 001",
+            "instructors": [
+                "Osborne,Troy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "15:50",
+            "enrollment_total": 9,
+            "class_number": 4204,
+            "start_time": "14:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "344",
+            "end_date": null,
+            "title": "Restorative Justice",
+            "section": "LEC 001",
+            "instructors": [
+                "Cowie,Christopher",
+                "Van Rassel,Michelle Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "20:50",
+            "enrollment_total": 10,
+            "class_number": 7928,
+            "start_time": "18:00",
+            "subject": "LS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:02-04:00",
+            "catalog_number": "111",
+            "end_date": null,
+            "title": "Fundamentals of Music Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Bauman,Carol"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "15:50",
+            "enrollment_total": 40,
+            "class_number": 4687,
+            "start_time": "14:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:02-04:00",
+            "catalog_number": "111",
+            "end_date": null,
+            "title": "Fundamentals of Music Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Bauman,Carol"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "class_number": 4687,
+            "start_time": "14:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:03-04:00",
+            "catalog_number": "222",
+            "end_date": null,
+            "title": "Conducting 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Vuorinen,Mark"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "12:50",
+            "enrollment_total": 8,
+            "class_number": 4684,
+            "start_time": "11:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:26-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Peace is Everybody's Business",
+            "section": "LEC 001",
+            "instructors": [
+                "Ewert,Lowell",
+                "Klassen,Mary Lou Elaine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "12:50",
+            "enrollment_total": 49,
+            "class_number": 7923,
+            "start_time": "11:30",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:28-04:00",
+            "catalog_number": "329",
+            "end_date": null,
+            "title": "Restorative Justice",
+            "section": "LEC 001",
+            "instructors": [
+                "Cowie,Christopher",
+                "Van Rassel,Michelle Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "20:50",
+            "enrollment_total": 30,
+            "class_number": 7927,
+            "start_time": "18:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:28-04:00",
+            "catalog_number": "330",
+            "end_date": null,
+            "title": "War and Peace in Christian Theology",
+            "section": "LEC 001",
+            "instructors": [
+                "Bergen,Jeremy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "class_number": 7929,
+            "start_time": "13:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "235",
+            "end_date": null,
+            "title": "Jesus: Life and Legacy",
+            "section": "LEC 001",
+            "instructors": [
+                "Batten,Alicia"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "class_number": 4318,
+            "start_time": "10:00",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "240",
+            "end_date": null,
+            "title": "History of Christianity",
+            "section": "LEC 001",
+            "instructors": [
+                "Osborne,Troy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "15:50",
+            "enrollment_total": 13,
+            "class_number": 4206,
+            "start_time": "14:30",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:40-04:00",
+            "catalog_number": "353",
+            "end_date": null,
+            "title": "War and Peace in Christian Theology",
+            "section": "LEC 001",
+            "instructors": [
+                "Bergen,Jeremy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 7931,
+            "start_time": "13:00",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:35-04:00",
+            "catalog_number": "670",
+            "end_date": null,
+            "title": "War and Peace in Christian Thought",
+            "section": "LEC 001",
+            "instructors": [
+                "Bergen,Jeremy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 7930,
+            "start_time": "13:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "637",
+            "end_date": null,
+            "title": "War and Peace in Christian Theology",
+            "section": "LEC 001",
+            "instructors": [
+                "Bergen,Jeremy"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1302",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 7932,
+            "start_time": "13:00",
+            "subject": "TS"
+        }
+    ]
+}

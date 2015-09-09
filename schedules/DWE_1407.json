@@ -2,43 +2,79 @@
     "data": [
         {
             "building": "DWE",
-            "catalog_number": "330",
-            "class_number": 2800,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:33-04:00",
+            "catalog_number": "276",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 20,
-            "instructors": [
-                "Plumb,Benjamin Douglas"
-            ],
-            "last_updated": "2015-05-04T16:01:14-04:00",
-            "room": "1407",
+            "title": "Environmental Biology and Biotechnology",
             "section": "LAB 201",
+            "instructors": [
+                "Lee,Hyung-Sool"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "ENVE",
-            "term": 1155,
-            "title": "Lab Analysis and Field Sampling Techniques",
-            "weekdays": "T"
+            "room": "1407",
+            "end_time": "10:20",
+            "enrollment_total": 23,
+            "class_number": 5052,
+            "start_time": "08:30",
+            "subject": "ENVE"
         },
         {
             "building": "DWE",
-            "catalog_number": "330",
-            "class_number": 2801,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:33-04:00",
+            "catalog_number": "276",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 12,
-            "instructors": [
-                "Plumb,Benjamin Douglas"
-            ],
-            "last_updated": "2015-05-04T16:01:14-04:00",
-            "room": "1407",
+            "title": "Environmental Biology and Biotechnology",
             "section": "LAB 202",
+            "instructors": [
+                "Lee,Hyung-Sool"
+            ],
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "ENVE",
-            "term": 1155,
-            "title": "Lab Analysis and Field Sampling Techniques",
-            "weekdays": "M"
+            "room": "1407",
+            "end_time": "10:20",
+            "enrollment_total": 31,
+            "class_number": 5261,
+            "start_time": "08:30",
+            "subject": "ENVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:34-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Wastewater Treatment",
+            "section": "LAB 101",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1407",
+            "end_time": "15:20",
+            "enrollment_total": 21,
+            "class_number": 4804,
+            "start_time": "12:30",
+            "subject": "ENVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:34-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Wastewater Treatment",
+            "section": "LAB 102",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1407",
+            "end_time": "15:20",
+            "enrollment_total": 17,
+            "class_number": 5489,
+            "start_time": "12:30",
+            "subject": "ENVE"
         }
     ]
 }

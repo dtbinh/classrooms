@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:44-04:00",
+            "catalog_number": "192A",
+            "end_date": null,
+            "title": "French Language 1: Module 1",
+            "section": "LEC 005",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3604",
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "class_number": 3602,
+            "start_time": "10:00",
+            "subject": "FR"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:33-04:00",
+            "catalog_number": "575",
+            "end_date": null,
+            "title": "Image Processing",
+            "section": "LEC 001",
+            "instructors": [
+                "Clausi,David A"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3604",
+            "end_time": "14:20",
+            "enrollment_total": 29,
+            "class_number": 4717,
+            "start_time": "13:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:33-04:00",
+            "catalog_number": "575",
+            "end_date": null,
+            "title": "Image Processing",
+            "section": "TUT 201",
+            "instructors": [
+                "Clausi,David A"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3604",
+            "end_time": "12:50",
+            "enrollment_total": 29,
+            "class_number": 4719,
+            "start_time": "12:00",
+            "subject": "SYDE"
+        }
+    ]
+}

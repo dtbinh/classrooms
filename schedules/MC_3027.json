@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "115",
+            "end_date": null,
+            "title": "Introduction to Computer Science 1",
+            "section": "LAB 119",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "15:50",
+            "enrollment_total": 16,
+            "class_number": 7743,
+            "start_time": "14:30",
+            "subject": "CS"
+        }
+    ]
+}

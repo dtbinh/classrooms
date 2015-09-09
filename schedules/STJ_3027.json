@@ -2,103 +2,299 @@
     "data": [
         {
             "building": "STJ",
-            "catalog_number": "108A",
-            "class_number": 2589,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "386",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 40,
-            "instructors": [
-                "Terzian,Sylvia"
-            ],
-            "last_updated": "2015-05-04T16:01:10-04:00",
-            "room": "3027",
+            "title": "Shakespeare 1",
             "section": "LEC 001",
+            "instructors": [
+                "Kolentsis,Alysia Michelle"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "The Superhero",
-            "weekdays": "MW"
+            "room": "3027",
+            "end_time": "14:20",
+            "enrollment_total": 4,
+            "class_number": 3915,
+            "start_time": "13:00",
+            "subject": "DRAMA"
         },
         {
             "building": "STJ",
-            "catalog_number": "119",
-            "class_number": 4733,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:26-04:00",
+            "catalog_number": "108F",
             "end_date": null,
+            "title": "The Rebel",
+            "section": "LEC 001",
+            "instructors": [
+                "Acton,Carol"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "17:20",
+            "enrollment_total": 39,
+            "class_number": 3799,
+            "start_time": "16:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "200A",
+            "end_date": null,
+            "title": "Survey of British Literature 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Klassen,Norman John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "12:50",
+            "enrollment_total": 34,
+            "class_number": 3800,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:28-04:00",
+            "catalog_number": "208A",
+            "end_date": null,
+            "title": "Forms of Fantasy",
+            "section": "LEC 001",
+            "instructors": [
+                "Deman,Jonathon Andrew"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "21:20",
+            "enrollment_total": 39,
+            "class_number": 3854,
+            "start_time": "18:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "210I",
+            "end_date": null,
+            "title": "Legal Writing",
+            "section": "LEC 001",
+            "instructors": [
+                "Devitt,Ryan Thomas"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "12:50",
+            "enrollment_total": 16,
+            "class_number": 3641,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:31-04:00",
+            "catalog_number": "347",
+            "end_date": null,
+            "title": "American Literature Since 1945",
+            "section": "LEC 001",
+            "instructors": [
+                "Wriglesworth,Chad"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 3660,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:31-04:00",
+            "catalog_number": "362",
+            "end_date": null,
+            "title": "Shakespeare 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Kolentsis,Alysia Michelle"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3027",
             "end_time": "14:20",
             "enrollment_total": 24,
-            "instructors": [
-                "Spielmacher,Mark S"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "3027",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Communications in Mathematics & Computer Science",
-            "weekdays": "T"
+            "class_number": 3896,
+            "start_time": "13:00",
+            "subject": "ENGL"
         },
         {
             "building": "STJ",
-            "catalog_number": "119",
-            "class_number": 4735,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:05-04:00",
+            "catalog_number": "389",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 14,
-            "instructors": [
-                "Humphreys,Sara Megan"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "3027",
-            "section": "LEC 004",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Communications in Mathematics & Computer Science",
-            "weekdays": "M"
-        },
-        {
-            "building": "STJ",
-            "catalog_number": "251B",
-            "class_number": 2205,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 26,
-            "instructors": [
-                "Humphreys,Sara Megan"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "3027",
+            "title": "Canada in World Affairs",
             "section": "LEC 001",
+            "instructors": [
+                "Touhey,Ryan Matthew"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Criticism 2",
-            "weekdays": "MW"
+            "room": "3027",
+            "end_time": "14:20",
+            "enrollment_total": 19,
+            "class_number": 8001,
+            "start_time": "13:30",
+            "subject": "HIST"
         },
         {
             "building": "STJ",
-            "catalog_number": "145",
-            "class_number": 2201,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:05-04:00",
+            "catalog_number": "389",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 49,
+            "title": "Canada in World Affairs",
+            "section": "LEC 001",
             "instructors": [
-                "Stumpf,Andrew Douglas Heslop"
+                "Touhey,Ryan Matthew"
             ],
-            "last_updated": "2015-05-04T16:01:58-04:00",
-            "room": "3027",
-            "section": "LEC 002",
+            "weekdays": "W",
             "start_date": null,
+            "room": "3027",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 8001,
+            "start_time": "16:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:35-04:00",
+            "catalog_number": "291",
+            "end_date": null,
+            "title": "Legal Writing",
+            "section": "LEC 001",
+            "instructors": [
+                "Devitt,Ryan Thomas"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "12:50",
+            "enrollment_total": 23,
+            "class_number": 8061,
+            "start_time": "11:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:40-04:00",
+            "catalog_number": "283",
+            "end_date": null,
+            "title": "Current Ethical Issues",
+            "section": "LEC 001",
+            "instructors": [
+                "Tataryn,Myroslaw"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "19:20",
+            "enrollment_total": 15,
+            "class_number": 3662,
+            "start_time": "16:30",
+            "subject": "RS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:57-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Research Methods",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 7553,
+            "start_time": "10:00",
+            "subject": "SMF"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:58-04:00",
+            "catalog_number": "310",
+            "end_date": null,
+            "title": "Sexual Ethics",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "21:20",
+            "enrollment_total": 26,
+            "class_number": 7554,
+            "start_time": "18:30",
+            "subject": "SMF"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Sociology",
+            "section": "LEC 002",
+            "instructors": [
+                "Bonner,Kieran M."
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "15:50",
+            "enrollment_total": 61,
+            "class_number": 3618,
             "start_time": "14:30",
-            "subject": "PHIL",
-            "term": 1155,
-            "title": "Critical Thinking",
-            "weekdays": "TTh"
+            "subject": "SOC"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:04-04:00",
+            "catalog_number": "302",
+            "end_date": null,
+            "title": "Introduction to Contemporary Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Bonner,Kieran M."
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3027",
+            "end_time": "12:20",
+            "enrollment_total": 17,
+            "class_number": 8074,
+            "start_time": "10:30",
+            "subject": "SOC"
         }
     ]
 }

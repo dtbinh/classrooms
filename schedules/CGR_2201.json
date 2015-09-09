@@ -2,43 +2,303 @@
     "data": [
         {
             "building": "CGR",
-            "catalog_number": "690",
-            "class_number": 4856,
-            "end_date": "06/13",
-            "end_time": "15:50",
-            "enrollment_total": 11,
-            "instructors": [
-                "Froese,Allan Rudy"
-            ],
-            "last_updated": "2015-05-04T16:03:03-04:00",
-            "room": "2201",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:33-04:00",
+            "catalog_number": "603",
+            "end_date": null,
+            "title": "Building Civil Society",
             "section": "SEM 001",
-            "start_date": "06/08",
-            "start_time": "09:00",
-            "subject": "TS",
-            "term": 1155,
-            "title": "Seminars in Theological Studies",
-            "weekdays": "MTWFS"
+            "instructors": [
+                "Ewert,Lowell"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2201",
+            "end_time": "21:20",
+            "enrollment_total": 15,
+            "class_number": 4339,
+            "start_time": "18:30",
+            "subject": "PACS"
         },
         {
             "building": "CGR",
-            "catalog_number": "690",
-            "class_number": 4857,
-            "end_date": "05/29",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Thinking Theologically",
+            "section": "LEC 001",
+            "instructors": [
+                "Bergen,Jeremy"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 9,
+            "class_number": 7656,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "617",
+            "end_date": null,
+            "title": "Unity and Diversity in the New Testament",
+            "section": "LEC 001",
+            "instructors": [
+                "Batten,Alicia"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2201",
+            "end_time": "15:50",
+            "enrollment_total": 1,
+            "class_number": 7942,
+            "start_time": "13:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "621",
+            "end_date": "09/16",
+            "title": "Special Topics: Pastor's Theology Seminar",
+            "section": "LEC 001",
+            "instructors": [
+                "Bechtel,Trevor George"
+            ],
+            "weekdays": "W",
+            "start_date": "09/16",
+            "room": "2201",
             "end_time": "11:50",
             "enrollment_total": 4,
+            "class_number": 7658,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "621",
+            "end_date": "10/14",
+            "title": "Special Topics: Pastor's Theology Seminar",
+            "section": "LEC 001",
             "instructors": [
-                "Rempel,John"
+                "Bechtel,Trevor George"
             ],
-            "last_updated": "2015-05-04T16:03:03-04:00",
+            "weekdays": "W",
+            "start_date": "10/14",
             "room": "2201",
-            "section": "SEM 002",
-            "start_date": "05/19",
-            "start_time": "08:30",
-            "subject": "TS",
-            "term": 1155,
-            "title": "Seminars in Theological Studies",
-            "weekdays": "MTWThF"
+            "end_time": "11:50",
+            "enrollment_total": 4,
+            "class_number": 7658,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "621",
+            "end_date": "11/11",
+            "title": "Special Topics: Pastor's Theology Seminar",
+            "section": "LEC 001",
+            "instructors": [
+                "Bechtel,Trevor George"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 4,
+            "class_number": 7658,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:12-04:00",
+            "catalog_number": "621",
+            "end_date": "12/09",
+            "title": "Special Topics: Pastor's Theology Seminar",
+            "section": "LEC 001",
+            "instructors": [
+                "Bechtel,Trevor George"
+            ],
+            "weekdays": "W",
+            "start_date": "12/09",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 4,
+            "class_number": 7658,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "09/25",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "09/25",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "2201",
+            "end_time": "15:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "13:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "09/26",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "S",
+            "start_date": "09/26",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "10/16",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "10/16",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "2201",
+            "end_time": "15:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "13:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "10/17",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "S",
+            "start_date": "10/17",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "11/07",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "S",
+            "start_date": "11/07",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "677",
+            "end_date": "12/05",
+            "title": "Church and Ministry",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudy,Marilyn Joy"
+            ],
+            "weekdays": "S",
+            "start_date": "12/05",
+            "room": "2201",
+            "end_time": "11:50",
+            "enrollment_total": 10,
+            "class_number": 7943,
+            "start_time": "09:00",
+            "subject": "TS"
         }
     ]
 }

@@ -1,0 +1,258 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "206R",
+            "end_date": null,
+            "title": "Japanese Religions",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilson,Jeff"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 8256,
+            "start_time": "10:00",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "201R",
+            "end_date": null,
+            "title": "Second-Year Korean 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "class_number": 6793,
+            "start_time": "14:30",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "206",
+            "end_date": null,
+            "title": "Japanese Religions",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilson,Jeff"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "11:20",
+            "enrollment_total": 9,
+            "class_number": 8258,
+            "start_time": "10:00",
+            "subject": "RS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "150R",
+            "end_date": null,
+            "title": "Lifespan Processes: The Normal Events",
+            "section": "LEC 001",
+            "instructors": [
+                "Cartwright,Glenn F."
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "14:20",
+            "enrollment_total": 50,
+            "class_number": 6797,
+            "start_time": "13:00",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:47-04:00",
+            "catalog_number": "355R",
+            "end_date": null,
+            "title": "Resilience and Social Support",
+            "section": "LEC 001",
+            "instructors": [
+                "Peretta,James G."
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "17:20",
+            "enrollment_total": 40,
+            "class_number": 6803,
+            "start_time": "14:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Sociology",
+            "section": "LEC 003",
+            "instructors": [
+                "Roberts,Sharon Elizabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "21:20",
+            "enrollment_total": 39,
+            "class_number": 8331,
+            "start_time": "18:30",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:07-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 001",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "11:20",
+            "enrollment_total": 41,
+            "class_number": 6743,
+            "start_time": "10:00",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:07-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 002",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "09:50",
+            "enrollment_total": 41,
+            "class_number": 6744,
+            "start_time": "08:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:07-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 003",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "12:50",
+            "enrollment_total": 49,
+            "class_number": 6794,
+            "start_time": "11:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:25-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 001",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "11:20",
+            "enrollment_total": 1,
+            "class_number": 6764,
+            "start_time": "10:00",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:25-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 002",
+            "instructors": [
+                "Shaikh,Arshi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "09:50",
+            "enrollment_total": 0,
+            "class_number": 6765,
+            "start_time": "08:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:25-04:00",
+            "catalog_number": "120R",
+            "end_date": null,
+            "title": "Introduction to Social Work",
+            "section": "LEC 003",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "12:50",
+            "enrollment_total": 1,
+            "class_number": 6795,
+            "start_time": "11:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:30-04:00",
+            "catalog_number": "471R",
+            "end_date": null,
+            "title": "Social Work with Older Adults: Critical Issues and Future Trends",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1918",
+            "end_time": "20:50",
+            "enrollment_total": 24,
+            "class_number": 8334,
+            "start_time": "18:00",
+            "subject": "SWREN"
+        }
+    ]
+}

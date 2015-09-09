@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:30-04:00",
+            "catalog_number": "660",
+            "end_date": null,
+            "title": "Visual Psychophysics",
+            "section": "LEC 001",
+            "instructors": [
+                "Simpson,Trefford",
+                "Leat,Susan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "439",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 7911,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:30-04:00",
+            "catalog_number": "661",
+            "end_date": null,
+            "title": "Data Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Simpson,Trefford",
+                "Hutchings,Natalie"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "439",
+            "end_time": "12:20",
+            "enrollment_total": 2,
+            "class_number": 8563,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

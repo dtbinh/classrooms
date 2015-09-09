@@ -2,23 +2,121 @@
     "data": [
         {
             "building": "EIT",
-            "catalog_number": "671",
-            "class_number": 4148,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:20-04:00",
+            "catalog_number": "486",
             "end_date": null,
-            "end_time": "17:50",
-            "enrollment_total": 30,
-            "instructors": [
-                "Robertson,William D"
-            ],
-            "last_updated": "2015-05-04T16:02:40-04:00",
-            "room": "2053",
+            "title": "Glycobiology",
             "section": "LEC 001",
+            "instructors": [
+                "Rose,David"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "EARTH",
-            "term": 1155,
-            "title": "Field Methods in Hydrogeology",
-            "weekdays": "MTWThF"
+            "room": "2053",
+            "end_time": "16:20",
+            "enrollment_total": 17,
+            "class_number": 7338,
+            "start_time": "15:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:58-04:00",
+            "catalog_number": "720",
+            "end_date": null,
+            "title": "Selected Topics in Analytical Chemistry",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2053",
+            "end_time": "21:20",
+            "enrollment_total": 6,
+            "class_number": 8115,
+            "start_time": "19:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:58-04:00",
+            "catalog_number": "731",
+            "end_date": null,
+            "title": "Selected Topics in Biochemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Dieckmann,Thorsten"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2053",
+            "end_time": "21:20",
+            "enrollment_total": 5,
+            "class_number": 7242,
+            "start_time": "19:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:27-04:00",
+            "catalog_number": "626",
+            "end_date": null,
+            "title": "Global Biogeochemical Cycles",
+            "section": "LEC 001",
+            "instructors": [
+                "Van Cappellen,Philippe"
+            ],
+            "weekdays": "MF",
+            "start_date": null,
+            "room": "2053",
+            "end_time": "13:50",
+            "enrollment_total": 3,
+            "class_number": 7388,
+            "start_time": "12:30",
+            "subject": "EARTH"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:28-04:00",
+            "catalog_number": "650",
+            "end_date": null,
+            "title": "Physical Processes in Groundwater Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Illman,Walter"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2053",
+            "end_time": "11:20",
+            "enrollment_total": 2,
+            "class_number": 7094,
+            "start_time": "09:30",
+            "subject": "EARTH"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:28-04:00",
+            "catalog_number": "654",
+            "end_date": null,
+            "title": "Groundwater Research Management",
+            "section": "LEC 001",
+            "instructors": [
+                "Rudolph,David L"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2053",
+            "end_time": "11:20",
+            "enrollment_total": 3,
+            "class_number": 7773,
+            "start_time": "10:00",
+            "subject": "EARTH"
         }
     ]
 }

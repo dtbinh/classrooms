@@ -2,43 +2,384 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "100",
-            "class_number": 4412,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "101",
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 80,
-            "instructors": [
-                "Campbell,Scott Martin"
-            ],
-            "last_updated": "2015-05-04T16:02:22-04:00",
-            "room": "6004",
+            "title": "Introduction to Biomedical Engineering",
             "section": "LEC 001",
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "18:30",
-            "subject": "STV",
-            "term": 1155,
-            "title": "Society, Technology and Values: Introduction",
-            "weekdays": "M"
+            "room": "6004",
+            "end_time": "14:20",
+            "enrollment_total": 51,
+            "class_number": 5460,
+            "start_time": "12:30",
+            "subject": "BME"
         },
         {
             "building": "E5",
-            "catalog_number": "202",
-            "class_number": 4347,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "101",
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 80,
-            "instructors": [
-                "Shelley,Cameron P"
-            ],
-            "last_updated": "2015-05-04T16:02:22-04:00",
-            "room": "6004",
+            "title": "Introduction to Biomedical Engineering",
             "section": "LEC 001",
+            "instructors": [
+                "Gorbet,Maud B",
+                "Ivkovic,Igor"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "18:30",
-            "subject": "STV",
-            "term": 1155,
-            "title": "Design and Society",
-            "weekdays": "W"
+            "room": "6004",
+            "end_time": "13:20",
+            "enrollment_total": 51,
+            "class_number": 5460,
+            "start_time": "12:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "161",
+            "end_date": null,
+            "title": "Introduction to Biomedical Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Gorbet,Maud B"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "14:20",
+            "enrollment_total": 51,
+            "class_number": 5466,
+            "start_time": "12:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "181",
+            "end_date": null,
+            "title": "Physics I - Statics",
+            "section": "LEC 001",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "14:50",
+            "enrollment_total": 51,
+            "class_number": 5468,
+            "start_time": "13:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "181",
+            "end_date": null,
+            "title": "Physics I - Statics",
+            "section": "LEC 001",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "13:50",
+            "enrollment_total": 51,
+            "class_number": 5468,
+            "start_time": "12:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "181",
+            "end_date": null,
+            "title": "Physics I - Statics",
+            "section": "TUT 101",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "14:50",
+            "enrollment_total": 51,
+            "class_number": 5469,
+            "start_time": "14:00",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:22-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Gorbet,Maud B"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "12:20",
+            "enrollment_total": 38,
+            "class_number": 8244,
+            "start_time": "11:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "213",
+            "end_date": null,
+            "title": "Stats & Experimental Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Boghaert,Eline"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "16:20",
+            "enrollment_total": 38,
+            "class_number": 8245,
+            "start_time": "15:00",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "213",
+            "end_date": null,
+            "title": "Stats & Experimental Design",
+            "section": "TUT 101",
+            "instructors": [
+                "Boghaert,Eline"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "15:50",
+            "enrollment_total": 38,
+            "class_number": 8246,
+            "start_time": "15:00",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "281",
+            "end_date": null,
+            "title": "Mechanics of Deformable Solids",
+            "section": "LEC 001",
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "13:50",
+            "enrollment_total": 38,
+            "class_number": 8249,
+            "start_time": "12:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "281",
+            "end_date": null,
+            "title": "Mechanics of Deformable Solids",
+            "section": "TUT 101",
+            "instructors": [
+                "Chandrashekar,Naveen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "14:50",
+            "enrollment_total": 38,
+            "class_number": 8250,
+            "start_time": "14:00",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "283",
+            "end_date": null,
+            "title": "Chemistry Principles",
+            "section": "LEC 001",
+            "instructors": [
+                "Molladavoodi,Sara"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "11:20",
+            "enrollment_total": 38,
+            "class_number": 8253,
+            "start_time": "10:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "111",
+            "end_date": null,
+            "title": "Fundamental Engineering Math 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Woody,Owen Zeno"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "09:20",
+            "enrollment_total": 51,
+            "class_number": 8255,
+            "start_time": "08:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "113",
+            "end_date": null,
+            "title": "Matrices and Linear Systems",
+            "section": "LEC 002",
+            "instructors": [
+                "Scott,Katharine Andrea"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "11:20",
+            "enrollment_total": 51,
+            "class_number": 5458,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Scott,Stacey"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "12:20",
+            "enrollment_total": 69,
+            "class_number": 4931,
+            "start_time": "11:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "411",
+            "end_date": null,
+            "title": "Optimization and Numerical Methods",
+            "section": "LEC 001",
+            "instructors": [
+                "Calamai,Paul H"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "10:20",
+            "enrollment_total": 71,
+            "class_number": 5370,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "411",
+            "end_date": null,
+            "title": "Optimization and Numerical Methods",
+            "section": "TUT 101",
+            "instructors": [
+                "Calamai,Paul H"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "11:20",
+            "enrollment_total": 71,
+            "class_number": 5371,
+            "start_time": "10:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "461",
+            "end_date": null,
+            "title": "Systems Design Workshop 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Scott,Stacey"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "11:20",
+            "enrollment_total": 71,
+            "class_number": 4947,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "533",
+            "end_date": null,
+            "title": "Conflict Resolution",
+            "section": "LEC 001",
+            "instructors": [
+                "Hipel,Keith W"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6004",
+            "end_time": "10:20",
+            "enrollment_total": 50,
+            "class_number": 4714,
+            "start_time": "09:00",
+            "subject": "SYDE"
         }
     ]
 }

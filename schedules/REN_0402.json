@@ -2,83 +2,383 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "411R",
-            "class_number": 4032,
-            "end_date": "06/30",
-            "end_time": "12:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "King,Hilton"
-            ],
-            "last_updated": "2015-05-04T16:02:24-04:00",
-            "room": "0402",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "280",
+            "end_date": null,
+            "title": "Literatures of Migration",
             "section": "LEC 001",
-            "start_date": "04/09",
-            "start_time": "09:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Integrative Practice: Aboriginal Perspectives and Social Work",
-            "weekdays": "Th"
+            "instructors": [
+                "Nguyen,Vinh"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "09:50",
+            "enrollment_total": 0,
+            "class_number": 8301,
+            "start_time": "08:30",
+            "subject": "ENGL"
         },
         {
             "building": "REN",
-            "catalog_number": "411R",
-            "class_number": 4874,
-            "end_date": "06/30",
-            "end_time": "20:50",
-            "enrollment_total": 10,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "291",
+            "end_date": null,
+            "title": "Global Literatures",
+            "section": "LEC 001",
+            "instructors": [
+                "Nguyen,Vinh"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "class_number": 8302,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "272R",
+            "end_date": null,
+            "title": "Japanese Culture and Society",
+            "section": "LEC 001",
+            "instructors": [
+                "Uchida,Michiyo"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "21:20",
+            "enrollment_total": 40,
+            "class_number": 6812,
+            "start_time": "18:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "373",
+            "end_date": null,
+            "title": "Public Policy & Native Peoples",
+            "section": "LEC 001",
             "instructors": [
                 "Laurila,Kelly I"
             ],
-            "last_updated": "2015-05-04T16:02:24-04:00",
+            "weekdays": "M",
+            "start_date": null,
             "room": "0402",
-            "section": "LEC 002",
-            "start_date": "04/09",
-            "start_time": "18:00",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Integrative Practice: Aboriginal Perspectives and Social Work",
-            "weekdays": "M"
+            "end_time": "21:20",
+            "enrollment_total": 4,
+            "class_number": 8066,
+            "start_time": "18:30",
+            "subject": "LS"
         },
         {
             "building": "REN",
-            "catalog_number": "443R",
-            "class_number": 4035,
-            "end_date": "06/30",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:20-04:00",
+            "catalog_number": "312R",
+            "end_date": null,
+            "title": "Learning Disabilities",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilson,Carolyn Mary"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "21:20",
+            "enrollment_total": 38,
+            "class_number": 4494,
+            "start_time": "18:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:47-04:00",
+            "catalog_number": "311R",
+            "end_date": null,
+            "title": "Public Policy and Native Peoples in Canada",
+            "section": "LEC 001",
+            "instructors": [
+                "Laurila,Kelly I"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "21:20",
+            "enrollment_total": 35,
+            "class_number": 6801,
+            "start_time": "18:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:47-04:00",
+            "catalog_number": "312R",
+            "end_date": null,
+            "title": "Homelessness & Public Policy",
+            "section": "LEC 001",
+            "instructors": [
+                "Romkey,Theresa Lea"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "12:50",
+            "enrollment_total": 35,
+            "class_number": 8413,
+            "start_time": "11:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:47-04:00",
+            "catalog_number": "354R",
+            "end_date": null,
+            "title": "Values and the Contemporary Family",
+            "section": "LEC 001",
+            "instructors": [
+                "Romkey,Theresa Lea"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0402",
             "end_time": "11:20",
+            "enrollment_total": 38,
+            "class_number": 6802,
+            "start_time": "10:00",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:55-04:00",
+            "catalog_number": "221R",
+            "end_date": null,
+            "title": "Islam, the West, and the Modern World",
+            "section": "LEC 001",
+            "instructors": [
+                "Sheikh,Shiraz"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "17:20",
             "enrollment_total": 13,
+            "class_number": 6832,
+            "start_time": "14:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:08-04:00",
+            "catalog_number": "221R",
+            "end_date": null,
+            "title": "Social Group Work",
+            "section": "LEC 001",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "17:20",
+            "enrollment_total": 38,
+            "class_number": 6746,
+            "start_time": "14:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:08-04:00",
+            "catalog_number": "221R",
+            "end_date": null,
+            "title": "Social Group Work",
+            "section": "LEC 002",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "11:20",
+            "enrollment_total": 28,
+            "class_number": 8415,
+            "start_time": "08:30",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "221R",
+            "end_date": null,
+            "title": "Social Group Work",
+            "section": "LEC 001",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 6775,
+            "start_time": "14:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "221R",
+            "end_date": null,
+            "title": "Social Group Work",
+            "section": "LEC 002",
+            "instructors": [
+                "Boyd,Jon Allan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "11:20",
+            "enrollment_total": 1,
+            "class_number": 8416,
+            "start_time": "08:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:27-04:00",
+            "catalog_number": "311R",
+            "end_date": null,
+            "title": "Public Policy and Native Peoples in Canada",
+            "section": "LEC 001",
+            "instructors": [
+                "Laurila,Kelly I"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "21:20",
+            "enrollment_total": 0,
+            "class_number": 6788,
+            "start_time": "18:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:27-04:00",
+            "catalog_number": "312R",
+            "end_date": null,
+            "title": "Homelessness & Public Policy",
+            "section": "LEC 001",
+            "instructors": [
+                "Romkey,Theresa Lea"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "12:50",
+            "enrollment_total": 0,
+            "class_number": 8414,
+            "start_time": "11:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "414R",
+            "end_date": null,
+            "title": "Interviewing and Assessment in Social Work Practice",
+            "section": "LEC 001",
+            "instructors": [
+                "McMillan,Colleen Vera"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 6757,
+            "start_time": "09:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "422R",
+            "end_date": null,
+            "title": "Advanced Macro Practice",
+            "section": "LEC 001",
+            "instructors": [
+                "VanKatwyk,Patricia"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "12:20",
+            "enrollment_total": 31,
+            "class_number": 6761,
+            "start_time": "09:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "423R",
+            "end_date": null,
+            "title": "Advanced Social Group Work Practice",
+            "section": "LEC 001",
+            "instructors": [
+                "Hammond,Angela Elizabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0402",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 6758,
+            "start_time": "13:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:29-04:00",
+            "catalog_number": "441R",
+            "end_date": null,
+            "title": "Practicum 1",
+            "section": "PRA 001",
             "instructors": [
                 "Noordstra,Patricia Ann"
             ],
-            "last_updated": "2015-05-04T16:02:25-04:00",
+            "weekdays": "F",
+            "start_date": null,
             "room": "0402",
-            "section": "PRA 001",
-            "start_date": "04/19",
-            "start_time": "09:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Practicum 3",
-            "weekdays": "F"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "471R",
-            "class_number": 4043,
-            "end_date": "06/30",
-            "end_time": "16:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Donahue,Peter John Douglas"
-            ],
-            "last_updated": "2015-05-04T16:02:25-04:00",
-            "room": "0402",
-            "section": "LEC 001",
-            "start_date": "04/09",
+            "end_time": "15:20",
+            "enrollment_total": 60,
+            "class_number": 6762,
             "start_time": "13:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Social Work with Older Adults: Critical Issues and Future Trends",
-            "weekdays": "Th"
+            "subject": "SWREN"
         }
     ]
 }

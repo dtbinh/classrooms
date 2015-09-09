@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/22",
+            "title": "Measurement Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "09/22",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7085,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/06",
+            "title": "Measurement Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/06",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7085,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/20",
+            "title": "Measurement Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/20",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7085,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/03",
+            "title": "Measurement Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/03",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7085,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/17",
+            "title": "Measurement Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/17",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7085,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/23",
+            "title": "Measurement Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "09/23",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7086,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/07",
+            "title": "Measurement Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/07",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7086,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/21",
+            "title": "Measurement Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/21",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7086,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/04",
+            "title": "Measurement Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/04",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7086,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/18",
+            "title": "Measurement Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/18",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7086,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/24",
+            "title": "Measurement Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "09/24",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7166,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/08",
+            "title": "Measurement Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/08",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7166,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/22",
+            "title": "Measurement Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/22",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7166,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/05",
+            "title": "Measurement Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "11/05",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7166,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/19",
+            "title": "Measurement Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "11/19",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7166,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/25",
+            "title": "Measurement Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7167,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/09",
+            "title": "Measurement Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7167,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/23",
+            "title": "Measurement Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "10/23",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7167,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/06",
+            "title": "Measurement Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7167,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/20",
+            "title": "Measurement Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "11/20",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7167,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/29",
+            "title": "Measurement Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "09/29",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7524,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/13",
+            "title": "Measurement Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/13",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7524,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/27",
+            "title": "Measurement Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/27",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7524,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/10",
+            "title": "Measurement Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/10",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7524,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/24",
+            "title": "Measurement Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/24",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 7524,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "09/30",
+            "title": "Measurement Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "09/30",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7525,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/14",
+            "title": "Measurement Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/14",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7525,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "10/28",
+            "title": "Measurement Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/28",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7525,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/11",
+            "title": "Measurement Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7525,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "232L",
+            "end_date": "11/25",
+            "title": "Measurement Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/25",
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 7525,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        }
+    ]
+}

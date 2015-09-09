@@ -2,83 +2,243 @@
     "data": [
         {
             "building": "EIT",
-            "catalog_number": "631",
-            "class_number": 3039,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:31-04:00",
+            "catalog_number": "636",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 15,
-            "instructors": [
-                "Selvakumar,Chettypalayam R"
-            ],
-            "last_updated": "2015-05-04T16:02:40-04:00",
-            "room": "3141",
+            "title": "Analog MOS and Bipolar Integrated Circuits",
             "section": "LEC 001",
+            "instructors": [
+                "Levine,Peter"
+            ],
+            "weekdays": "Th",
             "start_date": null,
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "class_number": 4957,
             "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Microelectronic Processing Technology",
-            "weekdays": "Th"
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "710",
-            "class_number": 3322,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:31-04:00",
+            "catalog_number": "639",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 8,
-            "instructors": [
-                "Michailovich,Oleg"
-            ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3141",
+            "title": "Characteristics & Applications of Amorphous Silicon",
             "section": "LEC 001",
+            "instructors": [
+                "Wong,William S."
+            ],
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Special Topics in Communications and Information Theory",
-            "weekdays": "F"
-        },
-        {
-            "building": "EIT",
-            "catalog_number": "730",
-            "class_number": 5119,
-            "end_date": null,
+            "room": "3141",
             "end_time": "11:20",
-            "enrollment_total": 1,
+            "enrollment_total": 2,
+            "class_number": 5230,
+            "start_time": "08:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "682",
+            "end_date": null,
+            "title": "Multivariable Control Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Miller,Daniel E"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "17:20",
+            "enrollment_total": 6,
+            "class_number": 4950,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "710",
+            "end_date": null,
+            "title": "Special Topics in Communications and Information Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Damen,Mohamed Oussama"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "17:20",
+            "enrollment_total": 3,
+            "class_number": 5479,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "710",
+            "end_date": null,
+            "title": "Special Topics in Communications and Information Theory",
+            "section": "LEC 002",
+            "instructors": [
+                "Ho,Pin-Han"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 5480,
+            "start_time": "11:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "730",
+            "end_date": null,
+            "title": "Special Topics in Solid State Devices",
+            "section": "LEC 001",
+            "instructors": [
+                "Yoon,Youngki"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "17:20",
+            "enrollment_total": 3,
+            "class_number": 5430,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "730",
+            "end_date": null,
+            "title": "Special Topics in Solid State Devices",
+            "section": "LEC 003",
             "instructors": [
                 "Reimer,Michael Ernest"
             ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3141",
-            "section": "LEC 002",
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Special Topics in Solid State Devices",
-            "weekdays": "M"
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 8494,
+            "start_time": "11:30",
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "780",
-            "class_number": 4670,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "730",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 11,
+            "title": "Special Topics in Solid State Devices",
+            "section": "LEC 004",
             "instructors": [
-                "Smith,Stephen Leslie"
+                "Backhouse,Chris"
             ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3141",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 2,
+            "class_number": 8609,
+            "start_time": "11:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Special Topics in Antenna and Microwave Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Ramahi,Omar"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "17:20",
+            "enrollment_total": 0,
+            "class_number": 5545,
             "start_time": "14:30",
-            "subject": "ECE",
-            "term": 1155,
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Special Topics in Antenna and Microwave Theory",
+            "section": "LEC 002",
+            "instructors": [
+                "Bajcsy,Michal"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 4,
+            "class_number": 5551,
+            "start_time": "11:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "780",
+            "end_date": null,
             "title": "Special Topics in Control",
-            "weekdays": "W"
+            "section": "LEC 001",
+            "instructors": [
+                "Kulic,Dana"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "17:20",
+            "enrollment_total": 5,
+            "class_number": 7844,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:00-04:00",
+            "catalog_number": "890",
+            "end_date": null,
+            "title": "Topics in Quantum Information",
+            "section": "LEC 001",
+            "instructors": [
+                "Reimer,Michael Ernest"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3141",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8495,
+            "start_time": "11:30",
+            "subject": "QIC"
         }
     ]
 }

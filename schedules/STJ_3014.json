@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:44-04:00",
+            "catalog_number": "192A",
+            "end_date": null,
+            "title": "French Language 1: Module 1",
+            "section": "LEC 003",
+            "instructors": [
+                "Lappin-Fortin,Kerry"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "3014",
+            "end_time": "12:20",
+            "enrollment_total": 17,
+            "class_number": 3530,
+            "start_time": "11:30",
+            "subject": "FR"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:45-04:00",
+            "catalog_number": "203",
+            "end_date": null,
+            "title": "Introduction to Phonetics of French",
+            "section": "LEC 002",
+            "instructors": [
+                "Lappin-Fortin,Kerry"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "3014",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "class_number": 3765,
+            "start_time": "10:30",
+            "subject": "FR"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:42-04:00",
+            "catalog_number": "135",
+            "end_date": null,
+            "title": "Algebra for Honours Mathematics",
+            "section": "LEC 026",
+            "instructors": [
+                "Thompson,Alan Matthew"
+            ],
+            "weekdays": "MTWF",
+            "start_date": null,
+            "room": "3014",
+            "end_time": "14:20",
+            "enrollment_total": 61,
+            "class_number": 7836,
+            "start_time": "13:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:42-04:00",
+            "catalog_number": "137",
+            "end_date": null,
+            "title": "Calculus 1 for Honours Mathematics",
+            "section": "LEC 001",
+            "instructors": [
+                "D'Alessio,Serge"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "3014",
+            "end_time": "15:20",
+            "enrollment_total": 60,
+            "class_number": 6027,
+            "start_time": "14:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:42-04:00",
+            "catalog_number": "137",
+            "end_date": null,
+            "title": "Calculus 1 for Honours Mathematics",
+            "section": "TUT 101",
+            "instructors": [
+                "D'Alessio,Serge"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3014",
+            "end_time": "09:20",
+            "enrollment_total": 60,
+            "class_number": 6673,
+            "start_time": "08:30",
+            "subject": "MATH"
+        }
+    ]
+}

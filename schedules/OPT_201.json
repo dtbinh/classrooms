@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "348A",
+            "end_date": null,
+            "title": "Optometry Clinics",
+            "section": "CLN 002",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "201",
+            "end_time": "17:20",
+            "enrollment_total": 47,
+            "class_number": 7312,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

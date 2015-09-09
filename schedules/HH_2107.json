@@ -2,221 +2,309 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "241",
-            "class_number": 4615,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:03:56-04:00",
+            "catalog_number": "471",
             "end_date": null,
-            "end_time": "18:50",
-            "enrollment_total": 49,
+            "title": "Advanced Corporate Finance",
+            "section": "LEC 001",
             "instructors": [
-                "Stratopoulos,Theophanis"
+                "Hayes,Frank"
             ],
-            "last_updated": "2015-05-04T16:00:07-04:00",
-            "room": "2107",
-            "section": "SEM 104",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "17:30",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Introduction to Business Information Technology",
-            "weekdays": "T"
+            "room": "2107",
+            "end_time": "17:20",
+            "enrollment_total": 8,
+            "class_number": 6293,
+            "start_time": "16:00",
+            "subject": "ACTSC"
         },
         {
             "building": "HH",
-            "catalog_number": "311",
-            "class_number": 2608,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "372",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 36,
+            "title": "Corporate Finance 2",
+            "section": "LEC 001",
             "instructors": [
-                "Wensley,Karen"
+                "Hayes,Frank"
             ],
-            "last_updated": "2015-05-04T16:00:08-04:00",
-            "room": "2107",
-            "section": "TUT 101",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "13:00",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Connections to Ethical Context",
-            "weekdays": "M"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "311",
-            "class_number": 2643,
-            "end_date": null,
-            "end_time": "16:50",
+            "room": "2107",
+            "end_time": "12:50",
             "enrollment_total": 34,
-            "instructors": [
-                "Fiolleau,Krista"
-            ],
-            "last_updated": "2015-05-04T16:00:08-04:00",
-            "room": "2107",
-            "section": "TUT 108",
-            "start_date": null,
-            "start_time": "15:00",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Connections to Ethical Context",
-            "weekdays": "M"
+            "class_number": 3674,
+            "start_time": "11:30",
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "605",
-            "class_number": 2396,
-            "end_date": "07/28",
-            "end_time": "20:50",
-            "enrollment_total": 24,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:02:29-04:00",
-            "room": "2107",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "391",
+            "end_date": null,
+            "title": "Intermediate Financial Accounting 2",
             "section": "LEC 001",
-            "start_date": "05/04",
-            "start_time": "18:00",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "International Tax",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "606",
-            "class_number": 2652,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 32,
             "instructors": [
-                "Vert,David"
+                "Kennedy,Duane B"
             ],
-            "last_updated": "2015-05-04T16:02:29-04:00",
-            "room": "2107",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Business Valuations",
-            "weekdays": "T"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "606",
-            "class_number": 2653,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Vert,David"
-            ],
-            "last_updated": "2015-05-04T16:02:29-04:00",
             "room": "2107",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Business Valuations",
-            "weekdays": "T"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "606",
-            "class_number": 2654,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 41,
-            "instructors": [
-                "Vert,David"
-            ],
-            "last_updated": "2015-05-04T16:02:29-04:00",
-            "room": "2107",
-            "section": "LEC 003",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Business Valuations",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "606",
-            "class_number": 4695,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 42,
-            "instructors": [
-                "Vert,David"
-            ],
-            "last_updated": "2015-05-04T16:02:29-04:00",
-            "room": "2107",
-            "section": "LEC 004",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Business Valuations",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "623",
-            "class_number": 2327,
-            "end_date": null,
-            "end_time": "14:20",
+            "end_time": "09:50",
             "enrollment_total": 50,
-            "instructors": [
-                "Charters,Darren"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2107",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Business Technology Law",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "662",
-            "class_number": 2399,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 13,
-            "instructors": [
-                "Macnaughton,Alan"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2107",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 3610,
             "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Tax Policy",
-            "weekdays": "W"
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "690",
-            "class_number": 2484,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "391",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 46,
-            "instructors": [
-                "Boritz,Jefim Efrim"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2107",
+            "title": "Intermediate Financial Accounting 2",
             "section": "LEC 002",
+            "instructors": [
+                "Kennedy,Duane B"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "2107",
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "class_number": 3611,
+            "start_time": "10:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "478",
+            "end_date": null,
+            "title": "International Financial Management",
+            "section": "LEC 001",
+            "instructors": [
+                "Jha,Ranjini"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 23,
+            "class_number": 7870,
+            "start_time": "13:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 001",
+            "instructors": [
+                "Ecclestone,Andrew Peter",
+                "Phillips,Blake"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "class_number": 7875,
+            "start_time": "10:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 002",
+            "instructors": [
+                "Phillips,Blake",
+                "Ecclestone,Andrew Peter"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "12:50",
+            "enrollment_total": 50,
+            "class_number": 7876,
+            "start_time": "11:30",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 003",
+            "instructors": [
+                "Ecclestone,Andrew Peter",
+                "Phillips,Blake"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "15:50",
+            "enrollment_total": 50,
+            "class_number": 7877,
+            "start_time": "14:30",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 004",
+            "instructors": [
+                "Ecclestone,Andrew Peter",
+                "Phillips,Blake"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "17:20",
+            "enrollment_total": 26,
+            "class_number": 7878,
+            "start_time": "16:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 005",
+            "instructors": [
+                "Ecclestone,Andrew Peter",
+                "Phillips,Blake"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 34,
+            "class_number": 7879,
+            "start_time": "13:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "479",
+            "end_date": null,
+            "title": "Cases & Apps in Finance II",
+            "section": "LEC 006",
+            "instructors": [
+                "Phillips,Blake",
+                "Ecclestone,Andrew Peter"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "15:50",
+            "enrollment_total": 50,
+            "class_number": 7880,
+            "start_time": "14:30",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Senior Honours Essay",
+            "section": "ESS 001",
+            "instructors": [
+                "Nguyen,Trien T"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "11:50",
+            "enrollment_total": 11,
+            "class_number": 3485,
+            "start_time": "09:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:46-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Probability and Decision Making",
+            "section": "LEC 001",
+            "instructors": [
+                "Andres,Gregory George"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "21:20",
+            "enrollment_total": 40,
+            "class_number": 4499,
+            "start_time": "18:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:20-04:00",
+            "catalog_number": "322",
+            "end_date": null,
+            "title": "Sampling and Experimental Design (Non-Specialist Level)",
+            "section": "TUT 101",
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "13:20",
+            "enrollment_total": 32,
+            "class_number": 6188,
             "start_time": "12:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Topics in Accounting",
-            "weekdays": "W"
+            "subject": "STAT"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:39-04:00",
+            "catalog_number": "602",
+            "end_date": null,
+            "title": "Macroeconomic Theory I",
+            "section": "LEC 001",
+            "instructors": [
+                "Gonzalez,Francisco"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "09:50",
+            "enrollment_total": 26,
+            "class_number": 3566,
+            "start_time": "08:30",
+            "subject": "ECON"
         }
     ]
 }

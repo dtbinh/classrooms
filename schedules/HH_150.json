@@ -2,123 +2,323 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "261",
-            "class_number": 2564,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "311",
             "end_date": null,
-            "end_time": "21:20",
+            "title": "Anthropology of Religion",
+            "section": "LEC 001",
+            "instructors": [
+                "Dagtas,Mahiye Secil"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 4417,
+            "start_time": "16:00",
+            "subject": "ANTH"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:05-04:00",
+            "catalog_number": "400",
+            "end_date": null,
+            "title": "Special Topics in Anthropology",
+            "section": "SEM 002",
+            "instructors": [
+                "Dagtas,Mahiye Secil"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 4598,
+            "start_time": "08:30",
+            "subject": "ANTH"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "211",
+            "end_date": null,
+            "title": "First Nations Literatures",
+            "section": "LEC 001",
+            "instructors": [
+                "Warley,Linda A"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "150",
+            "end_time": "15:50",
             "enrollment_total": 15,
-            "instructors": [
-                "MacDonald,Ian"
-            ],
-            "last_updated": "2015-05-04T16:00:45-04:00",
-            "room": "150",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "18:30",
-            "subject": "CLAS",
-            "term": 1155,
-            "title": "Great Works: Ancient and Medieval",
-            "weekdays": "M"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "108D",
-            "class_number": 2442,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 26,
-            "instructors": [
-                "Arthur,Kasandra"
-            ],
-            "last_updated": "2015-05-04T16:01:10-04:00",
-            "room": "150",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 8202,
             "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Digital Lives",
-            "weekdays": "TTh"
+            "subject": "ENGL"
         },
         {
             "building": "HH",
-            "catalog_number": "408A",
-            "class_number": 2470,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:30-04:00",
+            "catalog_number": "306F",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 17,
-            "instructors": [
-                "Dadey,Bruce Alexander"
-            ],
-            "last_updated": "2015-05-04T16:01:12-04:00",
-            "room": "150",
+            "title": "Introduction to Semiotics",
             "section": "LEC 001",
+            "instructors": [
+                "McMurry,Andrew C."
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "150",
+            "end_time": "12:50",
+            "enrollment_total": 22,
+            "class_number": 3692,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:44-04:00",
+            "catalog_number": "192B",
+            "end_date": null,
+            "title": "French Language 1: Module 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Dubeau,Catherine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "150",
+            "end_time": "14:20",
+            "enrollment_total": 35,
+            "class_number": 3391,
+            "start_time": "13:00",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Power and Corruption in the Bible (Old Testament)",
+            "section": "LEC 001",
+            "instructors": [
+                "Diamond,James"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 4445,
+            "start_time": "10:00",
+            "subject": "JS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:46-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Moral Issues",
+            "section": "LEC 001",
+            "instructors": [
+                "Nelson,Benjamin Samuel"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "150",
+            "end_time": "09:50",
+            "enrollment_total": 35,
+            "class_number": 7989,
+            "start_time": "08:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:25-04:00",
+            "catalog_number": "461",
+            "end_date": null,
+            "title": "Honours Seminar in Cognitive Neuroscience",
+            "section": "SEM 001",
+            "instructors": [
+                "Fernandes,Myra Annette"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "150",
+            "end_time": "16:20",
+            "enrollment_total": 18,
+            "class_number": 8053,
             "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Writing for the Media",
-            "weekdays": "MW"
+            "subject": "PSYCH"
         },
         {
             "building": "HH",
-            "catalog_number": "490A",
-            "class_number": 3467,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:37-04:00",
+            "catalog_number": "112",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 10,
-            "instructors": [
-                "Deadman,Peter J"
-            ],
-            "last_updated": "2015-05-04T16:01:22-04:00",
-            "room": "150",
-            "section": "PRJ 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "GEOG",
-            "term": 1155,
-            "title": "Honours Thesis Preparation",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "490B",
-            "class_number": 3468,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 1,
-            "instructors": [
-                "Deadman,Peter J"
-            ],
-            "last_updated": "2015-05-04T16:01:23-04:00",
-            "room": "150",
-            "section": "PRJ 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "GEOG",
-            "term": 1155,
-            "title": "Honours Thesis Completion",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "250A",
-            "class_number": 2523,
-            "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "MacDonald,Ian"
-            ],
-            "last_updated": "2015-05-04T16:01:58-04:00",
-            "room": "150",
+            "title": "Power and Corruption in the Bible (Old Testament)",
             "section": "LEC 001",
+            "instructors": [
+                "Diamond,James"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "18:30",
-            "subject": "PHIL",
-            "term": 1155,
-            "title": "Great Works: Ancient and Medieval",
-            "weekdays": "M"
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 6,
+            "class_number": 4444,
+            "start_time": "10:00",
+            "subject": "RS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:41-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Anthropology of Religion",
+            "section": "LEC 001",
+            "instructors": [
+                "Dagtas,Mahiye Secil"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 6,
+            "class_number": 4418,
+            "start_time": "16:00",
+            "subject": "RS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:52-04:00",
+            "catalog_number": "671",
+            "end_date": null,
+            "title": "French-Canadian Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Lepage,Elise"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "150",
+            "end_time": "14:20",
+            "enrollment_total": 5,
+            "class_number": 8242,
+            "start_time": "11:30",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:52-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Climate Change: Physical Science Basis",
+            "section": "SEM 001",
+            "instructors": [
+                "Petrone,Richard Michael"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 19,
+            "class_number": 5824,
+            "start_time": "08:30",
+            "subject": "GEMCC"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:52-04:00",
+            "catalog_number": "602",
+            "end_date": null,
+            "title": "Climate Change Vulnerability and Adaptation",
+            "section": "SEM 001",
+            "instructors": [
+                "Wandel,Johanna"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "150",
+            "end_time": "16:20",
+            "enrollment_total": 18,
+            "class_number": 5825,
+            "start_time": "13:30",
+            "subject": "GEMCC"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:55-04:00",
+            "catalog_number": "641",
+            "end_date": null,
+            "title": "Climate Change: Physical Science Basis",
+            "section": "SEM 001",
+            "instructors": [
+                "Petrone,Richard Michael"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 5828,
+            "start_time": "08:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:56-04:00",
+            "catalog_number": "676",
+            "end_date": null,
+            "title": "Climate Change Vulnerability and Adaptation",
+            "section": "SEM 001",
+            "instructors": [
+                "Wandel,Johanna"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "150",
+            "end_time": "16:20",
+            "enrollment_total": 3,
+            "class_number": 5829,
+            "start_time": "13:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:17-04:00",
+            "catalog_number": "609",
+            "end_date": null,
+            "title": "Sustainability Concepts, Applications and Key Debates",
+            "section": "LEC 001",
+            "instructors": [
+                "Singh,Simron"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "150",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 5591,
+            "start_time": "08:30",
+            "subject": "INDEV"
         }
     ]
 }

@@ -2,83 +2,361 @@
     "data": [
         {
             "building": "QNC",
-            "catalog_number": "232",
-            "class_number": 3015,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:03-04:00",
+            "catalog_number": "453",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 27,
+            "title": "Partial Differential Equations 2",
+            "section": "LEC 001",
             "instructors": [
-                "Cory,David D.G"
+                "Sivaloganathan,Sivabal"
             ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
-            "room": "1506",
-            "section": "TUT 102",
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "16:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Quantum Mechanics",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "232",
-            "class_number": 3016,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Cory,David D.G"
-            ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
             "room": "1506",
-            "section": "TUT 103",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Quantum Mechanics",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "242",
-            "class_number": 3000,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 28,
-            "instructors": [
-                "Wong,William S."
-            ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
-            "room": "1506",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Electronic Devices",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "242",
-            "class_number": 3001,
-            "end_date": null,
             "end_time": "16:20",
-            "enrollment_total": 27,
-            "instructors": [
-                "Wong,William S."
-            ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
-            "room": "1506",
-            "section": "TUT 102",
-            "start_date": null,
+            "enrollment_total": 18,
+            "class_number": 7988,
             "start_time": "15:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Electronic Devices",
-            "weekdays": "F"
+            "subject": "AMATH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "300",
+            "end_date": null,
+            "title": "Foundations of Venture Creation",
+            "section": "LEC 001",
+            "instructors": [
+                "Chang,Wayne"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "21:20",
+            "enrollment_total": 21,
+            "class_number": 5392,
+            "start_time": "18:30",
+            "subject": "BET"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:20-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Cell Biology of Human Disease",
+            "section": "LEC 001",
+            "instructors": [
+                "Glerum,Moira"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "14:20",
+            "enrollment_total": 17,
+            "class_number": 7401,
+            "start_time": "13:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:04-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Volcanology and Igneous Petrology",
+            "section": "LEC 001",
+            "instructors": [
+                "Kendall,Brian"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "12:50",
+            "enrollment_total": 31,
+            "class_number": 7353,
+            "start_time": "11:30",
+            "subject": "EARTH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 022",
+            "instructors": [
+                "Deveau,Danielle"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 8186,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:41-04:00",
+            "catalog_number": "117",
+            "end_date": null,
+            "title": "Calculus 1 for Engineering",
+            "section": "TUT 110",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "class_number": 6238,
+            "start_time": "13:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "112",
+            "end_date": null,
+            "title": "Linear Algebra with Numerical Applications",
+            "section": "TUT 101",
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "class_number": 5441,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "121",
+            "end_date": null,
+            "title": "Chemical Principles",
+            "section": "TUT 101",
+            "instructors": [
+                "Deakin,Laura"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 4992,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "TUT 101",
+            "instructors": [
+                "Daub,Elisabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "09:20",
+            "enrollment_total": 34,
+            "class_number": 5038,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "TUT 102",
+            "instructors": [
+                "Daub,Elisabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "class_number": 5039,
+            "start_time": "10:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "TUT 103",
+            "instructors": [
+                "Daub,Elisabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "10:20",
+            "enrollment_total": 35,
+            "class_number": 5040,
+            "start_time": "09:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:05-04:00",
+            "catalog_number": "474",
+            "end_date": null,
+            "title": "Special Topics in Planning",
+            "section": "LEC 001",
+            "instructors": [
+                "Caston,Wayne"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "09:50",
+            "enrollment_total": 3,
+            "class_number": 5806,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:19-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Probability (Non-Specialist Level)",
+            "section": "LEC 001",
+            "instructors": [
+                "Roberts,Collin Donald"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "class_number": 6063,
+            "start_time": "10:00",
+            "subject": "STAT"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:49-04:00",
+            "catalog_number": "740",
+            "end_date": null,
+            "title": "Numerical Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Orchard,Jeffery John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "17:20",
+            "enrollment_total": 16,
+            "class_number": 6476,
+            "start_time": "16:00",
+            "subject": "AMATH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:53-04:00",
+            "catalog_number": "606",
+            "end_date": null,
+            "title": "Entrepreneurship and Innovation",
+            "section": "LEC 001",
+            "instructors": [
+                "Dalziel,Margaret"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "21:20",
+            "enrollment_total": 25,
+            "class_number": 5432,
+            "start_time": "18:30",
+            "subject": "BE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:07-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Numerical Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Orchard,Jeffery John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "17:20",
+            "enrollment_total": 8,
+            "class_number": 6343,
+            "start_time": "16:00",
+            "subject": "CM"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:23-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Numerical Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Orchard,Jeffery John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "17:20",
+            "enrollment_total": 10,
+            "class_number": 6456,
+            "start_time": "16:00",
+            "subject": "CS"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:44-04:00",
+            "catalog_number": "674",
+            "end_date": null,
+            "title": "Special Topics in Planning",
+            "section": "SEM 004",
+            "instructors": [
+                "Caston,Wayne"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1506",
+            "end_time": "09:50",
+            "enrollment_total": 0,
+            "class_number": 8362,
+            "start_time": "08:30",
+            "subject": "PLAN"
         }
     ]
 }

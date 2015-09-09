@@ -2,43 +2,203 @@
     "data": [
         {
             "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
             "catalog_number": "110",
-            "class_number": 4305,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 23,
+            "title": "Introductory Zoology",
+            "section": "LAB 101",
             "instructors": [
                 "Wolff,Bruce Richard"
             ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "150",
-            "section": "LAB 101",
+            "weekdays": "M",
             "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7066,
             "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Introductory Zoology",
-            "weekdays": "W"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
             "catalog_number": "110",
-            "class_number": 4306,
             "end_date": null,
-            "end_time": "21:50",
-            "enrollment_total": 19,
+            "title": "Introductory Zoology",
+            "section": "LAB 102",
             "instructors": [
                 "Wolff,Bruce Richard"
             ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "150",
-            "section": "LAB 102",
+            "weekdays": "M",
             "start_date": null,
+            "room": "150",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7067,
             "start_time": "19:00",
-            "subject": "BIOL",
-            "term": 1155,
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
             "title": "Introductory Zoology",
-            "weekdays": "W"
+            "section": "LAB 103",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "150",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7068,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 104",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7069,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 105",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "150",
+            "end_time": "21:50",
+            "enrollment_total": 31,
+            "class_number": 7070,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 106",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 31,
+            "class_number": 7071,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 107",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "150",
+            "end_time": "21:50",
+            "enrollment_total": 32,
+            "class_number": 7149,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 108",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "150",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7171,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:14-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Introductory Zoology",
+            "section": "LAB 109",
+            "instructors": [
+                "Wolff,Bruce Richard"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 32,
+            "class_number": 7340,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:16-04:00",
+            "catalog_number": "310",
+            "end_date": null,
+            "title": "Invertebrate Zoology",
+            "section": "LAB 101",
+            "instructors": [
+                "Pinheiro,Marcel Diniz Oliveira"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "150",
+            "end_time": "17:20",
+            "enrollment_total": 26,
+            "class_number": 7478,
+            "start_time": "14:30",
+            "subject": "BIOL"
         }
     ]
 }

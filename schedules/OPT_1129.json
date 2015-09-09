@@ -2,23 +2,422 @@
     "data": [
         {
             "building": "OPT",
-            "catalog_number": "460",
-            "class_number": 4128,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:41-04:00",
+            "catalog_number": "127",
             "end_date": null,
-            "end_time": "21:50",
-            "enrollment_total": 0,
+            "title": "Calculus 1 for the Sciences",
+            "section": "LEC 007",
             "instructors": [
-                "Jones,Deborah A."
+                "Kloosterman,Matthew"
             ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "1129",
-            "section": "LEC 001",
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "19:00",
-            "subject": "OPTOM",
-            "term": 1155,
+            "room": "1129",
+            "end_time": "13:20",
+            "enrollment_total": 56,
+            "class_number": 6211,
+            "start_time": "12:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "104",
+            "end_date": null,
+            "title": "Anatomy of the Eye 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Choh,Vivian"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "15:20",
+            "enrollment_total": 92,
+            "class_number": 7041,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "104",
+            "end_date": null,
+            "title": "Anatomy of the Eye 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Choh,Vivian"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "16:20",
+            "enrollment_total": 92,
+            "class_number": 7041,
+            "start_time": "14:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "105",
+            "end_date": null,
+            "title": "Medical Microbiology",
+            "section": "LEC 001",
+            "instructors": [
+                "Varikooty,Jalaiah Prasad"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "09:20",
+            "enrollment_total": 91,
+            "class_number": 7044,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "105",
+            "end_date": null,
+            "title": "Medical Microbiology",
+            "section": "LEC 001",
+            "instructors": [
+                "Varikooty,Jalaiah Prasad"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "10:20",
+            "enrollment_total": 91,
+            "class_number": 7044,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "106",
+            "end_date": null,
+            "title": "Geometrical, Physical and Visual Optics",
+            "section": "LEC 001",
+            "instructors": [
+                "Lakshminarayanan,Vasudevan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "11:20",
+            "enrollment_total": 91,
+            "class_number": 7045,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "106",
+            "end_date": null,
+            "title": "Geometrical, Physical and Visual Optics",
+            "section": "LEC 001",
+            "instructors": {
+                "0": "Hutchings,Natalie",
+                "2": "Lakshminarayanan,Vasudevan"
+            },
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "16:20",
+            "enrollment_total": 91,
+            "class_number": 7045,
+            "start_time": "14:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "106",
+            "end_date": null,
+            "title": "Geometrical, Physical and Visual Optics",
+            "section": "TUT 101",
+            "instructors": [
+                "Hutchings,Natalie"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "16:20",
+            "enrollment_total": 91,
+            "class_number": 7061,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "108",
+            "end_date": null,
+            "title": "Histology of Tissues and Organs",
+            "section": "LEC 001",
+            "instructors": [
+                "Hileeto,Denise"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "12:20",
+            "enrollment_total": 74,
+            "class_number": 7288,
+            "start_time": "11:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "108",
+            "end_date": null,
+            "title": "Histology of Tissues and Organs",
+            "section": "LEC 001",
+            "instructors": [
+                "Hileeto,Denise"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "11:20",
+            "enrollment_total": 74,
+            "class_number": 7288,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Visual Perception 1: Perception of Light",
+            "section": "LEC 001",
+            "instructors": [
+                "Lakshminarayanan,Vasudevan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "11:20",
+            "enrollment_total": 91,
+            "class_number": 7046,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "124",
+            "end_date": null,
+            "title": "Human Gross Anatomy",
+            "section": "LEC 001",
+            "instructors": [
+                "Barnes,James Derek"
+            ],
+            "weekdays": "WTh",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "14:20",
+            "enrollment_total": 90,
+            "class_number": 7285,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "215",
+            "end_date": null,
+            "title": "Systemic Disease",
+            "section": "LEC 001",
+            "instructors": [
+                "Hileeto,Denise"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "12:20",
+            "enrollment_total": 88,
+            "class_number": 7305,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "245",
+            "end_date": null,
+            "title": "Diseases of the Eye 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Dalton,Kristine Nicole"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "10:20",
+            "enrollment_total": 88,
+            "class_number": 7306,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252L",
+            "end_date": null,
+            "title": "Clinical Techniques 2 Laboratory",
+            "section": "TUT 101",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "09:20",
+            "enrollment_total": 89,
+            "class_number": 7284,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "342A",
+            "end_date": null,
+            "title": "Case Analysis and Optometric Therapies 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Hrynchak,Patricia K"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "10:20",
+            "enrollment_total": 93,
+            "class_number": 7076,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347",
+            "end_date": null,
+            "title": "Contact Lenses 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Jones,Lyndon"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "12:20",
+            "enrollment_total": 93,
+            "class_number": 7057,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347",
+            "end_date": null,
+            "title": "Contact Lenses 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Jones,Lyndon"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "12:20",
+            "enrollment_total": 93,
+            "class_number": 7057,
+            "start_time": "11:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:25-04:00",
+            "catalog_number": "460",
+            "end_date": null,
             "title": "Advanced Study Topics",
-            "weekdays": "W"
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "13:20",
+            "enrollment_total": 0,
+            "class_number": 7072,
+            "start_time": "12:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:30-04:00",
+            "catalog_number": "270",
+            "end_date": null,
+            "title": "Research Design Applicable to Leisure Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "17:20",
+            "enrollment_total": 130,
+            "class_number": 3170,
+            "start_time": "16:30",
+            "subject": "REC"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:30-04:00",
+            "catalog_number": "270",
+            "end_date": null,
+            "title": "Research Design Applicable to Leisure Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1129",
+            "end_time": "18:20",
+            "enrollment_total": 130,
+            "class_number": 3170,
+            "start_time": "16:30",
+            "subject": "REC"
         }
     ]
 }

@@ -2,243 +2,184 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "241",
-            "class_number": 4612,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:03:59-04:00",
+            "catalog_number": "323",
             "end_date": null,
-            "end_time": "18:50",
-            "enrollment_total": 44,
+            "title": "Quantitative Foundations for Finance",
+            "section": "LEC 001",
             "instructors": [
-                "Stratopoulos,Theophanis"
+                "Wirjanto,Tony"
             ],
-            "last_updated": "2015-05-04T16:00:07-04:00",
-            "room": "2104",
-            "section": "SEM 101",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "17:30",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Introduction to Business Information Technology",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "322",
-            "class_number": 2615,
-            "end_date": null,
+            "room": "2104",
             "end_time": "12:50",
-            "enrollment_total": 35,
-            "instructors": [
-                "Phillips,Blake"
-            ],
-            "last_updated": "2015-05-04T16:00:08-04:00",
-            "room": "2104",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 54,
+            "class_number": 4149,
             "start_time": "11:30",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Derivative Securities",
-            "weekdays": "MT"
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "322",
-            "class_number": 4888,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:03:59-04:00",
+            "catalog_number": "341",
             "end_date": null,
+            "title": "Accounting Information Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Lim,Jee-Hae"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "09:50",
+            "enrollment_total": 50,
+            "class_number": 4150,
+            "start_time": "08:30",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:03:59-04:00",
+            "catalog_number": "341",
+            "end_date": null,
+            "title": "Accounting Information Systems",
+            "section": "LEC 002",
+            "instructors": [
+                "Lim,Jee-Hae"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "class_number": 4151,
+            "start_time": "10:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "373",
+            "end_date": null,
+            "title": "Cases and Applications in Corporate Finance",
+            "section": "LEC 001",
+            "instructors": [
+                "Brisley,Neil"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "11:20",
+            "enrollment_total": 44,
+            "class_number": 4159,
+            "start_time": "10:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "373",
+            "end_date": null,
+            "title": "Cases and Applications in Corporate Finance",
+            "section": "LEC 002",
+            "instructors": [
+                "Brisley,Neil"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2104",
             "end_time": "14:20",
-            "enrollment_total": 39,
-            "instructors": [
-                "Phillips,Blake"
-            ],
-            "last_updated": "2015-05-04T16:00:08-04:00",
-            "room": "2104",
-            "section": "LEC 002",
-            "start_date": null,
+            "enrollment_total": 43,
+            "class_number": 4160,
             "start_time": "13:00",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Derivative Securities",
-            "weekdays": "T"
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "481",
-            "class_number": 2629,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "373",
             "end_date": null,
-            "end_time": "18:50",
-            "enrollment_total": 50,
+            "title": "Cases and Applications in Corporate Finance",
+            "section": "LEC 003",
             "instructors": [
-                "Manning,Thomas"
+                "Brisley,Neil"
             ],
-            "last_updated": "2015-05-04T16:00:13-04:00",
-            "room": "2104",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Cost Management Systems",
-            "weekdays": "M"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "481",
-            "class_number": 2630,
-            "end_date": null,
+            "room": "2104",
             "end_time": "15:50",
-            "enrollment_total": 42,
-            "instructors": [
-                "Manning,Thomas"
-            ],
-            "last_updated": "2015-05-04T16:00:13-04:00",
-            "room": "2104",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "AFM",
-            "term": 1155,
-            "title": "Cost Management Systems",
-            "weekdays": "M"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "609",
-            "class_number": 4696,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 50,
-            "instructors": [
-                "Chen,Changling"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
-            "section": "LEC 003",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Financial Statement Analysis",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "610",
-            "class_number": 2258,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 31,
-            "instructors": [
-                "Berberich,Gregory Paul"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Public Accounting Practice",
-            "weekdays": "T"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "610",
-            "class_number": 2259,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 42,
-            "instructors": [
-                "Berberich,Gregory Paul"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
-            "section": "LEC 002",
-            "start_date": null,
+            "enrollment_total": 44,
+            "class_number": 4161,
             "start_time": "14:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Public Accounting Practice",
-            "weekdays": "T"
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "610",
-            "class_number": 2260,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "373",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 48,
+            "title": "Cases and Applications in Corporate Finance",
+            "section": "LEC 006",
             "instructors": [
-                "Berberich,Gregory Paul"
+                "Douglas,Alan V S"
             ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
-            "section": "LEC 003",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Public Accounting Practice",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "610",
-            "class_number": 2397,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 45,
-            "instructors": [
-                "Berberich,Gregory Paul"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
             "room": "2104",
-            "section": "LEC 004",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Public Accounting Practice",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "610",
-            "class_number": 2605,
-            "end_date": null,
             "end_time": "17:20",
-            "enrollment_total": 45,
-            "instructors": [
-                "Berberich,Gregory Paul"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
-            "section": "LEC 005",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Public Accounting Practice",
-            "weekdays": "Th"
+            "enrollment_total": 40,
+            "class_number": 8398,
+            "start_time": "16:00",
+            "subject": "AFM"
         },
         {
             "building": "HH",
-            "catalog_number": "690",
-            "class_number": 2423,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:00-04:00",
+            "catalog_number": "417",
             "end_date": null,
-            "end_time": "20:50",
-            "enrollment_total": 50,
-            "instructors": [
-                "Lin,David"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "2104",
+            "title": "Special Topics in Accounting",
             "section": "LEC 001",
+            "instructors": [
+                "Iv,Kieng",
+                "Leung,May Shuk Kwan"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "18:00",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Topics in Accounting",
-            "weekdays": "T"
+            "room": "2104",
+            "end_time": "21:50",
+            "enrollment_total": 10,
+            "class_number": 7882,
+            "start_time": "19:00",
+            "subject": "AFM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:01-04:00",
+            "catalog_number": "462",
+            "end_date": null,
+            "title": "Taxation 3 for Public Accountants",
+            "section": "LEC 001",
+            "instructors": [
+                "Barnett,Jim"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "09:50",
+            "enrollment_total": 45,
+            "class_number": 7863,
+            "start_time": "08:30",
+            "subject": "AFM"
         }
     ]
 }

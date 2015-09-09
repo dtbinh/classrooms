@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:59-04:00",
+            "catalog_number": "794",
+            "end_date": null,
+            "title": "Master's Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Mikkelsen,Susan R"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "361",
+            "end_time": "16:20",
+            "enrollment_total": 11,
+            "class_number": 7346,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        }
+    ]
+}

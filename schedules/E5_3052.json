@@ -2,23 +2,43 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "729",
-            "class_number": 3253,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:25-04:00",
+            "catalog_number": "632",
             "end_date": null,
-            "end_time": "20:50",
-            "enrollment_total": 1,
+            "title": "Experimental Methods in Materials Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Gerlich,Adrian"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3052",
+            "end_time": "14:50",
+            "enrollment_total": 21,
+            "class_number": 8592,
+            "start_time": "13:30",
+            "subject": "ME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:26-04:00",
+            "catalog_number": "729",
+            "end_date": null,
+            "title": "Special Topics in Advanced Machine Design Methods",
+            "section": "LEC 001",
             "instructors": [
                 "Nespoli,Oscar Gabriel"
             ],
-            "last_updated": "2015-05-04T16:02:50-04:00",
-            "room": "3052",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
+            "room": "3052",
+            "end_time": "20:50",
+            "enrollment_total": 11,
+            "class_number": 5066,
             "start_time": "18:00",
-            "subject": "ME",
-            "term": 1155,
-            "title": "Special Topics in Advanced Machine Design Methods",
-            "weekdays": "T"
+            "subject": "ME"
         }
     ]
 }

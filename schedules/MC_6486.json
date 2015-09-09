@@ -2,23 +2,63 @@
     "data": [
         {
             "building": "MC",
-            "catalog_number": "759",
-            "class_number": 3921,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:03-04:00",
+            "catalog_number": "740",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 5,
-            "instructors": [
-                "Swamy,Chaitanya"
-            ],
-            "last_updated": "2015-05-04T16:02:37-04:00",
-            "room": "6486",
+            "title": "Fundamentals of Optimization",
             "section": "LEC 001",
+            "instructors": [
+                "Vavasis,Stephen"
+            ],
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "CO",
-            "term": 1155,
-            "title": "Topics in Discrete Optimization",
-            "weekdays": "TTh"
+            "room": "6486",
+            "end_time": "10:20",
+            "enrollment_total": 10,
+            "class_number": 6493,
+            "start_time": "09:30",
+            "subject": "CM"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:08-04:00",
+            "catalog_number": "602",
+            "end_date": null,
+            "title": "Fundamentals of Optimization",
+            "section": "LEC 001",
+            "instructors": [
+                "Vavasis,Stephen"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "6486",
+            "end_time": "10:20",
+            "enrollment_total": 16,
+            "class_number": 6390,
+            "start_time": "09:30",
+            "subject": "CO"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:15-04:00",
+            "catalog_number": "789",
+            "end_date": null,
+            "title": "Topics in Cryptography",
+            "section": "LEC 001",
+            "instructors": [
+                "Jao,David"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "6486",
+            "end_time": "12:20",
+            "enrollment_total": 4,
+            "class_number": 7728,
+            "start_time": "11:30",
+            "subject": "CO"
         }
     ]
 }

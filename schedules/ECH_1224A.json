@@ -2,23 +2,83 @@
     "data": [
         {
             "building": "ECH",
-            "catalog_number": "226",
-            "class_number": 2597,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:40-04:00",
+            "catalog_number": "150",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 15,
-            "instructors": [
-                "Birke,Lisa"
-            ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "1224A",
+            "title": "Appreciation and Expression",
             "section": "STU 001",
+            "instructors": [
+                "Blatherwick,David"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "13:00",
-            "subject": "FINE",
-            "term": 1155,
-            "title": "Experimental Drawing",
-            "weekdays": "TTh"
+            "room": "1224A",
+            "end_time": "20:50",
+            "enrollment_total": 17,
+            "class_number": 3839,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:40-04:00",
+            "catalog_number": "150",
+            "end_date": null,
+            "title": "Appreciation and Expression",
+            "section": "STU 002",
+            "instructors": [
+                "Blatherwick,David"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1224A",
+            "end_time": "17:50",
+            "enrollment_total": 22,
+            "class_number": 3840,
+            "start_time": "15:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:40-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Oil Painting",
+            "section": "STU 001",
+            "instructors": [
+                "Kirton,Douglas"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1224A",
+            "end_time": "11:50",
+            "enrollment_total": 11,
+            "class_number": 4298,
+            "start_time": "09:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "221",
+            "end_date": null,
+            "title": "Acrylic and Mixed Media",
+            "section": "STU 001",
+            "instructors": [
+                "Dignan,Paul"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1224A",
+            "end_time": "17:50",
+            "enrollment_total": 18,
+            "class_number": 3987,
+            "start_time": "15:30",
+            "subject": "FINE"
         }
     ]
 }

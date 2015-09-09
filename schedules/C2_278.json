@@ -2,23 +2,119 @@
     "data": [
         {
             "building": "C2",
-            "catalog_number": "720",
-            "class_number": 4710,
-            "end_date": "06/12",
-            "end_time": "15:20",
-            "enrollment_total": 6,
-            "instructors": [
-                "Mikkelsen,Susan R"
-            ],
-            "last_updated": "2015-05-04T16:02:35-04:00",
-            "room": "278",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:58-04:00",
+            "catalog_number": "710",
+            "end_date": null,
+            "title": "Selected Topics in Inorganic Chemistry",
             "section": "LEC 001",
-            "start_date": "05/05",
-            "start_time": "13:00",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Selected Topics in Analytical Chemistry",
-            "weekdays": "TF"
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "278",
+            "end_time": "21:20",
+            "enrollment_total": 3,
+            "class_number": 7393,
+            "start_time": "19:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:58-04:00",
+            "catalog_number": "712",
+            "end_date": null,
+            "title": "X-Ray Crystallography",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "278",
+            "end_time": "21:20",
+            "enrollment_total": 0,
+            "class_number": 7417,
+            "start_time": "19:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:59-04:00",
+            "catalog_number": "760",
+            "end_date": null,
+            "title": "Selected Topics in Organic Chemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Fillion,Eric"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "278",
+            "end_time": "21:20",
+            "enrollment_total": 6,
+            "class_number": 8116,
+            "start_time": "19:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:41-04:00",
+            "catalog_number": "701",
+            "end_date": null,
+            "title": "Quantum Mechanics 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Martin,James D D"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "278",
+            "end_time": "12:50",
+            "enrollment_total": 11,
+            "class_number": 7095,
+            "start_time": "11:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:42-04:00",
+            "catalog_number": "704",
+            "end_date": null,
+            "title": "Statistical Physics 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Burkov,Anton A"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "278",
+            "end_time": "15:20",
+            "enrollment_total": 9,
+            "class_number": 7096,
+            "start_time": "14:00",
+            "subject": "PHYS"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:42-04:00",
+            "catalog_number": "781",
+            "end_date": null,
+            "title": "Fundamentals of Astrophysics",
+            "section": "LEC 001",
+            "instructors": [
+                "Afshordi,Niayesh"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "278",
+            "end_time": "15:50",
+            "enrollment_total": 3,
+            "class_number": 7274,
+            "start_time": "14:30",
+            "subject": "PHYS"
         }
     ]
 }

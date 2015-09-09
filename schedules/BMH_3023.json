@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 104",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "class_number": 3301,
+            "start_time": "10:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 110",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "09:20",
+            "enrollment_total": 15,
+            "class_number": 3307,
+            "start_time": "08:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:32-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Aging and Leisure",
+            "section": "SEM 101",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "16:20",
+            "enrollment_total": 9,
+            "class_number": 3311,
+            "start_time": "15:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:16-04:00",
+            "catalog_number": "750",
+            "end_date": null,
+            "title": "Fundamentals of Aging, Health and Well-being",
+            "section": "LEC 001",
+            "instructors": [
+                "Myers,Anita M"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 3351,
+            "start_time": "14:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:21-04:00",
+            "catalog_number": "750",
+            "end_date": null,
+            "title": "Fundamentals of Aging, Health and Well-being",
+            "section": "LEC 001",
+            "instructors": [
+                "Myers,Anita M"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "class_number": 3352,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:02-04:00",
+            "catalog_number": "750",
+            "end_date": null,
+            "title": "Fundamentals of Aging, Health and Well-being",
+            "section": "LEC 001",
+            "instructors": [
+                "Myers,Anita M"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3023",
+            "end_time": "17:20",
+            "enrollment_total": 0,
+            "class_number": 3353,
+            "start_time": "14:30",
+            "subject": "REC"
+        }
+    ]
+}

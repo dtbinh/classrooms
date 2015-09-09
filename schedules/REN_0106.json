@@ -2,23 +2,179 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "102R",
-            "class_number": 4054,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "32",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 5,
-            "instructors": [
-                "Wolczuk,Agnieszka"
-            ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "0106",
+            "title": "Academic Skills",
             "section": "LEC 003",
+            "instructors": [
+                "Jacob,Raveet"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Error Correction in Academic Writing",
-            "weekdays": "MTTh"
+            "room": "0106",
+            "end_time": "15:20",
+            "enrollment_total": 23,
+            "class_number": 6866,
+            "start_time": "13:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "32",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 003",
+            "instructors": [
+                "Jacob,Raveet"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "12:50",
+            "enrollment_total": 23,
+            "class_number": 6866,
+            "start_time": "11:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "32",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 003",
+            "instructors": [
+                "Jacob,Raveet"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "12:20",
+            "enrollment_total": 23,
+            "class_number": 6866,
+            "start_time": "10:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "36",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 003",
+            "instructors": [
+                "Gillies,Christine"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "10:20",
+            "enrollment_total": 23,
+            "class_number": 6874,
+            "start_time": "08:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "201R",
+            "end_date": null,
+            "title": "Introduction to East Asia",
+            "section": "LEC 002",
+            "instructors": [
+                "Wang,Renee Rui"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "14:20",
+            "enrollment_total": 32,
+            "class_number": 6840,
+            "start_time": "11:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "260R",
+            "end_date": null,
+            "title": "Modern Chinese Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Niu,Kangsheng"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 8259,
+            "start_time": "14:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "32",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "MTW",
+            "start_date": "09/14",
+            "room": "0106",
+            "end_time": "10:50",
+            "enrollment_total": 0,
+            "class_number": 6844,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "34",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "MT",
+            "start_date": "09/14",
+            "room": "0106",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 6845,
+            "start_time": "11:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "First-Year Japanese 2",
+            "section": "TUT 203",
+            "instructors": [
+                "Shimoda,Fumie"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0106",
+            "end_time": "14:20",
+            "enrollment_total": 23,
+            "class_number": 6824,
+            "start_time": "13:00",
+            "subject": "JAPAN"
         }
     ]
 }

@@ -2,443 +2,283 @@
     "data": [
         {
             "building": "RCH",
-            "catalog_number": "130",
-            "class_number": 4712,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:03-04:00",
+            "catalog_number": "271",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 91,
-            "instructors": [
-                "Craig,Paul"
-            ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "307",
+            "title": "Introduction to Theoretical Mechanics",
             "section": "LEC 001",
+            "instructors": [
+                "Waite,Michael L."
+            ],
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Introductory Cell Biology",
-            "weekdays": "MWF"
+            "room": "307",
+            "end_time": "13:20",
+            "enrollment_total": 28,
+            "class_number": 6499,
+            "start_time": "12:30",
+            "subject": "AMATH"
         },
         {
             "building": "RCH",
-            "catalog_number": "101",
-            "class_number": 2826,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:06-04:00",
+            "catalog_number": "300",
             "end_date": null,
+            "title": "Practical Business Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "O'Hara,Kathleen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "307",
+            "end_time": "17:20",
+            "enrollment_total": 105,
+            "class_number": 3963,
+            "start_time": "14:30",
+            "subject": "ARBUS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "342",
+            "end_date": null,
+            "title": "Molecular Biotechnology 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Dupont,Christine"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "307",
+            "end_time": "09:20",
+            "enrollment_total": 82,
+            "class_number": 6891,
+            "start_time": "08:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:43-04:00",
+            "catalog_number": "404",
+            "end_date": null,
+            "title": "Physicochemical Aspects of Natural Waters",
+            "section": "LEC 001",
+            "instructors": [
+                "Gorecki,Tadeusz"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "307",
+            "end_time": "09:20",
+            "enrollment_total": 54,
+            "class_number": 7329,
+            "start_time": "08:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:50-04:00",
+            "catalog_number": "250",
+            "end_date": null,
+            "title": "Introduction to Optimization",
+            "section": "LEC 001",
+            "instructors": [
+                "Guenin,Bertrand"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "307",
+            "end_time": "12:20",
+            "enrollment_total": 99,
+            "class_number": 6539,
+            "start_time": "11:30",
+            "subject": "CO"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:50-04:00",
+            "catalog_number": "250",
+            "end_date": null,
+            "title": "Introduction to Optimization",
+            "section": "LEC 002",
+            "instructors": [
+                "Vavasis,Stephen"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "307",
+            "end_time": "14:20",
+            "enrollment_total": 110,
+            "class_number": 6540,
+            "start_time": "13:30",
+            "subject": "CO"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "135",
+            "end_date": null,
+            "title": "Designing Functional Programs",
+            "section": "LEC 005",
+            "instructors": [
+                "Tompkins,Dave"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "307",
+            "end_time": "14:20",
+            "enrollment_total": 90,
+            "class_number": 6345,
+            "start_time": "13:00",
+            "subject": "CS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:57-04:00",
+            "catalog_number": "335",
+            "end_date": null,
+            "title": "Computational Methods in Business and Finance",
+            "section": "LEC 001",
+            "instructors": [
+                "Xu,Wei"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "307",
+            "end_time": "12:50",
+            "enrollment_total": 94,
+            "class_number": 6599,
+            "start_time": "11:30",
+            "subject": "CS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:16-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Introduction to International Economics",
+            "section": "LEC 001",
+            "instructors": [
+                "Liaqat,Zara"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "307",
             "end_time": "11:20",
             "enrollment_total": 67,
+            "class_number": 3731,
+            "start_time": "10:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:18-04:00",
+            "catalog_number": "344",
+            "end_date": null,
+            "title": "Marketing: Principles of Marketing and Consumer Economics",
+            "section": "LEC 002",
             "instructors": [
-                "Hassel,Anna-Katharina"
+                "Rodenburg,Kathleen"
             ],
-            "last_updated": "2015-05-04T16:00:37-04:00",
+            "weekdays": "MW",
+            "start_date": null,
             "room": "307",
+            "end_time": "11:20",
+            "enrollment_total": 84,
+            "class_number": 3678,
+            "start_time": "10:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "366",
+            "end_date": null,
+            "title": "Global Governance",
             "section": "LEC 001",
+            "instructors": [
+                "Cooper,Andrew F."
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Chemical Engineering Concepts 2",
-            "weekdays": "TTh"
+            "room": "307",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 8055,
+            "start_time": "14:30",
+            "subject": "LS"
         },
         {
             "building": "RCH",
-            "catalog_number": "161",
-            "class_number": 2958,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:48-04:00",
+            "catalog_number": "258",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 66,
-            "instructors": [
-                "Boghaert,Eline"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "307",
+            "title": "Introduction to the Philosophy of Science",
             "section": "LEC 001",
+            "instructors": [
+                "Fraser,Doreen"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Engineering Biology",
-            "weekdays": "TTh"
+            "room": "307",
+            "end_time": "15:50",
+            "enrollment_total": 6,
+            "class_number": 7995,
+            "start_time": "14:30",
+            "subject": "PHIL"
         },
         {
             "building": "RCH",
-            "catalog_number": "300A",
-            "class_number": 3265,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:13-04:00",
+            "catalog_number": "389",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 75,
-            "instructors": [
-                "Charania,Tasreen"
-            ],
-            "last_updated": "2015-05-04T16:01:00-04:00",
-            "room": "307",
-            "section": "SEM 002",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Electrical and Computer Engineering Practice",
-            "weekdays": "T"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "05/07",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "05/07",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "05/21",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "05/21",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "06/04",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "06/04",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "06/18",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "06/18",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "07/02",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "07/02",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2954,
-            "end_date": "07/16",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "07/16",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "05/14",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "05/14",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "05/28",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "05/28",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "06/11",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "06/11",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "06/25",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "06/25",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "07/09",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "07/09",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3294,
-            "end_date": "07/23",
-            "end_time": "13:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "307",
-            "section": "LEC 002",
-            "start_date": "07/23",
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "127",
-            "class_number": 2892,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Xie,Wei-Chau"
-            ],
-            "last_updated": "2015-05-04T16:01:13-04:00",
-            "room": "307",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "ENVE",
-            "term": 1155,
-            "title": "Statics and Solid Mechanics",
-            "weekdays": "W"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "115",
-            "class_number": 3876,
-            "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 29,
-            "instructors": [
-                "Poirrier,Laurent"
-            ],
-            "last_updated": "2015-05-04T16:01:37-04:00",
-            "room": "307",
+            "title": "Global Governance",
             "section": "LEC 001",
+            "instructors": [
+                "Cooper,Andrew F."
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "MATH",
-            "term": 1155,
-            "title": "Linear Algebra for Engineering",
-            "weekdays": "MWF"
+            "room": "307",
+            "end_time": "17:20",
+            "enrollment_total": 78,
+            "class_number": 4107,
+            "start_time": "14:30",
+            "subject": "PSCI"
         },
         {
             "building": "RCH",
-            "catalog_number": "118",
-            "class_number": 3636,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:44-04:00",
+            "catalog_number": "267",
             "end_date": null,
-            "end_time": "09:20",
-            "enrollment_total": 63,
-            "instructors": [
-                "Beltaos,Andrew"
-            ],
-            "last_updated": "2015-05-04T16:01:37-04:00",
-            "room": "307",
+            "title": "Introduction to the Philosophy of Science",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "MATH",
-            "term": 1155,
-            "title": "Calculus 2 for Engineering",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "119",
-            "class_number": 2914,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 88,
             "instructors": [
-                "Chandrashekar,Naveen"
+                "Fraser,Doreen"
             ],
-            "last_updated": "2015-05-04T16:01:45-04:00",
-            "room": "307",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "MTE",
-            "term": 1155,
-            "title": "Statics",
-            "weekdays": "M"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "120",
-            "class_number": 2916,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 89,
-            "instructors": [
-                "Opal,Ajoy"
-            ],
-            "last_updated": "2015-05-04T16:01:45-04:00",
             "room": "307",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "MTE",
-            "term": 1155,
-            "title": "Circuits",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "140",
-            "class_number": 2937,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 89,
-            "instructors": [
-                "Ivkovic,Igor"
-            ],
-            "last_updated": "2015-05-04T16:01:45-04:00",
-            "room": "307",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "MTE",
-            "term": 1155,
-            "title": "Algorithms and Data Structures",
-            "weekdays": "W"
+            "end_time": "15:50",
+            "enrollment_total": 12,
+            "class_number": 8117,
+            "start_time": "14:30",
+            "subject": "SCI"
         }
     ]
 }

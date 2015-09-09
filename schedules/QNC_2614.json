@@ -1,0 +1,1090 @@
+{
+    "data": [
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/14",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/28",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "M",
+            "start_date": "09/28",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/26",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "10/26",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/09",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "M",
+            "start_date": "11/09",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/23",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "11/23",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/13",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "T",
+            "start_date": "10/13",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 18,
+            "class_number": 5070,
+            "start_time": "17:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/16",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "09/16",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/30",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "W",
+            "start_date": "09/30",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/14",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "10/14",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/28",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "W",
+            "start_date": "10/28",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/11",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/25",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "11/25",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5071,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/18",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/02",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "F",
+            "start_date": "10/02",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/16",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/30",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "F",
+            "start_date": "10/30",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/13",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "11/13",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/27",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "11/27",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5072,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/21",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "09/21",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/05",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "M",
+            "start_date": "10/05",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/19",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "10/19",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/02",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "M",
+            "start_date": "11/02",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/16",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "11/16",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/30",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "M",
+            "start_date": "11/30",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5073,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/23",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "09/23",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/07",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "W",
+            "start_date": "10/07",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/21",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "10/21",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/04",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "W",
+            "start_date": "11/04",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/18",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "11/18",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "12/02",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "W",
+            "start_date": "12/02",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5074,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "09/25",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/09",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "10/23",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "10/23",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/06",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "11/20",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "11/20",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "220L",
+            "end_date": "12/04",
+            "title": "Materials Science and Engineering Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "Ghavami,Ahmad",
+                "Coggan,Jenn"
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "2614",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 5075,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "09/21",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "09/21",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 18,
+            "class_number": 5208,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/19",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "10/19",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 18,
+            "class_number": 5208,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/16",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "11/16",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 18,
+            "class_number": 5208,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "09/25",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 13,
+            "class_number": 5231,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/16",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 13,
+            "class_number": 5231,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/13",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "11/13",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 13,
+            "class_number": 5231,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/02",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "10/02",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5232,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/23",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "10/23",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5232,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/20",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "11/20",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5232,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "09/28",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "09/28",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5233,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/02",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "11/02",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5233,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/23",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "11/23",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5233,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/05",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "10/05",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5234,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/09",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "11/09",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5234,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/30",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 005",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "M",
+            "start_date": "11/30",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5234,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "10/09",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5235,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/06",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5235,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:14-04:00",
+            "catalog_number": "330L",
+            "end_date": "11/27",
+            "title": "Macromolecular Science Laboratory",
+            "section": "LAB 006",
+            "instructors": [
+                "McManus,Neil"
+            ],
+            "weekdays": "F",
+            "start_date": "11/27",
+            "room": "2614",
+            "end_time": "20:20",
+            "enrollment_total": 15,
+            "class_number": 5235,
+            "start_time": "13:30",
+            "subject": "NE"
+        }
+    ]
+}

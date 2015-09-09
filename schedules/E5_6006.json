@@ -2,263 +2,383 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "301",
-            "class_number": 2748,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "213",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 88,
-            "instructors": [
-                "Birkett,Stephen"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Seminar",
-            "weekdays": "T"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "311",
-            "class_number": 2749,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 89,
-            "instructors": [
-                "West,Joseph John"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
+            "title": "Stats & Experimental Design",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Advanced Engineering Math 2",
-            "weekdays": "MW"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "311",
-            "class_number": 2750,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 89,
             "instructors": [
-                "West,Joseph John"
+                "Boghaert,Eline"
             ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "TUT 101",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Advanced Engineering Math 2",
-            "weekdays": "T"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "351",
-            "class_number": 2751,
-            "end_date": null,
-            "end_time": "13:50",
-            "enrollment_total": 89,
-            "instructors": [
-                "Birkett,Stephen"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
             "room": "6006",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Systems Models 1",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "351",
-            "class_number": 2752,
-            "end_date": null,
             "end_time": "14:50",
-            "enrollment_total": 89,
-            "instructors": [
-                "Birkett,Stephen"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "14:00",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Systems Models 1",
-            "weekdays": "Th"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "361",
-            "class_number": 2753,
-            "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 87,
-            "instructors": [
-                "Zelek,John Stanislaw"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Engineering Design",
-            "weekdays": "M"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "361",
-            "class_number": 2753,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 87,
-            "instructors": [
-                "Zelek,John Stanislaw"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Engineering Design",
-            "weekdays": "W"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "361",
-            "class_number": 2754,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 87,
-            "instructors": [
-                "Zelek,John Stanislaw"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "LAB 101",
-            "start_date": null,
+            "enrollment_total": 38,
+            "class_number": 8245,
             "start_time": "13:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Engineering Design",
-            "weekdays": "M"
+            "subject": "BME"
         },
         {
             "building": "E5",
-            "catalog_number": "361",
-            "class_number": 2755,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "283",
             "end_date": null,
+            "title": "Chemistry Principles",
+            "section": "LEC 001",
+            "instructors": [
+                "Molladavoodi,Sara"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "13:20",
+            "enrollment_total": 38,
+            "class_number": 8253,
+            "start_time": "12:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:23-04:00",
+            "catalog_number": "283",
+            "end_date": null,
+            "title": "Chemistry Principles",
+            "section": "TUT 101",
+            "instructors": [
+                "Molladavoodi,Sara"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "14:20",
+            "enrollment_total": 38,
+            "class_number": 8254,
+            "start_time": "13:30",
+            "subject": "BME"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "111",
+            "end_date": null,
+            "title": "Fundamental Engineering Math 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Woody,Owen Zeno"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "13:20",
+            "enrollment_total": 51,
+            "class_number": 8257,
+            "start_time": "12:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "113",
+            "end_date": null,
+            "title": "Matrices and Linear Systems",
+            "section": "TUT 102",
+            "instructors": [
+                "Scott,Katharine Andrea"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6006",
             "end_time": "15:20",
-            "enrollment_total": 87,
-            "instructors": [
-                "Zelek,John Stanislaw"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "TUT 201",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Engineering Design",
-            "weekdays": "W"
+            "enrollment_total": 51,
+            "class_number": 5459,
+            "start_time": "13:30",
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "381",
-            "class_number": 2756,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "202",
             "end_date": null,
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Tripp,Bryan Patrick"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "12:20",
+            "enrollment_total": 95,
+            "class_number": 4930,
+            "start_time": "11:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "212",
+            "end_date": null,
+            "title": "Probability and Statistics",
+            "section": "LEC 001",
+            "instructors": [
+                "Balka,Peter"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
             "end_time": "09:50",
-            "enrollment_total": 89,
-            "instructors": [
-                "Fraser,Roydon A"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 98,
+            "class_number": 5209,
             "start_time": "08:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Thermodynamics",
-            "weekdays": "MW"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "381",
-            "class_number": 2757,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "252",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 89,
-            "instructors": [
-                "Fraser,Roydon A"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "10:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Thermodynamics",
-            "weekdays": "Th"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "383",
-            "class_number": 3168,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 90,
-            "instructors": [
-                "Ren,Carolyn"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
+            "title": "Linear Systems and Signals",
             "section": "LEC 001",
+            "instructors": [
+                "Jiang,Ning"
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Fluid Mechanics",
-            "weekdays": "TTh"
+            "room": "6006",
+            "end_time": "09:50",
+            "enrollment_total": 95,
+            "class_number": 4711,
+            "start_time": "08:30",
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "383",
-            "class_number": 3169,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "252",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 90,
-            "instructors": [
-                "Ren,Carolyn"
-            ],
-            "last_updated": "2015-05-04T16:02:27-04:00",
-            "room": "6006",
+            "title": "Linear Systems and Signals",
             "section": "TUT 101",
+            "instructors": [
+                "Jiang,Ning"
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "14:00",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Fluid Mechanics",
-            "weekdays": "T"
+            "room": "6006",
+            "end_time": "10:50",
+            "enrollment_total": 95,
+            "class_number": 4712,
+            "start_time": "10:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Engineering Economics of Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Ponnambalam,Kumaraswamy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "11:20",
+            "enrollment_total": 95,
+            "class_number": 5211,
+            "start_time": "10:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Engineering Economics of Design",
+            "section": "TUT 101",
+            "instructors": [
+                "Ponnambalam,Kumaraswamy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "09:50",
+            "enrollment_total": 95,
+            "class_number": 5212,
+            "start_time": "09:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "286",
+            "end_date": null,
+            "title": "Mechanics of Deformable Solids",
+            "section": "LEC 001",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "13:50",
+            "enrollment_total": 97,
+            "class_number": 5282,
+            "start_time": "12:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "286",
+            "end_date": null,
+            "title": "Mechanics of Deformable Solids",
+            "section": "LEC 001",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "11:20",
+            "enrollment_total": 97,
+            "class_number": 5282,
+            "start_time": "10:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "411",
+            "end_date": null,
+            "title": "Optimization and Numerical Methods",
+            "section": "LEC 001",
+            "instructors": [
+                "Calamai,Paul H"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "11:20",
+            "enrollment_total": 71,
+            "class_number": 5370,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "533",
+            "end_date": null,
+            "title": "Conflict Resolution",
+            "section": "LEC 001",
+            "instructors": [
+                "Hipel,Keith W"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "10:20",
+            "enrollment_total": 50,
+            "class_number": 4714,
+            "start_time": "09:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "533",
+            "end_date": null,
+            "title": "Conflict Resolution",
+            "section": "TUT 101",
+            "instructors": [
+                "Hipel,Keith W"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "11:20",
+            "enrollment_total": 50,
+            "class_number": 4929,
+            "start_time": "10:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "543",
+            "end_date": null,
+            "title": "Cognitive Ergonomics",
+            "section": "LEC 001",
+            "instructors": [
+                "Cao,Shi"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "16:20",
+            "enrollment_total": 45,
+            "class_number": 5407,
+            "start_time": "14:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "543",
+            "end_date": null,
+            "title": "Cognitive Ergonomics",
+            "section": "LEC 001",
+            "instructors": [
+                "Cao,Shi"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "15:20",
+            "enrollment_total": 45,
+            "class_number": 5407,
+            "start_time": "14:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "543",
+            "end_date": null,
+            "title": "Cognitive Ergonomics",
+            "section": "TUT 101",
+            "instructors": [
+                "Cao,Shi"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6006",
+            "end_time": "16:20",
+            "enrollment_total": 45,
+            "class_number": 5408,
+            "start_time": "15:30",
+            "subject": "SYDE"
         }
     ]
 }

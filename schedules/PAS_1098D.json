@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "204",
+            "end_date": null,
+            "title": "Biological Anthropology",
+            "section": "LAB 101",
+            "instructors": [
+                "Bolt,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1098D",
+            "end_time": "13:50",
+            "enrollment_total": 20,
+            "class_number": 7769,
+            "start_time": "13:00",
+            "subject": "ANTH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "204",
+            "end_date": null,
+            "title": "Biological Anthropology",
+            "section": "LAB 102",
+            "instructors": [
+                "Bolt,Laura"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1098D",
+            "end_time": "13:50",
+            "enrollment_total": 24,
+            "class_number": 7770,
+            "start_time": "13:00",
+            "subject": "ANTH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:05-04:00",
+            "catalog_number": "355",
+            "end_date": null,
+            "title": "Human Osteology",
+            "section": "SEM 001",
+            "instructors": [
+                "Liston,Maria"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1098D",
+            "end_time": "12:50",
+            "enrollment_total": 15,
+            "class_number": 3885,
+            "start_time": "11:30",
+            "subject": "ANTH"
+        }
+    ]
+}

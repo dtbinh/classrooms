@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "131",
+            "end_date": null,
+            "title": "Big Ideas of the Bible",
+            "section": "LEC 001",
+            "instructors": [
+                "Suderman,Derek"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "21:50",
+            "enrollment_total": 4,
+            "class_number": 8410,
+            "start_time": "19:00",
+            "subject": "JS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:02-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Understanding Music",
+            "section": "LEC 001",
+            "instructors": [
+                "Brownell,John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "12:50",
+            "enrollment_total": 112,
+            "class_number": 4658,
+            "start_time": "11:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:02-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Understanding Music",
+            "section": "LEC 002",
+            "instructors": [
+                "Lacoste,Debra"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "14:50",
+            "enrollment_total": 42,
+            "class_number": 4659,
+            "start_time": "13:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:26-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Roots of Conflict, Violence, and Peace",
+            "section": "LEC 001",
+            "instructors": [
+                "Funk,Nathan"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "11:20",
+            "enrollment_total": 80,
+            "class_number": 7924,
+            "start_time": "10:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:38-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "The Bible: History, Literature, and Scripture",
+            "section": "LEC 001",
+            "instructors": [
+                "Suderman,Derek"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "21:50",
+            "enrollment_total": 17,
+            "class_number": 4080,
+            "start_time": "19:00",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:03-04:00",
+            "catalog_number": "275",
+            "end_date": null,
+            "title": "Mennonites as a Sociological Community",
+            "section": "LEC 001",
+            "instructors": [
+                "Janzen,Ed"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1111",
+            "end_time": "21:20",
+            "enrollment_total": 17,
+            "class_number": 8515,
+            "start_time": "18:30",
+            "subject": "SOC"
+        }
+    ]
+}

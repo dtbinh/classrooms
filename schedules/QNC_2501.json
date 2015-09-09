@@ -2,223 +2,581 @@
     "data": [
         {
             "building": "QNC",
-            "catalog_number": "353",
-            "class_number": 3607,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Miskovic,Zoran"
-            ],
-            "last_updated": "2015-05-04T16:00:18-04:00",
-            "room": "2501",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:30",
-            "subject": "AMATH",
-            "term": 1155,
-            "title": "Partial Differential Equations 1",
-            "weekdays": "MWF"
-        },
-        {
-            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
             "catalog_number": "300",
-            "class_number": 3309,
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 11,
-            "instructors": [
-                "Chang,Wayne"
-            ],
-            "last_updated": "2015-05-04T16:00:27-04:00",
-            "room": "2501",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "18:30",
-            "subject": "BET",
-            "term": 1155,
             "title": "Foundations of Venture Creation",
-            "weekdays": "W"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "300",
-            "class_number": 4937,
-            "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 8,
-            "instructors": [
-                "Hurwitz,Marc"
-            ],
-            "last_updated": "2015-05-04T16:00:27-04:00",
-            "room": "2501",
             "section": "LEC 002",
-            "start_date": null,
-            "start_time": "18:30",
-            "subject": "BET",
-            "term": 1155,
-            "title": "Foundations of Venture Creation",
-            "weekdays": "M"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "310",
-            "class_number": 4913,
-            "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 5,
             "instructors": [
                 "Hurwitz,Marc"
             ],
-            "last_updated": "2015-05-04T16:00:27-04:00",
-            "room": "2501",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
+            "room": "2501",
+            "end_time": "21:20",
+            "enrollment_total": 0,
+            "class_number": 5503,
             "start_time": "18:30",
-            "subject": "BET",
-            "term": 1155,
-            "title": "Entrprise Coop Entre Plan Exec",
-            "weekdays": "T"
+            "subject": "BET"
         },
         {
             "building": "QNC",
-            "catalog_number": "201",
-            "class_number": 2199,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "320",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 18,
-            "instructors": [
-                "Pender,John"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "2501",
+            "title": "Intro to Commercialization Mgt",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "The Short Story",
-            "weekdays": "MTTh"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "217",
-            "class_number": 4597,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 28,
             "instructors": [
-                "Liu,Wing-Ki"
+                "Rose,David George"
             ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
-            "room": "2501",
-            "section": "TUT 101",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
-            "weekdays": "F"
+            "room": "2501",
+            "end_time": "21:20",
+            "enrollment_total": 25,
+            "class_number": 5505,
+            "start_time": "18:30",
+            "subject": "BET"
         },
         {
             "building": "QNC",
-            "catalog_number": "217",
-            "class_number": 4598,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:19-04:00",
+            "catalog_number": "412",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 27,
+            "title": "Game Theory",
+            "section": "LEC 001",
             "instructors": [
-                "Liu,Wing-Ki"
+                "Blit,Joel N"
             ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
-            "room": "2501",
-            "section": "TUT 102",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "217",
-            "class_number": 4599,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Liu,Wing-Ki"
-            ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
             "room": "2501",
-            "section": "TUT 103",
-            "start_date": null,
-            "start_time": "15:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Advanced Calculus 2 for Nanotechnology Engineering",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "242",
-            "class_number": 3002,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Wong,William S."
-            ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
-            "room": "2501",
-            "section": "TUT 103",
-            "start_date": null,
-            "start_time": "16:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Electronic Devices",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "234",
-            "class_number": 4278,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 24,
-            "instructors": [
-                "Hill,Robert W."
-            ],
-            "last_updated": "2015-05-04T16:02:00-04:00",
-            "room": "2501",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Quantum Physics 1",
-            "weekdays": "M"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "735",
-            "class_number": 4785,
-            "end_date": null,
-            "end_time": "14:20",
+            "end_time": "12:50",
             "enrollment_total": 14,
-            "instructors": [
-                "McArthur,Murray"
-            ],
-            "last_updated": "2015-05-04T16:02:43-04:00",
-            "room": "2501",
-            "section": "SEM 001",
-            "start_date": null,
+            "class_number": 8366,
             "start_time": "11:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Studies in Modern British Literature",
-            "weekdays": "W"
+            "subject": "ECON"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 027",
+            "instructors": [
+                "Haider,Amna"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "09:50",
+            "enrollment_total": 25,
+            "class_number": 8191,
+            "start_time": "08:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:28-04:00",
+            "catalog_number": "208C",
+            "end_date": null,
+            "title": "Studies in Children's Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Cronin,Keely Marie Lynn"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "17:20",
+            "enrollment_total": 29,
+            "class_number": 3459,
+            "start_time": "16:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:51-04:00",
+            "catalog_number": "403",
+            "end_date": null,
+            "title": "Interdisciplinary Design Project 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Nespoli,Oscar Gabriel"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 5511,
+            "start_time": "09:30",
+            "subject": "GENE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:41-04:00",
+            "catalog_number": "117",
+            "end_date": null,
+            "title": "Calculus 1 for Engineering",
+            "section": "TUT 112",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "15:20",
+            "enrollment_total": 38,
+            "class_number": 6457,
+            "start_time": "13:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "112",
+            "end_date": null,
+            "title": "Linear Algebra with Numerical Applications",
+            "section": "TUT 103",
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 36,
+            "class_number": 5443,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "121",
+            "end_date": null,
+            "title": "Chemical Principles",
+            "section": "TUT 103",
+            "instructors": [
+                "Deakin,Laura"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 36,
+            "class_number": 5279,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:13-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Electromagnetism",
+            "section": "TUT 101",
+            "instructors": [
+                "Ban,Dayan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "11:20",
+            "enrollment_total": 34,
+            "class_number": 5119,
+            "start_time": "10:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:13-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Electromagnetism",
+            "section": "TUT 102",
+            "instructors": [
+                "Ban,Dayan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "10:20",
+            "enrollment_total": 36,
+            "class_number": 5120,
+            "start_time": "09:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:13-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Electromagnetism",
+            "section": "TUT 103",
+            "instructors": [
+                "Ban,Dayan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "09:20",
+            "enrollment_total": 36,
+            "class_number": 5121,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": null,
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "11:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "10:00",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "09/23",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "09/23",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "10/07",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "10/07",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "10/21",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "10/21",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "11/04",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "11/04",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "11/18",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "11/18",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "451",
+            "end_date": "12/02",
+            "title": "Simulation Methods in Nanotechnology Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Wing-Ki"
+            ],
+            "weekdays": "W",
+            "start_date": "12/02",
+            "room": "2501",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5383,
+            "start_time": "11:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": null,
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "15:50",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "14:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "09/16",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "09/16",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "09/30",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "09/30",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "10/14",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "10/14",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "10/28",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "10/28",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "11/11",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:17-04:00",
+            "catalog_number": "481",
+            "end_date": "11/25",
+            "title": "Introduction to Nanomedicine and Nanobiotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Gu,Frank"
+            ],
+            "weekdays": "W",
+            "start_date": "11/25",
+            "room": "2501",
+            "end_time": "14:20",
+            "enrollment_total": 40,
+            "class_number": 5199,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:25-04:00",
+            "catalog_number": "662",
+            "end_date": null,
+            "title": "Advanced Fluid Mechanics",
+            "section": "LEC 001",
+            "instructors": [
+                "Yarusevych,Serhiy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2501",
+            "end_time": "14:50",
+            "enrollment_total": 15,
+            "class_number": 7838,
+            "start_time": "12:30",
+            "subject": "ME"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:29-04:00",
+            "catalog_number": "701",
+            "end_date": "10/23",
+            "title": "Fundamentals of Nanotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Tam,Michael Kam Chiu"
+            ],
+            "weekdays": "W",
+            "start_date": "09/14",
+            "room": "2501",
+            "end_time": "19:20",
+            "enrollment_total": 33,
+            "class_number": 5332,
+            "start_time": "16:30",
+            "subject": "NANO"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:29-04:00",
+            "catalog_number": "702",
+            "end_date": "12/04",
+            "title": "Nanotechology Tools",
+            "section": "LEC 001",
+            "instructors": [
+                "Tam,Michael Kam Chiu"
+            ],
+            "weekdays": "W",
+            "start_date": "10/26",
+            "room": "2501",
+            "end_time": "19:20",
+            "enrollment_total": 19,
+            "class_number": 5333,
+            "start_time": "16:30",
+            "subject": "NANO"
         }
     ]
 }

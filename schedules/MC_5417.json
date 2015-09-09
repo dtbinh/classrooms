@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:49-04:00",
+            "catalog_number": "751",
+            "end_date": null,
+            "title": "Advanced Ordinary Differential Equations",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Xinzhi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "5417",
+            "end_time": "15:50",
+            "enrollment_total": 3,
+            "class_number": 6594,
+            "start_time": "14:30",
+            "subject": "AMATH"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:46-04:00",
+            "catalog_number": "740",
+            "end_date": null,
+            "title": "Analytic Number Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Yu-Ru"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "5417",
+            "end_time": "10:20",
+            "enrollment_total": 26,
+            "class_number": 7971,
+            "start_time": "09:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:47-04:00",
+            "catalog_number": "930",
+            "end_date": null,
+            "title": "Topics in Logic",
+            "section": "LEC 001",
+            "instructors": [
+                "Moosa,Rahim"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "5417",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 6707,
+            "start_time": "13:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:47-04:00",
+            "catalog_number": "940",
+            "end_date": null,
+            "title": "Topics in Number Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Stewart,Cameron L"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "5417",
+            "end_time": "09:20",
+            "enrollment_total": 3,
+            "class_number": 7972,
+            "start_time": "08:30",
+            "subject": "PMATH"
+        }
+    ]
+}

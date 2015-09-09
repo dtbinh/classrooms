@@ -2,43 +2,321 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "203",
-            "class_number": 2361,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "200A",
             "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 31,
-            "instructors": [
-                "Tsedryk,Kanstantsin"
-            ],
-            "last_updated": "2015-05-04T16:01:18-04:00",
-            "room": "138",
+            "title": "Survey of British Literature 1",
             "section": "LEC 001",
+            "instructors": [
+                "Savarese,John"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "FR",
-            "term": 1155,
-            "title": "Introduction to Phonetics of French",
-            "weekdays": "MW"
+            "room": "138",
+            "end_time": "15:50",
+            "enrollment_total": 31,
+            "class_number": 3458,
+            "start_time": "14:30",
+            "subject": "ENGL"
         },
         {
             "building": "HH",
-            "catalog_number": "231",
-            "class_number": 2573,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:30-04:00",
+            "catalog_number": "310A",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 25,
+            "title": "Chaucer 1",
+            "section": "LEC 001",
             "instructors": [
-                "Whiteside,Heather"
+                "Tolmie,Sarah"
             ],
-            "last_updated": "2015-05-04T16:02:04-04:00",
-            "room": "138",
-            "section": "DIS 104",
+            "weekdays": "MW",
             "start_date": null,
+            "room": "138",
+            "end_time": "15:50",
+            "enrollment_total": 20,
+            "class_number": 8207,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:44-04:00",
+            "catalog_number": "152",
+            "end_date": null,
+            "title": "Basic French 2",
+            "section": "LEC 003",
+            "instructors": [
+                "Penate,Rocky"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "13:20",
+            "enrollment_total": 16,
+            "class_number": 3745,
+            "start_time": "12:30",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:44-04:00",
+            "catalog_number": "192B",
+            "end_date": null,
+            "title": "French Language 1: Module 2",
+            "section": "LEC 002",
+            "instructors": [
+                "Defraeye,Julien"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "138",
+            "end_time": "14:20",
+            "enrollment_total": 32,
+            "class_number": 3749,
+            "start_time": "13:00",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:45-04:00",
+            "catalog_number": "250A",
+            "end_date": null,
+            "title": "Intermediate Spoken French",
+            "section": "LEC 001",
+            "instructors": [
+                "Ducatel,Eugenie Marie Isabelle"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "138",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "class_number": 7784,
+            "start_time": "16:00",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:58-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Elementary German I",
+            "section": "LEC 003",
+            "instructors": [],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "class_number": 3400,
+            "start_time": "13:30",
+            "subject": "GER"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:58-04:00",
+            "catalog_number": "102",
+            "end_date": null,
+            "title": "Elementary German II",
+            "section": "LEC 001",
+            "instructors": [
+                "Cooper,Stephanie Nicole Rose"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "09:20",
+            "enrollment_total": 12,
+            "class_number": 3403,
+            "start_time": "08:30",
+            "subject": "GER"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:01-04:00",
+            "catalog_number": "332",
+            "end_date": null,
+            "title": "Advanced Studies in Greek: Poetry",
+            "section": "LEC 001",
+            "instructors": [
+                "Faber,Riemer"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 7814,
             "start_time": "16:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Government and Business",
-            "weekdays": "Th"
+            "subject": "GRK"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:01-04:00",
+            "catalog_number": "490",
+            "end_date": null,
+            "title": "Senior Studies in Greek: Selected Topics",
+            "section": "RDG 001",
+            "instructors": [
+                "Faber,Riemer"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 4226,
+            "start_time": "16:30",
+            "subject": "GRK"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:49-04:00",
+            "catalog_number": "447",
+            "end_date": null,
+            "title": "Seminar in Cognitive Science",
+            "section": "SEM 001",
+            "instructors": [
+                "Thagard,Paul"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "138",
+            "end_time": "11:20",
+            "enrollment_total": 12,
+            "class_number": 7999,
+            "start_time": "08:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:24-04:00",
+            "catalog_number": "447",
+            "end_date": null,
+            "title": "Seminar in Cognitive Science",
+            "section": "SEM 001",
+            "instructors": [
+                "Thagard,Paul"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "138",
+            "end_time": "11:20",
+            "enrollment_total": 6,
+            "class_number": 8051,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:14-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Interpersonal Communication",
+            "section": "LEC 002",
+            "instructors": [
+                "Harvie,Jo"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "138",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 3729,
+            "start_time": "08:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:40-04:00",
+            "catalog_number": "604",
+            "end_date": null,
+            "title": "Monetary Theory and Banking",
+            "section": "LEC 001",
+            "instructors": [
+                "Lam,Jean-Paul"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 8471,
+            "start_time": "10:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:03-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Topics in Greek Language",
+            "section": "SEM 001",
+            "instructors": [
+                "Faber,Riemer"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "138",
+            "end_time": "17:20",
+            "enrollment_total": 7,
+            "class_number": 7815,
+            "start_time": "16:30",
+            "subject": "GRK"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:36-04:00",
+            "catalog_number": "673",
+            "end_date": null,
+            "title": "Graduate Courses",
+            "section": "LEC 002",
+            "instructors": [
+                "Thagard,Paul"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "138",
+            "end_time": "11:20",
+            "enrollment_total": 4,
+            "class_number": 4216,
+            "start_time": "08:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:50-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Theories and Methods of Political Analysis",
+            "section": "SEM 001",
+            "instructors": [
+                "Huo,Jingjing"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "138",
+            "end_time": "12:20",
+            "enrollment_total": 15,
+            "class_number": 3575,
+            "start_time": "09:30",
+            "subject": "PSCI"
         }
     ]
 }

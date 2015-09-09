@@ -2,63 +2,201 @@
     "data": [
         {
             "building": "BMH",
-            "catalog_number": "150",
-            "class_number": 4707,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "103",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 32,
+            "title": "Biological Determinants of Health",
+            "section": "LEC 001",
             "instructors": [
                 "Williams,Diane"
             ],
-            "last_updated": "2015-05-04T16:00:15-04:00",
-            "room": "1016",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "AHS",
-            "term": 1155,
-            "title": "Foundations of Human Anatomy and Physiology",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "BMH",
-            "catalog_number": "401",
-            "class_number": 4982,
-            "end_date": null,
+            "room": "1016",
             "end_time": "11:20",
-            "enrollment_total": 9,
-            "instructors": [
-                "Rafferty,Zara Elise"
-            ],
-            "last_updated": "2015-05-04T16:02:10-04:00",
-            "room": "1016",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "REC",
-            "term": 1155,
-            "title": "Advanced Seminar on the Socio-Cultural and Behavioral Dimensions of Leisure",
-            "weekdays": "Th"
+            "enrollment_total": 41,
+            "class_number": 3321,
+            "start_time": "10:00",
+            "subject": "HLTH"
         },
         {
             "building": "BMH",
-            "catalog_number": "405",
-            "class_number": 2173,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "202",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 40,
-            "instructors": [
-                "Rafferty,Zara Elise"
-            ],
-            "last_updated": "2015-05-04T16:02:11-04:00",
-            "room": "1016",
+            "title": "Introduction to Public and Population Health",
             "section": "LEC 001",
+            "instructors": [
+                "Meyer,Samantha"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "1016",
+            "end_time": "12:50",
+            "enrollment_total": 42,
+            "class_number": 3346,
+            "start_time": "11:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:27-04:00",
+            "catalog_number": "320",
+            "end_date": null,
+            "title": "Task Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Wells,Richard P"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "class_number": 8508,
+            "start_time": "10:00",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:28-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Neuromuscular Integration",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "19:50",
+            "enrollment_total": 30,
+            "class_number": 3347,
+            "start_time": "18:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:29-04:00",
+            "catalog_number": "422",
+            "end_date": null,
+            "title": "Human Gait, Posture, and Balance: Pathological and Aging Considerations",
+            "section": "LEC 001",
+            "instructors": [
+                "Prentice,Stephen D"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "14:20",
+            "enrollment_total": 33,
+            "class_number": 8216,
             "start_time": "13:00",
-            "subject": "REC",
-            "term": 1155,
-            "title": "Leisure and Well-Being",
-            "weekdays": "MW"
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "456",
+            "end_date": null,
+            "title": "Cognitive Dysfunction and Motor Skill",
+            "section": "LEC 001",
+            "instructors": [
+                "Roy,Eric A"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "15:50",
+            "enrollment_total": 36,
+            "class_number": 3230,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:20-04:00",
+            "catalog_number": "656",
+            "end_date": null,
+            "title": "Neurobehavioural Analyses of  Perceptual and Motor Deficits",
+            "section": "SEM 001",
+            "instructors": [
+                "Roy,Eric A"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "15:50",
+            "enrollment_total": 4,
+            "class_number": 3331,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:20-04:00",
+            "catalog_number": "670A",
+            "end_date": null,
+            "title": "Movement Neuroscience Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Frank,James S"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "16:20",
+            "enrollment_total": 9,
+            "class_number": 3286,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:20-04:00",
+            "catalog_number": "670E",
+            "end_date": null,
+            "title": "Seminar 1:  Biomechanics and Ergonomics",
+            "section": "SEM 001",
+            "instructors": [
+                "Wells,Richard P"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "16:20",
+            "enrollment_total": 7,
+            "class_number": 3192,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:21-04:00",
+            "catalog_number": "670H",
+            "end_date": null,
+            "title": "Physiology and Nutrition Part One",
+            "section": "SEM 001",
+            "instructors": [
+                "Stark,Ken"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1016",
+            "end_time": "16:20",
+            "enrollment_total": 10,
+            "class_number": 3191,
+            "start_time": "14:30",
+            "subject": "KIN"
         }
     ]
 }

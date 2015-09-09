@@ -2,21 +2,39 @@
     "data": [
         {
             "building": "EV1",
-            "catalog_number": "474",
-            "class_number": 4902,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:55-04:00",
+            "catalog_number": "294",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 13,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:01:14-04:00",
-            "room": "134",
+            "title": "Approaches to Research in Physical Geography",
             "section": "LAB 101",
+            "instructors": [],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "ENVS",
-            "term": 1155,
-            "title": "Special Topics in Environmental Studies",
-            "weekdays": "Th"
+            "room": "134",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 5786,
+            "start_time": "10:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "EV1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:55-04:00",
+            "catalog_number": "294",
+            "end_date": null,
+            "title": "Approaches to Research in Physical Geography",
+            "section": "LAB 102",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "134",
+            "end_time": "14:20",
+            "enrollment_total": 28,
+            "class_number": 5787,
+            "start_time": "12:30",
+            "subject": "GEOG"
         }
     ]
 }

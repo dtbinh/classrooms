@@ -2,23 +2,83 @@
     "data": [
         {
             "building": "QNC",
-            "catalog_number": "777",
-            "class_number": 5078,
-            "end_date": "07/23",
-            "end_time": "10:20",
-            "enrollment_total": 0,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:22-04:00",
+            "catalog_number": "766",
+            "end_date": null,
+            "title": "Theory of Quantum Information",
+            "section": "LEC 001",
             "instructors": [
-                "Leggett,Anthony"
+                "Watrous,John"
             ],
-            "last_updated": "2015-05-04T16:02:56-04:00",
+            "weekdays": "TTh",
+            "start_date": null,
             "room": "1201",
-            "section": "RDG 002",
-            "start_date": "06/16",
-            "start_time": "09:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Special Topics in Physics",
-            "weekdays": "TTh"
+            "end_time": "11:20",
+            "enrollment_total": 9,
+            "class_number": 8390,
+            "start_time": "10:00",
+            "subject": "CS"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:42-04:00",
+            "catalog_number": "768",
+            "end_date": null,
+            "title": "Special Topics in Quantum Information Processing",
+            "section": "LEC 001",
+            "instructors": [
+                "Lupascu,Adrian A."
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1201",
+            "end_time": "09:50",
+            "enrollment_total": 0,
+            "class_number": 8392,
+            "start_time": "08:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:59-04:00",
+            "catalog_number": "820",
+            "end_date": null,
+            "title": "Theory of Quantum Information",
+            "section": "LEC 001",
+            "instructors": [
+                "Watrous,John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1201",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "class_number": 8389,
+            "start_time": "10:00",
+            "subject": "QIC"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:00-04:00",
+            "catalog_number": "880",
+            "end_date": null,
+            "title": "Nanoelectronics for Quantum Information Processing",
+            "section": "LEC 001",
+            "instructors": [
+                "Lupascu,Adrian A."
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1201",
+            "end_time": "09:50",
+            "enrollment_total": 4,
+            "class_number": 8391,
+            "start_time": "08:30",
+            "subject": "QIC"
         }
     ]
 }

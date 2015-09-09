@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "137",
+            "end_date": "09/18",
+            "title": "Programming Principles",
+            "section": "LAB 102",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "2063",
+            "end_time": "16:20",
+            "enrollment_total": 88,
+            "class_number": 6363,
+            "start_time": "15:30",
+            "subject": "CS"
+        }
+    ]
+}

@@ -2,83 +2,103 @@
     "data": [
         {
             "building": "DC",
-            "catalog_number": "744",
-            "class_number": 4774,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:21-04:00",
+            "catalog_number": "697",
             "end_date": null,
+            "title": "Graduate Research Skills Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "DiMarco,Chrysanne"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2568",
             "end_time": "13:20",
-            "enrollment_total": 14,
-            "instructors": [
-                "Naeem,Nomair Ahmed"
-            ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "2568",
+            "enrollment_total": 19,
+            "class_number": 6144,
+            "start_time": "12:00",
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:22-04:00",
+            "catalog_number": "745",
+            "end_date": null,
+            "title": "Computer-Aided Verification",
             "section": "LEC 001",
+            "instructors": [
+                "Trefler,Richard"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "CS",
-            "term": 1155,
-            "title": "Advanced Compiler Design",
-            "weekdays": "F"
+            "room": "2568",
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "class_number": 8441,
+            "start_time": "13:00",
+            "subject": "CS"
         },
         {
             "building": "DC",
-            "catalog_number": "846",
-            "class_number": 4776,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:23-04:00",
+            "catalog_number": "798",
             "end_date": null,
+            "title": "Advanced Research Topics",
+            "section": "LEC 001",
+            "instructors": [
+                "DiMarco,Chrysanne"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2568",
             "end_time": "11:50",
-            "enrollment_total": 34,
-            "instructors": [
-                "Berry,Daniel"
-            ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "2568",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "09:00",
-            "subject": "CS",
-            "term": 1155,
-            "title": "Advanced Topics in Software Engineering",
-            "weekdays": "TTh"
+            "enrollment_total": 14,
+            "class_number": 8535,
+            "start_time": "10:00",
+            "subject": "CS"
         },
         {
             "building": "DC",
-            "catalog_number": "848",
-            "class_number": 4779,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:23-04:00",
+            "catalog_number": "798",
             "end_date": null,
-            "end_time": "16:50",
-            "enrollment_total": 24,
+            "title": "Advanced Research Topics",
+            "section": "LEC 002",
             "instructors": [
-                "Clarke,Charles L.A"
+                "Lau,Lap Chi"
             ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "2568",
-            "section": "SEM 002",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "14:00",
-            "subject": "CS",
-            "term": 1155,
-            "title": "Advanced Topics in Data Bases",
-            "weekdays": "M"
+            "room": "2568",
+            "end_time": "14:50",
+            "enrollment_total": 16,
+            "class_number": 8536,
+            "start_time": "13:30",
+            "subject": "CS"
         },
         {
             "building": "DC",
-            "catalog_number": "886",
-            "class_number": 4997,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "725",
             "end_date": null,
-            "end_time": "16:50",
-            "enrollment_total": 30,
+            "title": "Computer-Aided Verification",
+            "section": "LEC 001",
             "instructors": [
-                "Li,Ming"
+                "Trefler,Richard"
             ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "2568",
-            "section": "SEM 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "14:00",
-            "subject": "CS",
-            "term": 1155,
-            "title": "Advanced Topics in Artificial Intelligence",
-            "weekdays": "W"
+            "room": "2568",
+            "end_time": "14:20",
+            "enrollment_total": 9,
+            "class_number": 8533,
+            "start_time": "13:00",
+            "subject": "ECE"
         }
     ]
 }

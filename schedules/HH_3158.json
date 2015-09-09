@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:42-04:00",
+            "catalog_number": "781",
+            "end_date": null,
+            "title": "Introduction to Research 1",
+            "section": "SEM 001",
+            "instructors": [
+                "O'Brien,Patricia"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3158",
+            "end_time": "15:50",
+            "enrollment_total": 4,
+            "class_number": 3903,
+            "start_time": "13:00",
+            "subject": "ACC"
+        }
+    ]
+}

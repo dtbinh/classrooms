@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "349",
+            "end_date": null,
+            "title": "Synthetic Biology Project Design",
+            "section": "PRJ 001",
+            "instructors": [
+                "Charles,Trevor C",
+                "Aucoin,Marc Gordon",
+                "Ingalls,Brian"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "4044",
+            "end_time": "15:50",
+            "enrollment_total": 4,
+            "class_number": 8501,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:51-04:00",
+            "catalog_number": "430",
+            "end_date": null,
+            "title": "Algebraic Enumeration",
+            "section": "LEC 001",
+            "instructors": [
+                "Wagner,David G"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "4044",
+            "end_time": "17:20",
+            "enrollment_total": 2,
+            "class_number": 5974,
+            "start_time": "16:30",
+            "subject": "CO"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:52-04:00",
+            "catalog_number": "111",
+            "end_date": null,
+            "title": "Physics 1",
+            "section": "TUT 112",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "4044",
+            "end_time": "09:20",
+            "enrollment_total": 0,
+            "class_number": 7237,
+            "start_time": "08:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:09-04:00",
+            "catalog_number": "630",
+            "end_date": null,
+            "title": "Algebraic Enumeration",
+            "section": "LEC 001",
+            "instructors": [
+                "Wagner,David G"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "4044",
+            "end_time": "17:20",
+            "enrollment_total": 7,
+            "class_number": 6126,
+            "start_time": "16:30",
+            "subject": "CO"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:15-04:00",
+            "catalog_number": "720",
+            "end_date": null,
+            "title": "Advanced Topics",
+            "section": "RDG 001",
+            "instructors": [
+                "Corbett,Kitty King"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "4044",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 3366,
+            "start_time": "11:30",
+            "subject": "HSG"
+        }
+    ]
+}

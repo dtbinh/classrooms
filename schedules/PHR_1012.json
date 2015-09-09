@@ -2,83 +2,43 @@
     "data": [
         {
             "building": "PHR",
-            "catalog_number": "377",
-            "class_number": 4311,
-            "end_date": "08/27",
-            "end_time": "14:50",
-            "enrollment_total": 20,
-            "instructors": [
-                "Sian,Preet"
-            ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "1012",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:39-04:00",
+            "catalog_number": "370",
+            "end_date": null,
+            "title": "Personal & New Venture Financial Management",
             "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "12:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Drug-Induced Disease",
-            "weekdays": "M"
+            "instructors": [
+                "Hughes,David John"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1012",
+            "end_time": "21:20",
+            "enrollment_total": 49,
+            "class_number": 8363,
+            "start_time": "18:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "377",
-            "class_number": 4311,
-            "end_date": "08/27",
-            "end_time": "13:20",
-            "enrollment_total": 20,
-            "instructors": [
-                "Sian,Preet"
-            ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "1012",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:40-04:00",
+            "catalog_number": "379",
+            "end_date": null,
+            "title": "Ethical Decision-Making",
             "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "12:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Drug-Induced Disease",
-            "weekdays": "W"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "422",
-            "class_number": 4231,
-            "end_date": "08/27",
-            "end_time": "17:20",
-            "enrollment_total": 55,
             "instructors": [
-                "Nagge,Jeffrey Judson"
+                "Roberts,Ken"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "T",
+            "start_date": null,
             "room": "1012",
-            "section": "LEC 001",
-            "start_date": "07/02",
-            "start_time": "15:30",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Integrated Patient Focused Care 9",
-            "weekdays": "T"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "422",
-            "class_number": 4232,
-            "end_date": "08/27",
-            "end_time": "17:50",
-            "enrollment_total": 55,
-            "instructors": [
-                "Nagge,Jeffrey Judson"
-            ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
-            "room": "1012",
-            "section": "TUT 101",
-            "start_date": "07/02",
-            "start_time": "15:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Integrated Patient Focused Care 9",
-            "weekdays": "M"
+            "end_time": "11:20",
+            "enrollment_total": 35,
+            "class_number": 7509,
+            "start_time": "08:30",
+            "subject": "PHARM"
         }
     ]
 }

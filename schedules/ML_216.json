@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:53-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Elementary Croatian 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Petrovic,Ivana"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "216",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 3373,
+            "start_time": "13:00",
+            "subject": "CROAT"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:53-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Intermediate Croatian I",
+            "section": "LEC 001",
+            "instructors": [
+                "Petrovic,Ivana"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "216",
+            "end_time": "12:50",
+            "enrollment_total": 3,
+            "class_number": 3549,
+            "start_time": "11:30",
+            "subject": "CROAT"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:35-04:00",
+            "catalog_number": "273",
+            "end_date": null,
+            "title": "Croatian Culture and Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Petrovic,Ivana"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "216",
+            "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 3897,
+            "start_time": "16:00",
+            "subject": "REES"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:57-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Methods of Research",
+            "section": "LEC 001",
+            "instructors": [
+                "Betz,Emma",
+                "Kuzniar,Alice"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "216",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 3899,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:58-04:00",
+            "catalog_number": "700",
+            "end_date": null,
+            "title": "Methods of Research",
+            "section": "LEC 001",
+            "instructors": [
+                "Betz,Emma",
+                "Kuzniar,Alice"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "216",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 4010,
+            "start_time": "11:30",
+            "subject": "GER"
+        }
+    ]
+}

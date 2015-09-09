@@ -2,143 +2,661 @@
     "data": [
         {
             "building": "ML",
-            "catalog_number": "307",
-            "class_number": 4770,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "102",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 6,
-            "instructors": [
-                "Roberts-Smith,Jennifer"
-            ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 001",
+            "title": "Introduction to Performance",
+            "section": "WSP 002",
+            "instructors": [],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "259",
+            "end_time": "11:50",
+            "enrollment_total": 19,
+            "class_number": 8510,
             "start_time": "10:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Spec Studies: Theatre Prod 2",
-            "weekdays": "MTWThF"
+            "subject": "DRAMA"
         },
         {
             "building": "ML",
-            "catalog_number": "307",
-            "class_number": 4771,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "206",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 2,
+            "title": "Production Participation 1",
+            "section": "WSP 001",
             "instructors": [
-                "Secord,Sharon"
+                "Houston,Andrew"
             ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 002",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Spec Studies: Theatre Prod 2",
-            "weekdays": "M"
+            "room": "259",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 8089,
+            "start_time": "13:30",
+            "subject": "DRAMA"
         },
         {
             "building": "ML",
-            "catalog_number": "307",
-            "class_number": 4771,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "206",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 2,
+            "title": "Production Participation 1",
+            "section": "WSP 001",
             "instructors": [
-                "Secord,Sharon"
+                "Houston,Andrew"
             ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 002",
+            "weekdays": "MW",
             "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 1,
+            "class_number": 8089,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "206",
+            "end_date": null,
+            "title": "Production Participation 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 1,
+            "class_number": 8089,
             "start_time": "10:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Spec Studies: Theatre Prod 2",
-            "weekdays": "TWThF"
+            "subject": "DRAMA"
         },
         {
             "building": "ML",
-            "catalog_number": "407",
-            "class_number": 4772,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "206",
             "end_date": null,
-            "end_time": "14:50",
+            "title": "Production Participation 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8090,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "206",
+            "end_date": null,
+            "title": "Production Participation 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:20",
+            "enrollment_total": 0,
+            "class_number": 8090,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "243",
+            "end_date": null,
+            "title": "Introduction to Technical Production 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:50",
             "enrollment_total": 9,
-            "instructors": [
-                "Roberts-Smith,Jennifer"
-            ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Theatre Workshop 2",
-            "weekdays": "MTWThF"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "407",
-            "class_number": 4773,
-            "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 3,
-            "instructors": [
-                "Secord,Sharon"
-            ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 002",
-            "start_date": null,
-            "start_time": "09:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Theatre Workshop 2",
-            "weekdays": "M"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "407",
-            "class_number": 4773,
-            "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 3,
-            "instructors": [
-                "Secord,Sharon"
-            ],
-            "last_updated": "2015-05-04T16:00:54-04:00",
-            "room": "259",
-            "section": "LAB 002",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "DRAMA",
-            "term": 1155,
-            "title": "Theatre Workshop 2",
-            "weekdays": "TWThF"
-        },
-        {
-            "building": "ML",
-            "catalog_number": "710",
-            "class_number": 2690,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 14,
-            "instructors": [
-                "Roberts-Smith,Jennifer"
-            ],
-            "last_updated": "2015-05-04T16:02:43-04:00",
-            "room": "259",
-            "section": "SEM 001",
-            "start_date": null,
+            "class_number": 3430,
             "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Studies in Renaissance Drama",
-            "weekdays": "Th"
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "243",
+            "end_date": null,
+            "title": "Introduction to Technical Production 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:20",
+            "enrollment_total": 9,
+            "class_number": 3430,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8096,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8096,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8096,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8097,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:20",
+            "enrollment_total": 0,
+            "class_number": 8097,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 003",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8098,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 003",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8098,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Spec Studies: Theatre Prod 1",
+            "section": "WSP 003",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8098,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Production Participation 5",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8099,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Production Participation 5",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8099,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Production Participation 5",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8099,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Production Participation 5",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8100,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Production Participation 5",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:20",
+            "enrollment_total": 0,
+            "class_number": 8100,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8105,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8105,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8105,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8106,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:20",
+            "enrollment_total": 0,
+            "class_number": 8106,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 003",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8107,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "406",
+            "end_date": null,
+            "title": "Theatre Workshop 1",
+            "section": "WSP 003",
+            "instructors": [
+                "Malone,Toby"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8107,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Production Participation 9",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8108,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Production Participation 9",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "259",
+            "end_time": "21:50",
+            "enrollment_total": 0,
+            "class_number": 8108,
+            "start_time": "18:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Production Participation 9",
+            "section": "WSP 001",
+            "instructors": [
+                "Houston,Andrew"
+            ],
+            "weekdays": "S",
+            "start_date": null,
+            "room": "259",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 8108,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Production Participation 9",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8109,
+            "start_time": "13:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "416",
+            "end_date": null,
+            "title": "Production Participation 9",
+            "section": "WSP 002",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "259",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 8109,
+            "start_time": "12:30",
+            "subject": "DRAMA"
         }
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:43-04:00",
+            "catalog_number": "474",
+            "end_date": null,
+            "title": "Honours Studio Practicum 1",
+            "section": "STU 001",
+            "instructors": [
+                "Cluett,Cora",
+                "Taylor,Bruce"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1220",
+            "end_time": "11:50",
+            "enrollment_total": 11,
+            "class_number": 3989,
+            "start_time": "09:30",
+            "subject": "FINE"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:06-04:00",
+            "catalog_number": "402A",
+            "end_date": null,
+            "title": "Medieval Europe",
+            "section": "SEM 001",
+            "instructors": [
+                "Bednarski,Steven"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3013",
+            "end_time": "12:20",
+            "enrollment_total": 10,
+            "class_number": 8002,
+            "start_time": "10:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:41-04:00",
+            "catalog_number": "499",
+            "end_date": null,
+            "title": "Honours Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Seljak,David A"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3013",
+            "end_time": "12:50",
+            "enrollment_total": 3,
+            "class_number": 8120,
+            "start_time": "11:30",
+            "subject": "RS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:46-04:00",
+            "catalog_number": "710",
+            "end_date": null,
+            "title": "Studies in Renaissance Drama",
+            "section": "SEM 001",
+            "instructors": [
+                "Kolentsis,Alysia Michelle"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3013",
+            "end_time": "14:20",
+            "enrollment_total": 10,
+            "class_number": 4428,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        }
+    ]
+}

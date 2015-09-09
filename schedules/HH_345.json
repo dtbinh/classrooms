@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:06-04:00",
+            "catalog_number": "409A",
+            "end_date": null,
+            "title": "American",
+            "section": "SEM 001",
+            "instructors": [
+                "Hunt,Andrew E"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "345",
+            "end_time": "12:20",
+            "enrollment_total": 7,
+            "class_number": 3646,
+            "start_time": "10:30",
+            "subject": "HIST"
+        }
+    ]
+}

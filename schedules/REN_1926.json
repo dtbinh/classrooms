@@ -2,83 +2,83 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "32",
-            "class_number": 4985,
-            "end_date": "07/17",
-            "end_time": "14:50",
-            "enrollment_total": 0,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 004",
             "instructors": [
-                "Wardell,Margaret"
+                "Astley,Joanne"
             ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
+            "weekdays": "MTTh",
+            "start_date": null,
             "room": "1926",
-            "section": "LEC 001",
-            "start_date": "04/20",
-            "start_time": "13:00",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Academic Skills",
-            "weekdays": "MTWTh"
+            "end_time": "12:50",
+            "enrollment_total": 16,
+            "class_number": 8278,
+            "start_time": "11:30",
+            "subject": "EMLS"
         },
         {
             "building": "REN",
-            "catalog_number": "34",
-            "class_number": 4988,
-            "end_date": "07/17",
-            "end_time": "11:20",
-            "enrollment_total": 0,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "TUT 105",
             "instructors": [
-                "Redmond,Denise"
+                "Mun,Sarah Jeonghyun"
             ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "1926",
-            "section": "LEC 002",
-            "start_date": "04/20",
-            "start_time": "09:00",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Writing Skills",
-            "weekdays": "MF"
+            "end_time": "09:20",
+            "enrollment_total": 25,
+            "class_number": 6830,
+            "start_time": "08:00",
+            "subject": "KOREA"
         },
         {
             "building": "REN",
-            "catalog_number": "34",
-            "class_number": 4988,
-            "end_date": "07/17",
-            "end_time": "11:20",
-            "enrollment_total": 0,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "TUT 106",
             "instructors": [
-                "Redmond,Denise"
+                "Kim,Wonhee"
             ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
+            "weekdays": "Th",
+            "start_date": null,
             "room": "1926",
-            "section": "LEC 002",
-            "start_date": "04/20",
-            "start_time": "09:30",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Writing Skills",
-            "weekdays": "W"
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 6831,
+            "start_time": "16:00",
+            "subject": "KOREA"
         },
         {
             "building": "REN",
-            "catalog_number": "36",
-            "class_number": 4991,
-            "end_date": "07/17",
-            "end_time": "11:20",
-            "enrollment_total": 0,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:48-04:00",
+            "catalog_number": "415R",
+            "end_date": null,
+            "title": "Gender Relations within Educational Institutions",
+            "section": "SEM 001",
             "instructors": [
-                "Corwin,Jesse Eliot"
+                "Sanderson,Nicole"
             ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
+            "weekdays": "T",
+            "start_date": null,
             "room": "1926",
-            "section": "LEC 002",
-            "start_date": "04/20",
-            "start_time": "09:00",
-            "subject": "EFAS",
-            "term": 1155,
-            "title": "Oral Skills",
-            "weekdays": "TTh"
+            "end_time": "20:50",
+            "enrollment_total": 25,
+            "class_number": 6854,
+            "start_time": "18:00",
+            "subject": "SDS"
         }
     ]
 }

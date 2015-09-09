@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "106",
+            "end_date": null,
+            "title": "Geometrical, Physical and Visual Optics",
+            "section": "LAB 201",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "420",
+            "end_time": "12:20",
+            "enrollment_total": 46,
+            "class_number": 7062,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:19-04:00",
+            "catalog_number": "106",
+            "end_date": null,
+            "title": "Geometrical, Physical and Visual Optics",
+            "section": "LAB 202",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "420",
+            "end_time": "16:20",
+            "enrollment_total": 45,
+            "class_number": 7063,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Visual Perception 1: Perception of Light",
+            "section": "LAB 101",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "420",
+            "end_time": "12:20",
+            "enrollment_total": 45,
+            "class_number": 7047,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Visual Perception 1: Perception of Light",
+            "section": "LAB 102",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "420",
+            "end_time": "16:20",
+            "enrollment_total": 46,
+            "class_number": 7048,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LAB 101",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "420",
+            "end_time": "12:20",
+            "enrollment_total": 44,
+            "class_number": 7050,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LAB 102",
+            "instructors": [
+                "Weber,Anne P"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "420",
+            "end_time": "12:20",
+            "enrollment_total": 44,
+            "class_number": 7051,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252L",
+            "end_date": null,
+            "title": "Clinical Techniques 2 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "420",
+            "end_time": "15:20",
+            "enrollment_total": 45,
+            "class_number": 7251,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252L",
+            "end_date": null,
+            "title": "Clinical Techniques 2 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Babu,Raiju Jacob"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "420",
+            "end_time": "11:20",
+            "enrollment_total": 44,
+            "class_number": 7252,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

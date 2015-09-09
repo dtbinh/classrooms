@@ -2,183 +2,263 @@
     "data": [
         {
             "building": "EIT",
-            "catalog_number": "654",
-            "class_number": 4669,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:30-04:00",
+            "catalog_number": "604",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 37,
-            "instructors": [
-                "Dietl,Werner"
-            ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3151",
+            "title": "Stochastic Processes",
             "section": "LEC 001",
+            "instructors": [
+                "Mazumdar,Ravi"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Software Reliability Engineering",
-            "weekdays": "Th"
+            "room": "3151",
+            "end_time": "15:50",
+            "enrollment_total": 12,
+            "class_number": 4953,
+            "start_time": "14:30",
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "657",
-            "class_number": 3339,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 40,
-            "instructors": [
-                "Karray,Fakhreddine"
-            ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3151",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:30-04:00",
+            "catalog_number": "604",
+            "end_date": "10/08",
+            "title": "Stochastic Processes",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Tools of Intelligent Systems Design",
-            "weekdays": "T"
-        },
-        {
-            "building": "EIT",
-            "catalog_number": "710",
-            "class_number": 4996,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 6,
             "instructors": [
-                "Xie,Liang-Liang"
+                "Mazumdar,Ravi"
             ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
+            "weekdays": "Th",
+            "start_date": "10/08",
             "room": "3151",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Special Topics in Communications and Information Theory",
-            "weekdays": "M"
+            "end_time": "20:20",
+            "enrollment_total": 12,
+            "class_number": 4953,
+            "start_time": "17:30",
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "730",
-            "class_number": 3376,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:30-04:00",
+            "catalog_number": "606",
             "end_date": null,
+            "title": "Algorithm Design and Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Crowley,Mark"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "11:20",
+            "enrollment_total": 41,
+            "class_number": 5344,
+            "start_time": "08:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:30-04:00",
+            "catalog_number": "611",
+            "end_date": null,
+            "title": "Digital Communications",
+            "section": "LEC 001",
+            "instructors": [
+                "Yang,En-Hui H"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "class_number": 4954,
+            "start_time": "11:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:31-04:00",
+            "catalog_number": "621",
+            "end_date": null,
+            "title": "Computer Organization",
+            "section": "LEC 001",
+            "instructors": [
+                "Patel,Hiren"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 5475,
+            "start_time": "11:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:31-04:00",
+            "catalog_number": "630",
+            "end_date": null,
+            "title": "Physics and Models of Semiconductor Devices",
+            "section": "LEC 001",
+            "instructors": [
+                "Goldthorpe,Irene"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3151",
             "end_time": "17:20",
             "enrollment_total": 5,
-            "instructors": [
-                "Wasilewski,Zbigniew"
-            ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3151",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 5402,
             "start_time": "14:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Special Topics in Solid State Devices",
-            "weekdays": "M"
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "750",
-            "class_number": 4671,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:31-04:00",
+            "catalog_number": "637",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 17,
+            "title": "Design of VLSI MOS Integrated Circuits",
+            "section": "LEC 001",
             "instructors": [
-                "Basir,Otman"
+                "Sachdev,Manoj"
             ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "3151",
-            "section": "LEC 002",
+            "weekdays": "W",
             "start_date": null,
+            "room": "3151",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "class_number": 5280,
+            "start_time": "08:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:32-04:00",
+            "catalog_number": "655",
+            "end_date": null,
+            "title": "Protocols, Software and Issues in Mobile Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Naik,Kshirasagar"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "11:20",
+            "enrollment_total": 39,
+            "class_number": 5477,
+            "start_time": "08:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "662",
+            "end_date": null,
+            "title": "Power Systems Analysis and Control",
+            "section": "LEC 001",
+            "instructors": [
+                "El Shatshat,Ramadan A"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "14:20",
+            "enrollment_total": 21,
+            "class_number": 5055,
             "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Special Topics in Computer Software",
-            "weekdays": "W"
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "701",
-            "class_number": 3163,
-            "end_date": "06/16",
-            "end_time": "17:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Miao,Guo-Xing"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "3151",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "671",
+            "end_date": null,
+            "title": "Microwave and RF Engineering",
             "section": "LEC 001",
-            "start_date": "05/05",
-            "start_time": "14:30",
-            "subject": "NANO",
-            "term": 1155,
-            "title": "Fundamentals of Nanotechnology",
-            "weekdays": "T"
+            "instructors": [
+                "Boumaiza,Slim"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "20:20",
+            "enrollment_total": 9,
+            "class_number": 5259,
+            "start_time": "17:30",
+            "subject": "ECE"
         },
         {
             "building": "EIT",
-            "catalog_number": "701",
-            "class_number": 3377,
-            "end_date": "06/15",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:33-04:00",
+            "catalog_number": "675",
+            "end_date": null,
+            "title": "Radiation & Propagation of Electromagnetic Fields",
+            "section": "LEC 001",
+            "instructors": [
+                "Safavi-Naeini,Safieddin"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3151",
             "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 5047,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "730",
+            "end_date": null,
+            "title": "Special Topics in Solid State Devices",
+            "section": "LEC 002",
+            "instructors": [
+                "Cui,Bo"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "17:20",
+            "enrollment_total": 8,
+            "class_number": 5482,
+            "start_time": "14:30",
+            "subject": "ECE"
+        },
+        {
+            "building": "EIT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:34-04:00",
+            "catalog_number": "740",
+            "end_date": null,
+            "title": "Special Topics in Electronic Circuits",
+            "section": "LEC 001",
+            "instructors": [
+                "Long,John"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3151",
+            "end_time": "14:20",
             "enrollment_total": 15,
-            "instructors": [
-                "Wasilewski,Zbigniew"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "3151",
-            "section": "LEC 002",
-            "start_date": "05/04",
-            "start_time": "14:30",
-            "subject": "NANO",
-            "term": 1155,
-            "title": "Fundamentals of Nanotechnology",
-            "weekdays": "M"
-        },
-        {
-            "building": "EIT",
-            "catalog_number": "702",
-            "class_number": 3374,
-            "end_date": "07/23",
-            "end_time": "17:20",
-            "enrollment_total": 35,
-            "instructors": [
-                "Miao,Guo-Xing"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "3151",
-            "section": "LEC 001",
-            "start_date": "06/18",
-            "start_time": "14:30",
-            "subject": "NANO",
-            "term": 1155,
-            "title": "Nanotechology Tools",
-            "weekdays": "Th"
-        },
-        {
-            "building": "EIT",
-            "catalog_number": "702",
-            "class_number": 3378,
-            "end_date": "07/27",
-            "end_time": "17:20",
-            "enrollment_total": 13,
-            "instructors": [
-                "Wasilewski,Zbigniew"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "3151",
-            "section": "LEC 002",
-            "start_date": "06/22",
-            "start_time": "14:30",
-            "subject": "NANO",
-            "term": 1155,
-            "title": "Nanotechology Tools",
-            "weekdays": "M"
+            "class_number": 8502,
+            "start_time": "11:30",
+            "subject": "ECE"
         }
     ]
 }

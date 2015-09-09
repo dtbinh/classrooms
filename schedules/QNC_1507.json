@@ -2,123 +2,281 @@
     "data": [
         {
             "building": "QNC",
-            "catalog_number": "421",
-            "class_number": 4719,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:03-04:00",
+            "catalog_number": "123L",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 25,
+            "title": "Field Methods in Hydrology",
+            "section": "LAB 001",
             "instructors": [
-                "Matheson,Brenton James"
+                "Conant Jr,Brewster"
             ],
-            "last_updated": "2015-05-04T16:00:47-04:00",
-            "room": "1507",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "COMM",
-            "term": 1155,
-            "title": "Financial Statement Analysis",
-            "weekdays": "MTTh"
+            "room": "1507",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 6932,
+            "start_time": "10:30",
+            "subject": "EARTH"
         },
         {
             "building": "QNC",
-            "catalog_number": "226",
-            "class_number": 3007,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:19-04:00",
+            "catalog_number": "402",
             "end_date": null,
+            "title": "Macroeconomic Theory 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Gonzalez,Francisco"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1507",
             "end_time": "17:20",
             "enrollment_total": 28,
-            "instructors": [
-                "Miao,Guo-Xing"
-            ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
-            "room": "1507",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "16:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Characterization of Materials",
-            "weekdays": "F"
+            "class_number": 4247,
+            "start_time": "16:00",
+            "subject": "ECON"
         },
         {
             "building": "QNC",
-            "catalog_number": "226",
-            "class_number": 3008,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:26-04:00",
+            "catalog_number": "108A",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 28,
+            "title": "The Superhero",
+            "section": "LEC 002",
             "instructors": [
-                "Miao,Guo-Xing"
+                "Gibbons,Sarah"
             ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
-            "room": "1507",
-            "section": "TUT 102",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Characterization of Materials",
-            "weekdays": "F"
-        },
-        {
-            "building": "QNC",
-            "catalog_number": "226",
-            "class_number": 3009,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 30,
-            "instructors": [
-                "Miao,Guo-Xing"
-            ],
-            "last_updated": "2015-05-04T16:01:49-04:00",
             "room": "1507",
-            "section": "TUT 103",
-            "start_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 40,
+            "class_number": 8177,
             "start_time": "14:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Characterization of Materials",
-            "weekdays": "F"
+            "subject": "ENGL"
         },
         {
             "building": "QNC",
-            "catalog_number": "232",
-            "class_number": 3014,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:41-04:00",
+            "catalog_number": "117",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 29,
-            "instructors": [
-                "Cory,David D.G"
-            ],
-            "last_updated": "2015-05-04T16:01:50-04:00",
-            "room": "1507",
-            "section": "TUT 101",
+            "title": "Calculus 1 for Engineering",
+            "section": "TUT 111",
+            "instructors": [],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "15:30",
-            "subject": "NE",
-            "term": 1155,
-            "title": "Quantum Mechanics",
-            "weekdays": "F"
+            "room": "1507",
+            "end_time": "15:20",
+            "enrollment_total": 39,
+            "class_number": 6421,
+            "start_time": "13:30",
+            "subject": "MATH"
         },
         {
             "building": "QNC",
-            "catalog_number": "632",
-            "class_number": 3040,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "112",
             "end_date": null,
+            "title": "Linear Algebra with Numerical Applications",
+            "section": "TUT 102",
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1507",
             "end_time": "14:20",
-            "enrollment_total": 22,
+            "enrollment_total": 41,
+            "class_number": 5442,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:11-04:00",
+            "catalog_number": "121",
+            "end_date": null,
+            "title": "Chemical Principles",
+            "section": "TUT 102",
             "instructors": [
-                "Sivoththaman,Siva"
+                "Deakin,Laura"
             ],
-            "last_updated": "2015-05-04T16:02:41-04:00",
-            "room": "1507",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Photovoltaic Energy Conversion",
-            "weekdays": "W"
+            "room": "1507",
+            "end_time": "14:20",
+            "enrollment_total": 41,
+            "class_number": 5152,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "232",
+            "end_date": null,
+            "title": "Quantum Mechanics",
+            "section": "TUT 101",
+            "instructors": [
+                "Radovanovic,Pavle"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "10:20",
+            "enrollment_total": 34,
+            "class_number": 8375,
+            "start_time": "09:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "232",
+            "end_date": null,
+            "title": "Quantum Mechanics",
+            "section": "TUT 102",
+            "instructors": [
+                "Radovanovic,Pavle"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "09:20",
+            "enrollment_total": 35,
+            "class_number": 8376,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "232",
+            "end_date": null,
+            "title": "Quantum Mechanics",
+            "section": "TUT 103",
+            "instructors": [
+                "Radovanovic,Pavle"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "11:20",
+            "enrollment_total": 36,
+            "class_number": 8377,
+            "start_time": "10:30",
+            "subject": "NE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:08-04:00",
+            "catalog_number": "451",
+            "end_date": null,
+            "title": "Measure and Integration",
+            "section": "LEC 001",
+            "instructors": [
+                "Spronk,Nicolaas"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "13:20",
+            "enrollment_total": 20,
+            "class_number": 6502,
+            "start_time": "12:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "393",
+            "end_date": null,
+            "title": "Research in Developmental Psychology",
+            "section": "SEM 001",
+            "instructors": [
+                "Friedman,Ori"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 3435,
+            "start_time": "16:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "395",
+            "end_date": null,
+            "title": "Research in Social Psychology",
+            "section": "SEM 002",
+            "instructors": [
+                "Wood,Joanne"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "12:20",
+            "enrollment_total": 18,
+            "class_number": 3560,
+            "start_time": "09:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:52-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Introduction to Financial and Managerial Accounting",
+            "section": "SEM 001",
+            "instructors": [
+                "Foerster,Allan W"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "21:20",
+            "enrollment_total": 30,
+            "class_number": 8587,
+            "start_time": "18:30",
+            "subject": "BE"
+        },
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:46-04:00",
+            "catalog_number": "651",
+            "end_date": null,
+            "title": "Measure and Integration",
+            "section": "LEC 001",
+            "instructors": [
+                "Spronk,Nicolaas"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "13:20",
+            "enrollment_total": 4,
+            "class_number": 6503,
+            "start_time": "12:30",
+            "subject": "PMATH"
         }
     ]
 }

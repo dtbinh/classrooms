@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:30-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Senior Research Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Neufeldt,Reina"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1301",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 4683,
+            "start_time": "14:30",
+            "subject": "PACS"
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "136",
+            "end_date": null,
+            "title": "Elementary Algorithm Design and Data Abstraction",
+            "section": "LEC 002",
+            "instructors": [
+                "Cormack,Gordon V"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "401",
+            "end_time": "12:50",
+            "enrollment_total": 85,
+            "class_number": 6505,
+            "start_time": "11:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "215",
+            "end_date": null,
+            "title": "Systemic Disease",
+            "section": "LEC 001",
+            "instructors": [
+                "Hileeto,Denise"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "401",
+            "end_time": "17:20",
+            "enrollment_total": 88,
+            "class_number": 7305,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Smith,Marilyn Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "401",
+            "end_time": "15:20",
+            "enrollment_total": 88,
+            "class_number": 7049,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Ophthalmic Optics 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Hutchings,Natalie",
+                "Smith,Marilyn Anne"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "401",
+            "end_time": "15:20",
+            "enrollment_total": 88,
+            "class_number": 7049,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Introductory Clinical Pharmacology",
+            "section": "LEC 001",
+            "instructors": [
+                "Johnson,Ron"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "401",
+            "end_time": "10:20",
+            "enrollment_total": 89,
+            "class_number": 7052,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Introductory Clinical Pharmacology",
+            "section": "LEC 001",
+            "instructors": {
+                "1": "Hanna,Brad",
+                "0": "Kirby,Gordon",
+                "4": "Johnson,Ron"
+            },
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "401",
+            "end_time": "15:20",
+            "enrollment_total": 89,
+            "class_number": 7052,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "243",
+            "end_date": null,
+            "title": "Neurophysiology of Vision",
+            "section": "LEC 001",
+            "instructors": [
+                "Simpson,Trefford",
+                "Choh,Vivian"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "401",
+            "end_time": "10:20",
+            "enrollment_total": 88,
+            "class_number": 7240,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "245",
+            "end_date": null,
+            "title": "Diseases of the Eye 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Dalton,Kristine Nicole"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "401",
+            "end_time": "09:20",
+            "enrollment_total": 88,
+            "class_number": 7306,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "245L",
+            "end_date": null,
+            "title": "Diseases of the Eye 1 Laboratory",
+            "section": "TUT 101",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "401",
+            "end_time": "16:20",
+            "enrollment_total": 89,
+            "class_number": 7309,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252",
+            "end_date": null,
+            "title": "Clinical Techniques 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Bobier,William R"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "401",
+            "end_time": "17:20",
+            "enrollment_total": 89,
+            "class_number": 7053,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252",
+            "end_date": null,
+            "title": "Clinical Techniques 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Bobier,William R"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "401",
+            "end_time": "12:20",
+            "enrollment_total": 89,
+            "class_number": 7053,
+            "start_time": "11:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "342A",
+            "end_date": null,
+            "title": "Case Analysis and Optometric Therapies 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Hrynchak,Patricia K"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "401",
+            "end_time": "09:20",
+            "enrollment_total": 93,
+            "class_number": 7076,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "342A",
+            "end_date": null,
+            "title": "Case Analysis and Optometric Therapies 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Hrynchak,Patricia K"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "401",
+            "end_time": "11:20",
+            "enrollment_total": 93,
+            "class_number": 7077,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Gerontology and Low Vision",
+            "section": "LEC 001",
+            "instructors": [
+                "Leat,Susan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "401",
+            "end_time": "12:20",
+            "enrollment_total": 93,
+            "class_number": 7078,
+            "start_time": "11:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:31-04:00",
+            "catalog_number": "316",
+            "end_date": null,
+            "title": "Financing Recreation and Sport Services",
+            "section": "LEC 001",
+            "instructors": [
+                "Glover,Troy D"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "401",
+            "end_time": "09:50",
+            "enrollment_total": 75,
+            "class_number": 8164,
+            "start_time": "08:30",
+            "subject": "REC"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:31-04:00",
+            "catalog_number": "670",
+            "end_date": null,
+            "title": "Vision Science Part 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Choh,Vivian",
+                "McCulloch,Daphne Lynne"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "401",
+            "end_time": "12:20",
+            "enrollment_total": 7,
+            "class_number": 7910,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

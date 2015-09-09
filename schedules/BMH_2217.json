@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:32-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Aging and Leisure",
+            "section": "SEM 104",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2217",
+            "end_time": "14:20",
+            "enrollment_total": 10,
+            "class_number": 3314,
+            "start_time": "13:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:32-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Aging and Leisure",
+            "section": "SEM 106",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2217",
+            "end_time": "15:20",
+            "enrollment_total": 10,
+            "class_number": 3333,
+            "start_time": "14:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:32-04:00",
+            "catalog_number": "361",
+            "end_date": null,
+            "title": "Aging and Leisure",
+            "section": "SEM 108",
+            "instructors": [
+                "Dupuis,Sherry"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2217",
+            "end_time": "16:20",
+            "enrollment_total": 8,
+            "class_number": 3341,
+            "start_time": "15:30",
+            "subject": "REC"
+        }
+    ]
+}

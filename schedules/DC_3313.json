@@ -2,63 +2,163 @@
     "data": [
         {
             "building": "DC",
-            "catalog_number": "791",
-            "class_number": 4775,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
+            "catalog_number": "842",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 13,
+            "title": "Advanced Topics in Language Design and Implementation",
+            "section": "SEM 001",
             "instructors": [
-                "Kaplan,Craig Steven"
+                "Richards,Gregor"
             ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "3313",
-            "section": "LEC 001",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "CS",
-            "term": 1155,
-            "title": "Non-Photorealistic Rendering",
-            "weekdays": "MW"
+            "room": "3313",
+            "end_time": "10:20",
+            "enrollment_total": 9,
+            "class_number": 8538,
+            "start_time": "09:00",
+            "subject": "CS"
         },
         {
             "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
+            "catalog_number": "846",
+            "end_date": null,
+            "title": "Advanced Topics in Software Engineering",
+            "section": "SEM 001",
+            "instructors": [
+                "Alencar,Paulo S"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "15:50",
+            "enrollment_total": 20,
+            "class_number": 8540,
+            "start_time": "14:30",
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
             "catalog_number": "848",
-            "class_number": 3937,
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 13,
-            "instructors": [
-                "Salem,Kenneth"
-            ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "3313",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "CS",
-            "term": 1155,
             "title": "Advanced Topics in Data Bases",
-            "weekdays": "Th"
+            "section": "SEM 001",
+            "instructors": [
+                "Daudjee,Khuzaima"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "15:50",
+            "enrollment_total": 20,
+            "class_number": 8443,
+            "start_time": "13:00",
+            "subject": "CS"
         },
         {
             "building": "DC",
-            "catalog_number": "889",
-            "class_number": 3808,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
+            "catalog_number": "848",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 18,
+            "title": "Advanced Topics in Data Bases",
+            "section": "SEM 002",
             "instructors": [
-                "Vogel,Daniel"
+                "Toman,David"
             ],
-            "last_updated": "2015-05-04T16:02:39-04:00",
-            "room": "3313",
-            "section": "SEM 001",
+            "weekdays": "W",
             "start_date": null,
+            "room": "3313",
+            "end_time": "15:50",
+            "enrollment_total": 6,
+            "class_number": 8444,
+            "start_time": "14:00",
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
+            "catalog_number": "856",
+            "end_date": null,
+            "title": "Advanced Topics  in Distributed Computing",
+            "section": "SEM 001",
+            "instructors": [
+                "Boutaba,Raouf"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "15:50",
+            "enrollment_total": 12,
+            "class_number": 6680,
             "start_time": "13:00",
-            "subject": "CS",
-            "term": 1155,
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:24-04:00",
+            "catalog_number": "858",
+            "end_date": null,
+            "title": "Advanced Topics in Cryptography, Security and Privacy",
+            "section": "SEM 001",
+            "instructors": [
+                "Goldberg,Ian"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "11:50",
+            "enrollment_total": 14,
+            "class_number": 8445,
+            "start_time": "10:00",
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:25-04:00",
+            "catalog_number": "889",
+            "end_date": null,
             "title": "Advanced Topics in Human-Computer Interaction",
-            "weekdays": "T"
+            "section": "SEM 001",
+            "instructors": [
+                "Law,Edith Lok Man"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "12:20",
+            "enrollment_total": 20,
+            "class_number": 6701,
+            "start_time": "10:00",
+            "subject": "CS"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:25-04:00",
+            "catalog_number": "889",
+            "end_date": null,
+            "title": "Advanced Topics in Human-Computer Interaction",
+            "section": "SEM 002",
+            "instructors": [
+                "Lank,Edward"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3313",
+            "end_time": "12:50",
+            "enrollment_total": 10,
+            "class_number": 8446,
+            "start_time": "10:30",
+            "subject": "CS"
         }
     ]
 }

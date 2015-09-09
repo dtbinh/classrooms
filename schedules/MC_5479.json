@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:49-04:00",
+            "catalog_number": "732",
+            "end_date": null,
+            "title": "Asymptotic Analysis and Perturbation Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Lamb,Kevin G"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "5479",
+            "end_time": "12:50",
+            "enrollment_total": 9,
+            "class_number": 6212,
+            "start_time": "11:30",
+            "subject": "AMATH"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:49-04:00",
+            "catalog_number": "900",
+            "end_date": null,
+            "title": "Topics in Applied Mathematics",
+            "section": "LEC 002",
+            "instructors": [
+                "Krivodonova,Lilia"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "5479",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 6717,
+            "start_time": "13:00",
+            "subject": "AMATH"
+        }
+    ]
+}

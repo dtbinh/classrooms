@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:40-04:00",
+            "catalog_number": "204",
+            "end_date": null,
+            "title": "Topics in Studio Practice",
+            "section": "STU 001",
+            "instructors": [
+                "Thompson,Jessica"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1222",
+            "end_time": "11:50",
+            "enrollment_total": 16,
+            "class_number": 4512,
+            "start_time": "09:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "223",
+            "end_date": null,
+            "title": "Methods and Materials of Sculpture",
+            "section": "STU 001",
+            "instructors": [
+                "Andison,Lois"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1222",
+            "end_time": "15:20",
+            "enrollment_total": 13,
+            "class_number": 4300,
+            "start_time": "13:00",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "300",
+            "end_date": null,
+            "title": "Studio Practice",
+            "section": "STU 001",
+            "instructors": [
+                "Thompson,Jessica"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1222",
+            "end_time": "11:50",
+            "enrollment_total": 15,
+            "class_number": 3988,
+            "start_time": "09:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "300",
+            "end_date": null,
+            "title": "Studio Practice",
+            "section": "STU 002",
+            "instructors": [
+                "Blatherwick,David"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1222",
+            "end_time": "15:20",
+            "enrollment_total": 14,
+            "class_number": 8417,
+            "start_time": "13:00",
+            "subject": "FINE"
+        }
+    ]
+}

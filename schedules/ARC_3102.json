@@ -2,83 +2,43 @@
     "data": [
         {
             "building": "ARC",
-            "catalog_number": "293",
-            "class_number": 2922,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "192",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 74,
-            "instructors": [
-                "Sheppard,Lola"
-            ],
-            "last_updated": "2015-05-04T16:00:23-04:00",
-            "room": "3102",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
             "title": "Design Studio",
-            "weekdays": "M"
+            "section": "STU 001",
+            "instructors": [
+                "Andrighetti,Richard E"
+            ],
+            "weekdays": "MTh",
+            "start_date": null,
+            "room": "3102",
+            "end_time": "12:50",
+            "enrollment_total": 77,
+            "class_number": 4968,
+            "start_time": "10:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "293",
-            "class_number": 2922,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "192",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 74,
-            "instructors": [
-                "Sheppard,Lola"
-            ],
-            "last_updated": "2015-05-04T16:00:23-04:00",
-            "room": "3102",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
             "title": "Design Studio",
-            "weekdays": "M"
-        },
-        {
-            "building": "ARC",
-            "catalog_number": "293",
-            "class_number": 2922,
-            "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 74,
+            "section": "STU 001",
             "instructors": [
-                "Sheppard,Lola"
+                "Andrighetti,Richard E"
             ],
-            "last_updated": "2015-05-04T16:00:23-04:00",
-            "room": "3102",
-            "section": "LEC 001",
+            "weekdays": "MTh",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio",
-            "weekdays": "Th"
-        },
-        {
-            "building": "ARC",
-            "catalog_number": "293",
-            "class_number": 2922,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 74,
-            "instructors": [
-                "Sheppard,Lola"
-            ],
-            "last_updated": "2015-05-04T16:00:23-04:00",
             "room": "3102",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio",
-            "weekdays": "Th"
+            "end_time": "17:50",
+            "enrollment_total": 77,
+            "class_number": 4968,
+            "start_time": "14:00",
+            "subject": "ARCH"
         }
     ]
 }

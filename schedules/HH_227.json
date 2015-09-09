@@ -2,163 +2,419 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "109",
-            "class_number": 2196,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "220",
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 24,
+            "title": "Performance Studies",
+            "section": "WSP 001",
             "instructors": [
-                "Deman,Jonathon Andrew"
+                "Young,Vershawn"
             ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "227",
-            "section": "LEC 001",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "18:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Introduction to Academic Writing",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "309B",
-            "class_number": 2521,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Tierney-Hynes,Rebecca"
-            ],
-            "last_updated": "2015-05-04T16:01:12-04:00",
             "room": "227",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "16:00",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Medieval to Pre-Modern Rhetoric",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "485",
-            "class_number": 4781,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Savarese,John"
-            ],
-            "last_updated": "2015-05-04T16:01:13-04:00",
-            "room": "227",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Topics in Literatures Romantic to Modern",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "231",
-            "class_number": 2571,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 20,
-            "instructors": [
-                "Whiteside,Heather"
-            ],
-            "last_updated": "2015-05-04T16:02:04-04:00",
-            "room": "227",
-            "section": "DIS 102",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Government and Business",
-            "weekdays": "F"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "231",
-            "class_number": 2575,
-            "end_date": null,
-            "end_time": "09:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Whiteside,Heather"
-            ],
-            "last_updated": "2015-05-04T16:02:04-04:00",
-            "room": "227",
-            "section": "DIS 106",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Government and Business",
-            "weekdays": "Th"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "490",
-            "class_number": 2364,
-            "end_date": "06/15",
-            "end_time": "14:20",
-            "enrollment_total": 16,
-            "instructors": [
-                "Mufti,Mariam"
-            ],
-            "last_updated": "2015-05-04T16:02:05-04:00",
-            "room": "227",
-            "section": "LEC 001",
-            "start_date": "05/04",
+            "end_time": "12:50",
+            "enrollment_total": 3,
+            "class_number": 8082,
             "start_time": "11:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Special Subjects",
-            "weekdays": "MW"
+            "subject": "DRAMA"
         },
         {
             "building": "HH",
-            "catalog_number": "490",
-            "class_number": 4889,
-            "end_date": "06/24",
-            "end_time": "16:20",
-            "enrollment_total": 10,
-            "instructors": [
-                "Momani,Bessma"
-            ],
-            "last_updated": "2015-05-04T16:02:05-04:00",
-            "room": "227",
-            "section": "LEC 002",
-            "start_date": "05/13",
-            "start_time": "14:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Special Subjects",
-            "weekdays": "W"
-        },
-        {
-            "building": "HH",
-            "catalog_number": "788",
-            "class_number": 2529,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 14,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 010",
             "instructors": [
-                "McMurry,Andrew C."
+                "Wyse,Bruce"
             ],
-            "last_updated": "2015-05-04T16:02:43-04:00",
-            "room": "227",
-            "section": "SEM 001",
+            "weekdays": "MW",
             "start_date": null,
+            "room": "227",
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "class_number": 4484,
+            "start_time": "16:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:38-04:00",
+            "catalog_number": "464",
+            "end_date": null,
+            "title": "Economics and Sustainability",
+            "section": "SEM 001",
+            "instructors": [
+                "Clapp,Jennifer"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 11,
+            "class_number": 7952,
+            "start_time": "11:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:46-04:00",
+            "catalog_number": "343",
+            "end_date": null,
+            "title": "18th-Century French Literature",
+            "section": "LEC 001",
+            "instructors": [
+                "Dubeau,Catherine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "227",
+            "end_time": "15:50",
+            "enrollment_total": 16,
+            "class_number": 7786,
+            "start_time": "14:30",
+            "subject": "FR"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:10-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Government and Business",
+            "section": "DIS 102",
+            "instructors": [
+                "Needham,William Brent"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "227",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 8034,
+            "start_time": "10:30",
+            "subject": "PSCI"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:30-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Contemporary Health Issues for Women",
+            "section": "LEC 001",
+            "instructors": [
+                "Stettner,Shannon L"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "227",
+            "end_time": "21:20",
+            "enrollment_total": 9,
+            "class_number": 7894,
+            "start_time": "18:30",
+            "subject": "REC"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:11-04:00",
+            "catalog_number": "201A",
+            "end_date": null,
+            "title": "Intermediate Spanish 1",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 11,
+            "class_number": 3512,
+            "start_time": "13:30",
+            "subject": "SPAN"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:11-04:00",
+            "catalog_number": "201A",
+            "end_date": null,
+            "title": "Intermediate Spanish 1",
+            "section": "TUT 102",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "227",
+            "end_time": "17:20",
+            "enrollment_total": 11,
+            "class_number": 3513,
+            "start_time": "16:30",
+            "subject": "SPAN"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:14-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Interpersonal Communication",
+            "section": "LEC 006",
+            "instructors": [
+                "Lazar,Karen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "227",
+            "end_time": "17:20",
+            "enrollment_total": 28,
+            "class_number": 4548,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Performance Studies",
+            "section": "WSP 001",
+            "instructors": [
+                "Young,Vershawn"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "227",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 8081,
+            "start_time": "11:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "223",
+            "end_date": null,
+            "title": "Public Speaking",
+            "section": "LEC 013",
+            "instructors": [
+                "Doyle,Jennifer"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "227",
+            "end_time": "10:20",
+            "enrollment_total": 27,
+            "class_number": 4559,
             "start_time": "08:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Topics in Rhetorical Theory and Criticism",
-            "weekdays": "T"
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:15-04:00",
+            "catalog_number": "223",
+            "end_date": null,
+            "title": "Public Speaking",
+            "section": "LEC 016",
+            "instructors": [
+                "Stacey,Jeffery Edward"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "227",
+            "end_time": "10:20",
+            "enrollment_total": 22,
+            "class_number": 8083,
+            "start_time": "08:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:16-04:00",
+            "catalog_number": "324",
+            "end_date": null,
+            "title": "Small Group Communication",
+            "section": "LEC 001",
+            "instructors": [
+                "Hartling,Shannon Lee"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "227",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 3431,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:17-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Gender, Communication and Culture",
+            "section": "LEC 001",
+            "instructors": [
+                "Nguyen,Kim"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 3976,
+            "start_time": "11:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:40-04:00",
+            "catalog_number": "302",
+            "end_date": null,
+            "title": "Thinking Through Gender: Feminist Perspectives",
+            "section": "LEC 001",
+            "instructors": [
+                "Stettner,Shannon L"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "227",
+            "end_time": "21:20",
+            "enrollment_total": 17,
+            "class_number": 3875,
+            "start_time": "18:30",
+            "subject": "WS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:40-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Contemporary Health Issues for Women",
+            "section": "LEC 001",
+            "instructors": [
+                "Stettner,Shannon L"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "227",
+            "end_time": "21:20",
+            "enrollment_total": 11,
+            "class_number": 7893,
+            "start_time": "18:30",
+            "subject": "WS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:52-04:00",
+            "catalog_number": "603",
+            "end_date": null,
+            "title": "Climate Change Mitigation",
+            "section": "SEM 001",
+            "instructors": [
+                "Parker,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "227",
+            "end_time": "11:20",
+            "enrollment_total": 16,
+            "class_number": 5826,
+            "start_time": "08:30",
+            "subject": "GEMCC"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:54-04:00",
+            "catalog_number": "619",
+            "end_date": null,
+            "title": "Regional Planning Economic and Investment Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Knafelc,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 5785,
+            "start_time": "11:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:56-04:00",
+            "catalog_number": "679",
+            "end_date": null,
+            "title": "Climate Change Mitigation",
+            "section": "SEM 001",
+            "instructors": [
+                "Parker,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "227",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 5830,
+            "start_time": "08:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:22-04:00",
+            "catalog_number": "619",
+            "end_date": null,
+            "title": "Regional Planning Economic and Investment Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Knafelc,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 5784,
+            "start_time": "11:30",
+            "subject": "LED"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:43-04:00",
+            "catalog_number": "619",
+            "end_date": null,
+            "title": "Regional Planning Economic and Investment Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Knafelc,Paul"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "227",
+            "end_time": "14:20",
+            "enrollment_total": 4,
+            "class_number": 5783,
+            "start_time": "11:30",
+            "subject": "PLAN"
         }
     ]
 }

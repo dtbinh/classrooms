@@ -2,84 +2,143 @@
     "data": [
         {
             "building": "C2",
-            "catalog_number": "224L",
-            "class_number": 4096,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
             "end_date": null,
-            "end_time": "19:20",
-            "enrollment_total": 19,
-            "instructors": [
-                "Flatt,Heide"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "273",
+            "title": "Analytical Chemistry Lab 1",
             "section": "LAB 001",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Analytical Chemistry Laboratory 2",
-            "weekdays": "M"
+            "room": "273",
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "class_number": 7198,
+            "start_time": "14:30",
+            "subject": "CHEM"
         },
         {
             "building": "C2",
-            "catalog_number": "224L",
-            "class_number": 4097,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
             "end_date": null,
-            "end_time": "19:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Flatt,Heide"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "273",
+            "title": "Analytical Chemistry Lab 1",
             "section": "LAB 002",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Analytical Chemistry Laboratory 2",
-            "weekdays": "T"
+            "room": "273",
+            "end_time": "12:20",
+            "enrollment_total": 24,
+            "class_number": 7199,
+            "start_time": "09:30",
+            "subject": "CHEM"
         },
         {
             "building": "C2",
-            "catalog_number": "224L",
-            "class_number": 4275,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
             "end_date": null,
-            "end_time": "19:20",
-            "enrollment_total": 24,
-            "instructors": [
-                "Flatt,Heide"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "273",
+            "title": "Analytical Chemistry Lab 1",
             "section": "LAB 003",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Analytical Chemistry Laboratory 2",
-            "weekdays": "W"
+            "room": "273",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 7200,
+            "start_time": "14:30",
+            "subject": "CHEM"
         },
         {
             "building": "C2",
-            "catalog_number": "224L",
-            "class_number": 4297,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
             "end_date": null,
-            "end_time": "19:20",
-            "enrollment_total": 24,
-            "instructors": [
-                "Stathopulos,Suzanne Coreen",
-                "Flatt,Heide"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "273",
+            "title": "Analytical Chemistry Lab 1",
             "section": "LAB 004",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Analytical Chemistry Laboratory 2",
-            "weekdays": "Th"
+            "room": "273",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 7201,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
+            "end_date": null,
+            "title": "Analytical Chemistry Lab 1",
+            "section": "LAB 005",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "273",
+            "end_time": "12:20",
+            "enrollment_total": 23,
+            "class_number": 7202,
+            "start_time": "09:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
+            "end_date": null,
+            "title": "Analytical Chemistry Lab 1",
+            "section": "LAB 006",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "273",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 7461,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "C2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "220L",
+            "end_date": null,
+            "title": "Analytical Chemistry Lab 1",
+            "section": "LAB 007",
+            "instructors": [
+                "Gilbert,Dara"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "273",
+            "end_time": "21:50",
+            "enrollment_total": 19,
+            "class_number": 8590,
+            "start_time": "19:00",
+            "subject": "CHEM"
         }
     ]
 }

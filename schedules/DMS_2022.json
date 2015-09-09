@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LEC 001",
+            "instructors": [
+                "Tingley,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "10:20",
+            "enrollment_total": 47,
+            "class_number": 4310,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LEC 002",
+            "instructors": [
+                "Tingley,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "14:20",
+            "enrollment_total": 41,
+            "class_number": 4311,
+            "start_time": "13:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LAB 101",
+            "instructors": [
+                "Tingley,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "11:50",
+            "enrollment_total": 47,
+            "class_number": 4312,
+            "start_time": "10:30",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "LAB 102",
+            "instructors": [
+                "Tingley,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "15:50",
+            "enrollment_total": 41,
+            "class_number": 4313,
+            "start_time": "14:30",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "203",
+            "end_date": null,
+            "title": "Introduction to Digital Culture",
+            "section": "LEC 001",
+            "instructors": [
+                "Voorhees,Gerald"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "15:50",
+            "enrollment_total": 55,
+            "class_number": 4136,
+            "start_time": "13:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "203",
+            "end_date": null,
+            "title": "Introduction to Digital Culture",
+            "section": "LEC 002",
+            "instructors": [
+                "Voorhees,Gerald"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "11:50",
+            "enrollment_total": 53,
+            "class_number": 4137,
+            "start_time": "09:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LEC 001",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "10:50",
+            "enrollment_total": 46,
+            "class_number": 4325,
+            "start_time": "10:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "304",
+            "end_date": null,
+            "title": "Marketing in the Digital World",
+            "section": "LEC 002",
+            "instructors": [
+                "Mesta,Olivia"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2022",
+            "end_time": "11:50",
+            "enrollment_total": 38,
+            "class_number": 4326,
+            "start_time": "11:00",
+            "subject": "GBDA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:35-04:00",
+            "catalog_number": "480",
+            "end_date": null,
+            "title": "Process Analysis and Design",
+            "section": "TUT 101",
+            "instructors": [
+                "Grove,Jason Andrew"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1507",
+            "end_time": "11:20",
+            "enrollment_total": 66,
+            "class_number": 5158,
+            "start_time": "08:30",
+            "subject": "CHE"
+        }
+    ]
+}

@@ -2,263 +2,317 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4041,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "34",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 23,
+            "title": "Writing Skills",
+            "section": "LEC 002",
             "instructors": [
-                "Wang,Renee Rui"
+                "Karanassiou,Jane"
             ],
-            "last_updated": "2015-05-04T16:00:42-04:00",
-            "room": "2104",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "CHINA",
-            "term": 1155,
-            "title": "First-Year Chinese 1",
-            "weekdays": "MTh"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "120R",
-            "class_number": 4027,
-            "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 17,
-            "instructors": [
-                "Wang,Renee Rui"
-            ],
-            "last_updated": "2015-05-04T16:00:43-04:00",
             "room": "2104",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "CHINA",
-            "term": 1155,
-            "title": "Advanced First-Year Chinese",
-            "weekdays": "MTh"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "201R",
-            "class_number": 4038,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 11,
-            "instructors": [
-                "Yang,Jie"
-            ],
-            "last_updated": "2015-05-04T16:00:43-04:00",
-            "room": "2104",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "CHINA",
-            "term": 1155,
-            "title": "Second-Year Chinese 1",
-            "weekdays": "TF"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "140R",
-            "class_number": 2294,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 14,
-            "instructors": [
-                "Vardon,John F"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "2104",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "The Use of English 1",
-            "weekdays": "MTh"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4021,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 23,
-            "instructors": [
-                "Burns,Eri"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2104",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "T"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4022,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 24,
-            "instructors": [
-                "Burns,Eri"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2104",
-            "section": "TUT 102",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "T"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4039,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 23,
-            "instructors": [
-                "Burns,Eri"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2104",
-            "section": "TUT 103",
-            "start_date": null,
-            "start_time": "16:00",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "T"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "102R",
-            "class_number": 4030,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 22,
-            "instructors": [
-                "Shimoda,Fumie"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2104",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 2",
-            "weekdays": "F"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "102R",
-            "class_number": 4050,
-            "end_date": null,
-            "end_time": "15:50",
+            "end_time": "13:20",
             "enrollment_total": 15,
+            "class_number": 6870,
+            "start_time": "11:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "34",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 002",
             "instructors": [
-                "Shimoda,Fumie"
+                "Karanassiou,Jane"
             ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2104",
-            "section": "TUT 102",
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 2",
-            "weekdays": "F"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4069,
-            "end_date": "06/12",
-            "end_time": "14:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Kim,Soojin"
-            ],
-            "last_updated": "2015-05-04T16:01:36-04:00",
             "room": "2104",
-            "section": "TUT 101",
-            "start_date": "05/04",
-            "start_time": "13:00",
-            "subject": "KOREA",
-            "term": 1155,
-            "title": "First-Year Korean 1",
-            "weekdays": "WTh"
+            "end_time": "12:50",
+            "enrollment_total": 15,
+            "class_number": 6870,
+            "start_time": "11:30",
+            "subject": "BASE"
         },
         {
             "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "15:20",
+            "enrollment_total": 13,
+            "class_number": 6876,
+            "start_time": "13:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:44-04:00",
             "catalog_number": "101R",
-            "class_number": 4071,
-            "end_date": "06/12",
-            "end_time": "18:50",
+            "end_date": null,
+            "title": "First-Year Chinese 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Li,Yan"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "11:20",
             "enrollment_total": 24,
-            "instructors": [
-                "Elworthy,Brendan John"
-            ],
-            "last_updated": "2015-05-04T16:01:36-04:00",
-            "room": "2104",
-            "section": "TUT 103",
-            "start_date": "05/04",
-            "start_time": "17:30",
-            "subject": "KOREA",
-            "term": 1155,
-            "title": "First-Year Korean 1",
-            "weekdays": "W"
+            "class_number": 6750,
+            "start_time": "10:00",
+            "subject": "CHINA"
         },
         {
             "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:44-04:00",
             "catalog_number": "101R",
-            "class_number": 4072,
-            "end_date": "06/12",
-            "end_time": "20:20",
+            "end_date": null,
+            "title": "First-Year Chinese 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Li,Yan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "11:20",
+            "enrollment_total": 24,
+            "class_number": 6839,
+            "start_time": "10:00",
+            "subject": "CHINA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:44-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Chinese 1",
+            "section": "LEC 003",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "09:50",
+            "enrollment_total": 24,
+            "class_number": 8487,
+            "start_time": "08:30",
+            "subject": "CHINA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 009",
+            "instructors": [
+                "Wolczuk,Agnieszka"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "14:20",
+            "enrollment_total": 20,
+            "class_number": 8539,
+            "start_time": "13:00",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Kim,Wonhee"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "15:50",
             "enrollment_total": 25,
-            "instructors": [
-                "Mun,Sarah Jeonghyun"
-            ],
-            "last_updated": "2015-05-04T16:01:36-04:00",
-            "room": "2104",
-            "section": "TUT 104",
-            "start_date": "05/04",
-            "start_time": "19:00",
-            "subject": "KOREA",
-            "term": 1155,
-            "title": "First-Year Korean 1",
-            "weekdays": "W"
+            "class_number": 6826,
+            "start_time": "14:30",
+            "subject": "KOREA"
         },
         {
             "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
             "catalog_number": "101R",
-            "class_number": 4072,
-            "end_date": "06/12",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Kim,Soo Jin"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2104",
             "end_time": "19:50",
             "enrollment_total": 25,
-            "instructors": [
-                "Mun,Sarah Jeonghyun"
-            ],
-            "last_updated": "2015-05-04T16:01:36-04:00",
-            "room": "2104",
-            "section": "TUT 104",
-            "start_date": "05/04",
+            "class_number": 6827,
             "start_time": "18:30",
-            "subject": "KOREA",
-            "term": 1155,
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
             "title": "First-Year Korean 1",
-            "weekdays": "Th"
+            "section": "TUT 103",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "17:20",
+            "enrollment_total": 25,
+            "class_number": 6828,
+            "start_time": "16:00",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "TUT 104",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "09:20",
+            "enrollment_total": 25,
+            "class_number": 6829,
+            "start_time": "08:00",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "First-Year Korean 2",
+            "section": "TUT 101",
+            "instructors": [
+                "Kim,Soo Jin"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "15:50",
+            "enrollment_total": 25,
+            "class_number": 6849,
+            "start_time": "14:30",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "First-Year Korean 2",
+            "section": "TUT 102",
+            "instructors": [
+                "Kim,Soo Jin"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "19:50",
+            "enrollment_total": 17,
+            "class_number": 6850,
+            "start_time": "18:30",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:55-04:00",
+            "catalog_number": "121R",
+            "end_date": null,
+            "title": "Islam in the World",
+            "section": "LEC 001",
+            "instructors": [
+                "Gianotti,Timothy"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "21:20",
+            "enrollment_total": 24,
+            "class_number": 6783,
+            "start_time": "18:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:55-04:00",
+            "catalog_number": "230R",
+            "end_date": null,
+            "title": "Islamic Visual Culture",
+            "section": "LEC 001",
+            "instructors": [
+                "Kolahdouz,Soheila"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "11:20",
+            "enrollment_total": 7,
+            "class_number": 8327,
+            "start_time": "08:30",
+            "subject": "SI"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:56-04:00",
+            "catalog_number": "390R",
+            "end_date": null,
+            "title": "Understanding Islam",
+            "section": "SEM 001",
+            "instructors": [
+                "Pandit,Idrisa"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2104",
+            "end_time": "21:20",
+            "enrollment_total": 3,
+            "class_number": 8328,
+            "start_time": "18:30",
+            "subject": "SI"
         }
     ]
 }

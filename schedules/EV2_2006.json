@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "370",
+            "end_date": null,
+            "title": "Corporate Sustainability: Issues and Prospects",
+            "section": "LEC 001",
+            "instructors": [
+                "Rowlands,Ian H"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 5807,
+            "start_time": "14:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:38-04:00",
+            "catalog_number": "454",
+            "end_date": null,
+            "title": "Parks and Protected Areas",
+            "section": "SEM 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "17:20",
+            "enrollment_total": 29,
+            "class_number": 5876,
+            "start_time": "14:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:49-04:00",
+            "catalog_number": "654",
+            "end_date": null,
+            "title": "Parks and Protected Areas",
+            "section": "SEM 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 5866,
+            "start_time": "14:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:50-04:00",
+            "catalog_number": "680",
+            "end_date": null,
+            "title": "Sustainability Foundations",
+            "section": "LEC 001",
+            "instructors": [
+                "Gibson,Robert B"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 5646,
+            "start_time": "11:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:16-04:00",
+            "catalog_number": "602",
+            "end_date": null,
+            "title": "International Development: Theories and Practice",
+            "section": "SEM 001",
+            "instructors": [
+                "Swatuk,Larry L.A."
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 5878,
+            "start_time": "08:30",
+            "subject": "INDEV"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:17-04:00",
+            "catalog_number": "604",
+            "end_date": null,
+            "title": "Sustainable Cities",
+            "section": "LEC 001",
+            "instructors": [
+                "Frayne,Bruce"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 8506,
+            "start_time": "08:30",
+            "subject": "INDEV"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:35-04:00",
+            "catalog_number": "650",
+            "end_date": null,
+            "title": "Sustainable Cities",
+            "section": "LEC 001",
+            "instructors": [
+                "Frayne,Bruce"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2006",
+            "end_time": "11:20",
+            "enrollment_total": 4,
+            "class_number": 8507,
+            "start_time": "08:30",
+            "subject": "PACS"
+        }
+    ]
+}

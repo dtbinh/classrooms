@@ -2,83 +2,623 @@
     "data": [
         {
             "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
             "catalog_number": "237L",
-            "class_number": 4182,
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 32,
-            "instructors": [
-                "Marrone,Laura"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "319",
+            "title": "Introductory Biochemistry Laboratory",
             "section": "LAB 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Introductory Biochemistry Laboratory",
-            "weekdays": "T"
-        },
-        {
-            "building": "ESC",
-            "catalog_number": "237L",
-            "class_number": 4249,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 46,
             "instructors": [
                 "Marrone,Laura"
             ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "319",
+            "end_time": "17:20",
+            "enrollment_total": 48,
+            "class_number": 6951,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "237L",
+            "end_date": null,
+            "title": "Introductory Biochemistry Laboratory",
             "section": "LAB 002",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Introductory Biochemistry Laboratory",
-            "weekdays": "T"
-        },
-        {
-            "building": "ESC",
-            "catalog_number": "237L",
-            "class_number": 4298,
-            "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 34,
             "instructors": [
                 "Marrone,Laura"
             ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
+            "weekdays": "Th",
+            "start_date": null,
             "room": "319",
+            "end_time": "14:20",
+            "enrollment_total": 48,
+            "class_number": 6952,
+            "start_time": "11:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "237L",
+            "end_date": null,
+            "title": "Introductory Biochemistry Laboratory",
             "section": "LAB 003",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Introductory Biochemistry Laboratory",
-            "weekdays": "Th"
-        },
-        {
-            "building": "ESC",
-            "catalog_number": "237L",
-            "class_number": 4738,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 46,
             "instructors": [
                 "Marrone,Laura"
             ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
-            "room": "319",
-            "section": "LAB 004",
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Introductory Biochemistry Laboratory",
-            "weekdays": "Th"
+            "room": "319",
+            "end_time": "17:20",
+            "enrollment_total": 48,
+            "class_number": 6953,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "335L",
+            "end_date": "10/05",
+            "title": "Advanced Biochemistry Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "319",
+            "end_time": "20:20",
+            "enrollment_total": 22,
+            "class_number": 6971,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "335L",
+            "end_date": "11/30",
+            "title": "Advanced Biochemistry Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "M",
+            "start_date": "10/19",
+            "room": "319",
+            "end_time": "20:20",
+            "enrollment_total": 22,
+            "class_number": 6971,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "335L",
+            "end_date": "10/06",
+            "title": "Advanced Biochemistry Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "T",
+            "start_date": "09/15",
+            "room": "319",
+            "end_time": "20:20",
+            "enrollment_total": 21,
+            "class_number": 7216,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:41-04:00",
+            "catalog_number": "335L",
+            "end_date": "12/01",
+            "title": "Advanced Biochemistry Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "T",
+            "start_date": "10/20",
+            "room": "319",
+            "end_time": "20:20",
+            "enrollment_total": 21,
+            "class_number": 7216,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "09/18",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/02",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "10/02",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/16",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/30",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "10/30",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/13",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "11/13",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/27",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 201",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "11/27",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5041,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "09/16",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "09/16",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "09/30",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "09/30",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/14",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "10/14",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/28",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "10/28",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/11",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/25",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 203",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "11/25",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5043,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "09/25",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/09",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/23",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "10/23",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/06",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/20",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "11/20",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "12/04",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 204",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5044,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "09/23",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "09/23",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/07",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "10/07",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "10/21",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "10/21",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/04",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "11/04",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "11/18",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "11/18",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "ESC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:12-04:00",
+            "catalog_number": "224",
+            "end_date": "12/02",
+            "title": "Biochemistry for Nanotechnology Engineers",
+            "section": "LAB 206",
+            "instructors": [
+                "Marrone,Laura"
+            ],
+            "weekdays": "W",
+            "start_date": "12/02",
+            "room": "319",
+            "end_time": "11:20",
+            "enrollment_total": 26,
+            "class_number": 5046,
+            "start_time": "08:30",
+            "subject": "NE"
         }
     ]
 }

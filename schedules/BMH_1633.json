@@ -2,39 +2,343 @@
     "data": [
         {
             "building": "BMH",
-            "catalog_number": "470",
-            "class_number": 2117,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "448",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 9,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:01:35-04:00",
-            "room": "1633",
+            "title": "Advanced Studies in Social Determinants of Health",
             "section": "SEM 001",
+            "instructors": [
+                "Anthony,Kelly"
+            ],
+            "weekdays": "WF",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Seminar in Kinesiology",
-            "weekdays": "M"
+            "room": "1633",
+            "end_time": "15:50",
+            "enrollment_total": 20,
+            "class_number": 3349,
+            "start_time": "14:30",
+            "subject": "HLTH"
         },
         {
             "building": "BMH",
-            "catalog_number": "470E",
-            "class_number": 2043,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "473",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 0,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:01:35-04:00",
-            "room": "1633",
-            "section": "SEM 001",
+            "title": "Contemporary Issues in Health",
+            "section": "LEC 001",
+            "instructors": [
+                "Wallace,James Richard"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "1633",
+            "end_time": "15:50",
+            "enrollment_total": 13,
+            "class_number": 8221,
+            "start_time": "14:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 001",
+            "instructors": [
+                "Duncan,Robin E"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "12:20",
+            "enrollment_total": 19,
+            "class_number": 3201,
+            "start_time": "10:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 002",
+            "instructors": [
+                "Gamu,Daniel"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "12:20",
+            "enrollment_total": 20,
+            "class_number": 3288,
+            "start_time": "10:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 003",
+            "instructors": [
+                "Prentice,Stephen D"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "10:20",
+            "enrollment_total": 18,
+            "class_number": 3289,
             "start_time": "08:30",
-            "subject": "KIN",
-            "term": 1155,
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 005",
+            "instructors": [
+                "Keller,Heather"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 3291,
+            "start_time": "12:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 007",
+            "instructors": [
+                "Williams,Laura Jane"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "10:20",
+            "enrollment_total": 20,
+            "class_number": 8589,
+            "start_time": "08:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470E",
+            "end_date": null,
             "title": "Seminar in Integrative Ergonomics",
-            "weekdays": "M"
+            "section": "SEM 001",
+            "instructors": [
+                "Prentice,Stephen D"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "10:20",
+            "enrollment_total": 2,
+            "class_number": 3294,
+            "start_time": "08:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 108",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "10:20",
+            "enrollment_total": 11,
+            "class_number": 3305,
+            "start_time": "09:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 112",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "09:20",
+            "enrollment_total": 11,
+            "class_number": 3316,
+            "start_time": "08:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:14-04:00",
+            "catalog_number": "604",
+            "end_date": null,
+            "title": "Evaluation of Health and Human Service Programs",
+            "section": "LEC 001",
+            "instructors": [
+                "Crizzle,Alexander Michael"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "11:20",
+            "enrollment_total": 2,
+            "class_number": 3354,
+            "start_time": "08:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:15-04:00",
+            "catalog_number": "620",
+            "end_date": null,
+            "title": "Selected Topics",
+            "section": "RDG 003",
+            "instructors": [
+                "Wallace,James Richard"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "15:50",
+            "enrollment_total": 1,
+            "class_number": 8575,
+            "start_time": "14:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:00-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Integrative Seminar in Recreation and Leisure Studies",
+            "section": "SEM 001",
+            "instructors": [
+                "McCarville,Ronald"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 3320,
+            "start_time": "11:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:01-04:00",
+            "catalog_number": "640",
+            "end_date": null,
+            "title": "Community Development, Capacity Building and Leisure",
+            "section": "LEC 001",
+            "instructors": [
+                "Arai,Susan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 3335,
+            "start_time": "11:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:01-04:00",
+            "catalog_number": "685",
+            "end_date": null,
+            "title": "The Structure of Tourism",
+            "section": "LEC 001",
+            "instructors": [
+                "Boluk,Karla"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 3336,
+            "start_time": "11:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:02-04:00",
+            "catalog_number": "700",
+            "end_date": null,
+            "title": "Foundations of Knowledge in Leisure Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Berbary,Lisbeth"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 3337,
+            "start_time": "14:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:02-04:00",
+            "catalog_number": "700",
+            "end_date": null,
+            "title": "Foundations of Knowledge in Leisure Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Berbary,Lisbeth"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1633",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 3337,
+            "start_time": "13:00",
+            "subject": "REC"
         }
     ]
 }

@@ -2,223 +2,603 @@
     "data": [
         {
             "building": "DWE",
-            "catalog_number": "211",
-            "class_number": 2982,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:32-04:00",
+            "catalog_number": "200",
             "end_date": null,
+            "title": "Equilibrium Stage Operations",
+            "section": "LEC 001",
+            "instructors": [
+                "Pal,Rajinder"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2529",
             "end_time": "14:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Leonenko,Iouri (Yuri)"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 82,
+            "class_number": 4745,
             "start_time": "12:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Fluid Mechanics",
-            "weekdays": "T"
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "211",
-            "class_number": 2982,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:32-04:00",
+            "catalog_number": "200",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Leonenko,Iouri (Yuri)"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
+            "title": "Equilibrium Stage Operations",
             "section": "LEC 001",
+            "instructors": [
+                "Pal,Rajinder"
+            ],
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Fluid Mechanics",
-            "weekdays": "Th"
+            "room": "2529",
+            "end_time": "13:20",
+            "enrollment_total": 82,
+            "class_number": 4745,
+            "start_time": "12:30",
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "211",
-            "class_number": 2983,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:32-04:00",
+            "catalog_number": "200",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Leonenko,Iouri (Yuri)"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
+            "title": "Equilibrium Stage Operations",
             "section": "TUT 101",
+            "instructors": [
+                "Pal,Rajinder"
+            ],
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Fluid Mechanics",
-            "weekdays": "Th"
-        },
-        {
-            "building": "DWE",
-            "catalog_number": "231",
-            "class_number": 2984,
-            "end_date": null,
+            "room": "2529",
             "end_time": "14:20",
-            "enrollment_total": 74,
-            "instructors": [
-                "Chen,Pu"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Physical Chemistry 2",
-            "weekdays": "Th"
+            "enrollment_total": 82,
+            "class_number": 4746,
+            "start_time": "13:30",
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "231",
-            "class_number": 2984,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 74,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "202",
+            "end_date": "09/16",
+            "title": "Seminar",
+            "section": "SEM 001",
             "instructors": [
-                "Chen,Pu"
+                "Ioannidis,Marios"
             ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
+            "weekdays": "W",
+            "start_date": "09/16",
             "room": "2529",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Physical Chemistry 2",
-            "weekdays": "M"
+            "end_time": "15:50",
+            "enrollment_total": 68,
+            "class_number": 4758,
+            "start_time": "15:00",
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "231",
-            "class_number": 2985,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "202",
+            "end_date": "10/07",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "W",
+            "start_date": "10/07",
+            "room": "2529",
+            "end_time": "15:50",
+            "enrollment_total": 68,
+            "class_number": 4758,
+            "start_time": "15:00",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "202",
+            "end_date": "11/04",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "W",
+            "start_date": "11/04",
+            "room": "2529",
+            "end_time": "15:50",
+            "enrollment_total": 68,
+            "class_number": 4758,
+            "start_time": "15:00",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "202",
+            "end_date": "12/02",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "W",
+            "start_date": "12/02",
+            "room": "2529",
+            "end_time": "15:50",
+            "enrollment_total": 68,
+            "class_number": 4758,
+            "start_time": "15:00",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "220",
             "end_date": null,
+            "title": "Process Data Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Matsen,Mark"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2529",
             "end_time": "16:20",
-            "enrollment_total": 74,
+            "enrollment_total": 79,
+            "class_number": 4936,
+            "start_time": "14:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Process Data Analysis",
+            "section": "LEC 001",
             "instructors": [
-                "Chen,Pu"
+                "Matsen,Mark"
             ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "2529",
+            "end_time": "09:20",
+            "enrollment_total": 79,
+            "class_number": 4936,
+            "start_time": "08:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "220",
+            "end_date": null,
+            "title": "Process Data Analysis",
             "section": "TUT 101",
-            "start_date": null,
-            "start_time": "15:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Physical Chemistry 2",
-            "weekdays": "M"
-        },
-        {
-            "building": "DWE",
-            "catalog_number": "241",
-            "class_number": 2977,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 70,
             "instructors": [
-                "Simon,Leonardo"
+                "Matsen,Mark"
             ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
-            "section": "LEC 001",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Materials Science and Engineering",
-            "weekdays": "F"
-        },
-        {
-            "building": "DWE",
-            "catalog_number": "241",
-            "class_number": 2977,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 70,
-            "instructors": [
-                "Simon,Leonardo"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
             "room": "2529",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Materials Science and Engineering",
-            "weekdays": "T"
-        },
-        {
-            "building": "DWE",
-            "catalog_number": "241",
-            "class_number": 2978,
-            "end_date": null,
             "end_time": "10:20",
-            "enrollment_total": 70,
-            "instructors": [
-                "Simon,Leonardo"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
-            "section": "TUT 101",
-            "start_date": null,
+            "enrollment_total": 79,
+            "class_number": 4937,
             "start_time": "09:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Materials Science and Engineering",
-            "weekdays": "T"
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "312",
-            "class_number": 3101,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "230",
             "end_date": null,
+            "title": "Physical Chemistry 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Madhuranthakam,Chandra Mouli R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "16:20",
+            "enrollment_total": 78,
+            "class_number": 4747,
+            "start_time": "14:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "230",
+            "end_date": null,
+            "title": "Physical Chemistry 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Madhuranthakam,Chandra Mouli R"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "16:20",
+            "enrollment_total": 78,
+            "class_number": 4747,
+            "start_time": "15:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "230",
+            "end_date": null,
+            "title": "Physical Chemistry 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Madhuranthakam,Chandra Mouli R"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "17:20",
+            "enrollment_total": 78,
+            "class_number": 4748,
+            "start_time": "16:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Physical Chemistry 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2529",
             "end_time": "10:20",
             "enrollment_total": 68,
-            "instructors": [
-                "Boghaert,Eline"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "2529",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 4750,
             "start_time": "08:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Mathematics of Heat and Mass Transfer",
-            "weekdays": "W"
+            "subject": "CHE"
         },
         {
             "building": "DWE",
-            "catalog_number": "482",
-            "class_number": 2952,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "231",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Elkamel,Ali"
-            ],
-            "last_updated": "2015-05-04T16:00:39-04:00",
-            "room": "2529",
+            "title": "Physical Chemistry 2",
             "section": "LEC 001",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "Th",
             "start_date": null,
+            "room": "2529",
+            "end_time": "14:20",
+            "enrollment_total": 68,
+            "class_number": 4750,
             "start_time": "13:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Chemical Engineering Design Workshop",
-            "weekdays": "F"
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Physical Chemistry 2",
+            "section": "TUT 101",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "15:20",
+            "enrollment_total": 68,
+            "class_number": 4751,
+            "start_time": "14:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Materials Science and Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Simon,Leonardo"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 67,
+            "class_number": 5064,
+            "start_time": "10:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Materials Science and Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Simon,Leonardo"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "11:20",
+            "enrollment_total": 67,
+            "class_number": 5064,
+            "start_time": "10:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:33-04:00",
+            "catalog_number": "241",
+            "end_date": null,
+            "title": "Materials Science and Engineering",
+            "section": "TUT 101",
+            "instructors": [
+                "Simon,Leonardo"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 67,
+            "class_number": 5065,
+            "start_time": "11:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "302",
+            "end_date": "09/18",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 72,
+            "class_number": 4979,
+            "start_time": "11:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "302",
+            "end_date": "10/09",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 72,
+            "class_number": 4979,
+            "start_time": "11:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "302",
+            "end_date": "11/06",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 72,
+            "class_number": 4979,
+            "start_time": "11:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "302",
+            "end_date": "12/04",
+            "title": "Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Ioannidis,Marios"
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 72,
+            "class_number": 4979,
+            "start_time": "11:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "314",
+            "end_date": null,
+            "title": "Chemical Reaction Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Croiset,Eric"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "10:20",
+            "enrollment_total": 71,
+            "class_number": 4975,
+            "start_time": "08:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "314",
+            "end_date": null,
+            "title": "Chemical Reaction Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Croiset,Eric"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "09:20",
+            "enrollment_total": 71,
+            "class_number": 4975,
+            "start_time": "08:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "314",
+            "end_date": null,
+            "title": "Chemical Reaction Engineering",
+            "section": "TUT 101",
+            "instructors": [
+                "Croiset,Eric"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "10:20",
+            "enrollment_total": 71,
+            "class_number": 4976,
+            "start_time": "09:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Electrochemical Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "14:20",
+            "enrollment_total": 72,
+            "class_number": 4977,
+            "start_time": "12:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Electrochemical Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "10:20",
+            "enrollment_total": 72,
+            "class_number": 4977,
+            "start_time": "09:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:34-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Electrochemical Engineering",
+            "section": "TUT 101",
+            "instructors": [
+                "Pritzker,Mark D"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "11:20",
+            "enrollment_total": 72,
+            "class_number": 4978,
+            "start_time": "10:30",
+            "subject": "CHE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:43-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Differential Equations for Engineers",
+            "section": "LEC 001",
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2529",
+            "end_time": "12:20",
+            "enrollment_total": 67,
+            "class_number": 5950,
+            "start_time": "10:30",
+            "subject": "MATH"
         }
     ]
 }

@@ -2,83 +2,83 @@
     "data": [
         {
             "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:57-04:00",
             "catalog_number": "360A",
-            "class_number": 4131,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Gardiner,Jeff"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "309J",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "PHYS",
-            "term": 1155,
             "title": "Modern Physics Laboratory 1",
-            "weekdays": "M"
+            "section": "LAB 001",
+            "instructors": [
+                "Kycia,Jan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "309J",
+            "end_time": "17:20",
+            "enrollment_total": 17,
+            "class_number": 7243,
+            "start_time": "13:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:58-04:00",
             "catalog_number": "360B",
-            "class_number": 4132,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 2,
-            "instructors": [
-                "Gardiner,Jeff"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "309J",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "PHYS",
-            "term": 1155,
             "title": "Modern Physics Laboratory 2",
-            "weekdays": "M"
+            "section": "LAB 001",
+            "instructors": [
+                "Kycia,Jan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "309J",
+            "end_time": "17:20",
+            "enrollment_total": 4,
+            "class_number": 7244,
+            "start_time": "13:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:59-04:00",
             "catalog_number": "460A",
-            "class_number": 4317,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 3,
-            "instructors": [
-                "Gardiner,Jeff"
-            ],
-            "last_updated": "2015-05-04T16:02:02-04:00",
-            "room": "309J",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "PHYS",
-            "term": 1155,
             "title": "Advanced Laboratory 1",
-            "weekdays": "M"
+            "section": "LAB 001",
+            "instructors": [
+                "Kycia,Jan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "309J",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 7245,
+            "start_time": "13:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:59-04:00",
             "catalog_number": "460B",
-            "class_number": 4318,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 3,
-            "instructors": [
-                "Gardiner,Jeff"
-            ],
-            "last_updated": "2015-05-04T16:02:02-04:00",
-            "room": "309J",
-            "section": "LAB 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "PHYS",
-            "term": 1155,
             "title": "Advanced Laboratory 2",
-            "weekdays": "M"
+            "section": "LAB 001",
+            "instructors": [
+                "Kycia,Jan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "309J",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 7246,
+            "start_time": "13:30",
+            "subject": "PHYS"
         }
     ]
 }

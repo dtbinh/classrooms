@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "STP",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:35-04:00",
+            "catalog_number": "374",
+            "end_date": null,
+            "title": "Special Topics in Environment",
+            "section": "WSP 001",
+            "instructors": [
+                "Del Matto,Tania"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "212",
+            "end_time": "20:50",
+            "enrollment_total": 6,
+            "class_number": 8497,
+            "start_time": "19:00",
+            "subject": "ENVS"
+        }
+    ]
+}

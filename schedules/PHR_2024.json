@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:35-04:00",
+            "catalog_number": "610",
+            "end_date": null,
+            "title": "Topics in Drug Development",
+            "section": "LEC 001",
+            "instructors": [
+                "Beazely,Michael"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2024",
+            "end_time": "14:50",
+            "enrollment_total": 14,
+            "class_number": 7505,
+            "start_time": "12:00",
+            "subject": "PHARM"
+        }
+    ]
+}

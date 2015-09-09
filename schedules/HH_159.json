@@ -1,0 +1,126 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:06-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Introduction to Arts and Business",
+            "section": "LEC 001",
+            "instructors": [
+                "O'Hara,Kathleen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "159",
+            "end_time": "17:20",
+            "enrollment_total": 403,
+            "class_number": 3962,
+            "start_time": "16:30",
+            "subject": "ARBUS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "LEC 001",
+            "instructors": [
+                "Engelhardt,Heidi",
+                "Holyoak,Todd"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "159",
+            "end_time": "09:50",
+            "enrollment_total": 471,
+            "class_number": 7150,
+            "start_time": "08:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "LEC 002",
+            "instructors": [
+                "Engelhardt,Heidi",
+                "Holyoak,Todd"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "159",
+            "end_time": "12:50",
+            "enrollment_total": 467,
+            "class_number": 7151,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:26-04:00",
+            "catalog_number": "104",
+            "end_date": null,
+            "title": "Issues and Approaches in Kinesiology",
+            "section": "LEC 001",
+            "instructors": [
+                "McIlroy,William"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "159",
+            "end_time": "11:50",
+            "enrollment_total": 257,
+            "class_number": 3273,
+            "start_time": "10:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 001",
+            "instructors": [
+                "Ennis,Richard"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "159",
+            "end_time": "21:50",
+            "enrollment_total": 539,
+            "class_number": 3417,
+            "start_time": "19:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 002",
+            "instructors": [
+                "Denison,Stephanie"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "159",
+            "end_time": "09:50",
+            "enrollment_total": 372,
+            "class_number": 3418,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        }
+    ]
+}

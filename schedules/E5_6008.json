@@ -2,263 +2,345 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "102",
-            "class_number": 2737,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:30-04:00",
+            "catalog_number": "101",
             "end_date": null,
+            "title": "Introduction to Systems Design Engineering",
+            "section": "LEC 001",
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "11:20",
+            "enrollment_total": 79,
+            "class_number": 5105,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:30-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Systems Design Engineering",
+            "section": "TUT 101",
+            "instructors": [
+                "Ivkovic,Igor"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6008",
             "end_time": "12:20",
-            "enrollment_total": 77,
-            "instructors": [
-                "Cao,Shi"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "SEM 001",
-            "start_date": null,
+            "enrollment_total": 79,
+            "class_number": 5406,
             "start_time": "11:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Seminar",
-            "weekdays": "T"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "112",
-            "class_number": 2738,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "111",
             "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 76,
+            "title": "Fundamental Engineering Math 1",
+            "section": "LEC 001",
             "instructors": [
                 "Speziale,Sean"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "LEC 001",
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Fundamental Engineering Math 2",
-            "weekdays": "MWF"
+            "room": "6008",
+            "end_time": "12:20",
+            "enrollment_total": 82,
+            "class_number": 4703,
+            "start_time": "11:30",
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "112",
-            "class_number": 2739,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "111",
             "end_date": null,
+            "title": "Fundamental Engineering Math 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Speziale,Sean"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "16:20",
+            "enrollment_total": 82,
+            "class_number": 4704,
+            "start_time": "15:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "113",
+            "end_date": null,
+            "title": "Matrices and Linear Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Scott,Katharine Andrea"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "11:20",
+            "enrollment_total": 86,
+            "class_number": 5153,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "113",
+            "end_date": null,
+            "title": "Matrices and Linear Systems",
+            "section": "TUT 101",
+            "instructors": [
+                "Scott,Katharine Andrea"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "11:20",
+            "enrollment_total": 86,
+            "class_number": 5154,
+            "start_time": "09:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "121",
+            "end_date": null,
+            "title": "Digital Computation",
+            "section": "LEC 001",
+            "instructors": [
+                "Scott,Stacey"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "14:50",
+            "enrollment_total": 86,
+            "class_number": 4919,
+            "start_time": "13:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "121",
+            "end_date": null,
+            "title": "Digital Computation",
+            "section": "TUT 101",
+            "instructors": [
+                "Scott,Stacey"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "15:50",
+            "enrollment_total": 86,
+            "class_number": 4706,
+            "start_time": "15:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "161",
+            "end_date": null,
+            "title": "Introduction to Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Borland,Matthew James"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "16:20",
+            "enrollment_total": 84,
+            "class_number": 4707,
+            "start_time": "14:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "161",
+            "end_date": null,
+            "title": "Introduction to Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Willett,Thomas",
+                "Borland,Matthew James"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6008",
             "end_time": "09:20",
-            "enrollment_total": 76,
-            "instructors": [
-                "Speziale,Sean"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "TUT 101",
-            "start_date": null,
+            "enrollment_total": 84,
+            "class_number": 4707,
             "start_time": "08:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Fundamental Engineering Math 2",
-            "weekdays": "F"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "114",
-            "class_number": 2740,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "161",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 77,
+            "title": "Introduction to Design",
+            "section": "TUT 101",
             "instructors": [
-                "Birkett,Stephen"
+                "Borland,Matthew James",
+                "Willett,Thomas"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
+            "room": "6008",
+            "end_time": "10:20",
+            "enrollment_total": 84,
+            "class_number": 4708,
             "start_time": "09:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Numerical and Applied Calculus",
-            "weekdays": "T"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "114",
-            "class_number": 2741,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "181",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 77,
-            "instructors": [
-                "Birkett,Stephen"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Numerical and Applied Calculus",
-            "weekdays": "Th"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "162",
-            "class_number": 2742,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "MacGregor,Carolyn G"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
+            "title": "Physics 1 (Statics)",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Human Factors in Design",
-            "weekdays": "M"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "162",
-            "class_number": 2742,
-            "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 78,
             "instructors": [
-                "MacGregor,Carolyn G"
+                "Howcroft,Jennifer Dawn"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Human Factors in Design",
-            "weekdays": "W"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "162",
-            "class_number": 2743,
-            "end_date": null,
+            "room": "6008",
             "end_time": "14:20",
-            "enrollment_total": 78,
-            "instructors": [
-                "MacGregor,Carolyn G"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "TUT 101",
-            "start_date": null,
+            "enrollment_total": 86,
+            "class_number": 4709,
             "start_time": "13:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Human Factors in Design",
-            "weekdays": "W"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "182",
-            "class_number": 2744,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "181",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 77,
-            "instructors": [
-                "Cao,Shi"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
+            "title": "Physics 1 (Statics)",
             "section": "LEC 001",
+            "instructors": [
+                "Howcroft,Jennifer Dawn"
+            ],
+            "weekdays": "WF",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Physics 2 (Dynamics)",
-            "weekdays": "T"
+            "room": "6008",
+            "end_time": "09:20",
+            "enrollment_total": 86,
+            "class_number": 4709,
+            "start_time": "08:30",
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "182",
-            "class_number": 2744,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "181",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 77,
-            "instructors": [
-                "Cao,Shi"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Physics 2 (Dynamics)",
-            "weekdays": "Th"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "182",
-            "class_number": 2745,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 77,
-            "instructors": [
-                "Cao,Shi"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
+            "title": "Physics 1 (Statics)",
             "section": "TUT 101",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Physics 2 (Dynamics)",
-            "weekdays": "Th"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "192",
-            "class_number": 2746,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 77,
             "instructors": [
-                "Ivkovic,Igor"
+                "Howcroft,Jennifer Dawn"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
+            "room": "6008",
+            "end_time": "11:20",
+            "enrollment_total": 86,
+            "class_number": 4710,
             "start_time": "10:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems",
-            "weekdays": "MWF"
+            "subject": "SYDE"
         },
         {
             "building": "E5",
-            "catalog_number": "192",
-            "class_number": 2747,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:31-04:00",
+            "catalog_number": "252",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 77,
+            "title": "Linear Systems and Signals",
+            "section": "LEC 001",
             "instructors": [
-                "Ivkovic,Igor"
+                "Jiang,Ning"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6008",
-            "section": "TUT 101",
+            "weekdays": "M",
             "start_date": null,
+            "room": "6008",
+            "end_time": "09:50",
+            "enrollment_total": 95,
+            "class_number": 4711,
+            "start_time": "08:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Engineering Economics of Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Ponnambalam,Kumaraswamy"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "11:20",
+            "enrollment_total": 95,
+            "class_number": 5211,
+            "start_time": "10:00",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "286",
+            "end_date": null,
+            "title": "Mechanics of Deformable Solids",
+            "section": "TUT 101",
+            "instructors": [
+                "Kofman,Jonathan"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "6008",
+            "end_time": "13:20",
+            "enrollment_total": 97,
+            "class_number": 5283,
             "start_time": "12:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems",
-            "weekdays": "F"
+            "subject": "SYDE"
         }
     ]
 }

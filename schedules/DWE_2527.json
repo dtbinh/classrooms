@@ -1,0 +1,418 @@
+{
+    "data": [
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "345",
+            "end_date": null,
+            "title": "Microorganisms in Foods",
+            "section": "LEC 001",
+            "instructors": [
+                "Butler,Barbara J"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "11:20",
+            "enrollment_total": 70,
+            "class_number": 7184,
+            "start_time": "10:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:40-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Organic Chemistry for Engineering and Bioinformatics Students",
+            "section": "LEC 001",
+            "instructors": [
+                "Taylor,Scott D."
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "15:50",
+            "enrollment_total": 81,
+            "class_number": 6899,
+            "start_time": "14:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:47-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Probability and Statistics",
+            "section": "TUT 101",
+            "instructors": [
+                "Emelko,Monica B"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "13:20",
+            "enrollment_total": 59,
+            "class_number": 4814,
+            "start_time": "12:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:47-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Probability and Statistics",
+            "section": "TUT 102",
+            "instructors": [
+                "Emelko,Monica B"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "14:20",
+            "enrollment_total": 56,
+            "class_number": 5421,
+            "start_time": "13:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:47-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Mechanics of Solids 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Brodland,G. Wayne"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "15:20",
+            "enrollment_total": 63,
+            "class_number": 4820,
+            "start_time": "13:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:47-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Mechanics of Solids 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Brodland,G. Wayne"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "14:20",
+            "enrollment_total": 63,
+            "class_number": 4820,
+            "start_time": "13:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:47-04:00",
+            "catalog_number": "306",
+            "end_date": null,
+            "title": "Mechanics of Solids 3",
+            "section": "TUT 101",
+            "instructors": [
+                "Brodland,G. Wayne"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "15:20",
+            "enrollment_total": 63,
+            "class_number": 4821,
+            "start_time": "14:30",
+            "subject": "CIVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:48-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "An Introduction to Classical Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Faber,Riemer"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "10:20",
+            "enrollment_total": 66,
+            "class_number": 3791,
+            "start_time": "09:30",
+            "subject": "CLAS"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:57-04:00",
+            "catalog_number": "350",
+            "end_date": null,
+            "title": "Operating Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Salem,Kenneth"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "09:50",
+            "enrollment_total": 75,
+            "class_number": 6189,
+            "start_time": "08:30",
+            "subject": "CS"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:57-04:00",
+            "catalog_number": "350",
+            "end_date": null,
+            "title": "Operating Systems",
+            "section": "LEC 002",
+            "instructors": [
+                "Wong,Bernard"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "12:50",
+            "enrollment_total": 78,
+            "class_number": 6455,
+            "start_time": "11:30",
+            "subject": "CS"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:33-04:00",
+            "catalog_number": "214",
+            "end_date": null,
+            "title": "Fluid Mechanics and Thermal Sciences",
+            "section": "TUT 201",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "13:20",
+            "enrollment_total": 76,
+            "class_number": 4798,
+            "start_time": "12:30",
+            "subject": "ENVE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:57-04:00",
+            "catalog_number": "490A",
+            "end_date": "10/12",
+            "title": "Honours Thesis Preparation",
+            "section": "PRJ 001",
+            "instructors": [
+                "Deadman,Peter J"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2527",
+            "end_time": "14:20",
+            "enrollment_total": 22,
+            "class_number": 5598,
+            "start_time": "12:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:57-04:00",
+            "catalog_number": "490B",
+            "end_date": "10/12",
+            "title": "Honours Thesis Completion",
+            "section": "PRJ 001",
+            "instructors": [
+                "Deadman,Peter J"
+            ],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "2527",
+            "end_time": "14:20",
+            "enrollment_total": 6,
+            "class_number": 5628,
+            "start_time": "12:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:43-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Differential Equations for Engineers",
+            "section": "LEC 001",
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "11:20",
+            "enrollment_total": 67,
+            "class_number": 5950,
+            "start_time": "10:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:43-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Differential Equations for Engineers",
+            "section": "TUT 101",
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "12:20",
+            "enrollment_total": 67,
+            "class_number": 5953,
+            "start_time": "11:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:52-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Management Engineering Concepts",
+            "section": "LEC 001",
+            "instructors": [
+                "McKay,Kenneth"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "11:20",
+            "enrollment_total": 67,
+            "class_number": 5087,
+            "start_time": "10:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:53-04:00",
+            "catalog_number": "261",
+            "end_date": null,
+            "title": "Engineering Economics: Financial Management for Engineers",
+            "section": "LEC 001",
+            "instructors": [
+                "Yan,Ruiqi"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "17:20",
+            "enrollment_total": 72,
+            "class_number": 5068,
+            "start_time": "16:00",
+            "subject": "MSCI"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:53-04:00",
+            "catalog_number": "261",
+            "end_date": null,
+            "title": "Engineering Economics: Financial Management for Engineers",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "12:20",
+            "enrollment_total": 72,
+            "class_number": 5069,
+            "start_time": "11:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:00-04:00",
+            "catalog_number": "262",
+            "end_date": null,
+            "title": "Introduction to Microprocessors and Digital Logic",
+            "section": "TUT 202",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "17:20",
+            "enrollment_total": 46,
+            "class_number": 7698,
+            "start_time": "16:30",
+            "subject": "MTE"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:58-04:00",
+            "catalog_number": "434",
+            "end_date": null,
+            "title": "Quantum Physics 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Burkov,Anton A"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "09:20",
+            "enrollment_total": 39,
+            "class_number": 7038,
+            "start_time": "08:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "DWE",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:12-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Public Administration",
+            "section": "LEC 001",
+            "instructors": [
+                "Henstra,Daniel"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2527",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 8038,
+            "start_time": "14:30",
+            "subject": "PSCI"
+        }
+    ]
+}

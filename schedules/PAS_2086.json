@@ -2,103 +2,277 @@
     "data": [
         {
             "building": "PAS",
-            "catalog_number": "483",
-            "class_number": 2479,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "202",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 20,
-            "instructors": [
-                "George,Ryan"
-            ],
-            "last_updated": "2015-05-04T16:01:09-04:00",
-            "room": "2086",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ECON",
-            "term": 1155,
-            "title": "Special Topics",
-            "weekdays": "MW"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "101",
-            "class_number": 4755,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 23,
-            "instructors": [
-                "Craven,Caitlin"
-            ],
-            "last_updated": "2015-05-04T16:01:27-04:00",
-            "room": "2086",
-            "section": "DIS 104",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "INTST",
-            "term": 1155,
-            "title": "Introduction to International Studies",
-            "weekdays": "T"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "363",
-            "class_number": 4789,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 5,
-            "instructors": [
-                "Bloom,Kathleen"
-            ],
-            "last_updated": "2015-05-04T16:02:08-04:00",
-            "room": "2086",
+            "title": "Principles of Cultural Anthropology",
             "section": "LEC 001",
+            "instructors": [
+                "Liu,Jennifer"
+            ],
+            "weekdays": "WF",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Special Subjects",
-            "weekdays": "WF"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "463",
-            "class_number": 4790,
-            "end_date": null,
+            "room": "2086",
             "end_time": "11:20",
-            "enrollment_total": 10,
-            "instructors": [
-                "Bloom,Kathleen"
-            ],
-            "last_updated": "2015-05-04T16:02:08-04:00",
-            "room": "2086",
-            "section": "SEM 001",
-            "start_date": null,
+            "enrollment_total": 26,
+            "class_number": 3884,
             "start_time": "10:00",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Honours Seminar in Special Topics",
-            "weekdays": "WF"
+            "subject": "ANTH"
         },
         {
             "building": "PAS",
-            "catalog_number": "740",
-            "class_number": 4757,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:49-04:00",
+            "catalog_number": "311",
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 4,
+            "title": "Women in Classical Antiquity",
+            "section": "LEC 001",
             "instructors": [
-                "Nelson,Adie"
+                "Ager,Sheila L"
             ],
-            "last_updated": "2015-05-04T16:03:00-04:00",
-            "room": "2086",
-            "section": "SEM 001",
+            "weekdays": "MWF",
             "start_date": null,
+            "room": "2086",
+            "end_time": "09:20",
+            "enrollment_total": 27,
+            "class_number": 7813,
+            "start_time": "08:30",
+            "subject": "CLAS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 001",
+            "instructors": [
+                "Dadey,Bruce Alexander"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 3499,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 020",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "19:50",
+            "enrollment_total": 25,
+            "class_number": 8184,
             "start_time": "18:30",
-            "subject": "SOC",
-            "term": 1155,
-            "title": "Sociology of Deviance",
-            "weekdays": "M"
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 021",
+            "instructors": [
+                "Garwood,Kimberley Christine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "19:50",
+            "enrollment_total": 25,
+            "class_number": 8185,
+            "start_time": "18:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 025",
+            "instructors": [
+                "Shakespeare,Robert David"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 8189,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:36-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Environmental Analysis and Solutions I: Foundations",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "10:20",
+            "enrollment_total": 17,
+            "class_number": 5600,
+            "start_time": "08:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:36-04:00",
+            "catalog_number": "110",
+            "end_date": null,
+            "title": "Environmental Analysis and Solutions I: Foundations",
+            "section": "TUT 105",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 5757,
+            "start_time": "12:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:14-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Interpersonal Communication",
+            "section": "LEC 005",
+            "instructors": [
+                "Harvie,Jo"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "17:20",
+            "enrollment_total": 28,
+            "class_number": 4547,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:16-04:00",
+            "catalog_number": "227",
+            "end_date": null,
+            "title": "Leadership",
+            "section": "WSP 001",
+            "instructors": [
+                "Paci,Timothy P"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 3548,
+            "start_time": "14:30",
+            "subject": "SPCOM"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:15-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Seminar in Cognitive Science",
+            "section": "SEM 001",
+            "instructors": [
+                "White,Katherine S"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "12:20",
+            "enrollment_total": 7,
+            "class_number": 8370,
+            "start_time": "10:30",
+            "subject": "COGSCI"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:46-04:00",
+            "catalog_number": "700",
+            "end_date": null,
+            "title": "Rhetorical Studies",
+            "section": "SEM 001",
+            "instructors": [
+                "Macdonald,Michael"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 3568,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:49-04:00",
+            "catalog_number": "669",
+            "end_date": null,
+            "title": "Team Research Project",
+            "section": "LEC 001",
+            "instructors": [
+                "Fedy,Bradley Craig"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 5832,
+            "start_time": "08:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:03-04:00",
+            "catalog_number": "712",
+            "end_date": null,
+            "title": "Elements of Social Research",
+            "section": "SEM 001",
+            "instructors": [
+                "Schulenberg,Jennifer Lina"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2086",
+            "end_time": "14:20",
+            "enrollment_total": 17,
+            "class_number": 8172,
+            "start_time": "11:30",
+            "subject": "SOC"
         }
     ]
 }

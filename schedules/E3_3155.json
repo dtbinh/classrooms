@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "building": "E3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:58-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Experimental Measurement & Statistical Analysis",
+            "section": "LAB 101",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3155",
+            "end_time": "11:20",
+            "enrollment_total": 31,
+            "class_number": 7681,
+            "start_time": "08:30",
+            "subject": "MTE"
+        },
+        {
+            "building": "E3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:58-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Experimental Measurement & Statistical Analysis",
+            "section": "LAB 102",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3155",
+            "end_time": "11:20",
+            "enrollment_total": 28,
+            "class_number": 7682,
+            "start_time": "08:30",
+            "subject": "MTE"
+        },
+        {
+            "building": "E3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:58-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Experimental Measurement & Statistical Analysis",
+            "section": "LAB 103",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3155",
+            "end_time": "11:20",
+            "enrollment_total": 34,
+            "class_number": 7683,
+            "start_time": "08:30",
+            "subject": "MTE"
+        }
+    ]
+}

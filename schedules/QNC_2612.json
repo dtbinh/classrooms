@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "building": "QNC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:16-04:00",
+            "catalog_number": "454L",
+            "end_date": null,
+            "title": "Nanotechnology Engineering Advanced Laboratory 1",
+            "section": "LAB 001",
+            "instructors": [
+                "Saad,John Farid Hanna",
+                "McManus,Neil",
+                "Ivanova,Rossitza",
+                "Coggan,Jenn",
+                "Ghavami,Ahmad"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2612",
+            "end_time": "14:20",
+            "enrollment_total": 83,
+            "class_number": 5195,
+            "start_time": "08:30",
+            "subject": "NE"
+        }
+    ]
+}

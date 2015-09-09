@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:55-04:00",
+            "catalog_number": "642",
+            "end_date": null,
+            "title": "Current Topics in Biotechnology",
+            "section": "LEC 001",
+            "instructors": [
+                "Glick,Bernard R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "266",
+            "end_time": "21:50",
+            "enrollment_total": 2,
+            "class_number": 7940,
+            "start_time": "19:00",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B1",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:56-04:00",
+            "catalog_number": "690",
+            "end_date": null,
+            "title": "Scientific Communication",
+            "section": "SEM 001",
+            "instructors": [
+                "Moffatt,Barbara A"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "266",
+            "end_time": "20:50",
+            "enrollment_total": 4,
+            "class_number": 7289,
+            "start_time": "18:00",
+            "subject": "BIOL"
+        }
+    ]
+}

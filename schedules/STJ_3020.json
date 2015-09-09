@@ -2,43 +2,203 @@
     "data": [
         {
             "building": "STJ",
-            "catalog_number": "119",
-            "class_number": 4734,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:06-04:00",
+            "catalog_number": "403A",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 12,
+            "title": "Canadian",
+            "section": "SEM 002",
             "instructors": [
-                "Humphreys,Sara Megan"
+                "Touhey,Ryan Matthew"
             ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "3020",
-            "section": "LEC 003",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Communications in Mathematics & Computer Science",
-            "weekdays": "W"
+            "room": "3020",
+            "end_time": "12:20",
+            "enrollment_total": 5,
+            "class_number": 8003,
+            "start_time": "10:30",
+            "subject": "HIST"
         },
         {
             "building": "STJ",
-            "catalog_number": "383",
-            "class_number": 4886,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:10-04:00",
+            "catalog_number": "101",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 6,
-            "instructors": [
-                "Tataryn,Myroslaw"
-            ],
-            "last_updated": "2015-05-04T16:02:12-04:00",
-            "room": "3020",
+            "title": "Great Dialogues: Reflection and Action",
             "section": "LEC 001",
+            "instructors": [
+                "Greenwood,John Philip Peter"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "3020",
+            "end_time": "15:50",
+            "enrollment_total": 11,
+            "class_number": 7550,
             "start_time": "14:30",
-            "subject": "RS",
-            "term": 1155,
-            "title": "Justice, Peace, and Development",
-            "weekdays": "M"
+            "subject": "HUMSC"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Senior Honours Seminar in Legal Studies I",
+            "section": "SEM 001",
+            "instructors": [
+                "Burrows,Kevin"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "14:20",
+            "enrollment_total": 18,
+            "class_number": 3694,
+            "start_time": "12:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Senior Honours Seminar in Legal Studies I",
+            "section": "SEM 002",
+            "instructors": [
+                "Brophy,Susan"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "10:20",
+            "enrollment_total": 9,
+            "class_number": 3762,
+            "start_time": "08:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Senior Honours Seminar in Legal Studies I",
+            "section": "SEM 003",
+            "instructors": [
+                "Burrows,Kevin"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "12:20",
+            "enrollment_total": 18,
+            "class_number": 3858,
+            "start_time": "10:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "402",
+            "end_date": null,
+            "title": "Senior Honours Seminar in Legal Studies II",
+            "section": "SEM 001",
+            "instructors": [
+                "Prioreschi,Alessandra"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 3974,
+            "start_time": "12:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "402",
+            "end_date": null,
+            "title": "Senior Honours Seminar in Legal Studies II",
+            "section": "SEM 002",
+            "instructors": [
+                "Burrows,Kevin"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "class_number": 3975,
+            "start_time": "14:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:24-04:00",
+            "catalog_number": "451",
+            "end_date": null,
+            "title": "Child & Youth Psychology",
+            "section": "SEM 001",
+            "instructors": [
+                "Drysdale,Maureen"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 8472,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:58-04:00",
+            "catalog_number": "460",
+            "end_date": null,
+            "title": "Practicum and Professional Ethics",
+            "section": "SEM 001",
+            "instructors": [
+                "De Santis,Carmela"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "14:20",
+            "enrollment_total": 13,
+            "class_number": 7547,
+            "start_time": "11:30",
+            "subject": "SMF"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:25-04:00",
+            "catalog_number": "611",
+            "end_date": null,
+            "title": "Catholic Perspectives on Ecology",
+            "section": "SEM 001",
+            "instructors": [
+                "Vanin,Cristina"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3020",
+            "end_time": "21:20",
+            "enrollment_total": 1,
+            "class_number": 8136,
+            "start_time": "18:30",
+            "subject": "CT"
         }
     ]
 }

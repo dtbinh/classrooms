@@ -2,41 +2,59 @@
     "data": [
         {
             "building": "HH",
-            "catalog_number": "230",
-            "class_number": 2394,
-            "end_date": "06/12",
-            "end_time": "12:20",
-            "enrollment_total": 9,
-            "instructors": [
-                "Momani,Bessma"
-            ],
-            "last_updated": "2015-05-04T16:01:25-04:00",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "315",
+            "end_date": null,
+            "title": "Environmental and Sustainability Assessment II",
+            "section": "TUT 103",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
             "room": "119",
-            "section": "DIS 103",
-            "start_date": "05/08",
-            "start_time": "11:30",
-            "subject": "HIST",
-            "term": 1155,
-            "title": "Introduction to the Modern Middle East",
-            "weekdays": "F"
+            "end_time": "14:20",
+            "enrollment_total": 19,
+            "class_number": 5660,
+            "start_time": "13:30",
+            "subject": "ERS"
         },
         {
             "building": "HH",
-            "catalog_number": "257",
-            "class_number": 2452,
-            "end_date": "06/12",
-            "end_time": "12:20",
-            "enrollment_total": 11,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "315",
+            "end_date": null,
+            "title": "Environmental and Sustainability Assessment II",
+            "section": "TUT 105",
             "instructors": [],
-            "last_updated": "2015-05-04T16:02:05-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "119",
-            "section": "DIS 103",
-            "start_date": "05/08",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 5813,
+            "start_time": "16:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:01-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Intermediate Greek",
+            "section": "LEC 001",
+            "instructors": [
+                "Vester,Christina"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "119",
+            "end_time": "12:50",
+            "enrollment_total": 7,
+            "class_number": 4371,
             "start_time": "11:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Introduction to the Modern Middle East",
-            "weekdays": "F"
+            "subject": "GRK"
         }
     ]
 }

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "137",
+            "end_date": "09/18",
+            "title": "Programming Principles",
+            "section": "LAB 101",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "2062",
+            "end_time": "13:20",
+            "enrollment_total": 40,
+            "class_number": 6362,
+            "start_time": "12:30",
+            "subject": "CS"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:56-04:00",
+            "catalog_number": "200",
+            "end_date": null,
+            "title": "Concepts for Advanced Computer Usage",
+            "section": "LAB 101",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2062",
+            "end_time": "16:20",
+            "enrollment_total": 46,
+            "class_number": 6040,
+            "start_time": "14:30",
+            "subject": "CS"
+        }
+    ]
+}

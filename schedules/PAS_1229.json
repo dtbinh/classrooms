@@ -2,83 +2,361 @@
     "data": [
         {
             "building": "PAS",
-            "catalog_number": "100",
-            "class_number": 4975,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "201",
             "end_date": null,
+            "title": "Principles of Archaeology",
+            "section": "LEC 001",
+            "instructors": [
+                "Adams,Russell"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "14:20",
+            "enrollment_total": 60,
+            "class_number": 3369,
+            "start_time": "13:00",
+            "subject": "ANTH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:05-04:00",
+            "catalog_number": "330",
+            "end_date": null,
+            "title": "Cultural Ecology",
+            "section": "LEC 001",
+            "instructors": [
+                "Hoeppe,Goetz"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "09:50",
+            "enrollment_total": 12,
+            "class_number": 7772,
+            "start_time": "08:30",
+            "subject": "ANTH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:49-04:00",
+            "catalog_number": "221",
+            "end_date": null,
+            "title": "Principles of Archaeology",
+            "section": "LEC 001",
+            "instructors": [
+                "Adams,Russell"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "class_number": 3487,
+            "start_time": "13:00",
+            "subject": "CLAS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:58-04:00",
+            "catalog_number": "466",
+            "end_date": null,
+            "title": "Algorithm Design and Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Ma,Bin"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "09:50",
+            "enrollment_total": 51,
+            "class_number": 6056,
+            "start_time": "08:30",
+            "subject": "CS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:58-04:00",
+            "catalog_number": "488",
+            "end_date": null,
+            "title": "Introduction to Computer Graphics",
+            "section": "LEC 001",
+            "instructors": [
+                "Kaplan,Craig Steven"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "11:20",
+            "enrollment_total": 38,
+            "class_number": 6058,
+            "start_time": "10:00",
+            "subject": "CS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 024",
+            "instructors": [
+                "Shakespeare,Robert David"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 8188,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:55-04:00",
+            "catalog_number": "300",
+            "end_date": null,
+            "title": "Geomorphology and the Southern Ontario Environment",
+            "section": "LEC 001",
+            "instructors": [
+                "McKenzie,Ian"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "15:20",
+            "enrollment_total": 39,
+            "class_number": 5678,
+            "start_time": "14:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:56-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Spatial Databases",
+            "section": "LEC 001",
+            "instructors": [
+                "Feick,Robert"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "11:20",
+            "enrollment_total": 39,
+            "class_number": 5597,
+            "start_time": "08:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:04-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Spatial Databases",
+            "section": "LEC 001",
+            "instructors": [
+                "Feick,Robert"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "11:20",
+            "enrollment_total": 10,
+            "class_number": 5593,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:36-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Religions of the East",
+            "section": "LEC 001",
+            "instructors": [
+                "Fenn,Mavis"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1229",
             "end_time": "14:20",
             "enrollment_total": 50,
-            "instructors": [
-                "Hayes,Nicole"
-            ],
-            "last_updated": "2015-05-04T16:00:19-04:00",
-            "room": "1229",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "ANTH",
-            "term": 1155,
-            "title": "Intro to Anthropology",
-            "weekdays": "T"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "208C",
-            "class_number": 2604,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 16,
-            "instructors": [
-                "Dehghani,Morteza"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "1229",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "16:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Studies in Children's Literature",
-            "weekdays": "MTTh"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "110A",
-            "class_number": 2198,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 38,
-            "instructors": [
-                "Nelson,Benjamin Samuel"
-            ],
-            "last_updated": "2015-05-04T16:01:58-04:00",
-            "room": "1229",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 3658,
             "start_time": "13:00",
-            "subject": "PHIL",
-            "term": 1155,
-            "title": "Introduction to Philosophy: Knowledge and Reality",
-            "weekdays": "MW"
+            "subject": "RS"
         },
         {
             "building": "PAS",
-            "catalog_number": "609",
-            "class_number": 2422,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "262",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 43,
-            "instructors": [
-                "Chen,Changling"
-            ],
-            "last_updated": "2015-05-04T16:02:30-04:00",
-            "room": "1229",
+            "title": "Religion in Sociological Perspective",
             "section": "LEC 001",
+            "instructors": [
+                "Dawson,Lorne"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "1229",
+            "end_time": "12:50",
+            "enrollment_total": 4,
+            "class_number": 7671,
+            "start_time": "11:30",
+            "subject": "RS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "202",
+            "end_date": null,
+            "title": "Introduction to Classical Theory",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "17:20",
+            "enrollment_total": 60,
+            "class_number": 3491,
+            "start_time": "16:00",
+            "subject": "SOC"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:01-04:00",
+            "catalog_number": "225",
+            "end_date": null,
+            "title": "Games and Gamers",
+            "section": "LEC 001",
+            "instructors": [
+                "Whitson,Jennifer"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "11:20",
+            "enrollment_total": 56,
+            "class_number": 8072,
+            "start_time": "10:00",
+            "subject": "SOC"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:03-04:00",
+            "catalog_number": "260",
+            "end_date": null,
+            "title": "Religion in Sociological Perspective",
+            "section": "LEC 001",
+            "instructors": [
+                "Dawson,Lorne"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "12:50",
+            "enrollment_total": 15,
+            "class_number": 7672,
+            "start_time": "11:30",
+            "subject": "SOC"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:39-04:00",
+            "catalog_number": "202",
+            "end_date": null,
+            "title": "Women Across Cultures: Canadian and Global Perspectives",
+            "section": "LEC 001",
+            "instructors": [
+                "Maitra,Srabani"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "17:20",
+            "enrollment_total": 62,
+            "class_number": 3779,
+            "start_time": "14:30",
+            "subject": "WS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:39-04:00",
+            "catalog_number": "205",
+            "end_date": null,
+            "title": "Gender, Culture and Technology",
+            "section": "LEC 001",
+            "instructors": [
+                "Maitra,Srabani"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "20:50",
+            "enrollment_total": 74,
+            "class_number": 3780,
+            "start_time": "18:00",
+            "subject": "WS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:20-04:00",
+            "catalog_number": "666",
+            "end_date": null,
+            "title": "Algorithm Design and Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Ma,Bin"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "09:50",
+            "enrollment_total": 15,
+            "class_number": 6131,
             "start_time": "08:30",
-            "subject": "ACC",
-            "term": 1155,
-            "title": "Financial Statement Analysis",
-            "weekdays": "T"
+            "subject": "CS"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:21-04:00",
+            "catalog_number": "688",
+            "end_date": null,
+            "title": "Introduction to Computer Graphics",
+            "section": "LEC 001",
+            "instructors": [
+                "Kaplan,Craig Steven"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1229",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 6133,
+            "start_time": "10:00",
+            "subject": "CS"
         }
     ]
 }

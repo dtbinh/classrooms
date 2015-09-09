@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:43-04:00",
+            "catalog_number": "229",
+            "end_date": null,
+            "title": "Introduction to Combinatorics (Non-Specialist Level)",
+            "section": "LEC 001",
+            "instructors": [
+                "Pei,Martin"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "344",
+            "end_time": "14:20",
+            "enrollment_total": 16,
+            "class_number": 6478,
+            "start_time": "13:30",
+            "subject": "MATH"
+        }
+    ]
+}

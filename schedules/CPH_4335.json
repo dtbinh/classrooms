@@ -2,83 +2,139 @@
     "data": [
         {
             "building": "CPH",
-            "catalog_number": "252",
-            "class_number": 3215,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:53-04:00",
+            "catalog_number": "240",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 29,
-            "instructors": [
-                "Khaniyev,Taghi"
-            ],
-            "last_updated": "2015-05-04T16:01:43-04:00",
-            "room": "4335",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Probability and Statistics for Engineers",
-            "weekdays": "M"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "252",
-            "class_number": 4811,
-            "end_date": "07/08",
-            "end_time": "14:20",
-            "enrollment_total": 26,
-            "instructors": [
-                "Khaniyev,Taghi"
-            ],
-            "last_updated": "2015-05-04T16:01:43-04:00",
-            "room": "4335",
-            "section": "TUT 102",
-            "start_date": "05/04",
-            "start_time": "13:30",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Probability and Statistics for Engineers",
-            "weekdays": "M"
-        },
-        {
-            "building": "CPH",
-            "catalog_number": "346",
-            "class_number": 3218,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 29,
-            "instructors": [
-                "Aluc,Gunes"
-            ],
-            "last_updated": "2015-05-04T16:01:44-04:00",
-            "room": "4335",
+            "title": "Algorithms and Data Structures",
             "section": "LAB 201",
+            "instructors": [
+                "Hancock,Mark"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Database Systems",
-            "weekdays": "T"
+            "room": "4335",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 5111,
+            "start_time": "08:30",
+            "subject": "MSCI"
         },
         {
             "building": "CPH",
-            "catalog_number": "346",
-            "class_number": 3252,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:53-04:00",
+            "catalog_number": "240",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 26,
-            "instructors": [
-                "Aluc,Gunes"
-            ],
-            "last_updated": "2015-05-04T16:01:44-04:00",
-            "room": "4335",
+            "title": "Algorithms and Data Structures",
             "section": "LAB 202",
+            "instructors": [
+                "Hancock,Mark"
+            ],
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "13:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Database Systems",
-            "weekdays": "Th"
+            "room": "4335",
+            "end_time": "11:20",
+            "enrollment_total": 22,
+            "class_number": 5112,
+            "start_time": "08:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:53-04:00",
+            "catalog_number": "240",
+            "end_date": null,
+            "title": "Algorithms and Data Structures",
+            "section": "LAB 203",
+            "instructors": [
+                "Hancock,Mark"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "4335",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 5113,
+            "start_time": "08:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:55-04:00",
+            "catalog_number": "333",
+            "end_date": null,
+            "title": "Simulation Analysis and Design",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "4335",
+            "end_time": "13:20",
+            "enrollment_total": 23,
+            "class_number": 5218,
+            "start_time": "12:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:55-04:00",
+            "catalog_number": "333",
+            "end_date": null,
+            "title": "Simulation Analysis and Design",
+            "section": "TUT 102",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "4335",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 5410,
+            "start_time": "13:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:55-04:00",
+            "catalog_number": "333",
+            "end_date": null,
+            "title": "Simulation Analysis and Design",
+            "section": "LAB 201",
+            "instructors": [
+                "He,Qi-Ming"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "4335",
+            "end_time": "16:20",
+            "enrollment_total": 47,
+            "class_number": 5219,
+            "start_time": "13:30",
+            "subject": "MSCI"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:55-04:00",
+            "catalog_number": "343",
+            "end_date": null,
+            "title": "Human-Computer Interaction",
+            "section": "LAB 201",
+            "instructors": [
+                "Chilana,Parmit"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "4335",
+            "end_time": "16:20",
+            "enrollment_total": 42,
+            "class_number": 5225,
+            "start_time": "13:30",
+            "subject": "MSCI"
         }
     ]
 }

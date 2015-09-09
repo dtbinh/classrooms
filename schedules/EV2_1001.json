@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "275",
+            "end_date": null,
+            "title": "Special Readings/Seminar on Select Topics",
+            "section": "RDG 001",
+            "instructors": [
+                "Rowlands,Ian H"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "17:50",
+            "enrollment_total": 9,
+            "class_number": 5620,
+            "start_time": "16:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "EV2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "275",
+            "end_date": null,
+            "title": "Special Readings/Seminar on Select Topics",
+            "section": "RDG 001",
+            "instructors": [
+                "Rowlands,Ian H"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "17:20",
+            "enrollment_total": 9,
+            "class_number": 5620,
+            "start_time": "16:00",
+            "subject": "ERS"
+        }
+    ]
+}

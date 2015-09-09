@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:40-04:00",
+            "catalog_number": "209",
+            "end_date": null,
+            "title": "Modern Art, 1940-1970",
+            "section": "LEC 001",
+            "instructors": [
+                "Riva,Lori"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1219",
+            "end_time": "16:50",
+            "enrollment_total": 49,
+            "class_number": 3794,
+            "start_time": "15:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "338",
+            "end_date": null,
+            "title": "Philosophy of Art",
+            "section": "LEC 001",
+            "instructors": [
+                "Dea,Shannon Jennifer"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1219",
+            "end_time": "12:50",
+            "enrollment_total": 6,
+            "class_number": 8118,
+            "start_time": "11:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:48-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Philosophy of Art",
+            "section": "LEC 001",
+            "instructors": [
+                "Dea,Shannon Jennifer"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1219",
+            "end_time": "12:50",
+            "enrollment_total": 20,
+            "class_number": 7997,
+            "start_time": "11:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:34-04:00",
+            "catalog_number": "200",
+            "end_date": null,
+            "title": "Visual Studies Across the Discipline",
+            "section": "LEC 001",
+            "instructors": [
+                "Riva,Lori"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1219",
+            "end_time": "18:20",
+            "enrollment_total": 13,
+            "class_number": 7802,
+            "start_time": "15:30",
+            "subject": "VCULT"
+        }
+    ]
+}

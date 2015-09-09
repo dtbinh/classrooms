@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:15-04:00",
+            "catalog_number": "340L",
+            "end_date": null,
+            "title": "Microfabrication and Thin-film Technology Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Ivanova,Rossitza",
+                "Barby,James A"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3701",
+            "end_time": "20:20",
+            "enrollment_total": 30,
+            "class_number": 5136,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:15-04:00",
+            "catalog_number": "340L",
+            "end_date": null,
+            "title": "Microfabrication and Thin-film Technology Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Barby,James A",
+                "Ivanova,Rossitza"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3701",
+            "end_time": "20:20",
+            "enrollment_total": 31,
+            "class_number": 5137,
+            "start_time": "13:30",
+            "subject": "NE"
+        },
+        {
+            "building": "DC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:15-04:00",
+            "catalog_number": "340L",
+            "end_date": null,
+            "title": "Microfabrication and Thin-film Technology Laboratory",
+            "section": "LAB 003",
+            "instructors": [
+                "Ivanova,Rossitza",
+                "Barby,James A"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3701",
+            "end_time": "20:20",
+            "enrollment_total": 30,
+            "class_number": 5138,
+            "start_time": "13:30",
+            "subject": "NE"
+        }
+    ]
+}

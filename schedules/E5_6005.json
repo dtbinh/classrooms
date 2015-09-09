@@ -2,83 +2,83 @@
     "data": [
         {
             "building": "E5",
-            "catalog_number": "192L",
-            "class_number": 3046,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "292L",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 17,
-            "instructors": [
-                "Bruckman,Orion"
-            ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6005",
+            "title": "Circuits, Instrumentation, and Measurements Laboratory",
             "section": "LAB 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems Laboratory",
-            "weekdays": "M"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "192L",
-            "class_number": 3245,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 20,
             "instructors": [
                 "Bruckman,Orion"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
+            "weekdays": "M",
+            "start_date": null,
             "room": "6005",
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "class_number": 5146,
+            "start_time": "14:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "292L",
+            "end_date": null,
+            "title": "Circuits, Instrumentation, and Measurements Laboratory",
             "section": "LAB 002",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems Laboratory",
-            "weekdays": "T"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "192L",
-            "class_number": 3246,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 18,
             "instructors": [
                 "Bruckman,Orion"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
+            "weekdays": "T",
+            "start_date": null,
             "room": "6005",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 5337,
+            "start_time": "14:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "292L",
+            "end_date": null,
+            "title": "Circuits, Instrumentation, and Measurements Laboratory",
             "section": "LAB 003",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems Laboratory",
-            "weekdays": "W"
-        },
-        {
-            "building": "E5",
-            "catalog_number": "192L",
-            "class_number": 3247,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 21,
             "instructors": [
                 "Bruckman,Orion"
             ],
-            "last_updated": "2015-05-04T16:02:26-04:00",
-            "room": "6005",
-            "section": "LAB 004",
+            "weekdays": "W",
             "start_date": null,
+            "room": "6005",
+            "end_time": "17:20",
+            "enrollment_total": 23,
+            "class_number": 5338,
             "start_time": "14:30",
-            "subject": "SYDE",
-            "term": 1155,
-            "title": "Digital Systems Laboratory",
-            "weekdays": "Th"
+            "subject": "SYDE"
+        },
+        {
+            "building": "E5",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "292L",
+            "end_date": null,
+            "title": "Circuits, Instrumentation, and Measurements Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Bruckman,Orion"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6005",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 5339,
+            "start_time": "14:30",
+            "subject": "SYDE"
         }
     ]
 }

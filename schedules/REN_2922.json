@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 005",
+            "instructors": [
+                "Astley,Joanne"
+            ],
+            "weekdays": "MTTh",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "14:20",
+            "enrollment_total": 20,
+            "class_number": 8279,
+            "start_time": "13:00",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:22-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "Error Correct - Acad Writing",
+            "section": "LEC 008",
+            "instructors": [
+                "Wolczuk,Agnieszka"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "09:50",
+            "enrollment_total": 16,
+            "class_number": 8287,
+            "start_time": "08:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:22-04:00",
+            "catalog_number": "129R",
+            "end_date": null,
+            "title": "Written Academic English",
+            "section": "LEC 003",
+            "instructors": [
+                "Oczkowski,Nancy"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "11:20",
+            "enrollment_total": 24,
+            "class_number": 8292,
+            "start_time": "10:00",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Vardon,John F"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "09:50",
+            "enrollment_total": 25,
+            "class_number": 3454,
+            "start_time": "08:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 006",
+            "instructors": [
+                "Lobb,Diana Frances"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 4587,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 001",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "12:50",
+            "enrollment_total": 17,
+            "class_number": 8296,
+            "start_time": "11:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 001",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "14:20",
+            "enrollment_total": 17,
+            "class_number": 8296,
+            "start_time": "11:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 002",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 8297,
+            "start_time": "16:00",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 002",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 8297,
+            "start_time": "14:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "602R",
+            "end_date": null,
+            "title": "Schol Writing in Engl",
+            "section": "LEC 002",
+            "instructors": [
+                "Oczkowski,Nancy"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "class_number": 8300,
+            "start_time": "14:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "602R",
+            "end_date": null,
+            "title": "Schol Writing in Engl",
+            "section": "LEC 002",
+            "instructors": [
+                "Oczkowski,Nancy"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2922",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "class_number": 8300,
+            "start_time": "16:00",
+            "subject": "EMLS"
+        }
+    ]
+}

@@ -2,125 +2,242 @@
     "data": [
         {
             "building": "ARC",
-            "catalog_number": "215",
-            "class_number": 3162,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "110",
             "end_date": null,
-            "end_time": "19:50",
-            "enrollment_total": 18,
+            "title": "Visual Communication 1",
+            "section": "STU 001",
             "instructors": [
-                "Sugden,Kevin Roy"
+                "Dowling,Paul"
             ],
-            "last_updated": "2015-05-04T16:00:21-04:00",
-            "room": "1101",
-            "section": "LEC 001",
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "17:00",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Digital Tools for Industrial and Graphic Design",
-            "weekdays": "W"
+            "room": "1101",
+            "end_time": "09:50",
+            "enrollment_total": 77,
+            "class_number": 4970,
+            "start_time": "09:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "256",
-            "class_number": 3038,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "125",
             "end_date": null,
-            "end_time": "21:20",
-            "enrollment_total": 13,
-            "instructors": [
-                "McNair,Robert William"
-            ],
-            "last_updated": "2015-05-04T16:00:21-04:00",
-            "room": "1101",
+            "title": "Principles of Environmental Design",
             "section": "LEC 001",
+            "instructors": [
+                "Boake,Terri"
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "18:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Introduction to Photography",
-            "weekdays": "T"
+            "room": "1101",
+            "end_time": "16:50",
+            "enrollment_total": 77,
+            "class_number": 8548,
+            "start_time": "14:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "273",
-            "class_number": 2925,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "212",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 72,
+            "title": "Digital Fabrication",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "12:50",
+            "enrollment_total": 81,
+            "class_number": 8549,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "260",
+            "end_date": null,
+            "title": "Principles of Structures",
+            "section": "LEC 001",
             "instructors": [
+                "English,Elizabeth"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "12:50",
+            "enrollment_total": 79,
+            "class_number": 4972,
+            "start_time": "09:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "260",
+            "end_date": null,
+            "title": "Principles of Structures",
+            "section": "LEC 001",
+            "instructors": [
+                "English,Elizabeth"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "15:50",
+            "enrollment_total": 79,
+            "class_number": 4972,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "263",
+            "end_date": null,
+            "title": "Integrated Enviro Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Lukachko,Christian Alexander",
                 "Schumacher,Christopher James"
             ],
-            "last_updated": "2015-05-04T16:00:21-04:00",
-            "room": "1101",
-            "section": "LEC 001",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Environmental Systems",
-            "weekdays": "F"
+            "room": "1101",
+            "end_time": "21:20",
+            "enrollment_total": 81,
+            "class_number": 8550,
+            "start_time": "18:30",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "276",
-            "class_number": 2921,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "342",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 69,
+            "title": "Modern Architecture",
+            "section": "LEC 001",
             "instructors": [
-                "Murphy,Andrea Gail",
-                "Bellini,Christian George V"
+                "Macdonald,Marie-Paule"
             ],
-            "last_updated": "2015-05-04T16:00:22-04:00",
-            "room": "1101",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Timber: Design, Structure and Construction",
-            "weekdays": "W"
-        },
-        {
-            "building": "ARC",
-            "catalog_number": "425",
-            "class_number": 2927,
-            "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 70,
-            "instructors": [
-                "Byrne,Fionn",
-                "Shelley,Elise"
-            ],
-            "last_updated": "2015-05-04T16:00:23-04:00",
             "room": "1101",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Theory and Design of the Contemporary Landscape",
-            "weekdays": "T"
-        },
-        {
-            "building": "ARC",
-            "catalog_number": "473",
-            "class_number": 2928,
-            "end_date": null,
             "end_time": "20:50",
-            "enrollment_total": 71,
-            "instructors": [
-                "Levitt,Andrew"
-            ],
-            "last_updated": "2015-05-04T16:00:24-04:00",
-            "room": "1101",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 60,
+            "class_number": 4993,
             "start_time": "18:00",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Technical Report",
-            "weekdays": "M"
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:09-04:00",
+            "catalog_number": "465",
+            "end_date": null,
+            "title": "Advanced Structures",
+            "section": "LEC 001",
+            "instructors": [
+                "English,Elizabeth"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "12:50",
+            "enrollment_total": 58,
+            "class_number": 8565,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:09-04:00",
+            "catalog_number": "465",
+            "end_date": null,
+            "title": "Advanced Structures",
+            "section": "TUT 101",
+            "instructors": [
+                "English,Elizabeth"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "15:50",
+            "enrollment_total": 58,
+            "class_number": 8566,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:22-04:00",
+            "catalog_number": "155",
+            "end_date": null,
+            "title": "Intensive Introductory Italian Language",
+            "section": "LEC 001",
+            "instructors": [
+                "Cauchi-Santoro,Roberta"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "19:50",
+            "enrollment_total": 13,
+            "class_number": 7555,
+            "start_time": "18:30",
+            "subject": "ITAL"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:50-04:00",
+            "catalog_number": "610",
+            "end_date": null,
+            "title": "Arch Research and Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "El Khafif,Mona"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "16:50",
+            "enrollment_total": 25,
+            "class_number": 5524,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:51-04:00",
+            "catalog_number": "642",
+            "end_date": null,
+            "title": "The Practice of Criticism in Creative Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Macdonald,Marie-Paule"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1101",
+            "end_time": "21:50",
+            "enrollment_total": 7,
+            "class_number": 8576,
+            "start_time": "19:00",
+            "subject": "ARCH"
         }
     ]
 }

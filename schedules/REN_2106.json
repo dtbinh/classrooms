@@ -2,143 +2,243 @@
     "data": [
         {
             "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
             "catalog_number": "201R",
-            "class_number": 4063,
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 62,
+            "title": "Introduction to East Asia",
+            "section": "LEC 001",
             "instructors": [
                 "Deng,Qingzhen"
             ],
-            "last_updated": "2015-05-04T16:00:56-04:00",
-            "room": "2106",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "EASIA",
-            "term": 1155,
-            "title": "Introduction to East Asia",
-            "weekdays": "M"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4020,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 70,
-            "instructors": [
-                "Shimoda,Fumie"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
             "room": "2106",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "T"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4047,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 71,
-            "instructors": [
-                "Shimoda,Fumie"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2106",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "T"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "102R",
-            "class_number": 4023,
-            "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 37,
-            "instructors": [
-                "Shimoda,Fumie"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2106",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 2",
-            "weekdays": "Th"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "443R",
-            "class_number": 4036,
-            "end_date": "06/30",
-            "end_time": "11:20",
-            "enrollment_total": 23,
-            "instructors": [
-                "Gallagher,Susan"
-            ],
-            "last_updated": "2015-05-04T16:02:25-04:00",
-            "room": "2106",
-            "section": "PRA 002",
-            "start_date": "04/09",
-            "start_time": "09:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Practicum 3",
-            "weekdays": "F"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "601R",
-            "class_number": 4876,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 11,
-            "instructors": [
-                "Rehm,Stefan"
-            ],
-            "last_updated": "2015-05-04T16:02:44-04:00",
-            "room": "2106",
-            "section": "LEC 002",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Speaking English for Professional Purposes",
-            "weekdays": "Th"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "601R",
-            "class_number": 4876,
-            "end_date": null,
             "end_time": "17:20",
-            "enrollment_total": 11,
+            "enrollment_total": 58,
+            "class_number": 6772,
+            "start_time": "14:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "201R",
+            "end_date": null,
+            "title": "Introduction to East Asia",
+            "section": "LEC 003",
             "instructors": [
-                "Rehm,Stefan"
+                "Bao,Huai"
             ],
-            "last_updated": "2015-05-04T16:02:44-04:00",
-            "room": "2106",
-            "section": "LEC 002",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Speaking English for Professional Purposes",
-            "weekdays": "M"
+            "room": "2106",
+            "end_time": "17:20",
+            "enrollment_total": 47,
+            "class_number": 6880,
+            "start_time": "14:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Shimoda,Fumie"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "11:20",
+            "enrollment_total": 71,
+            "class_number": 6733,
+            "start_time": "10:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Shimoda,Fumie"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "12:50",
+            "enrollment_total": 70,
+            "class_number": 6789,
+            "start_time": "11:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "First-Year Japanese 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Shimoda,Fumie"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "12:50",
+            "enrollment_total": 70,
+            "class_number": 6737,
+            "start_time": "11:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "14:20",
+            "enrollment_total": 75,
+            "class_number": 6741,
+            "start_time": "13:00",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Korean 1",
+            "section": "LEC 002",
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "19:50",
+            "enrollment_total": 74,
+            "class_number": 6780,
+            "start_time": "18:30",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "First-Year Korean 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "14:20",
+            "enrollment_total": 42,
+            "class_number": 6753,
+            "start_time": "13:00",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "250R",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 002",
+            "instructors": [
+                "Klinger,Jane Adair"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "10:20",
+            "enrollment_total": 39,
+            "class_number": 6806,
+            "start_time": "08:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Introduction to Sociology",
+            "section": "LEC 002",
+            "instructors": [
+                "Roberts,Sharon Elizabeth"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "17:20",
+            "enrollment_total": 47,
+            "class_number": 8330,
+            "start_time": "14:30",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "250R",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 002",
+            "instructors": [
+                "Klinger,Jane Adair"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 6787,
+            "start_time": "08:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:29-04:00",
+            "catalog_number": "441R",
+            "end_date": null,
+            "title": "Practicum 1",
+            "section": "PRA 003",
+            "instructors": [
+                "Jardine,Sandy"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2106",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 6777,
+            "start_time": "13:30",
+            "subject": "SWREN"
         }
     ]
 }

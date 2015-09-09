@@ -2,43 +2,243 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4048,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 23,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "32",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 001",
             "instructors": [
-                "Burns,Eri"
+                "Smithwick,Neal Andrew"
             ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
+            "weekdays": "M",
+            "start_date": "09/14",
             "room": "0201",
-            "section": "TUT 105",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "Th"
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 6841,
+            "start_time": "13:30",
+            "subject": "EFAS"
         },
         {
             "building": "REN",
-            "catalog_number": "201R",
-            "class_number": 4034,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
             "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "LEC 003",
+            "instructors": [
+                "Deng,Qingzhen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "15:50",
+            "enrollment_total": 21,
+            "class_number": 8311,
+            "start_time": "14:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "LEC 004",
+            "instructors": [
+                "Deng,Qingzhen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "17:20",
+            "enrollment_total": 22,
+            "class_number": 8313,
+            "start_time": "16:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 101",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "12:50",
+            "enrollment_total": 24,
+            "class_number": 6735,
+            "start_time": "11:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 6736,
+            "start_time": "13:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 103",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "15:50",
+            "enrollment_total": 23,
+            "class_number": 6773,
+            "start_time": "14:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 104",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 6784,
+            "start_time": "13:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 105",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 6791,
+            "start_time": "11:30",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 106",
+            "instructors": [
+                "Burns,Eri"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 6792,
+            "start_time": "10:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 107",
+            "instructors": [
+                "Deng,Qingzhen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 8312,
+            "start_time": "10:00",
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "First-Year Japanese 1",
+            "section": "TUT 108",
+            "instructors": [
+                "Deng,Qingzhen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0201",
             "end_time": "12:50",
             "enrollment_total": 22,
-            "instructors": [
-                "Kunizane,Kumiko"
-            ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "0201",
-            "section": "LEC 001",
-            "start_date": null,
+            "class_number": 8315,
             "start_time": "11:30",
-            "subject": "JAPAN",
-            "term": 1155,
+            "subject": "JAPAN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:23-04:00",
+            "catalog_number": "201R",
+            "end_date": null,
             "title": "Second-Year Japanese 1",
-            "weekdays": "MW"
+            "section": "LEC 002",
+            "instructors": [
+                "Deng,Qingzhen"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "0201",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 6825,
+            "start_time": "10:00",
+            "subject": "JAPAN"
         }
     ]
 }

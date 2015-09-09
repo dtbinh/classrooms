@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:49-04:00",
+            "catalog_number": "403",
+            "end_date": null,
+            "title": "Extended E-portfolio 1",
+            "section": "WSP 001",
+            "instructors": [
+                "Baltrusaitis,Jonathan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "3129",
+            "end_time": "16:50",
+            "enrollment_total": 63,
+            "class_number": 7841,
+            "start_time": "14:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:26-04:00",
+            "catalog_number": "612",
+            "end_date": null,
+            "title": "Working in Teams",
+            "section": "SEM 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "3129",
+            "end_time": "18:50",
+            "enrollment_total": 25,
+            "class_number": 8448,
+            "start_time": "16:00",
+            "subject": "DEI"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:26-04:00",
+            "catalog_number": "614",
+            "end_date": null,
+            "title": "Principles of Marketing in a Globalized World: Leveraging Digital Technology",
+            "section": "SEM 001",
+            "instructors": [
+                "Rodenburg,Kathleen"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3129",
+            "end_time": "18:50",
+            "enrollment_total": 26,
+            "class_number": 4012,
+            "start_time": "16:00",
+            "subject": "DEI"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:26-04:00",
+            "catalog_number": "625",
+            "end_date": null,
+            "title": "Media Innovation and Impact",
+            "section": "SEM 001",
+            "instructors": [
+                "Drummond,Glen Sinclair"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3129",
+            "end_time": "19:50",
+            "enrollment_total": 26,
+            "class_number": 4126,
+            "start_time": "17:00",
+            "subject": "DEI"
+        }
+    ]
+}

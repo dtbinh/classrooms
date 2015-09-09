@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:30-04:00",
+            "catalog_number": "650",
+            "end_date": null,
+            "title": "Research Methodology Vis Sci",
+            "section": "LEC 001",
+            "instructors": [
+                "Hutchings,Natalie",
+                "Simpson,Trefford"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2116",
+            "end_time": "10:20",
+            "enrollment_total": 8,
+            "class_number": 7535,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

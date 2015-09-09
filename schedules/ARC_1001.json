@@ -2,41 +2,163 @@
     "data": [
         {
             "building": "ARC",
-            "catalog_number": "247",
-            "class_number": 2920,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "100",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Winton,Tracey Eve"
-            ],
-            "last_updated": "2015-05-04T16:00:21-04:00",
-            "room": "1001",
+            "title": "An Introduction to Architecture",
             "section": "LEC 001",
+            "instructors": [
+                "van Pelt,Robert J"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Cultural History 4: Renaissance to Revolution",
-            "weekdays": "TF"
+            "room": "1001",
+            "end_time": "20:50",
+            "enrollment_total": 77,
+            "class_number": 4958,
+            "start_time": "18:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "442",
-            "class_number": 2929,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "142",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 69,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:00:24-04:00",
-            "room": "1001",
+            "title": "Cultural History 1: Iconography",
             "section": "LEC 001",
+            "instructors": [
+                "van Pelt,Robert J"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Modernisms: Twentieth Century Culture and Criticism",
-            "weekdays": "W"
+            "room": "1001",
+            "end_time": "12:50",
+            "enrollment_total": 77,
+            "class_number": 4959,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:07-04:00",
+            "catalog_number": "172",
+            "end_date": null,
+            "title": "Building Construction 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Boake,Terri"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "12:50",
+            "enrollment_total": 77,
+            "class_number": 4960,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "226",
+            "end_date": null,
+            "title": "Environmental Building Design",
+            "section": "LEC 001",
+            "instructors": [
+                "Boake,Terri"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "16:50",
+            "enrollment_total": 81,
+            "class_number": 4971,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "246",
+            "end_date": null,
+            "title": "Cultural History 3: Foundations of Europe",
+            "section": "LEC 001",
+            "instructors": [
+                "Bordeleau,Anne"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "16:50",
+            "enrollment_total": 81,
+            "class_number": 4961,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "246",
+            "end_date": null,
+            "title": "Cultural History 3: Foundations of Europe",
+            "section": "LEC 001",
+            "instructors": [
+                "Bordeleau,Anne"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "12:50",
+            "enrollment_total": 81,
+            "class_number": 4961,
+            "start_time": "10:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "327",
+            "end_date": null,
+            "title": "Architecture of the Urban Environment",
+            "section": "LEC 001",
+            "instructors": [
+                "Rynnimeri,Valerio"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "16:50",
+            "enrollment_total": 60,
+            "class_number": 4969,
+            "start_time": "14:00",
+            "subject": "ARCH"
+        },
+        {
+            "building": "ARC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:22-04:00",
+            "catalog_number": "155",
+            "end_date": null,
+            "title": "Intensive Introductory Italian Language",
+            "section": "LEC 001",
+            "instructors": [
+                "Cauchi-Santoro,Roberta"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1001",
+            "end_time": "19:50",
+            "enrollment_total": 13,
+            "class_number": 7555,
+            "start_time": "18:30",
+            "subject": "ITAL"
         }
     ]
 }

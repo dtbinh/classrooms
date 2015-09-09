@@ -2,23 +2,43 @@
     "data": [
         {
             "building": "RCH",
-            "catalog_number": "751",
-            "class_number": 4952,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:03-04:00",
+            "catalog_number": "123L",
             "end_date": null,
-            "end_time": "16:50",
-            "enrollment_total": 13,
+            "title": "Field Methods in Hydrology",
+            "section": "LAB 002",
             "instructors": [
-                "Alaefour,Ibrahim"
+                "Conant Jr,Brewster"
             ],
-            "last_updated": "2015-05-04T16:02:51-04:00",
-            "room": "208",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "14:00",
-            "subject": "ME",
-            "term": 1155,
-            "title": "Fuel Cell Technology",
-            "weekdays": "W"
+            "room": "208",
+            "end_time": "16:20",
+            "enrollment_total": 20,
+            "class_number": 7345,
+            "start_time": "14:30",
+            "subject": "EARTH"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:17-04:00",
+            "catalog_number": "432",
+            "end_date": null,
+            "title": "Conflict Management",
+            "section": "LEC 001",
+            "instructors": [
+                "Hartling,Shannon Lee"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "208",
+            "end_time": "14:20",
+            "enrollment_total": 30,
+            "class_number": 3977,
+            "start_time": "11:30",
+            "subject": "SPCOM"
         }
     ]
 }

@@ -1,0 +1,184 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "32",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Eby,Tanya"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "12:20",
+            "enrollment_total": 15,
+            "class_number": 6868,
+            "start_time": "10:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "46",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Gillies,Christine"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "14:50",
+            "enrollment_total": 13,
+            "class_number": 6877,
+            "start_time": "13:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:45-04:00",
+            "catalog_number": "202R",
+            "end_date": null,
+            "title": "Second-Year Chinese 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Ha,Yue"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "09:50",
+            "enrollment_total": 11,
+            "class_number": 6774,
+            "start_time": "08:30",
+            "subject": "CHINA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:22-04:00",
+            "catalog_number": "102R",
+            "end_date": null,
+            "title": "Error Correct - Acad Writing",
+            "section": "LEC 003",
+            "instructors": [
+                "Heeney,Margaret Christine"
+            ],
+            "weekdays": "MTTh",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "15:50",
+            "enrollment_total": 24,
+            "class_number": 8282,
+            "start_time": "14:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:22-04:00",
+            "catalog_number": "129R",
+            "end_date": null,
+            "title": "Written Academic English",
+            "section": "LEC 006",
+            "instructors": [
+                "Smithwick,Neal Andrew"
+            ],
+            "weekdays": "MTTh",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "09:50",
+            "enrollment_total": 20,
+            "class_number": 8542,
+            "start_time": "08:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "140R",
+            "end_date": null,
+            "title": "The Use of English 1",
+            "section": "LEC 003",
+            "instructors": [
+                "Vardon,John F"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "11:20",
+            "enrollment_total": 25,
+            "class_number": 3456,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:48-04:00",
+            "catalog_number": "440R",
+            "end_date": null,
+            "title": "Optimal Living",
+            "section": "SEM 001",
+            "instructors": [
+                "Peretta,James G."
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 8321,
+            "start_time": "11:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "602R",
+            "end_date": null,
+            "title": "Schol Writing in Engl",
+            "section": "LEC 001",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "12:50",
+            "enrollment_total": 15,
+            "class_number": 8299,
+            "start_time": "11:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "602R",
+            "end_date": null,
+            "title": "Schol Writing in Engl",
+            "section": "LEC 001",
+            "instructors": [
+                "Rehm,Stefan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2926",
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "class_number": 8299,
+            "start_time": "11:30",
+            "subject": "EMLS"
+        }
+    ]
+}

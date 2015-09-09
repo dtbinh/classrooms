@@ -1,0 +1,242 @@
+{
+    "data": [
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:49-04:00",
+            "catalog_number": "261",
+            "end_date": null,
+            "title": "Great Works: Ancient and Medieval",
+            "section": "LEC 001",
+            "instructors": [
+                "Tremblay,Bruno"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "15:50",
+            "enrollment_total": 5,
+            "class_number": 7811,
+            "start_time": "14:30",
+            "subject": "CLAS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:26-04:00",
+            "catalog_number": "100B",
+            "end_date": null,
+            "title": "Poetry",
+            "section": "LEC 001",
+            "instructors": [
+                "Williams,David-Antoine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "11:20",
+            "enrollment_total": 31,
+            "class_number": 3970,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "119",
+            "end_date": null,
+            "title": "Communications in Mathematics & Computer Science",
+            "section": "LEC 002",
+            "instructors": [
+                "Humphreys,Sara Megan"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "14:20",
+            "enrollment_total": 24,
+            "class_number": 3542,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:28-04:00",
+            "catalog_number": "206",
+            "end_date": null,
+            "title": "Autobiography",
+            "section": "LEC 001",
+            "instructors": [
+                "Acton,Carol"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "12:50",
+            "enrollment_total": 14,
+            "class_number": 8000,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:28-04:00",
+            "catalog_number": "210H",
+            "end_date": null,
+            "title": "Arts Writing",
+            "section": "LEC 001",
+            "instructors": [
+                "Challen,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "21:50",
+            "enrollment_total": 18,
+            "class_number": 3616,
+            "start_time": "19:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "251A",
+            "end_date": null,
+            "title": "Criticism 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Wriglesworth,Chad"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 3469,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:32-04:00",
+            "catalog_number": "371",
+            "end_date": null,
+            "title": "Editing Literary Works",
+            "section": "LEC 001",
+            "instructors": [
+                "Connolly,Tristanne"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "11:20",
+            "enrollment_total": 20,
+            "class_number": 4388,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:21-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Italian Language 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Niccoli,Gabriel A"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "12:50",
+            "enrollment_total": 32,
+            "class_number": 7540,
+            "start_time": "11:30",
+            "subject": "ITAL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:43-04:00",
+            "catalog_number": "100J",
+            "end_date": null,
+            "title": "Introduction to Philosophy",
+            "section": "LEC 002",
+            "instructors": [
+                "Gregoire,Stephanie"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "15:50",
+            "enrollment_total": 21,
+            "class_number": 3409,
+            "start_time": "14:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:47-04:00",
+            "catalog_number": "250A",
+            "end_date": null,
+            "title": "Great Works: Ancient and Medieval",
+            "section": "LEC 001",
+            "instructors": [
+                "Tremblay,Bruno"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "15:50",
+            "enrollment_total": 14,
+            "class_number": 7812,
+            "start_time": "14:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:38-04:00",
+            "catalog_number": "150",
+            "end_date": null,
+            "title": "Christian Ethics",
+            "section": "LEC 001",
+            "instructors": [
+                "Perrin,David B"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 3843,
+            "start_time": "16:00",
+            "subject": "RS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "216",
+            "end_date": null,
+            "title": "Islam",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2011",
+            "end_time": "21:20",
+            "enrollment_total": 18,
+            "class_number": 8119,
+            "start_time": "18:30",
+            "subject": "RS"
+        }
+    ]
+}

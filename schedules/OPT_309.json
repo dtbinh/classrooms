@@ -2,64 +2,245 @@
     "data": [
         {
             "building": "OPT",
-            "catalog_number": "412",
-            "class_number": 4100,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:57-04:00",
+            "catalog_number": "349",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 30,
+            "title": "User Interfaces",
+            "section": "LEC 001",
             "instructors": [
-                "Randhawa,Sandip",
+                "Becker,Byron Weber"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "309",
+            "end_time": "13:20",
+            "enrollment_total": 55,
+            "class_number": 6602,
+            "start_time": "12:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:57-04:00",
+            "catalog_number": "349",
+            "end_date": null,
+            "title": "User Interfaces",
+            "section": "LEC 002",
+            "instructors": [
+                "Becker,Byron Weber"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "309",
+            "end_time": "14:20",
+            "enrollment_total": 55,
+            "class_number": 6603,
+            "start_time": "13:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:58-04:00",
+            "catalog_number": "432",
+            "end_date": null,
+            "title": "Business Systems Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Safayeni,Suzanne"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "309",
+            "end_time": "09:50",
+            "enrollment_total": 50,
+            "class_number": 6052,
+            "start_time": "08:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:58-04:00",
+            "catalog_number": "436",
+            "end_date": null,
+            "title": "Networks and Distributed Computer Systems",
+            "section": "LEC 001",
+            "instructors": [
+                "Limam,Noura"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "309",
+            "end_time": "15:50",
+            "enrollment_total": 37,
+            "class_number": 6686,
+            "start_time": "14:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "412",
+            "end_date": null,
+            "title": "Case Analysis 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Hudson,Christopher",
                 "Maciver,Sarah"
             ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "309",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
+            "room": "309",
+            "end_time": "12:20",
+            "enrollment_total": 29,
+            "class_number": 7059,
             "start_time": "09:30",
-            "subject": "OPTOM",
-            "term": 1155,
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "412",
+            "end_date": null,
             "title": "Case Analysis 3",
-            "weekdays": "Th"
-        },
-        {
-            "building": "OPT",
-            "catalog_number": "460",
-            "class_number": 4129,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 0,
+            "section": "TUT 101",
             "instructors": [
-                "Choh,Vivian"
+                "Maciver,Sarah",
+                "Hudson,Christopher"
             ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "309",
-            "section": "LEC 002",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "OPTOM",
-            "term": 1155,
-            "title": "Advanced Study Topics",
-            "weekdays": "F"
+            "room": "309",
+            "end_time": "15:50",
+            "enrollment_total": 29,
+            "class_number": 7529,
+            "start_time": "13:00",
+            "subject": "OPTOM"
         },
         {
             "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:25-04:00",
             "catalog_number": "477",
-            "class_number": 4127,
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 30,
+            "title": "Clinical Techniques 4",
+            "section": "LEC 001",
             "instructors": [
                 "Furtado,Nadine"
             ],
-            "last_updated": "2015-05-04T16:01:51-04:00",
-            "room": "309",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
+            "room": "309",
+            "end_time": "11:50",
+            "enrollment_total": 29,
+            "class_number": 7060,
             "start_time": "09:00",
-            "subject": "OPTOM",
-            "term": 1155,
-            "title": "Clinical Techniques 4",
-            "weekdays": "T"
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:18-04:00",
+            "catalog_number": "636",
+            "end_date": null,
+            "title": "Intro to Networks & Distr Syst",
+            "section": "LEC 001",
+            "instructors": [
+                "Limam,Noura"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "309",
+            "end_time": "15:50",
+            "enrollment_total": 0,
+            "class_number": 6706,
+            "start_time": "14:30",
+            "subject": "CS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:14-04:00",
+            "catalog_number": "605B",
+            "end_date": "10/23",
+            "title": "Correlation and Regression",
+            "section": "LEC 001",
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "309",
+            "end_time": "11:20",
+            "enrollment_total": 23,
+            "class_number": 3188,
+            "start_time": "08:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:14-04:00",
+            "catalog_number": "605C",
+            "end_date": "12/04",
+            "title": "Logistic Regression and Its Application",
+            "section": "LEC 001",
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "weekdays": "F",
+            "start_date": "10/26",
+            "room": "309",
+            "end_time": "11:20",
+            "enrollment_total": 21,
+            "class_number": 3215,
+            "start_time": "08:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:20-04:00",
+            "catalog_number": "631C",
+            "end_date": "10/23",
+            "title": "Correlation and Regression",
+            "section": "LEC 001",
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "weekdays": "F",
+            "start_date": "09/14",
+            "room": "309",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 3190,
+            "start_time": "08:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:20-04:00",
+            "catalog_number": "631D",
+            "end_date": "12/04",
+            "title": "Logistic Regression and Its Application",
+            "section": "LEC 001",
+            "instructors": [
+                "Dawoud,Dina"
+            ],
+            "weekdays": "F",
+            "start_date": "10/26",
+            "room": "309",
+            "end_time": "11:20",
+            "enrollment_total": 9,
+            "class_number": 3214,
+            "start_time": "08:30",
+            "subject": "KIN"
         }
     ]
 }

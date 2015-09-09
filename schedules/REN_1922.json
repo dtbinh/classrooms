@@ -2,23 +2,139 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "129R",
-            "class_number": 4068,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:45-04:00",
+            "catalog_number": "301R",
             "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 0,
-            "instructors": [
-                "Schuller,Christa"
-            ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "1922",
-            "section": "LEC 002",
+            "title": "Third-Year Chinese 1",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "TTh",
             "start_date": null,
+            "room": "1922",
+            "end_time": "12:50",
+            "enrollment_total": 12,
+            "class_number": 6779,
             "start_time": "11:30",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Written Academic English",
-            "weekdays": "MTTh"
+            "subject": "CHINA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "42",
+            "end_date": "12/04",
+            "title": "Academic Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Maluckov,Nela"
+            ],
+            "weekdays": "TF",
+            "start_date": "09/14",
+            "room": "1922",
+            "end_time": "10:50",
+            "enrollment_total": 0,
+            "class_number": 6819,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "42",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Maluckov,Nela"
+            ],
+            "weekdays": "WTh",
+            "start_date": "09/14",
+            "room": "1922",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "class_number": 6819,
+            "start_time": "09:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "44",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "weekdays": "MW",
+            "start_date": "09/14",
+            "room": "1922",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 6820,
+            "start_time": "13:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "44",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "weekdays": "Th",
+            "start_date": "09/14",
+            "room": "1922",
+            "end_time": "14:50",
+            "enrollment_total": 0,
+            "class_number": 6820,
+            "start_time": "13:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "46",
+            "end_date": "12/11",
+            "title": "Oral Skills",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": "09/14",
+            "room": "1922",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "class_number": 6821,
+            "start_time": "09:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 007",
+            "instructors": [
+                "Pop,Maria Victoria"
+            ],
+            "weekdays": "MTTh",
+            "start_date": null,
+            "room": "1922",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 8534,
+            "start_time": "16:00",
+            "subject": "EMLS"
         }
     ]
 }

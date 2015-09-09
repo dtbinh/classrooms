@@ -2,23 +2,123 @@
     "data": [
         {
             "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:39-04:00",
             "catalog_number": "100",
-            "class_number": 2596,
+            "end_date": "12/04",
+            "title": "Studio Fundamentals",
+            "section": "STU 001",
+            "instructors": [
+                "Kirton,Douglas"
+            ],
+            "weekdays": "MW",
+            "start_date": "09/14",
+            "room": "1218",
+            "end_time": "15:20",
+            "enrollment_total": 21,
+            "class_number": 3981,
+            "start_time": "13:00",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:39-04:00",
+            "catalog_number": "100",
             "end_date": null,
+            "title": "Studio Fundamentals",
+            "section": "STU 002",
+            "instructors": [
+                "Cluett,Cora"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1218",
+            "end_time": "11:50",
+            "enrollment_total": 20,
+            "class_number": 3982,
+            "start_time": "09:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:39-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Studio Fundamentals",
+            "section": "STU 003",
+            "instructors": [
+                "Andison,Lois"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1218",
+            "end_time": "17:50",
+            "enrollment_total": 13,
+            "class_number": 3983,
+            "start_time": "15:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:39-04:00",
+            "catalog_number": "100",
+            "end_date": null,
+            "title": "Studio Fundamentals",
+            "section": "STU 004",
+            "instructors": [
+                "Glover,Adam"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1218",
+            "end_time": "20:50",
+            "enrollment_total": 18,
+            "class_number": 3984,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "224",
+            "end_date": null,
+            "title": "Expressive Drawing",
+            "section": "STU 001",
+            "instructors": [
+                "Birke,Lisa"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1218",
+            "end_time": "20:50",
+            "enrollment_total": 23,
+            "class_number": 8418,
+            "start_time": "18:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "274",
+            "end_date": null,
+            "title": "Figure and Anatomy",
+            "section": "STU 001",
+            "instructors": [
+                "Carson,Linda Christine"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "1218",
             "end_time": "11:50",
             "enrollment_total": 24,
-            "instructors": [
-                "Dignan,Paul"
-            ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "1218",
-            "section": "STU 001",
-            "start_date": null,
+            "class_number": 3986,
             "start_time": "09:30",
-            "subject": "FINE",
-            "term": 1155,
-            "title": "Studio Fundamentals",
-            "weekdays": "TTh"
+            "subject": "FINE"
         }
     ]
 }

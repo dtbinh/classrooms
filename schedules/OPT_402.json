@@ -1,0 +1,206 @@
+{
+    "data": [
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "245L",
+            "end_date": null,
+            "title": "Diseases of the Eye 1 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "402",
+            "end_time": "11:20",
+            "enrollment_total": 44,
+            "class_number": 7307,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:21-04:00",
+            "catalog_number": "245L",
+            "end_date": null,
+            "title": "Diseases of the Eye 1 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "402",
+            "end_time": "16:20",
+            "enrollment_total": 45,
+            "class_number": 7308,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252L",
+            "end_date": null,
+            "title": "Clinical Techniques 2 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "402",
+            "end_time": "12:20",
+            "enrollment_total": 45,
+            "class_number": 7251,
+            "start_time": "09:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:22-04:00",
+            "catalog_number": "252L",
+            "end_date": null,
+            "title": "Clinical Techniques 2 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Hadley,Ken Douglas"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "402",
+            "end_time": "16:20",
+            "enrollment_total": 44,
+            "class_number": 7252,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347L",
+            "end_date": null,
+            "title": "Contact Lenses 1 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Robinson,Barbara E"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "402",
+            "end_time": "15:20",
+            "enrollment_total": 47,
+            "class_number": 7253,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:23-04:00",
+            "catalog_number": "347L",
+            "end_date": null,
+            "title": "Contact Lenses 1 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Robinson,Barbara E"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "402",
+            "end_time": "15:20",
+            "enrollment_total": 46,
+            "class_number": 7254,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "375L",
+            "end_date": null,
+            "title": "Diseases of the Eye 3 Laboratory",
+            "section": "LAB 001",
+            "instructors": [
+                "Maciver,Sarah"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "402",
+            "end_time": "15:20",
+            "enrollment_total": 46,
+            "class_number": 7255,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "375L",
+            "end_date": null,
+            "title": "Diseases of the Eye 3 Laboratory",
+            "section": "LAB 002",
+            "instructors": [
+                "Maciver,Sarah"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "402",
+            "end_time": "17:20",
+            "enrollment_total": 47,
+            "class_number": 7256,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Gerontology and Low Vision",
+            "section": "LAB 101",
+            "instructors": [
+                "Leat,Susan",
+                "Labreche,Tammy"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "402",
+            "end_time": "12:20",
+            "enrollment_total": 47,
+            "class_number": 7079,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Gerontology and Low Vision",
+            "section": "LAB 102",
+            "instructors": [
+                "Leat,Susan",
+                "Labreche,Tammy"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "402",
+            "end_time": "12:20",
+            "enrollment_total": 46,
+            "class_number": 7080,
+            "start_time": "10:30",
+            "subject": "OPTOM"
+        }
+    ]
+}

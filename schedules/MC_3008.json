@@ -2,43 +2,63 @@
     "data": [
         {
             "building": "MC",
-            "catalog_number": "360",
-            "class_number": 3668,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:21-04:00",
+            "catalog_number": "337",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 32,
+            "title": "Introduction to Medical Statistics",
+            "section": "TUT 101",
             "instructors": [
-                "Dickey,Leroy J"
+                "Cotton,Cecilia Anne"
             ],
-            "last_updated": "2015-05-04T16:02:04-04:00",
-            "room": "3008",
-            "section": "LAB 101",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "PMATH",
-            "term": 1155,
-            "title": "Geometry",
-            "weekdays": "F"
+            "room": "3008",
+            "end_time": "17:20",
+            "enrollment_total": 30,
+            "class_number": 6475,
+            "start_time": "16:30",
+            "subject": "STAT"
         },
         {
             "building": "MC",
-            "catalog_number": "360",
-            "class_number": 3712,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:21-04:00",
+            "catalog_number": "337",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 32,
+            "title": "Introduction to Medical Statistics",
+            "section": "TUT 102",
             "instructors": [
-                "Dickey,Leroy J"
+                "Cotton,Cecilia Anne"
             ],
-            "last_updated": "2015-05-04T16:02:04-04:00",
-            "room": "3008",
-            "section": "LAB 102",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "PMATH",
-            "term": 1155,
-            "title": "Geometry",
-            "weekdays": "M"
+            "room": "3008",
+            "end_time": "13:20",
+            "enrollment_total": 30,
+            "class_number": 6665,
+            "start_time": "12:30",
+            "subject": "STAT"
+        },
+        {
+            "building": "MC",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:21-04:00",
+            "catalog_number": "337",
+            "end_date": null,
+            "title": "Introduction to Medical Statistics",
+            "section": "TUT 103",
+            "instructors": [
+                "Cotton,Cecilia Anne"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3008",
+            "end_time": "14:20",
+            "enrollment_total": 10,
+            "class_number": 8603,
+            "start_time": "13:30",
+            "subject": "STAT"
         }
     ]
 }

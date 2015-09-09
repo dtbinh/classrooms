@@ -2,303 +2,403 @@
     "data": [
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4296,
-            "end_date": "05/12",
-            "end_time": "21:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "09/29",
+            "title": "Optics Laboratory",
             "section": "LAB 001",
-            "start_date": "05/12",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "T"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "09/29",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 21,
+            "class_number": 7360,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4296,
-            "end_date": "05/26",
-            "end_time": "21:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/13",
+            "title": "Optics Laboratory",
             "section": "LAB 001",
-            "start_date": "05/26",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "T"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/13",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 21,
+            "class_number": 7360,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4296,
-            "end_date": "06/09",
-            "end_time": "21:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/27",
+            "title": "Optics Laboratory",
             "section": "LAB 001",
-            "start_date": "06/09",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "T"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "10/27",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 21,
+            "class_number": 7360,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4296,
-            "end_date": "06/23",
-            "end_time": "21:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/10",
+            "title": "Optics Laboratory",
             "section": "LAB 001",
-            "start_date": "06/23",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "T"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/10",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 21,
+            "class_number": 7360,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4296,
-            "end_date": "07/07",
-            "end_time": "21:50",
-            "enrollment_total": 9,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/24",
+            "title": "Optics Laboratory",
             "section": "LAB 001",
-            "start_date": "07/07",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "T"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "T",
+            "start_date": "11/24",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 21,
+            "class_number": 7360,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4321,
-            "end_date": "05/13",
-            "end_time": "21:50",
-            "enrollment_total": 10,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "09/30",
+            "title": "Optics Laboratory",
             "section": "LAB 002",
-            "start_date": "05/13",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "W"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "09/30",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 7361,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4321,
-            "end_date": "05/27",
-            "end_time": "21:50",
-            "enrollment_total": 10,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/14",
+            "title": "Optics Laboratory",
             "section": "LAB 002",
-            "start_date": "05/27",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "W"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/14",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 7361,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4321,
-            "end_date": "06/10",
-            "end_time": "21:50",
-            "enrollment_total": 10,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/28",
+            "title": "Optics Laboratory",
             "section": "LAB 002",
-            "start_date": "06/10",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "W"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "10/28",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 7361,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4321,
-            "end_date": "06/24",
-            "end_time": "21:50",
-            "enrollment_total": 10,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/11",
+            "title": "Optics Laboratory",
             "section": "LAB 002",
-            "start_date": "06/24",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "W"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/11",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 7361,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4321,
-            "end_date": "07/08",
-            "end_time": "21:50",
-            "enrollment_total": 10,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/25",
+            "title": "Optics Laboratory",
             "section": "LAB 002",
-            "start_date": "07/08",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "W"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "W",
+            "start_date": "11/25",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 19,
+            "class_number": 7361,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4329,
-            "end_date": "05/14",
-            "end_time": "21:50",
-            "enrollment_total": 8,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/01",
+            "title": "Optics Laboratory",
             "section": "LAB 003",
-            "start_date": "05/14",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "Th"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/01",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7362,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4329,
-            "end_date": "05/28",
-            "end_time": "21:50",
-            "enrollment_total": 8,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/15",
+            "title": "Optics Laboratory",
             "section": "LAB 003",
-            "start_date": "05/28",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "Th"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/15",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7362,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4329,
-            "end_date": "06/11",
-            "end_time": "21:50",
-            "enrollment_total": 8,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/29",
+            "title": "Optics Laboratory",
             "section": "LAB 003",
-            "start_date": "06/11",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "Th"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "10/29",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7362,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4329,
-            "end_date": "06/25",
-            "end_time": "21:50",
-            "enrollment_total": 8,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/12",
+            "title": "Optics Laboratory",
             "section": "LAB 003",
-            "start_date": "06/25",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "Th"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "11/12",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7362,
+            "start_time": "14:30",
+            "subject": "PHYS"
         },
         {
             "building": "PHY",
-            "catalog_number": "270L",
-            "class_number": 4329,
-            "end_date": "07/09",
-            "end_time": "21:50",
-            "enrollment_total": 8,
-            "instructors": [
-                "Dinh,Tan Ngoc N"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "321",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/26",
+            "title": "Optics Laboratory",
             "section": "LAB 003",
-            "start_date": "07/09",
-            "start_time": "19:00",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory",
-            "weekdays": "Th"
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "Th",
+            "start_date": "11/26",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7362,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/02",
+            "title": "Optics Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "10/02",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7521,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/16",
+            "title": "Optics Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7521,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "10/30",
+            "title": "Optics Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "10/30",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7521,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/13",
+            "title": "Optics Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "11/13",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7521,
+            "start_time": "14:30",
+            "subject": "PHYS"
+        },
+        {
+            "building": "PHY",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:56-04:00",
+            "catalog_number": "256L",
+            "end_date": "11/27",
+            "title": "Optics Laboratory",
+            "section": "LAB 004",
+            "instructors": [
+                "Gardiner,Jeff"
+            ],
+            "weekdays": "F",
+            "start_date": "11/27",
+            "room": "321",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 7521,
+            "start_time": "14:30",
+            "subject": "PHYS"
         }
     ]
 }

@@ -2,43 +2,121 @@
     "data": [
         {
             "building": "CPH",
-            "catalog_number": "486",
-            "class_number": 2794,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:42-04:00",
+            "catalog_number": "370",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 16,
-            "instructors": [
-                "Soulis,Eric D"
-            ],
-            "last_updated": "2015-05-04T16:00:44-04:00",
-            "room": "3602",
+            "title": "Introduction to Polymer Science",
             "section": "LEC 001",
+            "instructors": [
+                "Gauthier,Mario"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CIVE",
-            "term": 1155,
-            "title": "Hydrology",
-            "weekdays": "WF"
+            "room": "3602",
+            "end_time": "09:50",
+            "enrollment_total": 36,
+            "class_number": 7266,
+            "start_time": "08:30",
+            "subject": "CHEM"
         },
         {
             "building": "CPH",
-            "catalog_number": "724",
-            "class_number": 4813,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:51-04:00",
+            "catalog_number": "485",
             "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 3,
-            "instructors": [
-                "Dimitrov,Stanko"
-            ],
-            "last_updated": "2015-05-04T16:02:52-04:00",
-            "room": "3602",
+            "title": "The Mathematics of Public-Key Cryptography",
             "section": "LEC 001",
+            "instructors": [
+                "Jao,David"
+            ],
+            "weekdays": "MWF",
             "start_date": null,
+            "room": "3602",
+            "end_time": "14:20",
+            "enrollment_total": 9,
+            "class_number": 5978,
+            "start_time": "13:30",
+            "subject": "CO"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:52-04:00",
+            "catalog_number": "431",
+            "end_date": null,
+            "title": "Project Management",
+            "section": "LEC 001",
+            "instructors": [
+                "Liu,Zhiyong Michael"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3602",
+            "end_time": "11:20",
+            "enrollment_total": 17,
+            "class_number": 6485,
             "start_time": "10:00",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Info. Procurement Mechanisms",
-            "weekdays": "Th"
+            "subject": "COMM"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:41-04:00",
+            "catalog_number": "115",
+            "end_date": null,
+            "title": "Linear Algebra for Engineering",
+            "section": "TUT 101",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "3602",
+            "end_time": "15:20",
+            "enrollment_total": 50,
+            "class_number": 5992,
+            "start_time": "13:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:59-04:00",
+            "catalog_number": "770",
+            "end_date": null,
+            "title": "Principles of Polymer Science",
+            "section": "LEC 001",
+            "instructors": [
+                "Gauthier,Mario"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3602",
+            "end_time": "09:50",
+            "enrollment_total": 4,
+            "class_number": 8601,
+            "start_time": "08:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "CPH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:14-04:00",
+            "catalog_number": "685",
+            "end_date": null,
+            "title": "The Mathematics of Public-Key Cryptography",
+            "section": "LEC 001",
+            "instructors": [
+                "Jao,David"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "3602",
+            "end_time": "14:20",
+            "enrollment_total": 12,
+            "class_number": 6128,
+            "start_time": "13:30",
+            "subject": "CO"
         }
     ]
 }

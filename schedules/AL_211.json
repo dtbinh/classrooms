@@ -2,143 +2,303 @@
     "data": [
         {
             "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:15-04:00",
             "catalog_number": "201",
-            "class_number": 2404,
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 98,
-            "instructors": [
-                "Rajsic,Predrag"
-            ],
-            "last_updated": "2015-05-04T16:01:05-04:00",
-            "room": "211",
-            "section": "LEC 003",
-            "start_date": null,
-            "start_time": "16:00",
-            "subject": "ECON",
-            "term": 1155,
             "title": "Microeconomic Theory 1",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "AL",
-            "catalog_number": "220",
-            "class_number": 2208,
-            "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 68,
-            "instructors": [
-                "Nunez,Camelia Gianina"
-            ],
-            "last_updated": "2015-05-04T16:01:06-04:00",
-            "room": "211",
             "section": "LEC 001",
+            "instructors": [
+                "Curtis,Lori J"
+            ],
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "ECON",
-            "term": 1155,
-            "title": "The Principles of Entrepreneurship",
-            "weekdays": "TTh"
+            "room": "211",
+            "end_time": "21:20",
+            "enrollment_total": 59,
+            "class_number": 3466,
+            "start_time": "18:30",
+            "subject": "ECON"
         },
         {
             "building": "AL",
-            "catalog_number": "302",
-            "class_number": 2526,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:15-04:00",
+            "catalog_number": "201",
             "end_date": null,
-            "end_time": "11:20",
+            "title": "Microeconomic Theory 1",
+            "section": "LEC 003",
+            "instructors": [
+                "Ghaziaskar,Mohamad"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "09:50",
+            "enrollment_total": 77,
+            "class_number": 3468,
+            "start_time": "08:30",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:15-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Microeconomic Theory 1",
+            "section": "LEC 004",
+            "instructors": [
+                "Legree,Scott"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "211",
+            "end_time": "21:20",
             "enrollment_total": 85,
+            "class_number": 3834,
+            "start_time": "18:30",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:16-04:00",
+            "catalog_number": "202",
+            "end_date": null,
+            "title": "Macroeconomic Theory 1",
+            "section": "LEC 004",
+            "instructors": [
+                "Zhou,Chenggang Mark"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "15:50",
+            "enrollment_total": 25,
+            "class_number": 4072,
+            "start_time": "14:30",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:16-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "Introduction to International Economics",
+            "section": "LEC 002",
+            "instructors": [
+                "Liaqat,Zara"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "14:20",
+            "enrollment_total": 85,
+            "class_number": 3833,
+            "start_time": "13:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:17-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Microeconomic Theory 2",
+            "section": "LEC 002",
+            "instructors": [
+                "Van de Waal,Cornelis Howard"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "17:20",
+            "enrollment_total": 89,
+            "class_number": 3887,
+            "start_time": "16:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:17-04:00",
+            "catalog_number": "302",
+            "end_date": null,
+            "title": "Macroeconomic Theory 2",
+            "section": "LEC 002",
             "instructors": [
                 "Fatima,Nafeez"
             ],
-            "last_updated": "2015-05-04T16:01:07-04:00",
-            "room": "211",
-            "section": "LEC 001",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "ECON",
-            "term": 1155,
-            "title": "Macroeconomic Theory 2",
-            "weekdays": "TTh"
+            "room": "211",
+            "end_time": "21:20",
+            "enrollment_total": 40,
+            "class_number": 4124,
+            "start_time": "18:30",
+            "subject": "ECON"
         },
         {
             "building": "AL",
-            "catalog_number": "372",
-            "class_number": 2213,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:17-04:00",
+            "catalog_number": "321",
             "end_date": null,
-            "end_time": "21:50",
-            "enrollment_total": 55,
-            "instructors": [
-                "Tharmalingam,Pirapagaran"
-            ],
-            "last_updated": "2015-05-04T16:01:08-04:00",
-            "room": "211",
+            "title": "Introduction to Econometrics",
             "section": "LEC 001",
+            "instructors": [
+                "Skuterud,Mikal"
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "19:00",
-            "subject": "ECON",
-            "term": 1155,
-            "title": "Business Finance 2",
-            "weekdays": "T"
-        },
-        {
-            "building": "AL",
-            "catalog_number": "230",
-            "class_number": 2391,
-            "end_date": "06/12",
-            "end_time": "11:20",
-            "enrollment_total": 34,
-            "instructors": [
-                "Momani,Bessma"
-            ],
-            "last_updated": "2015-05-04T16:01:25-04:00",
             "room": "211",
-            "section": "LEC 001",
-            "start_date": "05/06",
-            "start_time": "09:30",
-            "subject": "HIST",
-            "term": 1155,
-            "title": "Introduction to the Modern Middle East",
-            "weekdays": "WF"
-        },
-        {
-            "building": "AL",
-            "catalog_number": "257",
-            "class_number": 2449,
-            "end_date": "06/12",
-            "end_time": "11:20",
-            "enrollment_total": 45,
-            "instructors": [
-                "Momani,Bessma"
-            ],
-            "last_updated": "2015-05-04T16:02:05-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": "05/06",
-            "start_time": "09:30",
-            "subject": "PSCI",
-            "term": 1155,
-            "title": "Introduction to the Modern Middle East",
-            "weekdays": "WF"
-        },
-        {
-            "building": "AL",
-            "catalog_number": "353",
-            "class_number": 2639,
-            "end_date": null,
             "end_time": "15:50",
-            "enrollment_total": 58,
-            "instructors": [
-                "Spencer,Stephen J"
-            ],
-            "last_updated": "2015-05-04T16:02:07-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 39,
+            "class_number": 3701,
             "start_time": "14:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Social Cognition",
-            "weekdays": "MW"
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:18-04:00",
+            "catalog_number": "344",
+            "end_date": null,
+            "title": "Marketing: Principles of Marketing and Consumer Economics",
+            "section": "LEC 003",
+            "instructors": [
+                "Rodenburg,Kathleen"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "14:20",
+            "enrollment_total": 97,
+            "class_number": 3852,
+            "start_time": "13:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:37-04:00",
+            "catalog_number": "315",
+            "end_date": null,
+            "title": "Environmental and Sustainability Assessment II",
+            "section": "LEC 001",
+            "instructors": [
+                "Kirchhoff,Denis"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "211",
+            "end_time": "12:20",
+            "enrollment_total": 95,
+            "class_number": 5644,
+            "start_time": "10:30",
+            "subject": "ERS"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:55-04:00",
+            "catalog_number": "309",
+            "end_date": null,
+            "title": "Physical Climatology",
+            "section": "LEC 001",
+            "instructors": [
+                "LeDrew,Ellsworth F"
+            ],
+            "weekdays": "TW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "12:50",
+            "enrollment_total": 69,
+            "class_number": 5596,
+            "start_time": "11:30",
+            "subject": "GEOG"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:47-04:00",
+            "catalog_number": "256",
+            "end_date": null,
+            "title": "Introduction to Cognitive Science",
+            "section": "LEC 001",
+            "instructors": [
+                "Thagard,Paul"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "09:50",
+            "enrollment_total": 22,
+            "class_number": 7992,
+            "start_time": "08:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:19-04:00",
+            "catalog_number": "256",
+            "end_date": null,
+            "title": "Introduction to Cognitive Science",
+            "section": "LEC 001",
+            "instructors": [
+                "Thagard,Paul"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "09:50",
+            "enrollment_total": 30,
+            "class_number": 8047,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:20-04:00",
+            "catalog_number": "307",
+            "end_date": null,
+            "title": "Human Neuropsychology",
+            "section": "LEC 001",
+            "instructors": [
+                "Danckert,James"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "11:20",
+            "enrollment_total": 100,
+            "class_number": 4421,
+            "start_time": "10:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:22-04:00",
+            "catalog_number": "342",
+            "end_date": null,
+            "title": "The Psychology of Groups and Teams",
+            "section": "LEC 001",
+            "instructors": [
+                "Adair,Wendi L."
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "17:20",
+            "enrollment_total": 98,
+            "class_number": 8048,
+            "start_time": "16:00",
+            "subject": "PSYCH"
         }
     ]
 }

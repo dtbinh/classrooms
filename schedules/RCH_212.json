@@ -1,0 +1,560 @@
+{
+    "data": [
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "09/18",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "09/18",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "10/02",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "10/02",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "10/16",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "10/16",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "10/30",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "10/30",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "11/13",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "11/13",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "11/27",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 103",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "11/27",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 26,
+            "class_number": 7316,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "09/25",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "09/25",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "10/09",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "10/09",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "10/23",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "10/23",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "11/06",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "11/06",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "11/20",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "11/20",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "350",
+            "end_date": "12/04",
+            "title": "Ecosystem Ecology",
+            "section": "TUT 106",
+            "instructors": [
+                "Hall,Roland I."
+            ],
+            "weekdays": "F",
+            "start_date": "12/04",
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 27,
+            "class_number": 7405,
+            "start_time": "11:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:20-04:00",
+            "catalog_number": "470",
+            "end_date": null,
+            "title": "Methods of Aquatic Ecology",
+            "section": "TUT 101",
+            "instructors": [
+                "Smith,Ralph E H"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 8310,
+            "start_time": "16:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:43-04:00",
+            "catalog_number": "440",
+            "end_date": null,
+            "title": "Special Topics in Computational/Theoretical Chemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Nooijen,Marcel"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "14:20",
+            "enrollment_total": 8,
+            "class_number": 7392,
+            "start_time": "13:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:43-04:00",
+            "catalog_number": "460",
+            "end_date": null,
+            "title": "Special Topics in Organic Chemistry",
+            "section": "LEC 002",
+            "instructors": [
+                "Schipper,Derek"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 12,
+            "class_number": 8125,
+            "start_time": "16:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:51-04:00",
+            "catalog_number": "463",
+            "end_date": null,
+            "title": "Convex Optimization and Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Wolkowicz,Henry"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 1,
+            "class_number": 6416,
+            "start_time": "16:00",
+            "subject": "CO"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 017",
+            "instructors": [
+                "Clement,Ryan"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "212",
+            "end_time": "15:50",
+            "enrollment_total": 25,
+            "class_number": 8178,
+            "start_time": "14:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:31-04:00",
+            "catalog_number": "343",
+            "end_date": null,
+            "title": "American Literature 1860-1910",
+            "section": "LEC 001",
+            "instructors": [
+                "Lamont,Victoria"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "12:50",
+            "enrollment_total": 24,
+            "class_number": 8208,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:58-04:00",
+            "catalog_number": "298",
+            "end_date": null,
+            "title": "Topics in Cultural Studies",
+            "section": "SEM 001",
+            "instructors": [
+                "Rasmussen,Ann Marie"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "09:50",
+            "enrollment_total": 12,
+            "class_number": 7985,
+            "start_time": "08:30",
+            "subject": "GER"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:36-04:00",
+            "catalog_number": "403",
+            "end_date": null,
+            "title": "Socio-Legal Responses to Crime",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 8068,
+            "start_time": "10:30",
+            "subject": "LS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:05-04:00",
+            "catalog_number": "418",
+            "end_date": null,
+            "title": "Spatial Demography",
+            "section": "LEC 001",
+            "instructors": [
+                "Law,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "212",
+            "end_time": "11:20",
+            "enrollment_total": 3,
+            "class_number": 8006,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:22-04:00",
+            "catalog_number": "340",
+            "end_date": null,
+            "title": "Training and Development",
+            "section": "DIS 103",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "212",
+            "end_time": "21:20",
+            "enrollment_total": 8,
+            "class_number": 3921,
+            "start_time": "19:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:59-04:00",
+            "catalog_number": "740",
+            "end_date": null,
+            "title": "Selected Topics in Theoretical Chemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Nooijen,Marcel"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 7349,
+            "start_time": "13:00",
+            "subject": "CHEM"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:13-04:00",
+            "catalog_number": "663",
+            "end_date": null,
+            "title": "Convex Optimization and  Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Wolkowicz,Henry"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "17:20",
+            "enrollment_total": 8,
+            "class_number": 6417,
+            "start_time": "16:00",
+            "subject": "CO"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "641",
+            "end_date": null,
+            "title": "Public Economics: Expenditure",
+            "section": "LEC 001",
+            "instructors": [
+                "Sen,Anindya"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "212",
+            "end_time": "14:20",
+            "enrollment_total": 14,
+            "class_number": 4078,
+            "start_time": "13:00",
+            "subject": "ECON"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:25-04:00",
+            "catalog_number": "649",
+            "end_date": null,
+            "title": "Control of Machines and Processes",
+            "section": "LEC 001",
+            "instructors": [
+                "Jeon,Soo"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "212",
+            "end_time": "11:20",
+            "enrollment_total": 18,
+            "class_number": 5269,
+            "start_time": "10:00",
+            "subject": "ME"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:27-04:00",
+            "catalog_number": "780",
+            "end_date": null,
+            "title": "Special Topics in Mechatronics",
+            "section": "LEC 001",
+            "instructors": [
+                "Khamesee,Behrad"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "212",
+            "end_time": "12:20",
+            "enrollment_total": 2,
+            "class_number": 5369,
+            "start_time": "09:30",
+            "subject": "ME"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:44-04:00",
+            "catalog_number": "674",
+            "end_date": null,
+            "title": "Special Topics in Planning",
+            "section": "SEM 003",
+            "instructors": [
+                "Law,Jane"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "212",
+            "end_time": "11:20",
+            "enrollment_total": 1,
+            "class_number": 8008,
+            "start_time": "08:30",
+            "subject": "PLAN"
+        }
+    ]
+}

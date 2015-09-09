@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:06-04:00",
+            "catalog_number": "660",
+            "end_date": null,
+            "title": "Transnational & Global History",
+            "section": "SEM 001",
+            "instructors": [
+                "Peers,Doug"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2438",
+            "end_time": "20:20",
+            "enrollment_total": 3,
+            "class_number": 7727,
+            "start_time": "18:30",
+            "subject": "HIST"
+        }
+    ]
+}

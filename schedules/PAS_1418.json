@@ -2,23 +2,125 @@
     "data": [
         {
             "building": "PAS",
-            "catalog_number": "734C",
-            "class_number": 2554,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:55-04:00",
+            "catalog_number": "717",
             "end_date": null,
-            "end_time": "14:50",
-            "enrollment_total": 4,
+            "title": "Psychological Assessment I",
+            "section": "SEM 001",
             "instructors": [
-                "Oakman,Jonathan"
+                "Friesen-Eulette,Lynette Joyce",
+                "Seeds,Pamela"
             ],
-            "last_updated": "2015-05-04T16:02:58-04:00",
-            "room": "1418",
-            "section": "PRA 001",
+            "weekdays": "M",
             "start_date": null,
+            "room": "1418",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 4260,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:55-04:00",
+            "catalog_number": "719",
+            "end_date": null,
+            "title": "Ethics, Diversity, and Professional Issues in Clinical Psychology",
+            "section": "SEM 001",
+            "instructors": [
+                "Moscovitch,David"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1418",
+            "end_time": "16:20",
+            "enrollment_total": 7,
+            "class_number": 7795,
+            "start_time": "13:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:55-04:00",
+            "catalog_number": "720A",
+            "end_date": null,
+            "title": "Practicum in Interviewing & Cognitive Assessment I",
+            "section": "PRA 001",
+            "instructors": [
+                "Friesen-Eulette,Lynette Joyce",
+                "Seeds,Pamela"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1418",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 4261,
+            "start_time": "08:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:55-04:00",
+            "catalog_number": "721A",
+            "end_date": null,
+            "title": "Diagnostic Assessment Practicum I",
+            "section": "PRA 001",
+            "instructors": [
+                "Nicholson,Ian"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1418",
+            "end_time": "10:50",
+            "enrollment_total": 0,
+            "class_number": 4262,
+            "start_time": "09:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:56-04:00",
+            "catalog_number": "726A",
+            "end_date": null,
+            "title": "Practicum in Integrated Assessment I",
+            "section": "PRA 001",
+            "instructors": [
+                "Seeds,Pamela"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1418",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 4263,
+            "start_time": "10:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:56-04:00",
+            "catalog_number": "731",
+            "end_date": null,
+            "title": "Theory and Application in Couples' Therapy",
+            "section": "SEM 001",
+            "instructors": [
+                "Rehman,Uzma"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1418",
+            "end_time": "15:20",
+            "enrollment_total": 1,
+            "class_number": 4462,
             "start_time": "13:00",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Practicum in Supervision III",
-            "weekdays": "W"
+            "subject": "PSYCH"
         }
     ]
 }

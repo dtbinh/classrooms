@@ -1,0 +1,240 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "36",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Gillies,Christine"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "15:50",
+            "enrollment_total": 15,
+            "class_number": 6873,
+            "start_time": "14:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:06-04:00",
+            "catalog_number": "375R",
+            "end_date": null,
+            "title": "Special Topics in East Asian Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Bao,Huai"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 8261,
+            "start_time": "11:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "32",
+            "end_date": "12/11",
+            "title": "Academic Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Smithwick,Neal Andrew"
+            ],
+            "weekdays": "W",
+            "start_date": "09/14",
+            "room": "2930",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 6841,
+            "start_time": "13:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "34",
+            "end_date": "12/11",
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Morgan,Christine Elizabeth"
+            ],
+            "weekdays": "T",
+            "start_date": "09/14",
+            "room": "2930",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 6842,
+            "start_time": "10:30",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "36",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "10:20",
+            "enrollment_total": 0,
+            "class_number": 6843,
+            "start_time": "09:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:20-04:00",
+            "catalog_number": "36",
+            "end_date": "12/11",
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [],
+            "weekdays": "W",
+            "start_date": "09/14",
+            "room": "2930",
+            "end_time": "12:20",
+            "enrollment_total": 0,
+            "class_number": 6846,
+            "start_time": "11:00",
+            "subject": "EFAS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:21-04:00",
+            "catalog_number": "101R",
+            "end_date": null,
+            "title": "Oral Commun - Acad Purposes",
+            "section": "LEC 002",
+            "instructors": [
+                "Schuller,Christa"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "09:50",
+            "enrollment_total": 20,
+            "class_number": 8276,
+            "start_time": "08:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "202R",
+            "end_date": null,
+            "title": "Second-Year Korean 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Kim,Young Gon G"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "17:20",
+            "enrollment_total": 13,
+            "class_number": 6778,
+            "start_time": "14:30",
+            "subject": "KOREA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:47-04:00",
+            "catalog_number": "400R",
+            "end_date": null,
+            "title": "Comparative Social Policy",
+            "section": "LEC 001",
+            "instructors": [
+                "Case,Robert A."
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "17:20",
+            "enrollment_total": 11,
+            "class_number": 6835,
+            "start_time": "14:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:48-04:00",
+            "catalog_number": "405R",
+            "end_date": null,
+            "title": "Cosmopolitanism and Social Development",
+            "section": "SEM 001",
+            "instructors": [
+                "Blokhuis,Jason C."
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "14:20",
+            "enrollment_total": 17,
+            "class_number": 6853,
+            "start_time": "11:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 003",
+            "instructors": [
+                "Schuller,Christa"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 8298,
+            "start_time": "08:30",
+            "subject": "EMLS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:44-04:00",
+            "catalog_number": "601R",
+            "end_date": null,
+            "title": "Professional Spoken English",
+            "section": "LEC 003",
+            "instructors": [
+                "Schuller,Christa"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2930",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 8298,
+            "start_time": "10:00",
+            "subject": "EMLS"
+        }
+    ]
+}

@@ -2,103 +2,241 @@
     "data": [
         {
             "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:59-04:00",
             "catalog_number": "202",
-            "class_number": 4767,
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 6,
-            "instructors": [
-                "Stillar,Glenn"
-            ],
-            "last_updated": "2015-05-04T16:00:53-04:00",
-            "room": "1205",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "DAC",
-            "term": 1155,
             "title": "Designing Digital Video",
-            "weekdays": "F"
-        },
-        {
-            "building": "ECH",
-            "catalog_number": "301",
-            "class_number": 2461,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 7,
-            "instructors": [
-                "Collins,Karen"
-            ],
-            "last_updated": "2015-05-04T16:00:53-04:00",
-            "room": "1205",
             "section": "LEC 001",
+            "instructors": [
+                "Lucas,Jonathon"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "DAC",
-            "term": 1155,
-            "title": "Designing with Digital Sound",
-            "weekdays": "W"
+            "room": "1205",
+            "end_time": "11:50",
+            "enrollment_total": 14,
+            "class_number": 3691,
+            "start_time": "09:00",
+            "subject": "DAC"
         },
         {
             "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:59-04:00",
             "catalog_number": "308",
-            "class_number": 4768,
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 0,
-            "instructors": [
-                "Stillar,Glenn"
-            ],
-            "last_updated": "2015-05-04T16:00:53-04:00",
-            "room": "1205",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "DAC",
-            "term": 1155,
             "title": "Cinematic Art and Practice",
-            "weekdays": "M"
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "11:50",
+            "enrollment_total": 7,
+            "class_number": 8407,
+            "start_time": "09:00",
+            "subject": "DAC"
         },
         {
             "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
             "catalog_number": "204",
-            "class_number": 4769,
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 5,
-            "instructors": [
-                "Stillar,Glenn"
-            ],
-            "last_updated": "2015-05-04T16:01:11-04:00",
-            "room": "1205",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ENGL",
-            "term": 1155,
             "title": "Designing Digital Video",
-            "weekdays": "F"
+            "section": "LEC 001",
+            "instructors": [
+                "Lucas,Jonathon"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "11:50",
+            "enrollment_total": 6,
+            "class_number": 3690,
+            "start_time": "09:00",
+            "subject": "ENGL"
         },
         {
             "building": "ECH",
-            "catalog_number": "304",
-            "class_number": 2462,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "293",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 5,
-            "instructors": [
-                "Collins,Karen"
-            ],
-            "last_updated": "2015-05-04T16:01:12-04:00",
-            "room": "1205",
+            "title": "Introduction to Digital Media Studies",
             "section": "LEC 001",
+            "instructors": [
+                "Vossen,Emma H."
+            ],
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "ENGL",
-            "term": 1155,
-            "title": "Designing with Digital Sound",
-            "weekdays": "W"
+            "room": "1205",
+            "end_time": "16:50",
+            "enrollment_total": 27,
+            "class_number": 3994,
+            "start_time": "15:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:29-04:00",
+            "catalog_number": "294",
+            "end_date": null,
+            "title": "Game Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "O'Gorman,Marcel"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "20:20",
+            "enrollment_total": 35,
+            "class_number": 8204,
+            "start_time": "17:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:32-04:00",
+            "catalog_number": "392A",
+            "end_date": null,
+            "title": "Information Design",
+            "section": "LEC 001",
+            "instructors": [
+                "O'Gorman,Marcel"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "16:50",
+            "enrollment_total": 22,
+            "class_number": 3803,
+            "start_time": "15:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:32-04:00",
+            "catalog_number": "392A",
+            "end_date": null,
+            "title": "Information Design",
+            "section": "LEC 002",
+            "instructors": [
+                "Slethaug,Gordon"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "12:50",
+            "enrollment_total": 13,
+            "class_number": 8209,
+            "start_time": "11:30",
+            "subject": "ENGL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:32-04:00",
+            "catalog_number": "494",
+            "end_date": null,
+            "title": "Topics in Forms of Media and Critical Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Dolmage,Jay Timothy"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "11:20",
+            "enrollment_total": 11,
+            "class_number": 8211,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "229",
+            "end_date": null,
+            "title": "Hybrid Digital Media",
+            "section": "STU 001",
+            "instructors": [
+                "Andison,Lois"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "15:20",
+            "enrollment_total": 19,
+            "class_number": 4299,
+            "start_time": "13:00",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "232",
+            "end_date": null,
+            "title": "Video and Sound",
+            "section": "STU 001",
+            "instructors": [
+                "Cooper,Tara"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "15:20",
+            "enrollment_total": 13,
+            "class_number": 7803,
+            "start_time": "13:00",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Digital Media Design and Production",
+            "section": "TUT 201",
+            "instructors": [
+                "Mandel,Jordan"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "18:50",
+            "enrollment_total": 131,
+            "class_number": 8360,
+            "start_time": "17:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:48-04:00",
+            "catalog_number": "789",
+            "end_date": null,
+            "title": "Writing Studies",
+            "section": "SEM 001",
+            "instructors": [
+                "Kelly,Ashley Rose"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1205",
+            "end_time": "21:20",
+            "enrollment_total": 12,
+            "class_number": 7903,
+            "start_time": "18:30",
+            "subject": "ENGL"
         }
     ]
 }

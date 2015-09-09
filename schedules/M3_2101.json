@@ -2,101 +2,103 @@
     "data": [
         {
             "building": "M3",
-            "catalog_number": "631",
-            "class_number": 3855,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:44-04:00",
+            "catalog_number": "611",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 10,
+            "title": "Financial Mathematics I",
+            "section": "LEC 001",
             "instructors": [
-                "Wang,Ruodu"
+                "Li,Siu Hang"
             ],
-            "last_updated": "2015-05-04T16:02:31-04:00",
-            "room": "2101",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "14:00",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Financial Mathematics III",
-            "weekdays": "TTh"
+            "room": "2101",
+            "end_time": "11:50",
+            "enrollment_total": 0,
+            "class_number": 6432,
+            "start_time": "10:00",
+            "subject": "ACTSC"
         },
         {
             "building": "M3",
-            "catalog_number": "632",
-            "class_number": 3856,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:45-04:00",
+            "catalog_number": "612",
             "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 8,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:02:31-04:00",
-            "room": "2101",
+            "title": "Life Insurance Mathematics I",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Life Insurance Mathematics III",
-            "weekdays": "MW"
-        },
-        {
-            "building": "M3",
-            "catalog_number": "633",
-            "class_number": 3857,
-            "end_date": null,
-            "end_time": "13:50",
-            "enrollment_total": 10,
             "instructors": [
-                "Andrews,Douglas William"
+                "Tan,Ken S"
             ],
-            "last_updated": "2015-05-04T16:02:31-04:00",
-            "room": "2101",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "12:00",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Actuarial Risk Management",
-            "weekdays": "MW"
+            "room": "2101",
+            "end_time": "14:50",
+            "enrollment_total": 0,
+            "class_number": 6433,
+            "start_time": "13:00",
+            "subject": "ACTSC"
         },
         {
             "building": "M3",
-            "catalog_number": "634",
-            "class_number": 3858,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:45-04:00",
+            "catalog_number": "613",
             "end_date": null,
-            "end_time": "10:50",
-            "enrollment_total": 10,
+            "title": "Statistics for Actuarial Science",
+            "section": "LEC 001",
             "instructors": [
-                "Hofert,Marius"
+                "Zhu,Mu"
             ],
-            "last_updated": "2015-05-04T16:02:32-04:00",
-            "room": "2101",
-            "section": "LEC 001",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Quantitative Risk Management",
-            "weekdays": "MW"
+            "room": "2101",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 6434,
+            "start_time": "12:30",
+            "subject": "ACTSC"
         },
         {
             "building": "M3",
-            "catalog_number": "635",
-            "class_number": 3859,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:45-04:00",
+            "catalog_number": "614",
             "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 9,
+            "title": "Corporate Finance",
+            "section": "LEC 001",
             "instructors": [
                 "Andrews,Douglas William"
             ],
-            "last_updated": "2015-05-04T16:02:32-04:00",
-            "room": "2101",
-            "section": "LEC 001",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "11:00",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Profession Communications in Actuarial Science",
-            "weekdays": "TTh"
+            "room": "2101",
+            "end_time": "11:50",
+            "enrollment_total": 0,
+            "class_number": 6435,
+            "start_time": "10:00",
+            "subject": "ACTSC"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:45-04:00",
+            "catalog_number": "615",
+            "end_date": null,
+            "title": "Economics",
+            "section": "LEC 001",
+            "instructors": [
+                "Andrews,Douglas William"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2101",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 6436,
+            "start_time": "15:00",
+            "subject": "ACTSC"
         }
     ]
 }

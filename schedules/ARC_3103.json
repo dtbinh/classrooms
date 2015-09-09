@@ -2,83 +2,63 @@
     "data": [
         {
             "building": "ARC",
-            "catalog_number": "493",
-            "class_number": 2924,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "292",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 71,
+            "title": "Design Studio",
+            "section": "STU 001",
             "instructors": [
-                "Levitt,Andrew"
+                "Blackwell,Adrian Walter H"
             ],
-            "last_updated": "2015-05-04T16:00:24-04:00",
-            "room": "3103",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio/Comprehensive Building Design",
-            "weekdays": "M"
+            "room": "3103",
+            "end_time": "12:50",
+            "enrollment_total": 80,
+            "class_number": 4966,
+            "start_time": "10:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "493",
-            "class_number": 2924,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "292",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 71,
+            "title": "Design Studio",
+            "section": "STU 001",
             "instructors": [
-                "Levitt,Andrew"
+                "Blackwell,Adrian Walter H"
             ],
-            "last_updated": "2015-05-04T16:00:24-04:00",
-            "room": "3103",
-            "section": "LEC 001",
+            "weekdays": "MTh",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio/Comprehensive Building Design",
-            "weekdays": "M"
+            "room": "3103",
+            "end_time": "17:50",
+            "enrollment_total": 80,
+            "class_number": 4966,
+            "start_time": "14:00",
+            "subject": "ARCH"
         },
         {
             "building": "ARC",
-            "catalog_number": "493",
-            "class_number": 2924,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:08-04:00",
+            "catalog_number": "292",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 71,
+            "title": "Design Studio",
+            "section": "STU 001",
             "instructors": [
-                "Levitt,Andrew"
+                "Blackwell,Adrian Walter H"
             ],
-            "last_updated": "2015-05-04T16:00:24-04:00",
-            "room": "3103",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio/Comprehensive Building Design",
-            "weekdays": "Th"
-        },
-        {
-            "building": "ARC",
-            "catalog_number": "493",
-            "class_number": 2924,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 71,
-            "instructors": [
-                "Levitt,Andrew"
-            ],
-            "last_updated": "2015-05-04T16:00:24-04:00",
             "room": "3103",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "ARCH",
-            "term": 1155,
-            "title": "Design Studio/Comprehensive Building Design",
-            "weekdays": "Th"
+            "end_time": "13:50",
+            "enrollment_total": 80,
+            "class_number": 4966,
+            "start_time": "10:00",
+            "subject": "ARCH"
         }
     ]
 }

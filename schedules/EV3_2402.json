@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "EV3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:02-04:00",
+            "catalog_number": "210",
+            "end_date": null,
+            "title": "Urban Planning Design and the Environment",
+            "section": "STU 101",
+            "instructors": [
+                "Hammond,Karen"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2402",
+            "end_time": "12:20",
+            "enrollment_total": 54,
+            "class_number": 5751,
+            "start_time": "10:30",
+            "subject": "PLAN"
+        },
+        {
+            "building": "EV3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:02-04:00",
+            "catalog_number": "210",
+            "end_date": null,
+            "title": "Urban Planning Design and the Environment",
+            "section": "STU 102",
+            "instructors": [
+                "Hammond,Karen"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "2402",
+            "end_time": "14:20",
+            "enrollment_total": 55,
+            "class_number": 5766,
+            "start_time": "12:30",
+            "subject": "PLAN"
+        }
+    ]
+}

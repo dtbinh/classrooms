@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:56-04:00",
+            "catalog_number": "245",
+            "end_date": null,
+            "title": "Logic and Computation",
+            "section": "LEC 005",
+            "instructors": [
+                "Van Beek,Peter"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1621",
+            "end_time": "15:50",
+            "enrollment_total": 81,
+            "class_number": 7757,
+            "start_time": "14:30",
+            "subject": "CS"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:09-04:00",
+            "catalog_number": "442",
+            "end_date": null,
+            "title": "Epidemiology of Chronic Diseases",
+            "section": "LEC 001",
+            "instructors": [
+                "Oremus,Mark"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1621",
+            "end_time": "17:20",
+            "enrollment_total": 43,
+            "class_number": 3084,
+            "start_time": "16:00",
+            "subject": "HLTH"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:27-04:00",
+            "catalog_number": "301",
+            "end_date": null,
+            "title": "Human Anatomy of the Central Nervous System",
+            "section": "LEC 001",
+            "instructors": [
+                "Maciel,Tamara"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "1621",
+            "end_time": "12:20",
+            "enrollment_total": 85,
+            "class_number": 3224,
+            "start_time": "11:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:28-04:00",
+            "catalog_number": "357",
+            "end_date": null,
+            "title": "Motor Learning",
+            "section": "LEC 001",
+            "instructors": [
+                "Niechwiej,Ewa"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "1621",
+            "end_time": "13:20",
+            "enrollment_total": 64,
+            "class_number": 3324,
+            "start_time": "12:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:42-04:00",
+            "catalog_number": "147",
+            "end_date": null,
+            "title": "Calculus 1 (Advanced Level)",
+            "section": "LEC 001",
+            "instructors": [
+                "McKinnon,David"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "1621",
+            "end_time": "09:20",
+            "enrollment_total": 37,
+            "class_number": 5946,
+            "start_time": "08:30",
+            "subject": "MATH"
+        }
+    ]
+}

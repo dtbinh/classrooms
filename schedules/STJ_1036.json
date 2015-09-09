@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:06-04:00",
+            "catalog_number": "200",
+            "end_date": null,
+            "title": "Entrepreneurship Principles and Practices",
+            "section": "LEC 001",
+            "instructors": [
+                "Malleck,Geoff"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "17:20",
+            "enrollment_total": 148,
+            "class_number": 4272,
+            "start_time": "14:30",
+            "subject": "ARBUS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:00-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Psychology of Death and Dying",
+            "section": "LEC 001",
+            "instructors": [
+                "Burris,Christopher"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "21:20",
+            "enrollment_total": 19,
+            "class_number": 3263,
+            "start_time": "18:30",
+            "subject": "GERON"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Psychology of Death and Dying",
+            "section": "LEC 001",
+            "instructors": [
+                "Burris,Christopher"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "21:20",
+            "enrollment_total": 23,
+            "class_number": 3264,
+            "start_time": "18:30",
+            "subject": "HLTH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:34-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Legal Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Brophy,Susan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "12:50",
+            "enrollment_total": 170,
+            "class_number": 3684,
+            "start_time": "11:30",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:34-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Legal Studies",
+            "section": "LEC 002",
+            "instructors": [
+                "Desroches,Frederick J"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "14:20",
+            "enrollment_total": 164,
+            "class_number": 4413,
+            "start_time": "13:00",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:35-04:00",
+            "catalog_number": "272",
+            "end_date": null,
+            "title": "Psychology and Law",
+            "section": "LEC 001",
+            "instructors": [
+                "Rempel,John"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "11:20",
+            "enrollment_total": 19,
+            "class_number": 8060,
+            "start_time": "10:00",
+            "subject": "LS"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:17-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introductory Psychology",
+            "section": "LEC 004",
+            "instructors": [
+                "Serafini,Toni"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "21:20",
+            "enrollment_total": 151,
+            "class_number": 3728,
+            "start_time": "18:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:18-04:00",
+            "catalog_number": "218",
+            "end_date": null,
+            "title": "Psychology of Death and Dying",
+            "section": "LEC 001",
+            "instructors": [
+                "Burris,Christopher"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "21:20",
+            "enrollment_total": 113,
+            "class_number": 3842,
+            "start_time": "18:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:18-04:00",
+            "catalog_number": "230",
+            "end_date": null,
+            "title": "Psychology and Law",
+            "section": "LEC 001",
+            "instructors": [
+                "Rempel,John"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "11:20",
+            "enrollment_total": 126,
+            "class_number": 3991,
+            "start_time": "10:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:19-04:00",
+            "catalog_number": "231",
+            "end_date": null,
+            "title": "The Psychology of Religious Experience",
+            "section": "LEC 001",
+            "instructors": [
+                "Burris,Christopher"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "17:20",
+            "enrollment_total": 36,
+            "class_number": 4373,
+            "start_time": "14:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:56-04:00",
+            "catalog_number": "204",
+            "end_date": null,
+            "title": "Introduction to Human Sexuality",
+            "section": "LEC 001",
+            "instructors": [
+                "Rye,BJ"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "14:20",
+            "enrollment_total": 92,
+            "class_number": 7546,
+            "start_time": "13:00",
+            "subject": "SMF"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:57-04:00",
+            "catalog_number": "206",
+            "end_date": null,
+            "title": "Couples, Marriages, and Families",
+            "section": "LEC 001",
+            "instructors": [
+                "Nicholas,Jane"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1036",
+            "end_time": "12:50",
+            "enrollment_total": 78,
+            "class_number": 7560,
+            "start_time": "11:30",
+            "subject": "SMF"
+        }
+    ]
+}

@@ -2,103 +2,165 @@
     "data": [
         {
             "building": "PAS",
-            "catalog_number": "396",
-            "class_number": 4791,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "393",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 10,
+            "title": "Research in Developmental Psychology",
+            "section": "SEM 002",
             "instructors": [
-                "Ellard,Colin G"
+                "Friedman,Ori"
             ],
-            "last_updated": "2015-05-04T16:02:08-04:00",
-            "room": "4032",
-            "section": "SEM 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Research in Behavioural Neuroscience",
-            "weekdays": "TTh"
+            "room": "4032",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 3916,
+            "start_time": "10:00",
+            "subject": "PSYCH"
         },
         {
             "building": "PAS",
-            "catalog_number": "398",
-            "class_number": 2458,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "395",
             "end_date": null,
-            "end_time": "12:20",
+            "title": "Research in Social Psychology",
+            "section": "SEM 001",
+            "instructors": [
+                "Grossmann,Igor"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "4032",
+            "end_time": "17:20",
             "enrollment_total": 25,
+            "class_number": 3436,
+            "start_time": "16:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "397",
+            "end_date": null,
+            "title": "Research in Personality and Clinical Psychology",
+            "section": "SEM 001",
+            "instructors": [
+                "Oakman,Jonathan",
+                "Seeds,Pamela"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "4032",
+            "end_time": "12:50",
+            "enrollment_total": 25,
+            "class_number": 3438,
+            "start_time": "11:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "397",
+            "end_date": null,
+            "title": "Research in Personality and Clinical Psychology",
+            "section": "SEM 002",
+            "instructors": [
+                "Oakman,Jonathan",
+                "Seeds,Pamela"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "4032",
+            "end_time": "15:50",
+            "enrollment_total": 25,
+            "class_number": 3632,
+            "start_time": "14:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:23-04:00",
+            "catalog_number": "399",
+            "end_date": null,
+            "title": "Research in Industrial/Organizational Psychology",
+            "section": "SEM 001",
             "instructors": [
                 "Wehr,Paul"
             ],
-            "last_updated": "2015-05-04T16:02:08-04:00",
-            "room": "4032",
-            "section": "SEM 001",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Research in Memory",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "789",
-            "class_number": 4844,
-            "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 15,
-            "instructors": [
-                "Smilek,Daniel"
-            ],
-            "last_updated": "2015-05-04T16:02:59-04:00",
             "room": "4032",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Mind-wandering and Inattention",
-            "weekdays": "M"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "877",
-            "class_number": 4845,
-            "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 5,
-            "instructors": [
-                "Beck,James W"
-            ],
-            "last_updated": "2015-05-04T16:02:59-04:00",
-            "room": "4032",
-            "section": "SEM 001",
-            "start_date": null,
-            "start_time": "14:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Work Motivation",
-            "weekdays": "T"
-        },
-        {
-            "building": "PAS",
-            "catalog_number": "879",
-            "class_number": 4978,
-            "end_date": null,
             "end_time": "11:20",
-            "enrollment_total": 9,
-            "instructors": [
-                "Shen,Winny"
-            ],
-            "last_updated": "2015-05-04T16:02:59-04:00",
-            "room": "4032",
+            "enrollment_total": 25,
+            "class_number": 3623,
+            "start_time": "09:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:24-04:00",
+            "catalog_number": "457",
+            "end_date": null,
+            "title": "Honours Seminar in Personality and Clinical Psychology",
             "section": "SEM 001",
+            "instructors": [
+                "Purdon,Christine L"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "08:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Personnel Selection",
-            "weekdays": "M"
+            "room": "4032",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 4218,
+            "start_time": "12:30",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:24-04:00",
+            "catalog_number": "458",
+            "end_date": null,
+            "title": "Honours Seminar in Cognition",
+            "section": "SEM 001",
+            "instructors": [
+                "Risko,Evan Frank"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "4032",
+            "end_time": "14:20",
+            "enrollment_total": 23,
+            "class_number": 8052,
+            "start_time": "13:00",
+            "subject": "PSYCH"
+        },
+        {
+            "building": "PAS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:58-04:00",
+            "catalog_number": "776",
+            "end_date": null,
+            "title": "Problem Solving, Judgment and  Decision-Making",
+            "section": "LEC 001",
+            "instructors": [
+                "Koehler,Derek J"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "4032",
+            "end_time": "14:20",
+            "enrollment_total": 12,
+            "class_number": 7796,
+            "start_time": "11:30",
+            "subject": "PSYCH"
         }
     ]
 }

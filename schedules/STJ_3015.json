@@ -1,0 +1,142 @@
+{
+    "data": [
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 015",
+            "instructors": [
+                "Humphreys,Sara Megan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "11:20",
+            "enrollment_total": 25,
+            "class_number": 4589,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:27-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Introduction to Academic Writing",
+            "section": "LEC 033",
+            "instructors": [],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "14:20",
+            "enrollment_total": 25,
+            "class_number": 8520,
+            "start_time": "13:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:30-04:00",
+            "catalog_number": "305A",
+            "end_date": null,
+            "title": "Old English 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Zettel,Pat"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 3475,
+            "start_time": "10:00",
+            "subject": "ENGL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:22-04:00",
+            "catalog_number": "360",
+            "end_date": null,
+            "title": "Dante's Divine Comedy",
+            "section": "LEC 001",
+            "instructors": [
+                "Niccoli,Gabriel A"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "17:20",
+            "enrollment_total": 15,
+            "class_number": 8007,
+            "start_time": "16:00",
+            "subject": "ITALST"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:45-04:00",
+            "catalog_number": "210J",
+            "end_date": null,
+            "title": "Philosophy of Human Nature",
+            "section": "LEC 001",
+            "instructors": [
+                "Zunic,Nikolaj"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "12:50",
+            "enrollment_total": 23,
+            "class_number": 8026,
+            "start_time": "11:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:46-04:00",
+            "catalog_number": "219J",
+            "end_date": null,
+            "title": "Practical Ethics",
+            "section": "LEC 001",
+            "instructors": [
+                "Zunic,Nikolaj"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "14:20",
+            "enrollment_total": 15,
+            "class_number": 8027,
+            "start_time": "13:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "STJ",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:57-04:00",
+            "catalog_number": "208",
+            "end_date": null,
+            "title": "Introduction to Couple, Family, and Sex Therapy",
+            "section": "LEC 001",
+            "instructors": [
+                "De Santis,Carmela"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "3015",
+            "end_time": "17:20",
+            "enrollment_total": 34,
+            "class_number": 7552,
+            "start_time": "14:30",
+            "subject": "SMF"
+        }
+    ]
+}

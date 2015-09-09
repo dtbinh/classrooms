@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:48-04:00",
+            "catalog_number": "229",
+            "end_date": null,
+            "title": "Hybrid Digital Media",
+            "section": "STU 001",
+            "instructors": [
+                "Mandel,Jordan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2129",
+            "end_time": "17:50",
+            "enrollment_total": 39,
+            "class_number": 4324,
+            "start_time": "15:00",
+            "subject": "GBDA"
+        },
+        {
+            "building": "DMS",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:49-04:00",
+            "catalog_number": "401",
+            "end_date": null,
+            "title": "Cross-Cultural Digital Business 1",
+            "section": "PRJ 001",
+            "instructors": [
+                "Nacke,Lennart"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "2129",
+            "end_time": "11:50",
+            "enrollment_total": 45,
+            "class_number": 7840,
+            "start_time": "10:00",
+            "subject": "GBDA"
+        }
+    ]
+}

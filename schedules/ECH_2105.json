@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Honours Studio Thesis 1",
+            "section": "STU 001",
+            "instructors": [
+                "Cluett,Cora"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2105",
+            "end_time": "11:50",
+            "enrollment_total": 15,
+            "class_number": 3545,
+            "start_time": "09:30",
+            "subject": "FINE"
+        },
+        {
+            "building": "ECH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:42-04:00",
+            "catalog_number": "472",
+            "end_date": null,
+            "title": "Honours Studio Thesis 1",
+            "section": "STU 001",
+            "instructors": [
+                "Taylor,Bruce",
+                "Cluett,Cora"
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "2105",
+            "end_time": "15:20",
+            "enrollment_total": 15,
+            "class_number": 3545,
+            "start_time": "13:00",
+            "subject": "FINE"
+        }
+    ]
+}

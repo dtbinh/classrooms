@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "243",
+            "end_date": null,
+            "title": "Introduction to Technical Production 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "6",
+            "end_time": "13:20",
+            "enrollment_total": 9,
+            "class_number": 3430,
+            "start_time": "10:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "246",
+            "end_date": null,
+            "title": "Design for Performance",
+            "section": "SEM 001",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "6",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 8093,
+            "start_time": "12:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "282",
+            "end_date": null,
+            "title": "Gender and Performance",
+            "section": "SEM 001",
+            "instructors": [
+                "Keleta-Mae,Naila"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "6",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 8094,
+            "start_time": "14:30",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:00-04:00",
+            "catalog_number": "300",
+            "end_date": null,
+            "title": "Theories of Thtr & Performance",
+            "section": "SEM 001",
+            "instructors": [
+                "Keleta-Mae,Naila"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6",
+            "end_time": "12:20",
+            "enrollment_total": 19,
+            "class_number": 8095,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "343",
+            "end_date": null,
+            "title": "Theatre Management and Technology 1",
+            "section": "LAB 001",
+            "instructors": [
+                "Rainville,Janelle"
+            ],
+            "weekdays": "TF",
+            "start_date": null,
+            "room": "6",
+            "end_time": "11:50",
+            "enrollment_total": 1,
+            "class_number": 8102,
+            "start_time": "10:00",
+            "subject": "DRAMA"
+        },
+        {
+            "building": "AL",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:01-04:00",
+            "catalog_number": "374",
+            "end_date": null,
+            "title": "Sustainability in Performance",
+            "section": "SEM 001",
+            "instructors": [
+                "Cegys,Paul"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "6",
+            "end_time": "18:20",
+            "enrollment_total": 9,
+            "class_number": 8104,
+            "start_time": "15:30",
+            "subject": "DRAMA"
+        }
+    ]
+}

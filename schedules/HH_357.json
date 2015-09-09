@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:36-04:00",
+            "catalog_number": "674",
+            "end_date": null,
+            "title": "Graduate Courses",
+            "section": "SEM 001",
+            "instructors": [
+                "Marino,Patricia"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "357",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 3853,
+            "start_time": "11:30",
+            "subject": "PHIL"
+        },
+        {
+            "building": "HH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:37-04:00",
+            "catalog_number": "680A",
+            "end_date": null,
+            "title": "Departmental Graduate Seminar",
+            "section": "SEM 001",
+            "instructors": [
+                "Doucet,Mathieu"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "357",
+            "end_time": "14:20",
+            "enrollment_total": 10,
+            "class_number": 3635,
+            "start_time": "11:30",
+            "subject": "PHIL"
+        }
+    ]
+}

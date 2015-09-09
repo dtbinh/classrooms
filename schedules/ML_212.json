@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:32-04:00",
+            "catalog_number": "331",
+            "end_date": null,
+            "title": "Advanced Readings in Latin: Prose",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "212",
+            "end_time": "11:20",
+            "enrollment_total": 4,
+            "class_number": 8624,
+            "start_time": "10:00",
+            "subject": "LAT"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:58-04:00",
+            "catalog_number": "613",
+            "end_date": null,
+            "title": "Topics in Discourse Analysis",
+            "section": "SEM 001",
+            "instructors": [
+                "Liebscher,Grit"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "212",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 8022,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:10:58-04:00",
+            "catalog_number": "713",
+            "end_date": null,
+            "title": "Topics in Discourse Analysis",
+            "section": "SEM 001",
+            "instructors": [
+                "Liebscher,Grit"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "212",
+            "end_time": "14:20",
+            "enrollment_total": 2,
+            "class_number": 8023,
+            "start_time": "11:30",
+            "subject": "GER"
+        },
+        {
+            "building": "ML",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:04-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Social Innovations in Complex Systems",
+            "section": "SEM 001",
+            "instructors": [
+                "Westley,Frances"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "212",
+            "end_time": "15:50",
+            "enrollment_total": 6,
+            "class_number": 8561,
+            "start_time": "13:00",
+            "subject": "SOCIN"
+        }
+    ]
+}

@@ -2,281 +2,263 @@
     "data": [
         {
             "building": "RCH",
-            "catalog_number": "101",
-            "class_number": 2828,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:18-04:00",
+            "catalog_number": "434",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 67,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:00:37-04:00",
-            "room": "211",
-            "section": "TUT 201",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Chemical Engineering Concepts 2",
-            "weekdays": "T"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "161",
-            "class_number": 2958,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 66,
-            "instructors": [
-                "Boghaert,Eline"
-            ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "211",
+            "title": "Human Molecular Genetics",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Engineering Biology",
-            "weekdays": "F"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "161",
-            "class_number": 2959,
-            "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 66,
             "instructors": [
-                "Boghaert,Eline"
+                "Duncker,Bernard"
             ],
-            "last_updated": "2015-05-04T16:00:38-04:00",
-            "room": "211",
-            "section": "TUT 101",
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "CHE",
-            "term": 1155,
-            "title": "Engineering Biology",
-            "weekdays": "Th"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "224L",
-            "class_number": 4098,
-            "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 92,
-            "instructors": [
-                "Flatt,Heide"
-            ],
-            "last_updated": "2015-05-04T16:00:41-04:00",
             "room": "211",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "11:30",
-            "subject": "CHEM",
-            "term": 1155,
-            "title": "Analytical Chemistry Laboratory 2",
-            "weekdays": "M"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "316",
-            "class_number": 2840,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 84,
-            "instructors": [
-                "Khandani,Amir Keyvan K"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Probability Theory and Random Processes",
-            "weekdays": "TWTh"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "380",
-            "class_number": 3286,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 85,
-            "instructors": [
-                "Thistle,John"
-            ],
-            "last_updated": "2015-05-04T16:01:01-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Analog Control Systems",
-            "weekdays": "TWTh"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "403",
-            "class_number": 3341,
-            "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 25,
-            "instructors": [
-                "Duley,Walter W"
-            ],
-            "last_updated": "2015-05-04T16:01:02-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "ECE",
-            "term": 1155,
-            "title": "Thermal Physics",
-            "weekdays": "TWTh"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "123",
-            "class_number": 2765,
-            "end_date": null,
             "end_time": "09:20",
-            "enrollment_total": 75,
-            "instructors": [
-                "Saini,Simarjeet S."
-            ],
-            "last_updated": "2015-05-04T16:01:19-04:00",
-            "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 66,
+            "class_number": 6916,
             "start_time": "08:30",
-            "subject": "GENE",
-            "term": 1155,
-            "title": "Electrical Engineering",
-            "weekdays": "MWF"
+            "subject": "BIOL"
         },
         {
             "building": "RCH",
-            "catalog_number": "123",
-            "class_number": 2769,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:20-04:00",
+            "catalog_number": "473",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 75,
-            "instructors": [
-                "Saini,Simarjeet S."
-            ],
-            "last_updated": "2015-05-04T16:01:19-04:00",
-            "room": "211",
-            "section": "TUT 201",
-            "start_date": null,
-            "start_time": "12:30",
-            "subject": "GENE",
-            "term": 1155,
-            "title": "Electrical Engineering",
-            "weekdays": "F"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "118",
-            "class_number": 3636,
-            "end_date": null,
-            "end_time": "10:20",
-            "enrollment_total": 63,
-            "instructors": [
-                "Beltaos,Andrew"
-            ],
-            "last_updated": "2015-05-04T16:01:37-04:00",
-            "room": "211",
+            "title": "Mammalian Reproduction",
             "section": "LEC 001",
+            "instructors": [
+                "Engelhardt,Heidi"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "MATH",
-            "term": 1155,
-            "title": "Calculus 2 for Engineering",
-            "weekdays": "M"
+            "room": "211",
+            "end_time": "09:50",
+            "enrollment_total": 95,
+            "class_number": 7334,
+            "start_time": "08:30",
+            "subject": "BIOL"
         },
         {
             "building": "RCH",
-            "catalog_number": "261",
-            "class_number": 2910,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "115",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 99,
-            "instructors": [
-                "Yildiz,Burak Can"
-            ],
-            "last_updated": "2015-05-04T16:01:43-04:00",
-            "room": "211",
-            "section": "TUT 101",
-            "start_date": null,
-            "start_time": "13:30",
-            "subject": "MSCI",
-            "term": 1155,
-            "title": "Engineering Economics: Financial Management for Engineers",
-            "weekdays": "F"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "358",
-            "class_number": 4130,
-            "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 53,
-            "instructors": [
-                "Duley,Walter W"
-            ],
-            "last_updated": "2015-05-04T16:02:01-04:00",
-            "room": "211",
+            "title": "Introduction to Computer Science 1",
             "section": "LEC 001",
+            "instructors": [
+                "Dupont,Edward"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "12:30",
-            "subject": "PHYS",
-            "term": 1155,
-            "title": "Thermal Physics",
-            "weekdays": "TWTh"
+            "room": "211",
+            "end_time": "11:20",
+            "enrollment_total": 108,
+            "class_number": 6349,
+            "start_time": "10:00",
+            "subject": "CS"
         },
         {
             "building": "RCH",
-            "catalog_number": "464",
-            "class_number": 4388,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:55-04:00",
+            "catalog_number": "115",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 82,
+            "title": "Introduction to Computer Science 1",
+            "section": "LEC 007",
             "instructors": [
-                "Czarnecki,Krzysztof"
+                "Sakhnini,Victoria"
             ],
-            "last_updated": "2015-05-04T16:02:15-04:00",
-            "room": "211",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "16:00",
-            "subject": "SE",
-            "term": 1155,
-            "title": "Software Design and Architectures",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "RCH",
-            "catalog_number": "490",
-            "class_number": 4396,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 81,
-            "instructors": [
-                "Rayside,Derek"
-            ],
-            "last_updated": "2015-05-04T16:02:15-04:00",
             "room": "211",
-            "section": "LEC 001",
-            "start_date": null,
+            "end_time": "15:50",
+            "enrollment_total": 103,
+            "class_number": 7735,
             "start_time": "14:30",
-            "subject": "SE",
-            "term": 1155,
-            "title": "Design Project 1",
-            "weekdays": "W"
+            "subject": "CS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:24-04:00",
+            "catalog_number": "407",
+            "end_date": null,
+            "title": "Corporate Sustainability Reporting",
+            "section": "LEC 001",
+            "instructors": [
+                "Weber,Olaf"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "17:20",
+            "enrollment_total": 52,
+            "class_number": 5803,
+            "start_time": "16:00",
+            "subject": "ENBUS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:03-04:00",
+            "catalog_number": "201",
+            "end_date": null,
+            "title": "Columbus and After: New Worlds in the Americas, 1492-1680",
+            "section": "LEC 001",
+            "instructors": [
+                "Roberts,Julia"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "15:50",
+            "enrollment_total": 11,
+            "class_number": 7701,
+            "start_time": "14:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:03-04:00",
+            "catalog_number": "227",
+            "end_date": null,
+            "title": "The French Revolution and Napoleonic Europe",
+            "section": "LEC 001",
+            "instructors": [
+                "Taylor,Lynne"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "211",
+            "end_time": "12:20",
+            "enrollment_total": 43,
+            "class_number": 7704,
+            "start_time": "11:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:04-04:00",
+            "catalog_number": "257",
+            "end_date": null,
+            "title": "America Until 1877",
+            "section": "LEC 001",
+            "instructors": [
+                "Sbardellati,John"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "211",
+            "end_time": "12:20",
+            "enrollment_total": 32,
+            "class_number": 7706,
+            "start_time": "11:30",
+            "subject": "HIST"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:35-04:00",
+            "catalog_number": "280",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilkins-Laflamme,Sarah"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "211",
+            "end_time": "14:20",
+            "enrollment_total": 53,
+            "class_number": 3948,
+            "start_time": "13:00",
+            "subject": "LS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:51-04:00",
+            "catalog_number": "211",
+            "end_date": null,
+            "title": "Chemistry and the Solid State",
+            "section": "LEC 001",
+            "instructors": [
+                "Assoud,Abdeljalil"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "17:20",
+            "enrollment_total": 70,
+            "class_number": 7408,
+            "start_time": "16:00",
+            "subject": "MNS"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:03-04:00",
+            "catalog_number": "280",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 001",
+            "instructors": [
+                "Wilkins-Laflamme,Sarah"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "211",
+            "end_time": "14:20",
+            "enrollment_total": 19,
+            "class_number": 3492,
+            "start_time": "13:00",
+            "subject": "SOC"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:32-04:00",
+            "catalog_number": "292",
+            "end_date": null,
+            "title": "Circuits, Instrumentation, and Measurements",
+            "section": "LEC 001",
+            "instructors": [
+                "Stashuk,Daniel W"
+            ],
+            "weekdays": "TW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "14:20",
+            "enrollment_total": 97,
+            "class_number": 4713,
+            "start_time": "12:30",
+            "subject": "SYDE"
+        },
+        {
+            "building": "RCH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:28-04:00",
+            "catalog_number": "605",
+            "end_date": null,
+            "title": "Organizational Theory & Behaviour",
+            "section": "LEC 001",
+            "instructors": [
+                "Duimering,P.Robert"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "211",
+            "end_time": "10:50",
+            "enrollment_total": 43,
+            "class_number": 4933,
+            "start_time": "09:30",
+            "subject": "MSCI"
         }
     ]
 }

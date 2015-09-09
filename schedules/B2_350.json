@@ -2,143 +2,461 @@
     "data": [
         {
             "building": "B2",
-            "catalog_number": "110",
-            "class_number": 4304,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:02-04:00",
+            "catalog_number": "231",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 42,
-            "instructors": [
-                "Pinheiro,Marcel Diniz Oliveira"
-            ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
+            "title": "Calculus 4",
             "section": "LEC 001",
+            "instructors": [
+                "Vrscay,Edward R"
+            ],
+            "weekdays": "MWF",
             "start_date": null,
+            "room": "350",
+            "end_time": "13:20",
+            "enrollment_total": 27,
+            "class_number": 5971,
             "start_time": "12:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Introductory Zoology",
-            "weekdays": "MW"
+            "subject": "AMATH"
         },
         {
             "building": "B2",
-            "catalog_number": "130",
-            "class_number": 4713,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:04-04:00",
+            "catalog_number": "261",
             "end_date": null,
-            "end_time": "15:20",
-            "enrollment_total": 43,
+            "title": "Primate Behaviour",
+            "section": "LEC 001",
             "instructors": [
-                "Miskovic,Dragana"
+                "Bolt,Laura"
             ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
-            "section": "TUT 101",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Introductory Cell Biology",
-            "weekdays": "M"
+            "room": "350",
+            "end_time": "17:20",
+            "enrollment_total": 50,
+            "class_number": 8379,
+            "start_time": "16:00",
+            "subject": "ANTH"
         },
         {
             "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
             "catalog_number": "130",
-            "class_number": 4714,
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 48,
-            "instructors": [
-                "Miskovic,Dragana"
-            ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
+            "title": "Introductory Cell Biology",
             "section": "TUT 102",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Introductory Cell Biology",
-            "weekdays": "M"
-        },
-        {
-            "building": "B2",
-            "catalog_number": "239",
-            "class_number": 4123,
-            "end_date": null,
-            "end_time": "15:20",
+            "room": "350",
+            "end_time": "17:20",
             "enrollment_total": 51,
+            "class_number": 7153,
+            "start_time": "16:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 104",
             "instructors": [
                 "Miskovic,Dragana"
             ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
-            "section": "TUT 101",
+            "weekdays": "T",
             "start_date": null,
+            "room": "350",
+            "end_time": "17:20",
+            "enrollment_total": 53,
+            "class_number": 7155,
+            "start_time": "16:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 105",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "350",
+            "end_time": "15:20",
+            "enrollment_total": 52,
+            "class_number": 7156,
             "start_time": "14:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Genetics",
-            "weekdays": "F"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "239",
-            "class_number": 4124,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
             "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 106",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "350",
             "end_time": "16:20",
-            "enrollment_total": 50,
-            "instructors": [
-                "Miskovic,Dragana"
-            ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
-            "section": "TUT 102",
-            "start_date": null,
+            "enrollment_total": 47,
+            "class_number": 7157,
             "start_time": "15:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Genetics",
-            "weekdays": "F"
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "239",
-            "class_number": 4715,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
             "end_date": null,
-            "end_time": "14:20",
-            "enrollment_total": 50,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 113",
             "instructors": [
                 "Miskovic,Dragana"
             ],
-            "last_updated": "2015-05-04T16:00:28-04:00",
-            "room": "350",
-            "section": "TUT 103",
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "13:30",
-            "subject": "BIOL",
-            "term": 1155,
-            "title": "Genetics",
-            "weekdays": "F"
+            "room": "350",
+            "end_time": "16:20",
+            "enrollment_total": 53,
+            "class_number": 7221,
+            "start_time": "15:30",
+            "subject": "BIOL"
         },
         {
             "building": "B2",
-            "catalog_number": "342",
-            "class_number": 4104,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 41,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 114",
             "instructors": [
-                "Lynch,Michael David Joseph"
+                "Miskovic,Dragana"
             ],
-            "last_updated": "2015-05-04T16:00:29-04:00",
-            "room": "350",
-            "section": "TUT 101",
+            "weekdays": "F",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "BIOL",
-            "term": 1155,
+            "room": "350",
+            "end_time": "10:20",
+            "enrollment_total": 52,
+            "class_number": 7222,
+            "start_time": "09:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 125",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "350",
+            "end_time": "18:20",
+            "enrollment_total": 53,
+            "class_number": 7352,
+            "start_time": "17:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:15-04:00",
+            "catalog_number": "130",
+            "end_date": null,
+            "title": "Introductory Cell Biology",
+            "section": "TUT 126",
+            "instructors": [
+                "Miskovic,Dragana"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "350",
+            "end_time": "19:20",
+            "enrollment_total": 38,
+            "class_number": 7379,
+            "start_time": "18:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "342",
+            "end_date": null,
             "title": "Molecular Biotechnology 1",
-            "weekdays": "F"
+            "section": "TUT 101",
+            "instructors": [
+                "Dupont,Christine"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "350",
+            "end_time": "16:20",
+            "enrollment_total": 33,
+            "class_number": 6892,
+            "start_time": "15:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:17-04:00",
+            "catalog_number": "342",
+            "end_date": null,
+            "title": "Molecular Biotechnology 1",
+            "section": "TUT 102",
+            "instructors": [
+                "Dupont,Christine"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "350",
+            "end_time": "15:20",
+            "enrollment_total": 49,
+            "class_number": 6893,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:19-04:00",
+            "catalog_number": "452",
+            "end_date": null,
+            "title": "Quantitative Fisheries Biology",
+            "section": "LEC 001",
+            "instructors": [
+                "Power,Michael"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "15:20",
+            "enrollment_total": 5,
+            "class_number": 7484,
+            "start_time": "14:30",
+            "subject": "BIOL"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:39-04:00",
+            "catalog_number": "240",
+            "end_date": null,
+            "title": "Mathematical Methods for Chemistry",
+            "section": "LEC 001",
+            "instructors": [
+                "Baugh,Jonathan"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "350",
+            "end_time": "12:50",
+            "enrollment_total": 70,
+            "class_number": 7214,
+            "start_time": "11:30",
+            "subject": "CHEM"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:18-04:00",
+            "catalog_number": "491",
+            "end_date": null,
+            "title": "Nanostructured Materials",
+            "section": "LEC 001",
+            "instructors": [
+                "Pope,Michael"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "350",
+            "end_time": "09:50",
+            "enrollment_total": 54,
+            "class_number": 5200,
+            "start_time": "08:30",
+            "subject": "NE"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:58-04:00",
+            "catalog_number": "363",
+            "end_date": null,
+            "title": "Intermediate Classical Mechanics",
+            "section": "LEC 001",
+            "instructors": [
+                "Chen,Zheng-Yu"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "350",
+            "end_time": "14:20",
+            "enrollment_total": 42,
+            "class_number": 7036,
+            "start_time": "13:00",
+            "subject": "PHYS"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:06-04:00",
+            "catalog_number": "330",
+            "end_date": null,
+            "title": "Introduction to Mathematical Logic",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "TThF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "09:20",
+            "enrollment_total": 35,
+            "class_number": 6035,
+            "start_time": "08:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:06-04:00",
+            "catalog_number": "340",
+            "end_date": null,
+            "title": "Elementary Number Theory",
+            "section": "LEC 001",
+            "instructors": [
+                "Kuo,Wentang"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "12:20",
+            "enrollment_total": 55,
+            "class_number": 6377,
+            "start_time": "11:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:07-04:00",
+            "catalog_number": "351",
+            "end_date": null,
+            "title": "Real Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Nica,Alexandru"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "14:20",
+            "enrollment_total": 46,
+            "class_number": 6038,
+            "start_time": "13:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:08-04:00",
+            "catalog_number": "453",
+            "end_date": null,
+            "title": "Functional Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Davidson,Kenneth R"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "350",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "class_number": 7982,
+            "start_time": "10:00",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:08-04:00",
+            "catalog_number": "465",
+            "end_date": null,
+            "title": "Differential Geometry",
+            "section": "LEC 001",
+            "instructors": [
+                "Park,Doug"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "11:20",
+            "enrollment_total": 4,
+            "class_number": 6616,
+            "start_time": "10:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:46-04:00",
+            "catalog_number": "665",
+            "end_date": null,
+            "title": "Differential Geometry",
+            "section": "LEC 001",
+            "instructors": [
+                "Park,Doug"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "350",
+            "end_time": "11:20",
+            "enrollment_total": 0,
+            "class_number": 6622,
+            "start_time": "10:30",
+            "subject": "PMATH"
+        },
+        {
+            "building": "B2",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:47-04:00",
+            "catalog_number": "753",
+            "end_date": null,
+            "title": "Functional Analysis",
+            "section": "LEC 001",
+            "instructors": [
+                "Davidson,Kenneth R"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "350",
+            "end_time": "11:20",
+            "enrollment_total": 22,
+            "class_number": 6477,
+            "start_time": "10:00",
+            "subject": "PMATH"
         }
     ]
 }

@@ -2,143 +2,344 @@
     "data": [
         {
             "building": "OPT",
-            "catalog_number": "210",
-            "class_number": 2161,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:00-04:00",
+            "catalog_number": "220",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 6,
-            "instructors": [
-                "Williams,Diane"
-            ],
-            "last_updated": "2015-05-04T16:01:24-04:00",
-            "room": "347",
+            "title": "Psychosocial Perspectives on Lifespan Development and Health",
             "section": "LEC 001",
+            "instructors": [
+                "Jessup,Linda Louise"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "GERON",
-            "term": 1155,
-            "title": "Development, Aging and Health",
-            "weekdays": "TTh"
+            "room": "347",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 3076,
+            "start_time": "16:00",
+            "subject": "GERON"
         },
         {
             "building": "OPT",
-            "catalog_number": "210",
-            "class_number": 2162,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:07-04:00",
+            "catalog_number": "220",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 100,
-            "instructors": [
-                "Williams,Diane"
-            ],
-            "last_updated": "2015-05-04T16:01:25-04:00",
-            "room": "347",
+            "title": "Psychosocial Perspectives on Lifespan Development and Health",
             "section": "LEC 001",
+            "instructors": [
+                "Jessup,Linda Louise"
+            ],
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "HLTH",
-            "term": 1155,
-            "title": "Development, Aging and Health",
-            "weekdays": "TTh"
+            "room": "347",
+            "end_time": "17:20",
+            "enrollment_total": 187,
+            "class_number": 3081,
+            "start_time": "16:00",
+            "subject": "HLTH"
         },
         {
             "building": "OPT",
-            "catalog_number": "205",
-            "class_number": 2130,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:08-04:00",
+            "catalog_number": "333",
             "end_date": null,
+            "title": "Experimental Methods and Observational Methods in Epidemiology",
+            "section": "LEC 001",
+            "instructors": [
+                "Satvat,Elham"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "347",
             "end_time": "14:20",
-            "enrollment_total": 105,
-            "instructors": [
-                "Tupling,Allan R"
-            ],
-            "last_updated": "2015-05-04T16:01:34-04:00",
-            "room": "347",
-            "section": "LEC 001",
-            "start_date": null,
+            "enrollment_total": 141,
+            "class_number": 3277,
             "start_time": "13:00",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Muscle Physiology in Exercise and Work",
-            "weekdays": "MTh"
+            "subject": "HLTH"
         },
         {
             "building": "OPT",
-            "catalog_number": "210",
-            "class_number": 2163,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:08-04:00",
+            "catalog_number": "407",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 41,
-            "instructors": [
-                "Williams,Diane"
-            ],
-            "last_updated": "2015-05-04T16:01:34-04:00",
-            "room": "347",
+            "title": "Coronary Artery Disease - Prevention and Rehabilitation",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "10:00",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Development, Aging and Health",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "OPT",
-            "catalog_number": "221",
-            "class_number": 2034,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 92,
             "instructors": [
-                "Acker,Stacey"
+                "Russell,Caryl A"
             ],
-            "last_updated": "2015-05-04T16:01:34-04:00",
-            "room": "347",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Advanced Biomechanics of Human Movement",
-            "weekdays": "MW"
+            "room": "347",
+            "end_time": "09:50",
+            "enrollment_total": 20,
+            "class_number": 3252,
+            "start_time": "08:30",
+            "subject": "HLTH"
         },
         {
             "building": "OPT",
-            "catalog_number": "222",
-            "class_number": 2035,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:08-04:00",
+            "catalog_number": "407",
             "end_date": null,
-            "end_time": "12:20",
-            "enrollment_total": 199,
+            "title": "Coronary Artery Disease - Prevention and Rehabilitation",
+            "section": "LEC 001",
+            "instructors": [
+                "Russell,Caryl A"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "347",
+            "end_time": "17:20",
+            "enrollment_total": 20,
+            "class_number": 3252,
+            "start_time": "16:00",
+            "subject": "HLTH"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:26-04:00",
+            "catalog_number": "105",
+            "end_date": null,
+            "title": "Cardiovascular and Respiratory Responses to Exercise",
+            "section": "LEC 001",
             "instructors": [
                 "Vigna,Christopher"
             ],
-            "last_updated": "2015-05-04T16:01:34-04:00",
-            "room": "347",
-            "section": "LEC 001",
+            "weekdays": "MWF",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Statistical Techniques Applied to Kinesiology",
-            "weekdays": "MWF"
+            "room": "347",
+            "end_time": "13:20",
+            "enrollment_total": 226,
+            "class_number": 3203,
+            "start_time": "12:30",
+            "subject": "KIN"
         },
         {
             "building": "OPT",
-            "catalog_number": "242",
-            "class_number": 4750,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:28-04:00",
+            "catalog_number": "407",
             "end_date": null,
-            "end_time": "09:50",
-            "enrollment_total": 140,
-            "instructors": [
-                "McIlroy,William"
-            ],
-            "last_updated": "2015-05-04T16:01:35-04:00",
-            "room": "347",
+            "title": "Coronary Artery Disease - Prevention and Rehabilitation",
             "section": "LEC 001",
+            "instructors": [
+                "Russell,Caryl A"
+            ],
+            "weekdays": "M",
             "start_date": null,
+            "room": "347",
+            "end_time": "09:50",
+            "enrollment_total": 116,
+            "class_number": 3253,
             "start_time": "08:30",
-            "subject": "KIN",
-            "term": 1155,
-            "title": "Introduction to Movement Disorders",
-            "weekdays": "TTh"
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:28-04:00",
+            "catalog_number": "407",
+            "end_date": null,
+            "title": "Coronary Artery Disease - Prevention and Rehabilitation",
+            "section": "LEC 001",
+            "instructors": [
+                "Russell,Caryl A"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "347",
+            "end_time": "17:20",
+            "enrollment_total": 116,
+            "class_number": 3253,
+            "start_time": "16:00",
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:29-04:00",
+            "catalog_number": "428",
+            "end_date": null,
+            "title": "Upper Extremity Musculoskeletal Disorders: Prevention, Assessment, and Rehabilitation",
+            "section": "LEC 001",
+            "instructors": [
+                "Dickerson,Clark"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "347",
+            "end_time": "15:50",
+            "enrollment_total": 172,
+            "class_number": 3326,
+            "start_time": "14:30",
+            "subject": "KIN"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:42-04:00",
+            "catalog_number": "137",
+            "end_date": null,
+            "title": "Calculus 1 for Honours Mathematics",
+            "section": "LEC 004",
+            "instructors": [
+                "Hewitt,Conrad G"
+            ],
+            "weekdays": "MWF",
+            "start_date": null,
+            "room": "347",
+            "end_time": "11:20",
+            "enrollment_total": 185,
+            "class_number": 6030,
+            "start_time": "10:30",
+            "subject": "MATH"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "109",
+            "end_date": null,
+            "title": "Visual Perception 1: Perception of Light",
+            "section": "LEC 001",
+            "instructors": [
+                "Lakshminarayanan,Vasudevan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "347",
+            "end_time": "10:20",
+            "enrollment_total": 91,
+            "class_number": 7046,
+            "start_time": "08:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:20-04:00",
+            "catalog_number": "124",
+            "end_date": null,
+            "title": "Human Gross Anatomy",
+            "section": "LEC 001",
+            "instructors": [
+                "Barnes,James Derek"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "347",
+            "end_time": "12:20",
+            "enrollment_total": 90,
+            "class_number": 7285,
+            "start_time": "11:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "375",
+            "end_date": null,
+            "title": "Diseases of the Eye 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Prokopich,C. Lisa"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "347",
+            "end_time": "16:20",
+            "enrollment_total": 93,
+            "class_number": 7241,
+            "start_time": "15:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "375",
+            "end_date": null,
+            "title": "Diseases of the Eye 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Prokopich,C. Lisa"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "347",
+            "end_time": "14:20",
+            "enrollment_total": 93,
+            "class_number": 7241,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:24-04:00",
+            "catalog_number": "387",
+            "end_date": null,
+            "title": "Gerontology and Low Vision",
+            "section": "LEC 001",
+            "instructors": {
+                "0": "Labreche,Tammy",
+                "2": "Leat,Susan"
+            },
+            "weekdays": "F",
+            "start_date": null,
+            "room": "347",
+            "end_time": "15:20",
+            "enrollment_total": 93,
+            "class_number": 7078,
+            "start_time": "13:30",
+            "subject": "OPTOM"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:43-04:00",
+            "catalog_number": "223",
+            "end_date": null,
+            "title": "Science and Business Workshop 2",
+            "section": "LEC 001",
+            "instructors": [
+                "Memon,Muhammad Kashif"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "347",
+            "end_time": "10:20",
+            "enrollment_total": 94,
+            "class_number": 7248,
+            "start_time": "08:30",
+            "subject": "SCBUS"
+        },
+        {
+            "building": "OPT",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:19-04:00",
+            "catalog_number": "230",
+            "end_date": null,
+            "title": "Probability",
+            "section": "LEC 002",
+            "instructors": [
+                "Skrzydlo,Diana Katherine"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "347",
+            "end_time": "15:50",
+            "enrollment_total": 120,
+            "class_number": 6066,
+            "start_time": "14:30",
+            "subject": "STAT"
         }
     ]
 }

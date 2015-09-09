@@ -2,101 +2,243 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "349R",
-            "class_number": 4919,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:41-04:00",
+            "catalog_number": "252",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 30,
-            "instructors": [
-                "Yoshida,Emiko"
-            ],
-            "last_updated": "2015-05-04T16:02:07-04:00",
-            "room": "0403",
+            "title": "Religion in Popular Film",
             "section": "LEC 001",
+            "instructors": [
+                "Riddell,Kathleen"
+            ],
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Cross-Cultural Psychology",
-            "weekdays": "MW"
+            "room": "0403",
+            "end_time": "21:20",
+            "enrollment_total": 8,
+            "class_number": 8452,
+            "start_time": "18:30",
+            "subject": "FINE"
         },
         {
             "building": "REN",
-            "catalog_number": "349R",
-            "class_number": 4921,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:03-04:00",
+            "catalog_number": "239",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 0,
-            "instructors": [
-                "Yoshida,Emiko"
-            ],
-            "last_updated": "2015-05-04T16:02:24-04:00",
-            "room": "0403",
+            "title": "History of Modern China, 1911 to the Present",
             "section": "LEC 001",
+            "instructors": [
+                "Cai,Kevin"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Cross-Cultural Psychology",
-            "weekdays": "MW"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "443R",
-            "class_number": 4064,
-            "end_date": "06/30",
+            "room": "0403",
             "end_time": "11:20",
-            "enrollment_total": 22,
-            "instructors": [],
-            "last_updated": "2015-05-04T16:02:25-04:00",
-            "room": "0403",
-            "section": "PRA 003",
-            "start_date": "04/09",
-            "start_time": "09:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Practicum 3",
-            "weekdays": "F"
+            "enrollment_total": 20,
+            "class_number": 3675,
+            "start_time": "08:30",
+            "subject": "HIST"
         },
         {
             "building": "REN",
-            "catalog_number": "470R",
-            "class_number": 4040,
-            "end_date": "06/30",
-            "end_time": "12:20",
-            "enrollment_total": 32,
-            "instructors": [
-                "McMillan,Colleen Vera"
-            ],
-            "last_updated": "2015-05-04T16:02:25-04:00",
-            "room": "0403",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:31-04:00",
+            "catalog_number": "272R",
+            "end_date": null,
+            "title": "Korean Culture and Society",
             "section": "LEC 001",
-            "start_date": "04/09",
-            "start_time": "09:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Mental Health and Addiction Issues: Social Work Responses",
-            "weekdays": "Th"
+            "instructors": [
+                "Ha,Young-Lee"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "20:20",
+            "enrollment_total": 24,
+            "class_number": 8214,
+            "start_time": "17:30",
+            "subject": "KOREA"
         },
         {
             "building": "REN",
-            "catalog_number": "470R",
-            "class_number": 4042,
-            "end_date": "06/30",
-            "end_time": "16:20",
-            "enrollment_total": 26,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:39-04:00",
+            "catalog_number": "270R",
+            "end_date": null,
+            "title": "Religion in Popular Film",
+            "section": "LEC 001",
             "instructors": [
-                "Vito,Rosemary"
+                "Riddell,Kathleen"
             ],
-            "last_updated": "2015-05-04T16:02:25-04:00",
+            "weekdays": "M",
+            "start_date": null,
             "room": "0403",
+            "end_time": "21:20",
+            "enrollment_total": 9,
+            "class_number": 8451,
+            "start_time": "18:30",
+            "subject": "RS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "231R",
+            "end_date": null,
+            "title": "Introduction to Social Policy Processes",
+            "section": "LEC 001",
+            "instructors": [
+                "Crossley,John"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "17:20",
+            "enrollment_total": 24,
+            "class_number": 6799,
+            "start_time": "14:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:00-04:00",
+            "catalog_number": "207R",
+            "end_date": null,
+            "title": "Sociology of Education",
+            "section": "LEC 001",
+            "instructors": [
+                "Sanderson,Nicole"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "20:50",
+            "enrollment_total": 39,
+            "class_number": 8332,
+            "start_time": "18:00",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:09-04:00",
+            "catalog_number": "300R",
+            "end_date": null,
+            "title": "Canadian Social Welfare Policy",
+            "section": "LEC 001",
+            "instructors": [
+                "Case,Robert A."
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "17:20",
+            "enrollment_total": 36,
+            "class_number": 6756,
+            "start_time": "16:00",
+            "subject": "SOCWK"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:27-04:00",
+            "catalog_number": "300R",
+            "end_date": null,
+            "title": "Canadian Social Welfare Policy",
+            "section": "LEC 001",
+            "instructors": [
+                "Case,Robert A."
+            ],
+            "weekdays": "WF",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "17:20",
+            "enrollment_total": 0,
+            "class_number": 6770,
+            "start_time": "16:00",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "414R",
+            "end_date": null,
+            "title": "Interviewing and Assessment in Social Work Practice",
             "section": "LEC 002",
-            "start_date": "04/09",
+            "instructors": [
+                "Notar,Margaret Katherine"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 6759,
+            "start_time": "09:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "422R",
+            "end_date": null,
+            "title": "Advanced Macro Practice",
+            "section": "LEC 002",
+            "instructors": [
+                "Oba,Olufunke"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 6776,
+            "start_time": "09:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:28-04:00",
+            "catalog_number": "423R",
+            "end_date": null,
+            "title": "Advanced Social Group Work Practice",
+            "section": "LEC 002",
+            "instructors": [
+                "Miller,Wayne Alan"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "16:20",
+            "enrollment_total": 30,
+            "class_number": 6760,
             "start_time": "13:30",
-            "subject": "SWREN",
-            "term": 1155,
-            "title": "Mental Health and Addiction Issues: Social Work Responses",
-            "weekdays": "Th"
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:29-04:00",
+            "catalog_number": "441R",
+            "end_date": null,
+            "title": "Practicum 1",
+            "section": "PRA 002",
+            "instructors": [
+                "Gallagher,Susan"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0403",
+            "end_time": "15:20",
+            "enrollment_total": 0,
+            "class_number": 6763,
+            "start_time": "13:30",
+            "subject": "SWREN"
         }
     ]
 }

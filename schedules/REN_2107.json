@@ -2,123 +2,203 @@
     "data": [
         {
             "building": "REN",
-            "catalog_number": "102R",
-            "class_number": 4066,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "301R",
             "end_date": null,
-            "end_time": "15:50",
-            "enrollment_total": 21,
+            "title": "The Political Economy of East Asia",
+            "section": "LEC 001",
             "instructors": [
-                "Skinner,Patricia Anne"
+                "Cai,Kevin"
             ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "2107",
-            "section": "LEC 006",
+            "weekdays": "M",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Error Correction in Academic Writing",
-            "weekdays": "MTTh"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "129R",
-            "class_number": 4046,
-            "end_date": null,
+            "room": "2107",
             "end_time": "17:20",
-            "enrollment_total": 19,
-            "instructors": [
-                "Skinner,Patricia Anne"
-            ],
-            "last_updated": "2015-05-04T16:01:16-04:00",
-            "room": "2107",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "16:00",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Written Academic English",
-            "weekdays": "MTTh"
+            "enrollment_total": 22,
+            "class_number": 6823,
+            "start_time": "14:30",
+            "subject": "EASIA"
         },
         {
             "building": "REN",
-            "catalog_number": "101R",
-            "class_number": 4045,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:05:05-04:00",
+            "catalog_number": "302R",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 24,
+            "title": "China: Foreign Pol. since 1949",
+            "section": "LEC 001",
             "instructors": [
-                "Burns,Eri"
+                "Cai,Kevin"
             ],
-            "last_updated": "2015-05-04T16:01:33-04:00",
-            "room": "2107",
-            "section": "TUT 104",
+            "weekdays": "M",
             "start_date": null,
+            "room": "2107",
+            "end_time": "21:20",
+            "enrollment_total": 5,
+            "class_number": 8260,
+            "start_time": "18:30",
+            "subject": "EASIA"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:34-04:00",
+            "catalog_number": "223",
+            "end_date": null,
+            "title": "Deviance: Perspectives & Proc",
+            "section": "LEC 001",
+            "instructors": [
+                "Roberts,Sharon Elizabeth"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "21:20",
+            "enrollment_total": 10,
+            "class_number": 8056,
+            "start_time": "18:30",
+            "subject": "LS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:45-04:00",
+            "catalog_number": "131R",
+            "end_date": null,
+            "title": "Social Ideas, Social Policy and Political Practice",
+            "section": "LEC 001",
+            "instructors": [
+                "Blokhuis,Jason C."
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "11:20",
+            "enrollment_total": 49,
+            "class_number": 6813,
             "start_time": "10:00",
-            "subject": "JAPAN",
-            "term": 1155,
-            "title": "First-Year Japanese 1",
-            "weekdays": "Th"
+            "subject": "SDS"
         },
         {
             "building": "REN",
-            "catalog_number": "601R",
-            "class_number": 4875,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "250R",
             "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 18,
-            "instructors": [
-                "Rehm,Stefan"
-            ],
-            "last_updated": "2015-05-04T16:02:44-04:00",
-            "room": "2107",
+            "title": "Social Statistics",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "08:30",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Speaking English for Professional Purposes",
-            "weekdays": "W"
-        },
-        {
-            "building": "REN",
-            "catalog_number": "601R",
-            "class_number": 4875,
-            "end_date": null,
-            "end_time": "11:20",
-            "enrollment_total": 18,
             "instructors": [
-                "Rehm,Stefan"
+                "D'Ailly,Hsiao"
             ],
-            "last_updated": "2015-05-04T16:02:44-04:00",
-            "room": "2107",
-            "section": "LEC 001",
+            "weekdays": "TTh",
             "start_date": null,
-            "start_time": "10:00",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Speaking English for Professional Purposes",
-            "weekdays": "M"
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "class_number": 6800,
+            "start_time": "12:30",
+            "subject": "SDS"
         },
         {
             "building": "REN",
-            "catalog_number": "602R",
-            "class_number": 4079,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:46-04:00",
+            "catalog_number": "250R",
             "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 003",
+            "instructors": [
+                "Hughes,Jeffrey Alan John"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 39,
+            "class_number": 6807,
+            "start_time": "12:30",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:48-04:00",
+            "catalog_number": "450R",
+            "end_date": null,
+            "title": "Honours Seminar in Special Topics",
+            "section": "SEM 001",
+            "instructors": [
+                "Ochocka,Joanna"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "2107",
             "end_time": "12:50",
-            "enrollment_total": 9,
+            "enrollment_total": 12,
+            "class_number": 6816,
+            "start_time": "10:00",
+            "subject": "SDS"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:01-04:00",
+            "catalog_number": "223R",
+            "end_date": null,
+            "title": "Deviance: Perspectives and Processes",
+            "section": "LEC 001",
             "instructors": [
-                "Oczkowski,Nancy"
+                "Roberts,Sharon Elizabeth"
             ],
-            "last_updated": "2015-05-04T16:02:44-04:00",
-            "room": "2107",
-            "section": "LEC 002",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ESL",
-            "term": 1155,
-            "title": "Scholarly Writing in English",
-            "weekdays": "MTTh"
+            "room": "2107",
+            "end_time": "21:20",
+            "enrollment_total": 30,
+            "class_number": 8071,
+            "start_time": "18:30",
+            "subject": "SOC"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "250R",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 001",
+            "instructors": [
+                "D'Ailly,Hsiao"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 0,
+            "class_number": 6768,
+            "start_time": "12:30",
+            "subject": "SWREN"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:26-04:00",
+            "catalog_number": "250R",
+            "end_date": null,
+            "title": "Social Statistics",
+            "section": "LEC 003",
+            "instructors": [
+                "Hughes,Jeffrey Alan John"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "2107",
+            "end_time": "14:20",
+            "enrollment_total": 1,
+            "class_number": 6837,
+            "start_time": "12:30",
+            "subject": "SWREN"
         }
     ]
 }

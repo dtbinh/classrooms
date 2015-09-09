@@ -2,103 +2,165 @@
     "data": [
         {
             "building": "M3",
-            "catalog_number": "991",
-            "class_number": 3973,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:42-04:00",
+            "catalog_number": "772",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 0,
-            "instructors": [
-                "Wang,Ruodu"
-            ],
-            "last_updated": "2015-05-04T16:02:32-04:00",
-            "room": "3103",
+            "title": "Finance 3",
             "section": "LEC 001",
-            "start_date": null,
-            "start_time": "12:00",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Topics in Actuarial Science",
-            "weekdays": "TTh"
-        },
-        {
-            "building": "M3",
-            "catalog_number": "991",
-            "class_number": 4705,
-            "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 1,
             "instructors": [
-                "Hofert,Marius"
+                "Kolkiewicz,Adam A"
             ],
-            "last_updated": "2015-05-04T16:02:32-04:00",
-            "room": "3103",
-            "section": "LEC 002",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "ACTSC",
-            "term": 1155,
-            "title": "Topics in Actuarial Science",
-            "weekdays": "MW"
-        },
-        {
-            "building": "M3",
-            "catalog_number": "938",
-            "class_number": 3701,
-            "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 16,
-            "instructors": [
-                "Camacho,Fernando"
-            ],
-            "last_updated": "2015-05-04T16:03:01-04:00",
             "room": "3103",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "09:00",
-            "subject": "STAT",
-            "term": 1155,
-            "title": "Statistical Consulting",
-            "weekdays": "Th"
-        },
-        {
-            "building": "M3",
-            "catalog_number": "946",
-            "class_number": 3911,
-            "end_date": null,
-            "end_time": "16:20",
-            "enrollment_total": 0,
-            "instructors": [
-                "Han,Peisong"
-            ],
-            "last_updated": "2015-05-04T16:03:01-04:00",
-            "room": "3103",
-            "section": "LEC 001",
-            "start_date": null,
-            "start_time": "15:00",
-            "subject": "STAT",
-            "term": 1155,
-            "title": "Topics in Probability and Statistics",
-            "weekdays": "MW"
-        },
-        {
-            "building": "M3",
-            "catalog_number": "946",
-            "class_number": 4706,
-            "end_date": null,
             "end_time": "12:50",
             "enrollment_total": 0,
-            "instructors": [
-                "Hofert,Marius"
-            ],
-            "last_updated": "2015-05-04T16:03:01-04:00",
-            "room": "3103",
-            "section": "LEC 002",
-            "start_date": null,
+            "class_number": 3902,
             "start_time": "11:30",
-            "subject": "STAT",
-            "term": 1155,
+            "subject": "ACC"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:47-04:00",
+            "catalog_number": "972",
+            "end_date": null,
+            "title": "Finance 3",
+            "section": "LEC 001",
+            "instructors": [
+                "Saunders,David"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "12:50",
+            "enrollment_total": 9,
+            "class_number": 6467,
+            "start_time": "11:30",
+            "subject": "ACTSC"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:06-04:00",
+            "catalog_number": "901",
+            "end_date": null,
+            "title": "Theory of Probability 1",
+            "section": "LEC 001",
+            "instructors": [
+                "Small,Christopher G"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "12:50",
+            "enrollment_total": 36,
+            "class_number": 6138,
+            "start_time": "11:30",
+            "subject": "STAT"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:06-04:00",
+            "catalog_number": "906",
+            "end_date": null,
+            "title": "Computer Intensive Methods for Stochastic Models in Finance",
+            "section": "LEC 001",
+            "instructors": [
+                "Lemieux,Christiane"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "11:20",
+            "enrollment_total": 14,
+            "class_number": 6139,
+            "start_time": "10:00",
+            "subject": "STAT"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:06-04:00",
+            "catalog_number": "931",
+            "end_date": null,
+            "title": "Statistical Methods for the Design and Analysis of Epidemiological Studies",
+            "section": "LEC 001",
+            "instructors": [
+                "Cotton,Cecilia Anne",
+                "Zhu,Yeying"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "11:20",
+            "enrollment_total": 5,
+            "class_number": 6569,
+            "start_time": "10:00",
+            "subject": "STAT"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:06-04:00",
+            "catalog_number": "932",
+            "end_date": null,
+            "title": "Statistical Methods for the Design and Analysis of Randomized Intervention Trials",
+            "section": "LEC 001",
+            "instructors": [
+                "Cook,Richard J",
+                "Dubin,Joel"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "14:20",
+            "enrollment_total": 7,
+            "class_number": 6570,
+            "start_time": "13:00",
+            "subject": "STAT"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:07-04:00",
+            "catalog_number": "946",
+            "end_date": null,
             "title": "Topics in Probability and Statistics",
-            "weekdays": "MW"
+            "section": "LEC 001",
+            "instructors": [
+                "Shen,Yi"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "15:50",
+            "enrollment_total": 0,
+            "class_number": 7967,
+            "start_time": "14:30",
+            "subject": "STAT"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:07-04:00",
+            "catalog_number": "946",
+            "end_date": null,
+            "title": "Topics in Probability and Statistics",
+            "section": "LEC 002",
+            "instructors": [
+                "Ghodsi Boushehri,Ali"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "3103",
+            "end_time": "16:50",
+            "enrollment_total": 0,
+            "class_number": 7968,
+            "start_time": "14:00",
+            "subject": "STAT"
         }
     ]
 }

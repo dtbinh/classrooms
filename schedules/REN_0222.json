@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:11-04:00",
+            "catalog_number": "34",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Karanassiou,Jane"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "10:20",
+            "enrollment_total": 15,
+            "class_number": 6869,
+            "start_time": "09:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "42",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Corwin,Jesse Eliot"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "15:50",
+            "enrollment_total": 14,
+            "class_number": 8528,
+            "start_time": "14:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "42",
+            "end_date": null,
+            "title": "Academic Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Corwin,Jesse Eliot"
+            ],
+            "weekdays": "WThF",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "15:20",
+            "enrollment_total": 14,
+            "class_number": 8528,
+            "start_time": "13:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "14:50",
+            "enrollment_total": 13,
+            "class_number": 6876,
+            "start_time": "13:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 001",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "10:20",
+            "enrollment_total": 13,
+            "class_number": 6876,
+            "start_time": "09:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "M",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "12:20",
+            "enrollment_total": 14,
+            "class_number": 8530,
+            "start_time": "11:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "12:50",
+            "enrollment_total": 14,
+            "class_number": 8530,
+            "start_time": "11:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "10:50",
+            "enrollment_total": 14,
+            "class_number": 8530,
+            "start_time": "09:00",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "44",
+            "end_date": null,
+            "title": "Writing Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Hill,Stephen"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "12:50",
+            "enrollment_total": 14,
+            "class_number": 8530,
+            "start_time": "11:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "46",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Scanlon,Giselle"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "13:20",
+            "enrollment_total": 14,
+            "class_number": 8531,
+            "start_time": "11:30",
+            "subject": "BASE"
+        },
+        {
+            "building": "REN",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:12-04:00",
+            "catalog_number": "46",
+            "end_date": null,
+            "title": "Oral Skills",
+            "section": "LEC 002",
+            "instructors": [
+                "Scanlon,Giselle"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "0222",
+            "end_time": "12:20",
+            "enrollment_total": 14,
+            "class_number": 8531,
+            "start_time": "11:00",
+            "subject": "BASE"
+        }
+    ]
+}

@@ -2,43 +2,299 @@
     "data": [
         {
             "building": "CGR",
-            "catalog_number": "100",
-            "class_number": 2712,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:50-04:00",
+            "catalog_number": "363",
             "end_date": null,
-            "end_time": "12:50",
-            "enrollment_total": 75,
-            "instructors": [
-                "Brownell,John"
-            ],
-            "last_updated": "2015-05-04T16:01:46-04:00",
-            "room": "1208",
+            "title": "Christian Hymnody",
             "section": "LEC 001",
+            "instructors": [
+                "Hull,Kenneth R"
+            ],
+            "weekdays": "T",
             "start_date": null,
-            "start_time": "11:30",
-            "subject": "MUSIC",
-            "term": 1155,
-            "title": "Understanding Music",
-            "weekdays": "TTh"
+            "room": "1208",
+            "end_time": "21:20",
+            "enrollment_total": 3,
+            "class_number": 7914,
+            "start_time": "18:30",
+            "subject": "CMW"
         },
         {
             "building": "CGR",
-            "catalog_number": "270",
-            "class_number": 2714,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:04:56-04:00",
+            "catalog_number": "241",
             "end_date": null,
+            "title": "Foundations of Sequential Programs",
+            "section": "LEC 005",
+            "instructors": [
+                "Lhotak,Ondrej"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "12:50",
+            "enrollment_total": 55,
+            "class_number": 7754,
+            "start_time": "11:30",
+            "subject": "CS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:04-04:00",
+            "catalog_number": "245",
+            "end_date": null,
+            "title": "World Music",
+            "section": "LEC 001",
+            "instructors": [
+                "Sum,Maisie"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "14:20",
+            "enrollment_total": 23,
+            "class_number": 4663,
+            "start_time": "13:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:04-04:00",
+            "catalog_number": "254",
+            "end_date": null,
+            "title": "Monteverdi to Mozart: Music from 1600-1800",
+            "section": "LEC 001",
+            "instructors": [
+                "Gray,Laura"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "15:50",
+            "enrollment_total": 29,
+            "class_number": 7919,
+            "start_time": "14:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:04-04:00",
+            "catalog_number": "256",
+            "end_date": null,
+            "title": "Music Since 1900",
+            "section": "LEC 001",
+            "instructors": [
+                "Gray,Laura"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1208",
             "end_time": "11:20",
-            "enrollment_total": 16,
+            "enrollment_total": 24,
+            "class_number": 4696,
+            "start_time": "10:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:05-04:00",
+            "catalog_number": "270",
+            "end_date": null,
+            "title": "Music Theory 1",
+            "section": "LEC 001",
             "instructors": [
                 "Paynter,Terry"
             ],
-            "last_updated": "2015-05-04T16:01:47-04:00",
-            "room": "1208",
-            "section": "LEC 001",
+            "weekdays": "MW",
             "start_date": null,
-            "start_time": "09:30",
-            "subject": "MUSIC",
-            "term": 1155,
+            "room": "1208",
+            "end_time": "12:20",
+            "enrollment_total": 30,
+            "class_number": 4664,
+            "start_time": "11:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:05-04:00",
+            "catalog_number": "270",
+            "end_date": null,
             "title": "Music Theory 1",
-            "weekdays": "TTh"
+            "section": "LEC 001",
+            "instructors": [
+                "Paynter,Terry"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "11:50",
+            "enrollment_total": 30,
+            "class_number": 4664,
+            "start_time": "11:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:05-04:00",
+            "catalog_number": "275",
+            "end_date": null,
+            "title": "Music and Technology",
+            "section": "LEC 001",
+            "instructors": [
+                "McKittrick,Cameron"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "18:20",
+            "enrollment_total": 27,
+            "class_number": 4682,
+            "start_time": "16:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:06-04:00",
+            "catalog_number": "363",
+            "end_date": null,
+            "title": "Christian Hymnody",
+            "section": "LEC 001",
+            "instructors": [
+                "Hull,Kenneth R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "21:20",
+            "enrollment_total": 3,
+            "class_number": 7915,
+            "start_time": "18:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:06-04:00",
+            "catalog_number": "370",
+            "end_date": null,
+            "title": "Music Theory 3 (19th-Century)",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "14:50",
+            "enrollment_total": 9,
+            "class_number": 4667,
+            "start_time": "13:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:06-04:00",
+            "catalog_number": "370",
+            "end_date": null,
+            "title": "Music Theory 3 (19th-Century)",
+            "section": "LEC 001",
+            "instructors": [],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "14:20",
+            "enrollment_total": 9,
+            "class_number": 4667,
+            "start_time": "13:30",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:06-04:00",
+            "catalog_number": "376",
+            "end_date": null,
+            "title": "Composition Seminar",
+            "section": "LEC 001",
+            "instructors": [
+                "Enns,Leonard J"
+            ],
+            "weekdays": "MW",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "10:20",
+            "enrollment_total": 7,
+            "class_number": 7920,
+            "start_time": "09:00",
+            "subject": "MUSIC"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:27-04:00",
+            "catalog_number": "311",
+            "end_date": null,
+            "title": "Doing Development: Issues of Justice and Peace",
+            "section": "LEC 001",
+            "instructors": [
+                "Ball,Jennifer Susan"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "21:50",
+            "enrollment_total": 20,
+            "class_number": 4693,
+            "start_time": "19:00",
+            "subject": "PACS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:41-04:00",
+            "catalog_number": "357",
+            "end_date": null,
+            "title": "Christian Hymnody",
+            "section": "LEC 001",
+            "instructors": [
+                "Hull,Kenneth R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "21:20",
+            "enrollment_total": 1,
+            "class_number": 7916,
+            "start_time": "18:30",
+            "subject": "RS"
+        },
+        {
+            "building": "CGR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:13-04:00",
+            "catalog_number": "652",
+            "end_date": null,
+            "title": "Christian Hymnody",
+            "section": "LEC 001",
+            "instructors": [
+                "Hull,Kenneth R"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1208",
+            "end_time": "21:20",
+            "enrollment_total": 1,
+            "class_number": 7917,
+            "start_time": "18:30",
+            "subject": "TS"
         }
     ]
 }

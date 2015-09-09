@@ -2,103 +2,103 @@
     "data": [
         {
             "building": "PHR",
-            "catalog_number": "229",
-            "class_number": 4819,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:38-04:00",
+            "catalog_number": "228",
             "end_date": null,
-            "end_time": "11:50",
-            "enrollment_total": 41,
+            "title": "Professional Practice 3",
+            "section": "LAB 001",
             "instructors": [
                 "Richard,Cynthia"
             ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "3026",
-            "section": "LAB 101",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "09:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Professional Practice Laboratory 2",
-            "weekdays": "W"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "229",
-            "class_number": 4820,
-            "end_date": null,
-            "end_time": "15:50",
+            "room": "3026",
+            "end_time": "10:20",
             "enrollment_total": 40,
-            "instructors": [
-                "Richard,Cynthia"
-            ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "3026",
-            "section": "LAB 102",
-            "start_date": null,
-            "start_time": "13:00",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Professional Practice Laboratory 2",
-            "weekdays": "W"
+            "class_number": 7452,
+            "start_time": "08:30",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "229",
-            "class_number": 4821,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:38-04:00",
+            "catalog_number": "228",
             "end_date": null,
-            "end_time": "13:20",
-            "enrollment_total": 39,
+            "title": "Professional Practice 3",
+            "section": "LAB 002",
             "instructors": [
                 "Richard,Cynthia"
             ],
-            "last_updated": "2015-05-04T16:01:56-04:00",
-            "room": "3026",
-            "section": "LAB 103",
+            "weekdays": "W",
             "start_date": null,
-            "start_time": "10:30",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Professional Practice Laboratory 2",
-            "weekdays": "Th"
+            "room": "3026",
+            "end_time": "12:50",
+            "enrollment_total": 40,
+            "class_number": 7501,
+            "start_time": "11:00",
+            "subject": "PHARM"
         },
         {
             "building": "PHR",
-            "catalog_number": "496",
-            "class_number": 4610,
-            "end_date": "06/20",
-            "end_time": "16:20",
-            "enrollment_total": 22,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:38-04:00",
+            "catalog_number": "228",
+            "end_date": null,
+            "title": "Professional Practice 3",
+            "section": "LAB 003",
             "instructors": [
-                "Bhandari,Rita"
+                "Richard,Cynthia"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "W",
+            "start_date": null,
             "room": "3026",
+            "end_time": "15:20",
+            "enrollment_total": 40,
+            "class_number": 7502,
+            "start_time": "13:30",
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:42-04:00",
+            "catalog_number": "496",
+            "end_date": "11/07",
+            "title": "Advanced Professional Practice",
             "section": "LAB 181",
-            "start_date": "06/20",
-            "start_time": "08:30",
-            "subject": "PHARM",
-            "term": 1155,
-            "title": "Advanced Professional Practice",
-            "weekdays": "S"
-        },
-        {
-            "building": "PHR",
-            "catalog_number": "496",
-            "class_number": 4611,
-            "end_date": "06/21",
-            "end_time": "16:20",
-            "enrollment_total": 23,
             "instructors": [
                 "Bhandari,Rita"
             ],
-            "last_updated": "2015-05-04T16:01:57-04:00",
+            "weekdays": "S",
+            "start_date": "11/07",
             "room": "3026",
-            "section": "LAB 182",
-            "start_date": "06/21",
+            "end_time": "16:20",
+            "enrollment_total": 24,
+            "class_number": 8030,
             "start_time": "08:30",
-            "subject": "PHARM",
-            "term": 1155,
+            "subject": "PHARM"
+        },
+        {
+            "building": "PHR",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:07:42-04:00",
+            "catalog_number": "496",
+            "end_date": "11/08",
             "title": "Advanced Professional Practice",
-            "weekdays": "U"
+            "section": "LAB 182",
+            "instructors": [
+                "Bhandari,Rita"
+            ],
+            "weekdays": "U",
+            "start_date": "11/08",
+            "room": "3026",
+            "end_time": "16:20",
+            "enrollment_total": 18,
+            "class_number": 8031,
+            "start_time": "08:30",
+            "subject": "PHARM"
         }
     ]
 }

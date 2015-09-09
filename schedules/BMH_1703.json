@@ -2,43 +2,183 @@
     "data": [
         {
             "building": "BMH",
-            "catalog_number": "672",
-            "class_number": 2180,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:06:30-04:00",
+            "catalog_number": "470",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 7,
+            "title": "Seminar in Kinesiology",
+            "section": "SEM 006",
             "instructors": [
-                "Tyas,Suzanne"
+                "Fischer,Steven"
             ],
-            "last_updated": "2015-05-04T16:02:48-04:00",
-            "room": "1703",
-            "section": "LEC 001",
+            "weekdays": "M",
             "start_date": null,
+            "room": "1703",
+            "end_time": "16:20",
+            "enrollment_total": 20,
+            "class_number": 3292,
             "start_time": "14:30",
-            "subject": "HSG",
-            "term": 1155,
-            "title": "Epidemiologic Methods in Aging Research",
-            "weekdays": "M"
+            "subject": "KIN"
         },
         {
             "building": "BMH",
-            "catalog_number": "788",
-            "class_number": 2557,
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
             "end_date": null,
-            "end_time": "17:20",
-            "enrollment_total": 1,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 105",
             "instructors": [
-                "Tyas,Suzanne"
+                "Misener,Katie"
             ],
-            "last_updated": "2015-05-04T16:02:58-04:00",
-            "room": "1703",
-            "section": "LEC 001",
+            "weekdays": "Th",
             "start_date": null,
-            "start_time": "14:30",
-            "subject": "PSYCH",
-            "term": 1155,
-            "title": "Epidemiologic Methods in Aging Research",
-            "weekdays": "M"
+            "room": "1703",
+            "end_time": "13:20",
+            "enrollment_total": 15,
+            "class_number": 3302,
+            "start_time": "12:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 106",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "12:20",
+            "enrollment_total": 15,
+            "class_number": 3303,
+            "start_time": "11:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 107",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "11:20",
+            "enrollment_total": 13,
+            "class_number": 3304,
+            "start_time": "10:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:08:29-04:00",
+            "catalog_number": "101",
+            "end_date": null,
+            "title": "Introduction to Recreation and Leisure Services",
+            "section": "TUT 109",
+            "instructors": [
+                "Misener,Katie"
+            ],
+            "weekdays": "F",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "12:20",
+            "enrollment_total": 15,
+            "class_number": 3306,
+            "start_time": "11:30",
+            "subject": "REC"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:47-04:00",
+            "catalog_number": "600",
+            "end_date": null,
+            "title": "Qualitative Methodologies",
+            "section": "SEM 001",
+            "instructors": [
+                "Neiterman,Elena"
+            ],
+            "weekdays": "T",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "14:20",
+            "enrollment_total": 3,
+            "class_number": 8583,
+            "start_time": "11:30",
+            "subject": "AHS"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:14-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Lifespan Approaches to Disease Prevention and Health Promotion",
+            "section": "LEC 001",
+            "instructors": [
+                "Mielke,John G."
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "10:50",
+            "enrollment_total": 20,
+            "class_number": 3187,
+            "start_time": "09:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:11:15-04:00",
+            "catalog_number": "620",
+            "end_date": null,
+            "title": "Selected Topics",
+            "section": "RDG 002",
+            "instructors": [
+                "Mielke,John G."
+            ],
+            "weekdays": "Th",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "16:20",
+            "enrollment_total": 16,
+            "class_number": 3356,
+            "start_time": "13:30",
+            "subject": "HSG"
+        },
+        {
+            "building": "BMH",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:00-04:00",
+            "catalog_number": "601",
+            "end_date": null,
+            "title": "Epistemological and Methodological Issues in Leisure Research",
+            "section": "LEC 001",
+            "instructors": [
+                "Parry,Diana"
+            ],
+            "weekdays": "W",
+            "start_date": null,
+            "room": "1703",
+            "end_time": "12:20",
+            "enrollment_total": 3,
+            "class_number": 3193,
+            "start_time": "09:30",
+            "subject": "REC"
         }
     ]
 }

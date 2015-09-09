@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:09:47-04:00",
+            "catalog_number": "974",
+            "end_date": null,
+            "title": "Financial Econometrics",
+            "section": "LEC 001",
+            "instructors": [
+                "Wirjanto,Tony"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3127",
+            "end_time": "14:50",
+            "enrollment_total": 9,
+            "class_number": 6565,
+            "start_time": "13:30",
+            "subject": "ACTSC"
+        },
+        {
+            "building": "M3",
+            "term": 1159,
+            "last_updated": "2015-08-19T22:12:07-04:00",
+            "catalog_number": "974",
+            "end_date": null,
+            "title": "Financial Econometrics",
+            "section": "LEC 001",
+            "instructors": [
+                "Wirjanto,Tony"
+            ],
+            "weekdays": "TTh",
+            "start_date": null,
+            "room": "3127",
+            "end_time": "14:50",
+            "enrollment_total": 12,
+            "class_number": 6564,
+            "start_time": "13:30",
+            "subject": "STAT"
+        }
+    ]
+}
